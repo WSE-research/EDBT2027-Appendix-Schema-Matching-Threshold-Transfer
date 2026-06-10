@@ -1,6 +1,6 @@
 # Table 2 — Baseline matching quality (tau=0, primary condition)
 
-Models: 8 (phi-4 excluded unless REPRO_INCLUDE_PHI4=1). `*` = best per column (before rounding).
+Models: 8. `*` = best per column (before rounding).
 
 | Model | F1 ppm | F1 val | F1 hdx | F1 oc3 | MCC ppm | MCC val | MCC hdx | MCC oc3 |
 |---|---|---|---|---|---|---|---|---|
