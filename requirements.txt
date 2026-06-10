@@ -1,0 +1,23 @@
+# Python >= 3.10 (developed and tested on 3.11.9).
+#
+#   python -m venv .venv
+#   .venv\Scripts\activate          (Windows)   |   source .venv/bin/activate  (Linux/macOS)
+#   pip install -r requirements.txt
+#
+# Versions used for the paper are noted per line; any reasonably recent
+# version works — the analysis is plain numpy/matplotlib.
+
+# -- analysis: reproduce all tables + figures from runs/ (no API key needed) --
+numpy>=1.26          # used: 2.4.3
+matplotlib>=3.8      # used: 3.10.8
+
+# -- matcher: re-run the LLM experiments via OpenRouter (needs .env) ----------
+openai>=1.40         # used: 2.30.0 (OpenAI-compatible client, pointed at OpenRouter)
+python-dotenv>=1.0   # loads .env
+
+# -- optional: notebooks/reproduce.ipynb ---------------------------------------
+# jupyter
+
+# -- optional: re-run the non-LLM baselines (bundled results in baselines/results)
+# scipy                 # Hungarian assignment
+# valentine             # COMA / Similarity Flooding implementations

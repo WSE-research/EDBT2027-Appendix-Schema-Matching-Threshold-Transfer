@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# secrets — never commit a real key
+.env
+
+# fresh experiment output (re-runs); the published logs live in runs/
+results/
+logs/
