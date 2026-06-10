@@ -2,8 +2,8 @@
 confidence, per dataset, pooled over the eight paper models (grey lines:
 individual models). 1x4 small multiples, dotted 10% error guide.
 
-Run:  python -m analysis.make_fig_calibration
-Out:  figures/fig2_calibration.{pdf,png}   (file name as referenced by the tex)
+Run:  python -m src.analysis.make_fig_calibration
+Out:  results/plots/fig2_calibration.{pdf,png}   (file name as referenced by the tex)
 """
 from __future__ import annotations
 

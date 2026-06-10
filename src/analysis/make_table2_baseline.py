@@ -4,8 +4,8 @@ F1 and MCC per dataset for each of the eight paper models at the primary
 prompt condition, no rejection (tau=0), plus the over-models mean. Rows sorted
 by mean F1 (descending, computed before rounding); best per column flagged.
 
-Run:  python -m analysis.make_table2_baseline
-Out:  outputs/table2_baseline.md  +  .tex  +  console
+Run:  python -m src.analysis.make_table2_baseline
+Out:  results/tables/table2_baseline.md  +  .tex  +  console
 """
 from __future__ import annotations
 

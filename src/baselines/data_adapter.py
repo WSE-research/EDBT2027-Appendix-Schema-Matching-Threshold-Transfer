@@ -6,7 +6,7 @@ matcher's predictions.jsonl is structured, so metrics are directly comparable.
 """
 import config  # noqa: F401  (inserts the repo root into sys.path)
 
-from matcher import loaders
+from src.matcher import loaders
 
 
 def load_tasks(dataset: str) -> list[dict]:

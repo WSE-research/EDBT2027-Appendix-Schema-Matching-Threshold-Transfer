@@ -9,7 +9,7 @@ from pathlib import Path
 DATASETS = ["ppmatch", "valentine", "hdxsm", "oc3-fo"]
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO_ROOT = str(Path(HERE).parent)
+REPO_ROOT = str(Path(HERE).parents[1])
 sys.path.insert(0, REPO_ROOT)
 
 # Optional per-dataset task cap (None = all). Valentine is ~18x the others;
@@ -27,4 +27,4 @@ EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 # Score-threshold sweep (cosine / similarity in [0,1]); mirrors the LLM tau sweep.
 THRESHOLDS = [round(0.02 * i, 2) for i in range(0, 51)]   # 0.00 .. 1.00 step 0.02
 
-RESULTS_DIR = os.path.join(HERE, "results")
+RESULTS_DIR = os.path.join(REPO_ROOT, "results", "classical")

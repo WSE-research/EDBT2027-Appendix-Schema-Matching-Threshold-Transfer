@@ -9,11 +9,11 @@ Checks end to end WITHOUT spending tokens:
      column names are dropped + counted.
   4. aggregation: self-consistency majority vote reduces to per-source best.
   5. metrics: TP/FP/FN/TN/WRONG classification + masking behave correctly.
-  6. runs/: the published logs are present and readable (one cell spot-check).
+  6. results/llm/: the published logs are present and readable (one cell spot-check).
 
   --live additionally fires ONE real LLM call (model-served check + 1 match_task).
 
-Exit 0 on success, 1 on failure.  Run:  python -m matcher.smoke_test [--live]
+Exit 0 on success, 1 on failure.  Run:  python -m src.matcher.smoke_test [--live]
 """
 from __future__ import annotations
 
@@ -136,10 +136,10 @@ def _check_published_runs() -> None:
     cell = "valsoff__shot0__nocot__t0.0__sc1"
     base = config.RUNS_DIR
     if not base.is_dir():
-        print("[warn] runs/ not present — skipping published-log check")
+        print("[warn] results/llm/ not present — skipping published-log check")
         return
     models = sorted(p.name for p in base.iterdir() if p.is_dir())
-    assert models, "runs/ exists but holds no model directories"
+    assert models, "results/llm/ exists but holds no model directories"
     probe = base / models[0] / "oc3-fo" / cell
     preds = probe / "predictions.jsonl.gz"
     recs = probe / "records.jsonl.gz"
@@ -154,7 +154,7 @@ def _check_published_runs() -> None:
     assert rec.get("messages"), "records row missing the prompt messages"
     assert rec.get("runs") and rec["runs"][0].get("attempts"), "records row missing runs/attempts"
     assert "raw_response" in rec["runs"][0]["attempts"][0], "records row missing raw_response"
-    print(f"[ok] runs/: {len(models)} models published; spot-checked "
+    print(f"[ok] results/llm/: {len(models)} models published; spot-checked "
           f"{models[0]}/oc3-fo/{cell} (prompt + raw response + scores present)")
 
 

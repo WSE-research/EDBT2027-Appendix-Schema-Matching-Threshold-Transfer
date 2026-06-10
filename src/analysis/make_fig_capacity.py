@@ -2,8 +2,8 @@
 versus model size, per family. Lines + ±1σ band (std over the four target
 datasets) for multi-size families; diamond + errorbar for single-size models.
 
-Run:  python -m analysis.make_fig_capacity
-Out:  figures/fig_capacity_trend.{pdf,png}   (file name as referenced by the tex)
+Run:  python -m src.analysis.make_fig_capacity
+Out:  results/plots/fig_capacity_trend.{pdf,png}   (file name as referenced by the tex)
 """
 from __future__ import annotations
 

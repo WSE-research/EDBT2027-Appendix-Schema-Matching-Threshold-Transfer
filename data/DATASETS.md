@@ -2,7 +2,7 @@
 
 All four benchmarks are publicly available. This package bundles them (one in a
 slimmed form, see below) together with the exact loaders used for the paper
-(`matcher/loaders.py`) and an integrity check (`scripts/integrity_check.py`)
+(`src/matcher/loaders.py`) and an integrity check (`scripts/integrity_check.py`)
 that verifies, for every task: ground truth ⊆ declared columns, no duplicate
 correspondences, and strict one-to-one cardinality.
 
@@ -40,13 +40,13 @@ the upstream dataset authors' environment, not to this package.
 its full header plus the first 100 data records (re-quoted with the Python csv
 module). This is lossless for the experiments in the paper: schema columns come
 from the header, and sample values are drawn from the first 60 records only
-(`matcher/config.py: VALUE_SCAN_ROWS`), so prompts built from the slim copy are
+(`src/matcher/config.py: VALUE_SCAN_ROWS`), so prompts built from the slim copy are
 identical to prompts built from the full download. To work with the full data,
 download the Zenodo archive and replace `data/valentine/Valentine-datasets/`.
 
 Two upstream ground-truth typos (a missing `Label` suffix in the
 `Wikidata/Musicians` unionable/viewunion pairs) are corrected at load time and
-documented in `matcher/loaders.py` (`_VALENTINE_GT_FIXES`).
+documented in `src/matcher/loaders.py` (`_VALENTINE_GT_FIXES`).
 
 ## HDXSM (`data/hdxsm/`)
 
@@ -59,7 +59,7 @@ published open data.
 The paper uses the strict subset of 160 of 204 pairs that are (a) strict 1:1
 and (b) GT-consistent (every GT column present in its table header); the
 excluded pairs and reasons are listed in `hdxsm_quarantine.json` and the filter
-is implemented in `matcher/loaders.py: load_hdxsm`.
+is implemented in `src/matcher/loaders.py: load_hdxsm`.
 
 ## OC3-FO (`data/oc3-fo/`)
 
@@ -74,7 +74,7 @@ entity-level links — the equivalence-only attribute ground truth used here is
 the 39 `inter_identical` pairs (16 `inter_sub_typed` column entries masked on
 both sides yield the integrity check's "masked 21" column count).
 
-Scoring convention (implemented in `matcher/loaders.py: load_oc3fo`):
+Scoring convention (implemented in `src/matcher/loaders.py: load_oc3fo`):
 equivalence-only. The 39 `inter_identical` linkages are positives; the 16
 `inter_sub_typed` (subsumption) linkages are **masked, not negatives** — any
 column participating only in a subsumption link is removed from that pair's

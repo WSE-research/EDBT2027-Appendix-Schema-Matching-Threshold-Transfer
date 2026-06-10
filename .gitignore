@@ -2,11 +2,12 @@ __pycache__/
 *.pyc
 *.egg-info/
 .ipynb_checkpoints/
+.venv/
 
 # secrets — never commit a real key
 .env
 
-# fresh experiment output (re-runs) at the REPO ROOT only; the published logs
-# live in runs/, and baselines/results/ IS committed (paper §5.1 numbers)
-/results/
+# fresh experiment re-runs land here (results/ itself IS committed:
+# llm/ classical/ plots/ tables/ hold the published, pre-computed artifacts)
+/results/rerun/
 /logs/

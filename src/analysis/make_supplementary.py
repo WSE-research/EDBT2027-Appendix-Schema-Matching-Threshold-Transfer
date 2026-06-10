@@ -13,8 +13,8 @@
   6. grid_robustness.md      — F1/MCC at tau=0 and oracle-MCC gain across the
                                full 16-condition prompt grid (§4 robustness claim)
 
-Run:  python -m analysis.make_supplementary
-Out:  outputs/*.md  +  console summary
+Run:  python -m src.analysis.make_supplementary
+Out:  results/tables/*.md  +  console summary
 """
 from __future__ import annotations
 
@@ -26,7 +26,7 @@ import numpy as np
 
 from . import common as C
 
-BASELINES = C.REPO_ROOT / "baselines" / "results"
+BASELINES = C.REPO_ROOT / "results" / "classical"
 
 GRID_CELLS = [  # all 16 cells, cheap -> expensive (same order as matcher.config)
     f"vals{v}__shot{s}__{c}__t{t}__sc{sc}"
@@ -148,7 +148,7 @@ def oc3_distractor_check() -> None:
     M = C.models()
     import sys
     sys.path.insert(0, str(C.REPO_ROOT))
-    from matcher import loaders
+    from src.matcher import loaders
     tasks = loaders.load_dataset("oc3-fo")
     core_pairs = {t["pair_id"] for t in tasks if t["ground_truth"]}
     distractor = sorted({t["pair_id"] for t in tasks} - core_pairs)
@@ -187,8 +187,8 @@ def oc3_distractor_check() -> None:
 def classical_baselines() -> None:
     if not BASELINES.is_dir():
         # keep the committed table instead of overwriting it with an empty stub
-        print("WARNING: baselines/results not found — keeping the committed "
-              "outputs/classical_baselines.md untouched.")
+        print("WARNING: results/classical not found — keeping the committed "
+              "classical-baselines table untouched.")
         return
     md = ["# Non-LLM baselines (schema-name input, bipartite assignment)", "",
           "Each method is granted its own best per-dataset threshold, per metric "

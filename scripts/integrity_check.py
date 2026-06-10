@@ -17,7 +17,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from matcher.loaders import load_dataset  # noqa: E402
+from src.matcher.loaders import load_dataset  # noqa: E402
 
 DATASETS = ["ppmatch", "valentine", "hdxsm", "oc3-fo"]
 

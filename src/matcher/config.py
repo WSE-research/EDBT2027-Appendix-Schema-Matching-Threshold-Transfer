@@ -15,19 +15,19 @@ from pathlib import Path
 
 try:  # .env at the repo root (optional convenience; plain env vars also work)
     from dotenv import load_dotenv
-    load_dotenv(Path(__file__).resolve().parents[1] / ".env")
+    load_dotenv(Path(__file__).resolve().parents[2] / ".env")
 except ImportError:
     pass
 
 # --------------------------------------------------------------------------
 # Paths (all repo-local; the repository is self-contained)
 # --------------------------------------------------------------------------
-_PKG_DIR = Path(__file__).resolve().parent              # .../matcher
-REPO_ROOT = _PKG_DIR.parent                             # repository root
+_PKG_DIR = Path(__file__).resolve().parent              # .../src/matcher
+REPO_ROOT = _PKG_DIR.parents[1]                         # repository root
 
 DATA_DIR = REPO_ROOT / "data"                           # bundled datasets
-RUNS_DIR = REPO_ROOT / "runs"                           # published, pre-computed logs
-RESULTS_DIR = REPO_ROOT / "results"                     # fresh re-runs land here
+RUNS_DIR = REPO_ROOT / "results" / "llm"                # published, pre-computed logs
+RESULTS_DIR = REPO_ROOT / "results" / "rerun"           # fresh re-runs land here
 LOG_DIR = REPO_ROOT / "logs"
 
 # --------------------------------------------------------------------------
@@ -126,9 +126,9 @@ def api_key() -> str:
     key = os.environ.get("OPENROUTER_API_KEY", "").strip()
     if not key or key.startswith("sk-or-..."):
         raise RuntimeError(
-            "OPENROUTER_API_KEY is not set. Copy .env.example to .env and fill "
+            "OPENROUTER_API_KEY is not set. Copy .env.template to .env and fill "
             "in a real key (only needed to RE-RUN the LLM experiments; the "
-            "bundled runs/ reproduce all results without a key)."
+            "bundled results/ reproduce everything without a key)."
         )
     return key
 

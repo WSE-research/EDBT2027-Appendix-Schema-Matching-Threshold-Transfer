@@ -12,10 +12,10 @@ to no-match. Confusion counts:
   FN = gt-match exists & not correctly kept ; TN = gt None & nothing kept
 A wrong kept match on a column that HAS a gt match counts as BOTH fp and fn.
 
-Data source: the published logs in runs/ by default (gzipped); set the env var
-REPRO_RUNS_DIR (or pass --runs-dir where offered) to point at a fresh re-run
-(e.g. the results/ directory produced by matcher.runner). The model set is
-discovered from the run directories (the paper's M=8).
+Data source: the published logs in results/llm/ by default (gzipped); set the
+env var REPRO_RUNS_DIR to point at a fresh re-run (results/rerun, produced by
+`reproduce.py --run-experiments`). The model set is discovered from the run
+directories (the paper's M=8).
 """
 from __future__ import annotations
 
@@ -37,10 +37,10 @@ for _stream in (sys.stdout, sys.stderr):
     except (AttributeError, ValueError):
         pass
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-RUNS_DIR = Path(os.environ.get("REPRO_RUNS_DIR", REPO_ROOT / "runs"))
-OUT_DIR = REPO_ROOT / "outputs"
-FIG_DIR = REPO_ROOT / "figures"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+RUNS_DIR = Path(os.environ.get("REPRO_RUNS_DIR", REPO_ROOT / "results" / "llm"))
+OUT_DIR = REPO_ROOT / "results" / "tables"
+FIG_DIR = REPO_ROOT / "results" / "plots"
 
 DATASETS = ["ppmatch", "valentine", "hdxsm", "oc3-fo"]
 SHORT = {"ppmatch": "ppm", "valentine": "val", "hdxsm": "hdx", "oc3-fo": "oc3"}

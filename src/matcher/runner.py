@@ -1,7 +1,7 @@
 """Orchestrator: datasets x grid cells x models x tasks (full-schema matcher).
 
 For every (dataset, cell, model) it runs the full-schema forward matcher over
-every task concurrently and writes, per run dir under results/:
+every task concurrently and writes, per run dir under results/rerun/:
   - records.jsonl    : one line per TASK — FULL detail (messages, every run's
                        raw response/usage/cost/latency, vote aggregation,
                        per-source decisions). Maximal logging.
@@ -10,8 +10,8 @@ every task concurrently and writes, per run dir under results/:
   - run_meta.json    : model, cell, totals, metrics, stop info.
   - metrics.json     : micro P/R/F1.
 
-The published logs of the paper live in runs/ (same layout, gzipped); fresh
-re-runs land in results/ so they never mix with the published data.
+The published logs of the paper live in results/llm/ (same layout, gzipped);
+fresh re-runs land in results/rerun/ so they never mix with the published data.
 
 Ordering: datasets small -> large (valentine LAST), cells cheap -> expensive,
 then models. So the three small datasets complete fully before the big one.

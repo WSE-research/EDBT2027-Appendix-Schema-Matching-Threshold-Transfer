@@ -7,8 +7,8 @@ each cell reports MCC and accept-error AE at that operating point,
 mean±std over the eight paper models. Shaded diagonal = in-dataset oracle.
 Deltas vs tau=0 are computed before rounding (as in the paper caption).
 
-Run:  python -m analysis.make_table3_operating_point
-Out:  outputs/table3_operating_point.md  +  .tex (paper cell macros)  +  console
+Run:  python -m src.analysis.make_table3_operating_point
+Out:  results/tables/table3_operating_point.md  +  .tex (paper cell macros)  +  console
 """
 from __future__ import annotations
 

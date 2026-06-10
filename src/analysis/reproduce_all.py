@@ -1,8 +1,8 @@
 """Reproduce every table and figure of the paper from the published logs in
-runs/ — no API key, no LLM calls.
+results/llm/ — no API key, no LLM calls.
 
-Run:  python -m analysis.reproduce_all
-Out:  outputs/  (tables, supplementary)  +  figures/  (fig2_calibration,
+Run:  python reproduce.py   (or: python -m src.analysis.reproduce_all)
+Out:  results/tables/  +  results/plots/  (fig2_calibration,
       fig_capacity_trend)
 """
 from __future__ import annotations
