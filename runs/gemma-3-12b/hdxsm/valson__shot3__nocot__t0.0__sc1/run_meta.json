@@ -1,0 +1,47 @@
+{
+  "dataset": "hdxsm",
+  "model": {
+    "name": "gemma-3-12b",
+    "id": "google/gemma-3-12b-it",
+    "price_in": 0.04,
+    "price_out": 0.13
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valson__shot3__nocot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 160,
+    "tasks_available": 160,
+    "capped": false
+  },
+  "totals": {
+    "calls": 162,
+    "prompt_tokens": 1403106,
+    "completion_tokens": 69334,
+    "reasoning_tokens": 0,
+    "cost": 0.0734,
+    "latency_ms": 2336347.1,
+    "hallucinated": 85,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 3696,
+    "tp": 1588,
+    "fp": 166,
+    "fn": 509,
+    "tn": 1454,
+    "precision": 0.9054,
+    "recall": 0.7573,
+    "f1": 0.8247
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

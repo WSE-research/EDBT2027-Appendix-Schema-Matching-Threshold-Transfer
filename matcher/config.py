@@ -6,9 +6,7 @@ CoT, temperature/self-consistency — is visible at a glance from the folder
 layout (and is also written into run_meta.json).
 
 The paper's primary condition is zero-shot / no values / no CoT / greedy
-(temperature 0, single sample): cell "valsoff__shot0__nocot__t0.0__sc1__scopeoff".
-The trailing "__scopeoff" is a fixed legacy suffix kept so that re-runs land in
-directories named identically to the published logs in runs/.
+(temperature 0, single sample): cell "valsoff__shot0__nocot__t0.0__sc1".
 """
 from __future__ import annotations
 
@@ -136,10 +134,8 @@ def api_key() -> str:
 
 
 def run_dirname(ablation: dict) -> str:
-    """Encode the full grid cell into the results directory name. The fixed
-    "scopeoff" suffix is legacy naming kept for compatibility with the
-    published logs in runs/."""
+    """Encode the full grid cell into the results directory name."""
     vals = "on" if ablation["use_values"] else "off"
     cot = "cot" if ablation["use_cot"] else "nocot"
     return (f"vals{vals}__shot{ablation['n_shot']}__{cot}"
-            f"__t{ablation['temp']}__sc{ablation['sc_runs']}__scopeoff")
+            f"__t{ablation['temp']}__sc{ablation['sc_runs']}")

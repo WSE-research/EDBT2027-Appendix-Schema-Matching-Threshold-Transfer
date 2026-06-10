@@ -45,8 +45,7 @@ def run_dataset(method, dataset, mode, model_name):
 def main():
     ap = argparse.ArgumentParser(description="Non-LLM schema-matching baselines")
     ap.add_argument("--method",
-                    choices=["exact", "embedding",
-                             "coma", "similarity_flooding", "cupid"],
+                    choices=["exact", "embedding", "coma", "similarity_flooding"],
                     default="coma")
     ap.add_argument("--assign", choices=["greedy", "bipartite"], default="bipartite")
     ap.add_argument("--datasets", nargs="*", default=config.DATASETS)

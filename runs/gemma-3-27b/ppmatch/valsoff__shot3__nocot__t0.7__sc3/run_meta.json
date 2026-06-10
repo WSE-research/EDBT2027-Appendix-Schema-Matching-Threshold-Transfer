@@ -1,0 +1,50 @@
+{
+  "dataset": "ppmatch",
+  "model": {
+    "name": "gemma-3-27b",
+    "id": "google/gemma-3-27b-it",
+    "price_in": 0.08,
+    "price_out": 0.16
+  },
+  "ablation": {
+    "use_values": false,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.7,
+    "sc_runs": 3
+  },
+  "run_dirname": "valsoff__shot3__nocot__t0.7__sc3",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 24,
+    "tasks_available": 24,
+    "capped": false
+  },
+  "totals": {
+    "calls": 72,
+    "prompt_tokens": 213223,
+    "completion_tokens": 11383,
+    "reasoning_tokens": 0,
+    "cost": 0.0211,
+    "latency_ms": 530843.1,
+    "hallucinated": 1,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0,
+    "pruned_source": 0,
+    "pruned_source_linkable": 0,
+    "pruned_target": 0
+  },
+  "metrics": {
+    "n_decisions": 985,
+    "tp": 148,
+    "fp": 10,
+    "fn": 61,
+    "tn": 767,
+    "precision": 0.9367,
+    "recall": 0.7081,
+    "f1": 0.8065
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

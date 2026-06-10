@@ -1,0 +1,47 @@
+{
+  "dataset": "valentine",
+  "model": {
+    "name": "gemma-4-31b",
+    "id": "google/gemma-4-31b-it",
+    "price_in": 0.14,
+    "price_out": 0.4
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valson__shot3__nocot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 544,
+    "tasks_available": 544,
+    "capped": false
+  },
+  "totals": {
+    "calls": 551,
+    "prompt_tokens": 4519738,
+    "completion_tokens": 325726,
+    "reasoning_tokens": 0,
+    "cost": 0.837,
+    "latency_ms": 27609793.3,
+    "hallucinated": 19,
+    "parse_errors": 1,
+    "errored_tasks": 1,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 12879,
+    "tp": 8566,
+    "fp": 209,
+    "fn": 63,
+    "tn": 4047,
+    "precision": 0.9762,
+    "recall": 0.9927,
+    "f1": 0.9844
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

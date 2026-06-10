@@ -142,10 +142,9 @@ Notes:
 ## Published log formats
 
 `runs/<model>/<dataset>/<cell>/` — the cell name encodes the prompt condition:
-`vals{on|off}__shot{0|3}__{cot|nocot}__t{0.0|0.7}__sc{1|3}__scopeoff`
+`vals{on|off}__shot{0|3}__{cot|nocot}__t{0.0|0.7}__sc{1|3}`
 (sample values / few-shot / chain-of-thought / temperature / self-consistency
-runs; the trailing `scopeoff` is a fixed legacy suffix). The paper's primary
-condition is `valsoff__shot0__nocot__t0.0__sc1__scopeoff`.
+runs). The paper's primary condition is `valsoff__shot0__nocot__t0.0__sc1`.
 
 `records.jsonl.gz` — one line per matching task:
 
@@ -180,9 +179,7 @@ of a cell — for runs completed across several resumes they read ≈0 (per-call
 usage in `records.jsonl.gz` is complete and authoritative); two
 self-consistency cells were interrupted before their final metrics pass and
 ship without `metrics.json`/`run_meta.json` (records + predictions are
-complete there too). The `scoping`/`scope_v` keys in `run_meta.json` are the
-same historical naming as the `scopeoff` suffix — always off/null in this
-study.
+complete there too).
 
 `predictions.jsonl.gz` — one line per scored source column; every number in
 the paper derives from these rows (sole exception: the self-consistency

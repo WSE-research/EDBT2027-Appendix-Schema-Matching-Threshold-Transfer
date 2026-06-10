@@ -1,0 +1,50 @@
+{
+  "dataset": "oc3-fo",
+  "model": {
+    "name": "llama-3.3-70b",
+    "id": "meta-llama/llama-3.3-70b-instruct",
+    "price_in": 0.1,
+    "price_out": 0.32
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valson__shot3__nocot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 6,
+    "tasks_available": 6,
+    "capped": false
+  },
+  "totals": {
+    "calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cost": 0.0,
+    "latency_ms": 0.0,
+    "hallucinated": 0,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0,
+    "pruned_source": 0,
+    "pruned_source_linkable": 0,
+    "pruned_target": 0
+  },
+  "metrics": {
+    "n_decisions": 480,
+    "tp": 21,
+    "fp": 6,
+    "fn": 18,
+    "tn": 437,
+    "precision": 0.7778,
+    "recall": 0.5385,
+    "f1": 0.6364
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

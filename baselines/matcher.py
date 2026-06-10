@@ -3,9 +3,9 @@
 Methods:
   exact     - normalized name equality (dependency-free smoke baseline)
   embedding - zero-shot sentence-embedding cosine
-  coma / similarity_flooding / cupid - classical matchers via the `valentine`
-              package, run on column NAMES only (header-only DataFrames), so
-              they apply uniformly to all four datasets incl. schema-only OC3-FO.
+  coma / similarity_flooding - classical matchers via the `valentine` package,
+              run on column NAMES only (header-only DataFrames), so they apply
+              uniformly to all four datasets incl. schema-only OC3-FO.
 
 Assignment:
   greedy    - per-source argmax (a target may be reused)
@@ -42,7 +42,7 @@ def _embedding_scores(src, tgt, model_name):
     return (sim + 1.0) / 2.0             # rescale to [0, 1] like a confidence
 
 
-VALENTINE_METHODS = {"coma", "similarity_flooding", "cupid"}
+VALENTINE_METHODS = {"coma", "similarity_flooding"}
 
 
 def _valentine_matcher(method):
@@ -51,8 +51,6 @@ def _valentine_matcher(method):
         return VA.Coma(use_instances=False, use_schema=True)   # schema-only mode
     if method == "similarity_flooding":
         return VA.SimilarityFlooding()
-    if method == "cupid":
-        return VA.Cupid()
     raise ValueError(method)
 
 

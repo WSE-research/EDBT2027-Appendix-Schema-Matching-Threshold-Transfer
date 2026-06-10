@@ -29,7 +29,7 @@ from . import common as C
 BASELINES = C.REPO_ROOT / "baselines" / "results"
 
 GRID_CELLS = [  # all 16 cells, cheap -> expensive (same order as matcher.config)
-    f"vals{v}__shot{s}__{c}__t{t}__sc{sc}__scopeoff"
+    f"vals{v}__shot{s}__{c}__t{t}__sc{sc}"
     for (t, sc) in (("0.0", "1"), ("0.7", "3"))
     for c in ("nocot", "cot")
     for s in ("0", "3")

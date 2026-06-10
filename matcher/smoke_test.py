@@ -133,7 +133,7 @@ def _check_metrics() -> None:
 
 def _check_published_runs() -> None:
     """Spot-check the published logs: the primary cell of one model/dataset."""
-    cell = "valsoff__shot0__nocot__t0.0__sc1__scopeoff"
+    cell = "valsoff__shot0__nocot__t0.0__sc1"
     base = config.RUNS_DIR
     if not base.is_dir():
         print("[warn] runs/ not present — skipping published-log check")

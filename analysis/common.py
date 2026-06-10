@@ -47,8 +47,8 @@ SHORT = {"ppmatch": "ppm", "valentine": "val", "hdxsm": "hdx", "oc3-fo": "oc3"}
 
 # The paper's primary prompt condition (zero-shot, no values, no CoT, greedy)
 # and the self-consistency condition used for the stability analysis.
-CELL_PRIMARY = "valsoff__shot0__nocot__t0.0__sc1__scopeoff"
-CELL_SC = "valsoff__shot0__nocot__t0.7__sc3__scopeoff"
+CELL_PRIMARY = "valsoff__shot0__nocot__t0.0__sc1"
+CELL_SC = "valsoff__shot0__nocot__t0.7__sc3"
 
 THRESHOLDS = [round(t, 1) for t in np.arange(0.0, 10.01, 0.5)]
 

@@ -14,7 +14,7 @@ operating points). The paper grants each classical matcher its own
 ## Re-running (optional)
 
 ```bash
-pip install scipy valentine          # COMA / Similarity Flooding / Cupid + Hungarian
+pip install scipy valentine          # COMA / Similarity Flooding + Hungarian
 cd baselines
 python run.py --method coma
 python run.py --method similarity_flooding
@@ -22,6 +22,4 @@ python run.py --method similarity_flooding
 
 `--method exact` (normalized name equality) is dependency-free and a useful
 smoke test — its results ship for context but are not reported in the paper.
-`--method embedding` additionally needs `sentence-transformers`. Cupid is
-wired in `matcher.py` but was neither run nor reported (the paper compares
-against COMA and Similarity Flooding).
+`--method embedding` additionally needs `sentence-transformers`.

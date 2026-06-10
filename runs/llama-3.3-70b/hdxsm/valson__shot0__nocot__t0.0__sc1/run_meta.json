@@ -1,0 +1,47 @@
+{
+  "dataset": "hdxsm",
+  "model": {
+    "name": "llama-3.3-70b",
+    "id": "meta-llama/llama-3.3-70b-instruct",
+    "price_in": 0.1,
+    "price_out": 0.32
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 0,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valson__shot0__nocot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 160,
+    "tasks_available": 160,
+    "capped": false
+  },
+  "totals": {
+    "calls": 167,
+    "prompt_tokens": 298286,
+    "completion_tokens": 63769,
+    "reasoning_tokens": 0,
+    "cost": 0.0746,
+    "latency_ms": 1922242.1,
+    "hallucinated": 47,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 3696,
+    "tp": 1851,
+    "fp": 86,
+    "fn": 246,
+    "tn": 1527,
+    "precision": 0.9556,
+    "recall": 0.8827,
+    "f1": 0.9177
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

@@ -1,0 +1,47 @@
+{
+  "dataset": "oc3-fo",
+  "model": {
+    "name": "gemma-3-12b",
+    "id": "google/gemma-3-12b-it",
+    "price_in": 0.04,
+    "price_out": 0.13
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": true,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valson__shot3__cot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 6,
+    "tasks_available": 6,
+    "capped": false
+  },
+  "totals": {
+    "calls": 8,
+    "prompt_tokens": 42523,
+    "completion_tokens": 12535,
+    "reasoning_tokens": 0,
+    "cost": 0.0033,
+    "latency_ms": 224839.6,
+    "hallucinated": 3,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 480,
+    "tp": 17,
+    "fp": 21,
+    "fn": 22,
+    "tn": 422,
+    "precision": 0.4474,
+    "recall": 0.4359,
+    "f1": 0.4416
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

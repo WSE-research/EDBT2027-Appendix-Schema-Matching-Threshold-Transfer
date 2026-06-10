@@ -1,4 +1,4 @@
-# Self-consistency score stability (cell valsoff__shot0__nocot__t0.7__sc3__scopeoff, 8 models)
+# Self-consistency score stability (cell valsoff__shot0__nocot__t0.7__sc3, 8 models)
 
 Identical-decision cases = (task, source) pairs where all three temp-0.7 runs choose the same target. The last column reads the spread only among confidence-10 cases (mean score ≥ 9.5).
 

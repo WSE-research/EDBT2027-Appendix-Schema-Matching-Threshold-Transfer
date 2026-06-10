@@ -1,0 +1,47 @@
+{
+  "dataset": "valentine",
+  "model": {
+    "name": "qwen3-14b",
+    "id": "qwen/qwen3-14b",
+    "price_in": 0.06,
+    "price_out": 0.24
+  },
+  "ablation": {
+    "use_values": false,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "run_dirname": "valsoff__shot3__nocot__t0.0__sc1",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 544,
+    "tasks_available": 544,
+    "capped": false
+  },
+  "totals": {
+    "calls": 803,
+    "prompt_tokens": 2481495,
+    "completion_tokens": 1735450,
+    "reasoning_tokens": 1318173,
+    "cost": 0.9531,
+    "latency_ms": 33834815.9,
+    "hallucinated": 106,
+    "parse_errors": 3,
+    "errored_tasks": 3,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 12793,
+    "tp": 8282,
+    "fp": 546,
+    "fn": 277,
+    "tn": 3734,
+    "precision": 0.9382,
+    "recall": 0.9676,
+    "f1": 0.9527
+  },
+  "aborted": false,
+  "stopped_reason": null
+}
