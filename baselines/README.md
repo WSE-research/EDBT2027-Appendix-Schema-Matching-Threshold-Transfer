@@ -21,4 +21,7 @@ python run.py --method similarity_flooding
 ```
 
 `--method exact` (normalized name equality) is dependency-free and a useful
-smoke test. `--method embedding` additionally needs `sentence-transformers`.
+smoke test — its results ship for context but are not reported in the paper.
+`--method embedding` additionally needs `sentence-transformers`. Cupid is
+wired in `matcher.py` but was neither run nor reported (the paper compares
+against COMA and Similarity Flooding).

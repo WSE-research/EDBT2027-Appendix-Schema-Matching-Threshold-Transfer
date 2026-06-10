@@ -192,7 +192,9 @@ def classical_baselines() -> None:
         return
     md = ["# Non-LLM baselines (schema-name input, bipartite assignment)", "",
           "Each method is granted its own best per-dataset threshold, per metric "
-          "(`F1 @ F1-oracle`, `MCC @ MCC-oracle`) — the comparison of §5.1.", "",
+          "(`F1 @ F1-oracle`, `MCC @ MCC-oracle`) — the comparison of §5.1. "
+          "`exact` (normalized name equality) is a sanity baseline included for "
+          "context; the paper reports COMA and Similarity Flooding.", "",
           "| Method | Dataset | F1 @ tau0 | F1 @ F1-oracle | MCC @ MCC-oracle |",
           "|---|---|---|---|---|"]
     for method in sorted(p.name for p in BASELINES.iterdir() if p.is_dir()):
@@ -210,10 +212,17 @@ def classical_baselines() -> None:
 
 def grid_robustness() -> None:
     M = C.models()
-    md = ["# Robustness across the full 16-condition prompt grid", "",
+    md = ["# Robustness across the 16-condition prompt grid", "",
           "Per cell: coverage (model x dataset units published) and, over the "
           "covered units, mean F1 and MCC at tau=0 and the mean oracle-MCC "
-          "gain. CoT conditions were run on OC3-FO only (coverage column).", "",
+          "gain.", "",
+          "Coverage rationale: the paper's evidence rests entirely on the "
+          "primary condition (complete, 32/32). The wider grid is a robustness "
+          "check — executed in full on OC3-FO, the hardest benchmark, and for "
+          "the cheaper no-CoT conditions on the three larger datasets; the "
+          "expensive CoT conditions were not extended beyond OC3-FO after "
+          "proving ~neutral there (the +0.10 oracle-gain rows below are the "
+          "OC3-FO-only cells, where threshold gains are largest).", "",
           "| Cell | Coverage | mean F1@0 | mean MCC@0 | mean ΔMCC(oracle−τ0) |",
           "|---|---|---|---|---|"]
     full = len(M) * len(C.DATASETS)

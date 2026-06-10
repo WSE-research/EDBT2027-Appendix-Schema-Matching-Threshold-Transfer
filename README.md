@@ -7,12 +7,15 @@ False-Positive Rejection Thresholds in LLM-Based Schema Matching"*.
 It contains **all code, all prompts, and all pre-computed scores** of the
 study: the exact prompt messages, every raw model response, and the
 per-column decisions with their verbalized confidence, for the paper's
-8 models x 4 datasets. The primary condition is published complete for all
-32 (model, dataset) pairs; the wider 16-condition prompt grid is published
-as run (287 of 512 cells — complete on OC3-FO, no-CoT conditions elsewhere;
-exact coverage per cell in `outputs/grid_robustness.md`). Tasks where all
-model calls failed write no per-column decisions by design (≈0.3% of tasks,
-logged in `records.jsonl.gz`).
+8 models x 4 datasets. The primary condition — the basis of every number in the paper —
+is published complete for all 32 (model, dataset) pairs. The wider
+16-condition prompt grid is a robustness extra and is published as run
+(287 of 512 cells): it was executed in full on OC3-FO (the hardest, decisive
+benchmark) and for the cheaper no-CoT conditions elsewhere; the expensive
+CoT conditions were not extended to the three large datasets after proving
+~neutral on OC3-FO (exact per-cell coverage in `outputs/grid_robustness.md`).
+Tasks where all model calls failed write no per-column decisions by design
+(≈0.3% of tasks, logged in `records.jsonl.gz`).
 
 There are two independent ways to use it:
 
@@ -104,7 +107,7 @@ Then:
 
 ```bash
 # the paper's primary condition (zero-shot, no values, no CoT, greedy),
-# all 9 models x 4 datasets — 734 tasks per model:
+# all 8 models x 4 datasets — 734 tasks per model:
 python -m matcher.runner --primary-only
 
 # everything (full 16-condition grid incl. temp-0.7 self-consistency x3):
@@ -125,7 +128,7 @@ Notes:
   interrupting and re-running is always safe. Running out of OpenRouter
   credits stops the experiment gracefully; re-run to resume.
 - **Cost**: the bundled models are small open-weight models (see
-  `matcher/config.py` for per-MTok prices). The 9-model primary condition is
+  `matcher/config.py` for per-MTok prices). The 8-model primary condition is
   on the order of a few dollars; the full grid (16 conditions, self-consistency
   triples most calls) is on the order of tens of dollars, depending on
   provider pricing. Real cost is read from the API and stored per call in
@@ -177,7 +180,9 @@ of a cell — for runs completed across several resumes they read ≈0 (per-call
 usage in `records.jsonl.gz` is complete and authoritative); two
 self-consistency cells were interrupted before their final metrics pass and
 ship without `metrics.json`/`run_meta.json` (records + predictions are
-complete there too).
+complete there too). The `scoping`/`scope_v` keys in `run_meta.json` are the
+same historical naming as the `scopeoff` suffix — always off/null in this
+study.
 
 `predictions.jsonl.gz` — one line per scored source column; every number in
 the paper derives from these rows (sole exception: the self-consistency

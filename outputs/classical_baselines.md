@@ -1,6 +1,6 @@
 # Non-LLM baselines (schema-name input, bipartite assignment)
 
-Each method is granted its own best per-dataset threshold, per metric (`F1 @ F1-oracle`, `MCC @ MCC-oracle`) — the comparison of §5.1.
+Each method is granted its own best per-dataset threshold, per metric (`F1 @ F1-oracle`, `MCC @ MCC-oracle`) — the comparison of §5.1. `exact` (normalized name equality) is a sanity baseline included for context; the paper reports COMA and Similarity Flooding.
 
 | Method | Dataset | F1 @ tau0 | F1 @ F1-oracle | MCC @ MCC-oracle |
 |---|---|---|---|---|
