@@ -1,0 +1,10 @@
+{
+  "n_decisions": 480,
+  "tp": 0,
+  "fp": 57,
+  "fn": 39,
+  "tn": 384,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0
+}

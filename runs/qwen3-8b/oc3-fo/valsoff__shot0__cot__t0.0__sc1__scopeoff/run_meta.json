@@ -1,0 +1,48 @@
+{
+  "dataset": "oc3-fo",
+  "model": {
+    "name": "qwen3-8b",
+    "id": "qwen/qwen3-8b",
+    "price_in": 0.05,
+    "price_out": 0.4
+  },
+  "ablation": {
+    "use_values": false,
+    "n_shot": 0,
+    "use_cot": true,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "scoping": false,
+  "run_dirname": "valsoff__shot0__cot__t0.0__sc1__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 6,
+    "tasks_available": 6,
+    "capped": false
+  },
+  "totals": {
+    "calls": 6,
+    "prompt_tokens": 8497,
+    "completion_tokens": 27635,
+    "reasoning_tokens": 25072,
+    "cost": 0.0115,
+    "latency_ms": 663325.8,
+    "hallucinated": 3,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 480,
+    "tp": 25,
+    "fp": 47,
+    "fn": 14,
+    "tn": 397,
+    "precision": 0.3472,
+    "recall": 0.641,
+    "f1": 0.4505
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

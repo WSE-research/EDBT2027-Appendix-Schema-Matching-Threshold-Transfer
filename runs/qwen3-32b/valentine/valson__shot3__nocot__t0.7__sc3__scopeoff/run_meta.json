@@ -1,0 +1,48 @@
+{
+  "dataset": "valentine",
+  "model": {
+    "name": "qwen3-32b",
+    "id": "qwen/qwen3-32b",
+    "price_in": 0.08,
+    "price_out": 0.24
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.7,
+    "sc_runs": 3
+  },
+  "scoping": false,
+  "run_dirname": "valson__shot3__nocot__t0.7__sc3__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 544,
+    "tasks_available": 544,
+    "capped": false
+  },
+  "totals": {
+    "calls": 2190,
+    "prompt_tokens": 17477980,
+    "completion_tokens": 5224425,
+    "reasoning_tokens": 4043929,
+    "cost": 3.8686,
+    "latency_ms": 76332292.5,
+    "hallucinated": 298,
+    "parse_errors": 2,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 12912,
+    "tp": 8091,
+    "fp": 240,
+    "fn": 553,
+    "tn": 4036,
+    "precision": 0.9712,
+    "recall": 0.936,
+    "f1": 0.9533
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

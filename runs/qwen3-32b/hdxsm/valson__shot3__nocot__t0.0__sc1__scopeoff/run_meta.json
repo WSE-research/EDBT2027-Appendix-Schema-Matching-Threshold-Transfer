@@ -1,0 +1,48 @@
+{
+  "dataset": "hdxsm",
+  "model": {
+    "name": "qwen3-32b",
+    "id": "qwen/qwen3-32b",
+    "price_in": 0.08,
+    "price_out": 0.24
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "scoping": false,
+  "run_dirname": "valson__shot3__nocot__t0.0__sc1__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 160,
+    "tasks_available": 160,
+    "capped": false
+  },
+  "totals": {
+    "calls": 188,
+    "prompt_tokens": 1576948,
+    "completion_tokens": 376833,
+    "reasoning_tokens": 293762,
+    "cost": 0.3164,
+    "latency_ms": 5979818.0,
+    "hallucinated": 64,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 3696,
+    "tp": 1924,
+    "fp": 123,
+    "fn": 173,
+    "tn": 1493,
+    "precision": 0.9399,
+    "recall": 0.9175,
+    "f1": 0.9286
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

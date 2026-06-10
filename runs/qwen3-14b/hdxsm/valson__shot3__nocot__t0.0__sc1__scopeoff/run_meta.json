@@ -1,0 +1,48 @@
+{
+  "dataset": "hdxsm",
+  "model": {
+    "name": "qwen3-14b",
+    "id": "qwen/qwen3-14b",
+    "price_in": 0.06,
+    "price_out": 0.24
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "scoping": false,
+  "run_dirname": "valson__shot3__nocot__t0.0__sc1__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 160,
+    "tasks_available": 160,
+    "capped": false
+  },
+  "totals": {
+    "calls": 213,
+    "prompt_tokens": 1821654,
+    "completion_tokens": 408761,
+    "reasoning_tokens": 316773,
+    "cost": 0.4004,
+    "latency_ms": 11075323.0,
+    "hallucinated": 54,
+    "parse_errors": 2,
+    "errored_tasks": 2,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 3668,
+    "tp": 1943,
+    "fp": 79,
+    "fn": 140,
+    "tn": 1515,
+    "precision": 0.9609,
+    "recall": 0.9328,
+    "f1": 0.9467
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

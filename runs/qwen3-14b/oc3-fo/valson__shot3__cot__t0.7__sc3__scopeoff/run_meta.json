@@ -1,0 +1,48 @@
+{
+  "dataset": "oc3-fo",
+  "model": {
+    "name": "qwen3-14b",
+    "id": "qwen/qwen3-14b",
+    "price_in": 0.06,
+    "price_out": 0.24
+  },
+  "ablation": {
+    "use_values": true,
+    "n_shot": 3,
+    "use_cot": true,
+    "temp": 0.7,
+    "sc_runs": 3
+  },
+  "scoping": false,
+  "run_dirname": "valson__shot3__cot__t0.7__sc3__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 6,
+    "tasks_available": 6,
+    "capped": false
+  },
+  "totals": {
+    "calls": 26,
+    "prompt_tokens": 131634,
+    "completion_tokens": 48603,
+    "reasoning_tokens": 45163,
+    "cost": 0.0271,
+    "latency_ms": 1688682.8,
+    "hallucinated": 0,
+    "parse_errors": 0,
+    "errored_tasks": 0,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 480,
+    "tp": 29,
+    "fp": 10,
+    "fn": 10,
+    "tn": 433,
+    "precision": 0.7436,
+    "recall": 0.7436,
+    "f1": 0.7436
+  },
+  "aborted": false,
+  "stopped_reason": null
+}

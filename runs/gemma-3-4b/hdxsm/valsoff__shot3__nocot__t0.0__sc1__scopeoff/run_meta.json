@@ -1,0 +1,48 @@
+{
+  "dataset": "hdxsm",
+  "model": {
+    "name": "gemma-3-4b",
+    "id": "google/gemma-3-4b-it",
+    "price_in": 0.04,
+    "price_out": 0.08
+  },
+  "ablation": {
+    "use_values": false,
+    "n_shot": 3,
+    "use_cot": false,
+    "temp": 0.0,
+    "sc_runs": 1
+  },
+  "scoping": false,
+  "run_dirname": "valsoff__shot3__nocot__t0.0__sc1__scopeoff",
+  "cap": {
+    "cap_for_dataset": null,
+    "tasks_used": 160,
+    "tasks_available": 160,
+    "capped": false
+  },
+  "totals": {
+    "calls": 188,
+    "prompt_tokens": 656325,
+    "completion_tokens": 177839,
+    "reasoning_tokens": 0,
+    "cost": 0.0405,
+    "latency_ms": 3714277.2,
+    "hallucinated": 107,
+    "parse_errors": 3,
+    "errored_tasks": 3,
+    "masked_excluded": 0
+  },
+  "metrics": {
+    "n_decisions": 3637,
+    "tp": 1412,
+    "fp": 391,
+    "fn": 651,
+    "tn": 1266,
+    "precision": 0.7831,
+    "recall": 0.6844,
+    "f1": 0.7305
+  },
+  "aborted": false,
+  "stopped_reason": null
+}
