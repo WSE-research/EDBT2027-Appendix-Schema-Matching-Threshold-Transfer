@@ -5,9 +5,14 @@ Artifact for the EDBT 2027 short-paper submission
 False-Positive Rejection Thresholds in LLM-Based Schema Matching"*.
 
 It contains **all code, all prompts, and all pre-computed scores** of the
-study: every LLM request (the exact prompt messages), every raw model
-response, and every per-column decision with its verbalized confidence, for
-9 models x 4 datasets across the full 16-condition prompt grid.
+study: the exact prompt messages, every raw model response, and the
+per-column decisions with their verbalized confidence, for 9 models x
+4 datasets. The paper's primary condition is published complete for all
+36 (model, dataset) pairs; the wider 16-condition prompt grid is published
+as run (323 of 576 cells — complete on OC3-FO, no-CoT conditions elsewhere;
+exact coverage per cell in `outputs/grid_robustness.md`). Tasks where all
+model calls failed write no per-column decisions by design (≈0.3% of tasks,
+logged in `records.jsonl.gz`).
 
 There are two independent ways to use it:
 
@@ -29,7 +34,8 @@ runs/           the PUBLISHED logs (read-only input for Path A):
                   records.jsonl.gz      every prompt + every raw response
                   predictions.jsonl.gz  per-source-column decisions + confidence
                   metrics.json          micro P/R/F1 of that run
-                  run_meta.json         model, condition, token/cost totals
+                  run_meta.json         model, condition (`ablation`), totals
+                                        (see caveat under "Published log formats")
 data/           the four benchmarks + loaders provenance (see data/DATASETS.md)
 baselines/      non-LLM baselines (COMA, Similarity Flooding) + their results
 scripts/        integrity_check.py — verifies the bundled datasets
@@ -50,18 +56,21 @@ pip install -r requirements.txt
 
 ## Path A — reproduce every table and figure (no API key)
 
+From the **repository root** (all `python -m …` commands assume this cwd):
+
 ```bash
 python -m analysis.reproduce_all
 ```
 
-(or open `notebooks/reproduce.ipynb`). This reads only `runs/` and writes:
+(~20 s; or open `notebooks/reproduce.ipynb` — needs `pip install jupyter`,
+which is not in requirements.txt). This reads only `runs/` and writes:
 
 | Artifact | Paper | Output |
 |---|---|---|
 | Table 2 — baseline F1/MCC at τ=0, per model x dataset | §5.1 | `outputs/table2_baseline.{md,tex}` |
 | Table 3 — transfer matrix: MCC + accept-error at the source's MCC-optimal cutoff, mean±std, Δ vs τ=0 | §5.3 | `outputs/table3_operating_point.{md,tex}` |
-| Figure 1 — confidence calibration (error vs reported confidence) | §5.2 | `figures/fig2_calibration.{pdf,png}` |
-| Figure 2 — capacity trend (ΔMCC of the oracle threshold vs model size) | §5.4 | `figures/fig_capacity_trend.{pdf,png}` |
+| Figure 1 — confidence calibration (error vs reported confidence) | §5.2 | `figures/fig2_calibration.{pdf,png}` (file name is historical — this is the paper's **Figure 1**) |
+| Figure 2 — capacity trend (ΔMCC of the oracle threshold vs model size) | §5.4 | `figures/fig_capacity_trend.{pdf,png}` + per-model raw values in `outputs/capacity_per_model.md` |
 | per-model MCC-optimal τ* (+ medians) | §5.3 | `outputs/per_model_tau.md` |
 | pooled accept-error at confidence 10/9/8/7/6 | §5.2 | `outputs/calibration_numbers.md` |
 | self-consistency score-stability tables | §5.2 | `outputs/sc_stability.md` |
@@ -72,7 +81,16 @@ python -m analysis.reproduce_all
 Each script also runs standalone, e.g. `python -m analysis.make_table3_operating_point`.
 
 To analyse a fresh Path-B re-run instead of the published logs, point the
-analysis at it: `REPRO_RUNS_DIR=results python -m analysis.reproduce_all`.
+analysis at it:
+
+```bash
+REPRO_RUNS_DIR=results python -m analysis.reproduce_all        # bash
+$env:REPRO_RUNS_DIR="results"; python -m analysis.reproduce_all  # PowerShell
+```
+
+Windows note: when **redirecting** console output to a file, set
+`PYTHONUTF8=1` (the reports contain Δ/τ characters; interactive consoles are
+fine).
 
 ## Path B — re-run the LLM experiments (OpenRouter)
 
@@ -95,7 +113,8 @@ python -m matcher.runner
 # useful narrowing flags (all reversible; see --help):
 python -m matcher.runner --models gemma-4-31b --datasets oc3-fo ppmatch
 python -m matcher.runner --only-temp0 --cheap-first
-MATCHER_MAX_TASKS=2 python -m matcher.runner   # 2-task pilot, loudly logged
+MATCHER_MAX_TASKS=2 python -m matcher.runner     # 2-task pilot, loudly logged (bash)
+# PowerShell: $env:MATCHER_MAX_TASKS="2"; python -m matcher.runner
 ```
 
 Notes:
@@ -109,8 +128,10 @@ Notes:
   `matcher/config.py` for per-MTok prices). The 9-model primary condition is
   on the order of a few dollars; the full grid (16 conditions, self-consistency
   triples most calls) is on the order of tens of dollars, depending on
-  provider pricing. Real cost is read from the API per call and accumulated in
-  each `run_meta.json`.
+  provider pricing. Real cost is read from the API and stored per call in
+  `records.jsonl.gz` (`usage.cost`, `cost_source`) — the authoritative cost
+  record; `run_meta.json` totals cover only the final runner invocation (≈0
+  for runs completed across resumes, see below).
 - LLM sampling is not bit-deterministic, so fresh responses will differ
   slightly from `runs/` even at temperature 0; the published logs are the
   exact data behind the paper's numbers.
@@ -144,12 +165,23 @@ condition is `valsoff__shot0__nocot__t0.0__sc1__scopeoff`.
 }
 ```
 
-(Relative to the raw experiment logs, only the per-attempt `response_dump` —
-the provider's full JSON envelope, whose text content is already in
-`raw_response` — was dropped for size.)
+(The schema sketch above shows the load-bearing fields; records carry further
+self-describing metadata — `model`, `model_id`, `temperature`, `n_shot`,
+`n_valid_runs`, per-attempt `usage`/`transport_trace`, etc. Relative to the
+raw experiment logs, only the per-attempt `response_dump` — the provider's
+full JSON envelope, whose text content is already in `raw_response` — was
+dropped for size.)
 
-`predictions.jsonl.gz` — one line per scored source column; this is the sole
-input to every number in the paper:
+Caveats: `run_meta.json` `totals` reflect only the **last** runner invocation
+of a cell — for runs completed across several resumes they read ≈0 (per-call
+usage in `records.jsonl.gz` is complete and authoritative); two
+self-consistency cells were interrupted before their final metrics pass and
+ship without `metrics.json`/`run_meta.json` (records + predictions are
+complete there too).
+
+`predictions.jsonl.gz` — one line per scored source column; every number in
+the paper derives from these rows (sole exception: the self-consistency
+stability table reads the per-run scores from `records.jsonl.gz`):
 
 ```jsonc
 {"dataset": ..., "model": ..., "pair_id": ..., "source_column": ...,
@@ -161,9 +193,11 @@ input to every number in the paper:
 
 Nine open-weight models are bundled in the logs (Gemma-3 4/12/27B,
 Gemma-4-31B, Qwen3 8/14/32B, Llama-3.3-70B, Phi-4), accessed through
-OpenRouter. **The paper analyses M=8: phi-4 is excluded** as a calibration
-outlier; its logs are published regardless (`REPRO_INCLUDE_PHI4=1` re-includes
-it in every analysis script).
+OpenRouter. **The paper analyses M=8: phi-4 is excluded** as a
+calibration/format outlier (worst-calibrated confidence; frequent grounding
+failures on some grid cells). Its logs are published in full so the exclusion
+is auditable — set `REPRO_INCLUDE_PHI4=1` to re-include it in every analysis
+script.
 
 ## Datasets
 
