@@ -1,0 +1,214 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_FiY"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_PBAT"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_PrograProc"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ContiN"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Gender equality (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_GeEqua"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Youth issues (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_YouIs"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_RegPro"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_CounRegID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_OrganN"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ChiIs"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_MaxCIDAContri"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_CoRegNa"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ClChMitig"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ICTAAToFDev"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Enviromental sustainability (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_EnvSusta"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ConID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Urban issues (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_UrIss"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "CFLI (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_CFLI"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_IRTCPer"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_SecNa"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_FuCenN"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_DivID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_OrgCla"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_UnAmoPrBud"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Disability issues (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_DisIss"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Sector name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_SecN"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_ProNum"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Branch ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_BrID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_SecID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_OrgaS"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_Bio"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_FSTCPe"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_BraNa"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_OrganID"
+        },
+        {
+            "source_table": "miller2_both_50_70_ac4_av_source",
+            "source_column": "Bilateral aid (international marker)",
+            "target_table": "miller2_both_50_70_ac4_av_target",
+            "target_column": "miller2_BilatAMar"
+        }
+    ]
+}

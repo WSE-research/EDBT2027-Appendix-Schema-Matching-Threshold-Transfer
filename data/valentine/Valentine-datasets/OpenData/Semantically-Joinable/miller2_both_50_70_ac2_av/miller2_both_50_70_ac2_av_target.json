@@ -1,0 +1,131 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "ICTAAToFoDevel": {
+        "type": "int"
+    },
+    "OrgNa": {
+        "type": "text"
+    },
+    "IRTCPerc": {
+        "type": "real"
+    },
+    "Sta": {
+        "type": "text"
+    },
+    "IndiIs": {
+        "type": "int"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "YoIs": {
+        "type": "int"
+    },
+    "CouRegID": {
+        "type": "text"
+    },
+    "ChilIss": {
+        "type": "int"
+    },
+    "CoRePe": {
+        "type": "real"
+    },
+    "UnAmPrBud": {
+        "type": "real"
+    },
+    "SePe": {
+        "type": "real"
+    },
+    "ClimChMit": {
+        "type": "int"
+    },
+    "RegPro": {
+        "type": "int"
+    },
+    "BraNa": {
+        "type": "text"
+    },
+    "PBAT": {
+        "type": "text"
+    },
+    "OrganiCl": {
+        "type": "text"
+    },
+    "TrDevel": {
+        "type": "int"
+    },
+    "FSTCPe": {
+        "type": "real"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "PartDevAGoGove": {
+        "type": "int"
+    },
+    "SeID": {
+        "type": "text"
+    },
+    "CoRegN": {
+        "type": "text"
+    },
+    "EnviSusta": {
+        "type": "int"
+    },
+    "SeNa": {
+        "type": "text"
+    },
+    "KnoFDev": {
+        "type": "int"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "DiviID": {
+        "type": "text"
+    },
+    "FCenNa": {
+        "type": "text"
+    },
+    "OrganiT": {
+        "type": "text"
+    },
+    "ContNa": {
+        "type": "text"
+    },
+    "BraID": {
+        "type": "text"
+    },
+    "ClimChAdapt": {
+        "type": "int"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "DisaIs": {
+        "type": "int"
+    },
+    "GenEq": {
+        "type": "int"
+    },
+    "OrganID": {
+        "type": "text"
+    },
+    "OrganSu": {
+        "type": "text"
+    },
+    "ProjBrCouID": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "AmoSp": {
+        "type": "real"
+    }
+}

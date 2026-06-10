@@ -1,0 +1,740 @@
+{
+  "total_pairs": 204,
+  "clean_pairs": 160,
+  "quarantined_pairs": 44,
+  "criteria": "strict 1:1 AND every GT column present in its table header",
+  "quarantine": [
+    {
+      "pair": "pair_4",
+      "reasons": [
+        "non-1:1 (fan_out={}, fan_in={'Perpetrator ': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_24",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "State of Displacement",
+          "State"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_40",
+      "reasons": [
+        "2 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "State Code ",
+          "State_Pcode"
+        ],
+        [
+          "LGA",
+          "LGA"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_50",
+      "reasons": [
+        "non-1:1 (fan_out={'Men (18 - 59 y)': 2, 'Women (18 - 59 y)': 2}, fan_in={'Men (18 - 59 y)': 2, 'Women (18 - 59 y)': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_53",
+      "reasons": [
+        "non-1:1 (fan_out={'Men (18 - 59 y)': 2, 'Women (18 - 59 y)': 2, '(Elderly men 60+ y)': 2, '(Elderly women 60+ y)': 2}, fan_in={'Men (18 - 59 y)': 2, 'Women (18 - 59 y)': 2, '(Elderly men 60+ y)': 2, '(Elderly women 60+ y)': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_81",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "Admin 1 Code ",
+          "State_Pcode"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_108",
+      "reasons": [
+        "non-1:1 (fan_out={'Reported_Date': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_148",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "STATUS \\n(Ongoing, Completed, Planned)",
+          "STATUS \\n(ON-GOING, COMPLETED, PLANNED)"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_149",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "STATUS \\n(ONGOING, COMPLETED, PLANNED)",
+          "STATUS \\n(ON-GOING, COMPLETED, PLANNED)"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_150",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "STATUS \\n(ONGOING, COMPLETED, PLANNED)",
+          "STATUS \\n(ON-GOING, COMPLETED, PLANNED)"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_151",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "STATUS \\n(ONGOING, COMPLETED, PLANNED)",
+          "STATUS \\n(ON-GOING, COMPLETED, PLANNED)"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_152",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "status_code",
+          "STATUS \\n(ON-GOING, COMPLETED, PLANNED)"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_156",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "Location name\\nin English",
+          "Location name\\nin English"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_157",
+      "reasons": [
+        "1 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "Location name\\nin English",
+          "Sub-district"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_158",
+      "reasons": [
+        "2 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "Location name\\nin English",
+          "Location_name"
+        ],
+        [
+          "Location name\\nin Arabic ",
+          "Arabic_name"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_164",
+      "reasons": [
+        "non-1:1 (fan_out={'_A4. Coordonn\u00e9es GPS du Lieu_latitude': 2, '_A4. Coordonn\u00e9es GPS du Lieu_longitude': 2}, fan_in={'_A4. Coordonn\u00e9es GPS du Lieu_latitude': 2, '_A4. Coordonn\u00e9es GPS du Lieu_longitude': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_167",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'incident"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin_1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin_2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_168",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'incident"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin_1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin_2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_169",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_170",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_171",
+      "reasons": [
+        "5 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "Snapshot date (MMM-yyyy)",
+          "Snapshot Date\\n(MMM-yyyy)"
+        ],
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Survey Date (dd-MMM-yyyy)"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Admin 0"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin 1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin 2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_172",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'\u00e9valuation"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country Name"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_173",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Admin 0"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_174",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date Reported"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_175",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country_Name"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_176",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_177",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country name"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_178",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Survey Date"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Admin 0"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin 1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin 2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_179",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'\u00e9valuation"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_180",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date Reported"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_181",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_182",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date Reported"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_183",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_184",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date enquete"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_185",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country name"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_186",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "Date de l'enqu\u00eate"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "Admin1"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Admin2"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_187",
+      "reasons": [
+        "4 GT col(s) absent from header"
+      ],
+      "bad_gt_examples": [
+        [
+          "1.1.a.1 \\nSite Assessment Date  (dd-MMM-yyyy)",
+          "begingroup/Date de l'\u00e9valuation"
+        ],
+        [
+          "1.1.a.3\\nAdmin 0\\n(Country)",
+          "Country"
+        ],
+        [
+          "1.1.e.1\\nAdmin 1",
+          "begingroup/Province"
+        ],
+        [
+          "1.1.e.2\\nAdmin 2",
+          "Commune"
+        ]
+      ]
+    },
+    {
+      "pair": "pair_190",
+      "reasons": [
+        "non-1:1 (fan_out={'Preferred Term': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_193",
+      "reasons": [
+        "non-1:1 (fan_out={}, fan_in={'Internal Displacements': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_194",
+      "reasons": [
+        "non-1:1 (fan_out={'pcode': 2, 'pcode2': 2, 'pcode3': 2}, fan_in={'Provincia': 2, 'Cant\u00f3n': 2, 'Parroquia': 2})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_198",
+      "reasons": [
+        "non-1:1 (fan_out={'1.1.e.2 Province (Admin 1)': 2, '1.1.e.3 District (Admin 2)': 2, '1.1.e.4 Post (Admin 3)': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_214",
+      "reasons": [
+        "non-1:1 (fan_out={'1.1.e.3 District (Admin 2)': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_218",
+      "reasons": [
+        "non-1:1 (fan_out={'Province (Admin 1)': 2, 'District (Admin 2)': 2, 'Post (Admin 3)': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    },
+    {
+      "pair": "pair_223",
+      "reasons": [
+        "non-1:1 (fan_out={'District (Admin 2)': 2}, fan_in={})"
+      ],
+      "bad_gt_examples": []
+    }
+  ]
+}

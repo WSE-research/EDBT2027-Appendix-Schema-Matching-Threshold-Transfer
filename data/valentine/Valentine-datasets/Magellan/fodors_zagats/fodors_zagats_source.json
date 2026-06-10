@@ -1,0 +1,23 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "name": {
+        "type": "text"
+    },
+    "addr": {
+        "type": "text"
+    },
+    "city": {
+        "type": "text"
+    },
+    "phone": {
+        "type": "text"
+    },
+    "type": {
+        "type": "text"
+    },
+    "class": {
+        "type": "int"
+    }
+}

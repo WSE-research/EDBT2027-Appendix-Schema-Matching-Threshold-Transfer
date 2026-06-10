@@ -1,0 +1,101 @@
+AgencyID,CreditRating,NumberCreditCards,NumberChildren,FirstName,MaritalStatus,LastName,MiddleInitial,Gender,AddressLine1,AddressLine2,PostalCode,City,State
+PEL0,760.0,,3.0,Netti,W,PELLAND,,f,21847 olympia street,,T6b 1i1,Fairbanks,MA
+LED1,555.0,6.0,1.0,TRUDY,U,LEDUC,,F,245 congress court,APT. 624,77281,Quebec,PA
+lat2,566.0,6.0,1.0,ireland,S,latif,,,6517 frailing west,,91355,Henderson,Alberta
+RUD3,,3.0,1.0,Misti,W,RUDDICK,,,11449 blalock park,,36615,Salem,AR
+JAY4,815.0,4.0,3.0,sarena,M,JAYAMANNE,M,f,18354 dodd court,Apt. 619,t6a 1i3,Toledo,OR
+tod5,333.0,10.0,4.0,Paulette,M,todo,Z,M,14117 roxboro street,,A2b 1v3,Corpus Christi,VA
+Kan6,528.0,1.0,0.0,AMALITA,,Kanno,R,m,24697 FLORENCE WEST,,49513,Salt Lake City,OH
+Din7,680.0,7.0,2.0,Ernesto,M,Dinkel,Z,,6488 applewood drive,,M5d 1v6,Brownsville,Prince Edward Island
+Thi8,761.0,10.0,,Toby,U,Thibodeaux,,,17404 gale court,,V6c 1q1,Escondido,NV
+May9,416.0,,2.0,evangelia,M,Mayo,,,15913 alexis street,,99716,Los Angeles,Ontario
+mah10,493.0,9.0,2.0,umakanth,M,mahendra,U,,18313 5th lane,,A2b 1w1,West Covina,TX
+Siz11,564.0,0.0,0.0,terrie,M,Sizto,,,13653 collier avenue,,M5F 1W1,San Buenaventura,NE
+cra12,817.0,0.0,4.0,Mary-pat,U,crawley,,,15306 pike park,,95118,Lexington,AR
+dac13,653.0,8.0,5.0,Catherin,U,dacal,,m,1540 crestmere north,,H2f 1v7,Hay River,MI
+HIV14,587.0,2.0,4.0,annissa,M,HIVELY,W,,10790 bonita crescent,,19217,Toronto,MA
+Pes15,472.0,6.0,2.0,Amour,S,Peschke,,,24679 AIRPORT CRESCENT,Apt. 290,21228,Denver,TN
+CHI16,817.0,4.0,4.0,jenica,M,CHILDERHOSE,,,7627 douglas road,,85097,St. Paul,TN
+Din17,441.0,0.0,4.0,KATTIE,M,Dinnin,,,6106 ashland east,,V6j 1q8,Bellevue,OK
+De 18,848.0,6.0,3.0,Roselle,M,De witte,M,,1111 norden street,,43207,Detroit,Ontario
+Mck19,843.0,8.0,3.0,arlyne,U,Mckeegan,,m,2798 1st east,,V6t 1q8,Omaha,KY
+WIN20,,,0.0,Rong-chin,U,WINTERS,P,M,11358 elle lee street,,94467,Costa Mesa,PA
+BIT21,300.0,0.0,3.0,Darlleen,U,BITTMAN,,,21074 MALLORY LOWER,,94321,Berkeley,MD
+luz22,795.0,8.0,1.0,Radoslav,U,luzarraga,V,f,16124 weyland park,,C2a 4w7,St. Louis,TX
+don23,367.0,5.0,0.0,Aryn,,donovan,S,,23822 marvin crescent,,35808,Colorado Springs,IN
+Gia24,507.0,1.0,5.0,Allisan,M,Giallo,T,,2203 valita boulevard,,M5f 1v6,Fontana,MD
+SPR25,362.0,9.0,1.0,Ammamaria,M,SPRUELL,,M,11538 COLLINWOOD AVENUE,,99539,St. Catharines,KY
+SKA26,527.0,7.0,1.0,Mari,D,SKALSKI,,F,7818 EAST STREET,,95055,Hayward,CA
+Gar27,354.0,0.0,,Anica,S,Gargul,,m,10013 shaw road,,93686,Palmdale,FL
+Dor28,511.0,1.0,1.0,Melba,M,Dore,,,6802 AMES STREET,,75218,Phoenix,Newfoundland
+DIO29,412.0,7.0,2.0,Tracee,,DIOGO,X,,22501 SUMMIT RUE,,91174,Gary,TX
+Mer30,583.0,1.0,0.0,CANADIAN,S,Merrick,,m,291 frances rue,,49515,Beaumont,WA
+Atc31,710.0,5.0,3.0,Oue,U,Atchison,R,,16264 sanders east,,16506,Nashua,MN
+Pla32,380.0,9.0,1.0,wallie,M,Plamondon,X,m,16068 cantey way,,94383,San Jose,WY
+SEL33,796.0,2.0,0.0,Andromache,M,SELCHOW,E,F,21170 EDLOE BOULEVARD,,T6d 1b3,Nashua,NY
+sha34,818.0,2.0,3.0,THOR,M,shane,Z,f,885 CROSBY LANE,,25339,Fort Smith,SC
+MER35,766.0,3.0,3.0,SALAH,M,MERWIN,,,12235 jay street,,V6o 1v4,Lancaster,MS
+con36,359.0,2.0,3.0,HOR-LAM,M,conrad,,,20340 LOMBARD CRESCENT,,01852,Colorado Springs,UT
+ons37,401.0,2.0,5.0,Vania,S,onsiteteam,,M,22074 dexter upper,,78230,Washington,PA
+Sum38,609.0,0.0,1.0,Niel,U,Summerlin,,M,1540 MURIE RUE,,93770,Lowell,OK
+gro39,630.0,2.0,0.0,ziad,S,grooms,F,,7075 glen loch drive,,m4l 1n4,Frederick,WY
+dil40,671.0,9.0,1.0,Claude,M,dilkie,I,,11237 balmoral way,Apt. 382,22335,Mesa,RI
+DOL41,715.0,10.0,2.0,AVTAR,U,DOLSON,,,8316 GARDEN BROOK NORTH,,V6C 1T4,Lakewood,HI
+Pos42,707.0,9.0,1.0,Donny,M,Posthumus,,,2240 clifton lower,,M6t 1h3,Cleveland,VA
+Mac43,329.0,0.0,2.0,Cocos,M,Machika,,,20907 NOTINGHAM LOWER,,95263,Grand Rapids,OK
+che44,601.0,8.0,3.0,ruud,D,chenoweth,,,601 carroll lower,,v5b 1p5,Peoria,Prince Edward Island
+hol45,623.0,2.0,1.0,Belvia,W,holbrooks,,,18267 state drive,,32318,Inglewood,SD
+pfi46,376.0,2.0,4.0,ATHAR,S,pfieffer,,f,9270 LEAF SOUTH,,93872,Akron,OH
+elk47,560.0,0.0,3.0,Cherey,W,elkington,Y,,18582 PERIMETER BOULEVARD,,92824,Charlottetown,MA
+Lab48,693.0,4.0,5.0,RAZ,,Labenek,,F,9612 park stream upper,,e4a 1r2,Bellevue,MD
+laf49,346.0,0.0,2.0,kishore,S,laferriere,Y,,2803 clearwater north,,H7G 1V4,Dover,Saskatchewan
+Nor50,342.0,0.0,3.0,Nelleke,M,Norment,I,,11103 BISSONNET WEST,,85039,Fullerton,WA
+hag51,563.0,8.0,0.0,sibby,M,hagar,,,4652 outervale lane,,v6m 1q3,Denver,OH
+Bet52,391.0,4.0,3.0,ericha,M,Betcher,,m,341 dunbar west,,X7j 1r1,Dallas,WY
+Van53,381.0,8.0,4.0,Janson,S,Van der,,m,16176 vernon drive,,B8b 1z5,San Jose,NJ
+O'L54,539.0,9.0,3.0,Dorotea,S,O'LEARY,,F,23131 clint way,,t5d 1v4,Bellevue,ND
+and55,497.0,0.0,4.0,Denice,M,anderson,,m,11640 baltic upper,,V6t 1r2,San Buenaventura,NC
+sta56,661.0,,2.0,Myron,M,starks,,,20796 dolores drive,,91177,St. Louis,WV
+CHA57,558.0,0.0,3.0,Barby,S,CHASSE,,,14359 COMMERCE WEST,Apt. 275,T5c 1t1,Pueblo,GA
+ASI58,534.0,,1.0,Ariella,W,ASING,,R,21448 hampton boulevard,,35862,Regina,Ontario
+ask59,373.0,6.0,0.0,ADEY,M,askins,,f,7637 pershing way,,96820,Saskatoon,MA
+Kik60,382.0,8.0,0.0,GAYEL,M,Kikuta,K,,11529 arcana boulevard,,75238,Jackson,CA
+Cha61,475.0,10.0,3.0,Man,S,Chane,,F,2700 windwood north,,85769,St. Petersburg,SD
+KIL62,539.0,3.0,0.0,Klara,D,KILLEN,U,m,22279 gramercy road,,H5i 1o9,Scottsdale,Saskatchewan
+kin63,711.0,6.0,5.0,Abdalla,M,kinley,,f,9828 west east,,90849,Charlotte,RI
+MAL64,606.0,1.0,,bal,M,MALAHER,,,5935 mcafee park,,43644,Waterbury,NC
+Odu65,494.0,0.0,3.0,Romy,W,Odum,J,,12460 CLAYTON STREET,,99213,Chesapeake,SD
+DI 66,309.0,3.0,5.0,KORAL,M,DI NINNO,,,275 3rd drive,,72226,Hialeah,IL
+STU67,630.0,3.0,5.0,YUKIHIKO,M,STUBBLEFIELD,K,,6907 FERNCLIFF CRESCENT,,V6Z 1Q9,Charleston,OR
+HAM68,330.0,10.0,1.0,Khanh,S,HAMBALI,,,885 crosby lane,,20082,Salem,Ontario
+LIB69,710.0,9.0,0.0,Darnell,S,LIBRARIAN,,m,2344 kalani west,,35827,Sacramento,FL
+ohs70,475.0,7.0,0.0,feridoun,M,ohsone,,M,22870 LA CIENEGA STREET,,99692,Santa Clarita,NM
+HUM71,596.0,3.0,1.0,Magdy,U,HUMMEL,O,,8478 green avenue,APT. 143,V6c 1q5,Sherbrooke,NE
+BRA72,670.0,9.0,1.0,jiri,W,BRADD,,,23639 purdue rue,,80158,Colorado Springs,MI
+Boa73,722.0,,3.0,AILA,U,Boarder,X,,19202 ansley park,,t6d 1b6,Berkeley,New Brunswick
+Mcn74,587.0,7.0,2.0,Vincenzo,U,Mcnally,,,11319 devonshire rue,,33120,San Buenaventura,NJ
+MAR75,609.0,4.0,3.0,Minnnie,S,MARKOVICH,,F,23665 deerwood park,,99742,New Haven,ND
+Wil76,401.0,7.0,1.0,alfonzo,S,Willekes,,f,4855 union north,,V6N 1T1,Shreveport,Saskatchewan
+Dea77,335.0,0.0,0.0,Swandi,M,Deacetis,S,m,9466 SHADOWBRIAR WEST,,44104,Lansing,KS
+Hou78,569.0,7.0,5.0,Anya,U,Houk,,,3504 regency avenue,,14605,Pembroke Pines,SD
+Goy79,,9.0,2.0,Enrika,M,Goyette,,,7281 northland lower,,80076,Palmdale,FL
+Mok80,679.0,7.0,0.0,SONJA,S,Mok-fung,Z,f,12481 hayden lower,,V6I 1V6,Savannah,Saskatchewan
+Run81,356.0,10.0,4.0,Liem,M,Rundle,I,,2328 gracie avenue,,97307,Amarillo,FL
+BEL82,308.0,9.0,5.0,COLLETTE,S,BELLEY,,o,4737 campbell street,,46237,Anchorage,UT
+BAE83,412.0,4.0,4.0,SIAMACK,M,BAER,Y,,2401 stratmore lower,,V6B 1S6,Louisville,WY
+MAU84,618.0,4.0,3.0,Toshihiro,D,MAULDIN,,f,21477 JUNIPER CRESCENT,,H2d 1x1,Hilo,NH
+Koo85,429.0,5.0,3.0,Casey,S,Koohgoli,,,19214 YAUPON BOULEVARD,,95108,Sudbury,AR
+Lau86,819.0,3.0,1.0,Daryn,S,Lauriston,,,7785 rusk boulevard,,80050,Orlando,CT
+Man87,552.0,7.0,1.0,Adrianna,M,Mangum,L,F,18002 cantrell upper,,90122,Missoula,VT
+PIE88,587.0,9.0,4.0,Cortney,S,PIERCY,,,23341 brookside upper,,43614,Abilene,Manitoba
+Bus89,304.0,6.0,1.0,Duane,S,Buscaglia,,M,20494 ROSS WEST,,61110,Saskatoon,NJ
+BAB90,795.0,4.0,5.0,Tele,,BABIONE,,,17552 SAVANNAH NORTH,,70174,Irvine,KY
+Bur91,830.0,2.0,3.0,Ophelia,S,Burkard,,M,4462 pace crescent,APT. 373,90324,Reno,GA
+Kin92,709.0,3.0,3.0,lorine,M,Kinsella,,,7161 tallowood upper,,s7d 1n1,Sacramento,NJ
+POM93,493.0,8.0,1.0,Viole,S,POMMAINVILLE,,,3489 silver sage west,,93829,Topeka,SC
+BOA94,680.0,,,Nani,M,BOATWRIGHT,,M,12481 hayden lower,,89116,Rancho Cucamonga,TN
+Ron95,800.0,,5.0,cherey,M,Ronald,R,,13210 3RD DRIVE,,94315,Hilo,WY
+wei96,614.0,4.0,5.0,Redgie,M,weihs,A,,8899 starling lane,,T5b 1u9,Saint John,Ontario
+Hel97,763.0,6.0,0.0,Yousef,,Helpb,P,M,11480 fennel south,,T6b 1a5,Torrance,DC
+mog98,561.0,3.0,4.0,Damaris,S,moghe,,m,7266 cherry upper,,60699,Santa Clara,Alberta
+boz99,569.0,4.0,2.0,Ilyssa,S,bozicevich,,,10678 ENGLEWOOD WEST,,V6p 1s8,Torrance,ME

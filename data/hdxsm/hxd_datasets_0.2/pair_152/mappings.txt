@@ -1,0 +1,4 @@
+<"status_code", "STATUS \n(ON-GOING, COMPLETED, PLANNED)">
+<"day_start", "START">
+<"day_end", "FINISH">
+<"location_name", "EVACUATION SITE">

@@ -1,0 +1,101 @@
+id,title,authors,venue,year
+id,title,authors,venue,year
+0,towards a cooperative transaction model - the cooperative activity model,"m rusinkiewicz , w klas , t tesch , j wфsch , p muth",vldb,1995
+1,sql/xml is making good progress,"a eisenberg , j melton",sigmod record,2002
+2,using formal methods to reason about semantics-based decompositions of transactions,"p ammann , s jajodia , i ray",vldb,1995
+3,editor 's notes,l liu,sigmod record,2002
+4,report on the acm fourth international workshop on data warehousing and olap ( dolap 2001 ),,,2002
+5,schema and database evolution in the o2 object database system,"f ferrandina , t meyer , r zicari , g ferran , j madec",vldb,1995
+6,procedures in object-oriented query languages,"k subieta , y kambayashi , j leszczylowski",vldb,1995
+7,phoenix project : fault-tolerant applications,"r barga , d lomet",sigmod record,2002
+8,mining the world wide web : an information search approach - book review,,,2002
+9,l/mrp : a buffer management strategy for interactive continuous data flows in a multimedia dbms,"f moser , a kraiss , w klas",vldb,1995
+10,report on the nsf workshop on building an infrastructure for mobile and wireless systems,,,2002
+11,retrieval of composite multimedia objects,"s chaudhuri , s ghandeharizadeh , c shahabi",vldb,1995
+12,mpeg-7 and multimedia database systems,h kosch,sigmod record,2002
+13,the fittest survives : an adaptive approach to query optimization,"h lu , k tan , s dao",vldb,1995
+14,reminiscences on influential papers,,,2002
+15,type classification of semi-structured documents,"m tresch , n palmer , a luniewski",vldb,1995
+16,data mining : practical machine learning tools and techniques - book review,j geller,sigmod record,2002
+17,managing intra-operator parallelism in parallel database systems,"m mehta , d dewitt",vldb,1995
+18,advances in databases and information systems ( adbis ),"a caplinskas , j eder , o vasilecas",sigmod record,2002
+19,mining generalized association rules,"r srikant , r agrawal",vldb,1995
+20,sampling-based estimation of the number of distinct values of an attribute,"p haas , j naughton , s seshadri , l stokes",vldb,1995
+21,book review column,k aberer,sigmod record,2002
+22,processing object-oriented queries with invertible late bound functions,"s flodin , t risch",vldb,1995
+23,databases and transaction processing : an application-oriented approach - book review,a kemper,sigmod record,2002
+24,"the clustra telecom database : high availability , high throughput , and real-time response","s hvasshovd , и torbjјrnsen , s bratsberg , p holager",vldb,1995
+25,conceptual modeling and specification generation for b2b business process based on ebxml,h kim,sigmod record,2002
+26,neurorule : a connectionist approach to data mining,"h lu , r setiono , h liu",vldb,1995
+27,a multi-agent system infrastructure for software component market-place : an ontological perspective,"r erdur , o dikenelli",sigmod record,2002
+28,improving performance in replicated databases through relaxed coherency,"r gallersdіrfer , m nicola",vldb,1995
+29,an active functionality service for e-business applications,"m cilia , a buchmann",sigmod record,2002
+30,contracting in the days of ebusiness,"w hќmmer , w lehner , h wedekind",sigmod record,2002
+31,redo recovery after system crashes,"d lomet , m tuttle",vldb,1995
+32,db2 query parallelism : staging and implementation,y wang,vldb,1995
+33,david dewitt speaks out,m winslett,ecord,2002
+34,a product specification database for visual prototyping,"k sumiya , k yasutake , h tanaka , n sanada , y imai",vldb,1995
+35,from ternary relationship to relational tables : a case against common beliefs,r camps,sigmod record,2002
+36,database de-centralization - a practical approach,"t didriksen , c galindo-legaria , e dahle",vldb,1995
+37,cluster validity methods : part i,"m halkidi , y batistakis , m vazirgiannis",sigmod record,2002
+38,a pictorial query language for querying geographic databases using positional and olap operators,"e pourabbas , m rafanelli",sigmod record,2002
+39,benchmarking spatial join operations with spatial output,"e hoel , h samet",vldb,1995
+40,bringing order to query optimization,"g slivinskas , c jensen , r snodgrass",sigmod record,2002
+41,bigsur : a system for the management of earth science data,"p brown , m stonebraker",vldb,1995
+42,editor 's notes,l liu,sigmod record,2002
+43,efficient search of multi-dimensional b-trees,"h leslie , r jain , d birdsall , h yaghmai",vldb,1995
+44,research activities in database management and information retrieval at the university of illinois at chicago,"i cruz , a khokhar , b liu , a sistla , o wolfson , c yu",sigmod record,2002
+45,accessing a relational database through an object-oriented database interface,"j orenstein , d kamber",vldb,1995
+46,interviewing during a tight job market,,,2002
+47,"db2 common server : technology , progress , & directions",b lindsay,vldb,1995
+48,investigating xquery for querying across database object types,n wiegand,sigmod record,2002
+49,w3qs : a query system for the world-wide web,"d konopnicki , o shmueli",vldb,1995
+50,the design of a retrieval technique for high-dimensional data on tertiary storage,"r orlandic , j lukaszuk , c swietlik",sigmod record,2002
+51,oodb bulk loading revisited : the partitioned-list approach,"j wiener , j naughton",vldb,1995
+52,chair 's message,,,2002
+53,the double life of the transaction abstraction : fundamental principle and evolving system concept,h korth,vldb,1995
+54,combining fuzzy information : an overview,r fagin,sigmod record,2002
+55,databases and workflow management : what is it all about ? ( panel ),"a reuter , s ceri , j gray , b salzberg , g weikum",vldb,1995
+56,index concurrency control in firm real-time database systems,"b goyal , j haritsa , s seshadri , v srinivasan",vldb,1995
+57,a brief survey of web data extraction tools,"a laender , b ribeiro-neto , a silva , j teixeira",sigmod record,2002
+58,value-cognizant speculative concurrency control,"a bestavros , s braoudakis",vldb,1995
+59,data warehousing and business intelligence for e-commerce - book review,f goethals,sigmod record,2002
+60,data mining : concepts and techniques - book review,"f galiano , n marэn",sigmod record,2002
+61,a performance study of workfile disk management for concurrent mergesorts in a multiprocessor database system,"k wu , p yu , j chung , j teng",vldb,1995
+62,hot block clustering for disk arrays with dynamic striping,"k mogi , m kitsuregawa",vldb,1995
+63,book review column,k aberer,sigmod record,2002
+64,tods perceptions and misconceptions,r snodgrass,sigmod record,2002
+65,an approach for building secure database federations,"d jonscher , k dittrich",vldb,1994
+66,the cougar approach to in-network query processing in sensor networks,"y yao , j gehrke",sigmod record,2002
+67,dalэ : a high performance main memory storage manager,"h jagadish , d lieuwen , r rastogi , a silberschatz , s sudarshan",vldb,1994
+68,introduction to constraint databases - book review,,,2002
+69,"fast , randomized join-order selection - why use transformations ?","c galindo-legaria , a pellenkoft , m kersten",vldb,1994
+70,foundations of statistical natural language processing - book review,,,2002
+71,bulk loading into an oodb : a performance study,"j wiener , j naughton",vldb,1994
+72,efficient and effective clustering methods for spatial data mining,"r ng , j han",vldb,1994
+73,automata theory for xml researchers,f neven,sigmod record,2002
+74,database research at the university of illinois at urbana-champaign,"m winslett , k chang , a doan , j han , c zhai , y zhou",sigmod record,2002
+75,fast incremental indexing for full-text information retrieval,"e brown , j callan , w croft",vldb,1994
+76,chair 's message,,,2002
+77,a transaction replication scheme for a replicated database with node autonomy,"a fu , d cheung",vldb,1994
+78,treasurer 's message,,,2002
+79,a top-down approach for two level serializability,"m ouzzani , m atroun , n belkhodja",vldb,1994
+80,access to objects by path expressions and rules,"j frohn , g lausen , h uphoff",vldb,1994
+81,report on the mobile search workshop at www 2002,,,2002
+82,graphdb : modeling and querying graphs in databases,r gќting,vldb,1994
+83,report on the web dynamics workshop at www 2002,,,2002
+84,report on the 24th european colloquium on information retrieval research,,,2002
+85,database graph views : a practical model to manage persistent graphs,"a gutiщrrez , p pucheral , h steffen , j thщvenin",vldb,1994
+86,dual-buffering strategies in object bases,"a kemper , d kossmann",vldb,1994
+87,sql/med - a status report,"j melton , j michels , v josifovski , k kulkarni , p schwarz",sigmod record,2002
+88,hector garcia-molina speaks out,m winslett,,2002
+89,2q : a low overhead high performance buffer management replacement algorithm,"t johnson , d shasha",vldb,1994
+90,an effective deductive object-oriented database through language integration,"m barja , n paton , a fernandes , m williams , a dinn",vldb,1994
+91,toward autonomic computing with db2 universal database,"s lightstone , g lohman , d zilio",sigmod record,2002
+92,reminiscences on influential papers,,,2002
+93,an algebraic approach to rule analysis in expert database systems,"e baralis , j widom",vldb,1994
+94,report on the semantic web workshop at www 2002,,,2002
+95,fast algorithms for mining association rules in large databases,"r agrawal , r srikant",vldb,1994
+96,ontologies : a silver bullet for knowledge management and electronic commerce - book review,,,2002
+97,opossum : desk-top schema management through customizable visualization,"e haber , y ioannidis , m livny",vldb,1995
+98,the grid : an application of the semantic web,"c goble , d roure",sigmod record,2002

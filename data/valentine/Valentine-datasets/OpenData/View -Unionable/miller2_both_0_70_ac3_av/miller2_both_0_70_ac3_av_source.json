@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    }
+}

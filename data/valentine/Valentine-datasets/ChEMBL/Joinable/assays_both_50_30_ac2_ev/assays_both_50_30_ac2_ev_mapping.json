@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "Des"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "SASI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "ASCTY"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "CEI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_30_ac2_ev_target",
+            "target_column": "ASTI"
+        }
+    ]
+}

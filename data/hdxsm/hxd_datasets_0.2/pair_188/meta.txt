@@ -1,0 +1,14 @@
+64ae9593-af84-4adc-abd4-bc89f75396e2,Indicators_data_LY
+90cec8ab-bbb2-467d-9357-f12e99046ada,Indicators_data_CF
+---hxl_tags---
+#meta+category
+#indicator+name
+#indicator+description
+#indicator+type
+#geo+lat
+#geo+lon
+#region+code
+#country+code+v_iso2
+#country+name
+#date+year
+#indicator+value

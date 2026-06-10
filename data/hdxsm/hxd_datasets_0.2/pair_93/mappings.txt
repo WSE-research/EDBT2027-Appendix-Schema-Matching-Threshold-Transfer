@@ -1,0 +1,7 @@
+<"PROVINCE", "1#1#e#1_Admin 1">
+<"DISTRICT", "1#1#e#2_Admin 2">
+<"SUB-DISTRICT", "1#1#e#3_Admin 3">
+<"GPS COORDINATES LATITUDE", "1#1#f#2_GPS Lat">
+<"GPS COORDINATES LONGITUDE", "1#1#f#1_GPS Long">
+<"NO OF HOUSEHOLDS", "2#1#a#1_No# of Households">
+<"TOTAL INDIVIDUALS", "2#1#b#1_No# of Individuals">

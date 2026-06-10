@@ -1,0 +1,80 @@
+{
+    "miller2_FiYe": {
+        "type": "text"
+    },
+    "miller2_TraDevelo": {
+        "type": "int"
+    },
+    "miller2_Biod": {
+        "type": "int"
+    },
+    "miller2_UrbIss": {
+        "type": "int"
+    },
+    "miller2_ChiIs": {
+        "type": "int"
+    },
+    "miller2_YouIss": {
+        "type": "int"
+    },
+    "miller2_IndigIs": {
+        "type": "int"
+    },
+    "miller2_DisabIss": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFoDeve": {
+        "type": "int"
+    },
+    "miller2_KnowFDeve": {
+        "type": "int"
+    },
+    "miller2_GenEq": {
+        "type": "int"
+    },
+    "miller2_OrgaID": {
+        "type": "text"
+    },
+    "miller2_OrgN": {
+        "type": "text"
+    },
+    "miller2_OrgaT": {
+        "type": "text"
+    },
+    "miller2_OrgCla": {
+        "type": "text"
+    },
+    "miller2_OrgaS": {
+        "type": "text"
+    },
+    "miller2_ContID": {
+        "type": "int"
+    },
+    "miller2_ContiNa": {
+        "type": "text"
+    },
+    "miller2_ProBrowCounID": {
+        "type": "text"
+    },
+    "miller2_CounRegID": {
+        "type": "text"
+    },
+    "miller2_CoRegNa": {
+        "type": "text"
+    },
+    "miller2_CounRegPerc": {
+        "type": "real"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SeNa": {
+        "type": "text"
+    },
+    "miller2_SePe": {
+        "type": "real"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    }
+}

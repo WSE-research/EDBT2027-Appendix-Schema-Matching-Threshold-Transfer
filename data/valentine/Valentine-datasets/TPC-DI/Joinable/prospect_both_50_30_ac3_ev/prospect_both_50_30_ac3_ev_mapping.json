@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "mrtlstts"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "nmbrchldrn"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "g"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "ddrssln2"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac3_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_50_30_ac3_ev_target",
+            "target_column": "ntwrth"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+Governorate,District,Sub-district,Latitude,Longitude,Households,Individuals
+Ninewa,Mosul,Al-Qayara,35.8071551,43.2297186,42,252
+Anbar,Falluja,Al-Garma,33.4101713,43.9150921,225,1350
+Diyala,Al-Khalis,Al-Mansouriyah,34.0811573455,44.953768167,420,2520
+Ninewa,Hatra,Markaz Hatra,35.807841,43.053191,55,330
+Ninewa,Mosul,Al-Shura,36.0438043,43.3117131,153,918
+Anbar,Al-Ka'im,Markaz Al-Ka'im,34.3791285634,41.0003782375,1193,7158
+Baghdad,Abu Ghraib,Khan Dhari,33.157084,43.970445,175,1050
+Diyala,Khanaqin,Jalula,34.284167,45.1627800378,411,2466
+Ninewa,Telafar,Zummar,36.658,42.5309214541,37,222
+Ninewa,Telafar,Rubiya,36.7634314,42.0645637,421,2526
+Baghdad,Abu Ghraib,Al-Nasir Walsalam,33.2119979,43.9139655,415,2490
+Diyala,Al-Khalis,Al A'dheem,34.04021194,44.3724933008,140,840
+Anbar,Ramadi,Markaz Ramadi,33.4099541,43.1813843,97,582
+Salah al-Din,Tuz Khurmatu,Al-Amerli,34.818984,44.557499,376,2256
+Baghdad,Tarmia,Meshahda,33.6305245623,44.2597372167,30,180
+Ninewa,Al-Hamdaniya,Al-Namroud,36.1398074,43.4072592,100,600
+Diyala,Al-Muqdadiya,Markaz Al-Muqdadiya,33.98346,44.9383385233,67,402
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.375851,43.937752,60,360
+Baghdad,Mahmoudiya,Al-Latifya,32.9793885878,44.3765682234,40,240
+Anbar,Falluja,Markaz Falluja,33.374222671,43.7444589607,401,2406
+Kirkuk,Al-Hawiga,Al-Riyad,35.270389,43.9115406,1385,8310
+Salah al-Din,Samarra,Markaz Samarra,34.3006554,43.7835599,488,2928
+Ninewa,Mosul,Markaz Mosul,36.3504896017,43.0968497031,384,2304
+Ninewa,Mosul,Al-Qayara,35.8291724,43.3288526,261,1566
+Salah al-Din,Tikrit,Markaz Tikrit,34.6104177,43.6797637,728,4368
+Ninewa,Sinjar,Markaz Sinjar,36.3166485,41.8620762,284,1704
+Diyala,Khanaqin,Jalula,34.3110498,45.0789541185,95,570
+Ninewa,Al-Ba'aj,Markaz Al-Ba'aj,36.04082,41.71068,200,1200
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.392802,43.9689138185,100,600
+Ninewa,Mosul,Markaz Mosul,36.3475650862,43.1291533196,709,4254
+Ninewa,Telafar,Zummar,37.0349,42.3676,100,600
+Baghdad,Kadhimia,Sab'a Al-Bour,33.4593887,44.1717887,130,780
+Diyala,Khanaqin,As-Saadia,34.170099,45.132411157,485,2910
+Ninewa,Al-Hamdaniya,Al-Namroud,36.190206,43.4740241227,216,1296
+Anbar,Ramadi,Markaz Ramadi,33.4404787,43.3289589,1814,10884
+Baghdad,Tarmia,Meshahda,33.665043602,44.1797576295,114,684
+Ninewa,Hatra,Markaz Hatra,35.7873289,42.9995799,83,498
+Ninewa,Hatra,Altal,35.911,42.311221,90,540
+Diyala,Al-Khalis,Al A'dheem,34.1150163892,44.4136376503,13,78
+Salah al-Din,Tuz Khurmatu,Markaz Tuz Khurmatu,34.8796816,44.614913,58,348
+Ninewa,Al-Ba'aj,Al-Qahtaniya,36.099946,41.632005,24,144
+Kirkuk,Al-Hawiga,Al-Abassy,35.24881,43.572229098,120,720
+Anbar,Heet,Markaz Heet,33.6456344,42.8014031,275,1650
+Anbar,Ana,Markaz Ana,34.4694571786,41.7401498834,124,744
+Ninewa,Mosul,Hamam al Aleel,36.044106,43.04611,7,42
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.3354657097,43.8408476234,47,282
+Ninewa,Hatra,Altal,36.008613,42.408457,8,48
+Kirkuk,Al-Hawiga,Al-Zab,35.4767572,43.7552965,686,4116
+Anbar,Al-Rutba,Markaz Al-Rutba,33.0396642122,40.2836526192,295,1770
+Ninewa,Mosul,Markaz Mosul,36.43099,42.8397424276,94,564
+Baghdad,Tarmia,Meshahda,33.6339445752,44.192900678,77,462
+Baghdad,Tarmia,Meshahda,33.6575715136,44.157687493,37,222
+Salah al-Din,Tikrit,Al-Alam,34.7307565,43.6988208,750,4500
+Ninewa,Telafar,Rubiya,36.7939514849,42.1772325194,313,1878
+Ninewa,Al-Ba'aj,Markaz Al-Ba'aj,36.015955,41.826559,44,264
+Ninewa,Telafar,Zummar,36.4753,42.6687409622,200,1200
+Salah al-Din,Tuz Khurmatu,Al-Amerli,34.5835127,44.647931,49,294
+Salah al-Din,Tuz Khurmatu,Al-Amerli,34.72491,44.590226,20,120
+Ninewa,Al-Hamdaniya,Bartalla,36.2993,43.2624207489,135,810
+Ninewa,Sinjar,Qaeyrrawan,36.163051,42.023975,90,540
+Salah al-Din,Al-Shirqat,Markaz Al-Shirqat,35.5109178275,43.2337180374,1236,7416
+Ninewa,Mosul,Markaz Mosul,36.3765144298,43.1833020956,387,2322
+Ninewa,Mosul,Markaz Mosul,36.439177,42.847012,124,744
+Ninewa,Hatra,Altal,35.9842012,42.3018258,42,252
+Diyala,Khanaqin,Jalula,34.2972075621,45.1711482752,75,450
+Ninewa,Telafar,Zummar,36.9757,42.3465,100,600
+Diyala,Al-Muqdadiya,Markaz Al-Muqdadiya,34.03704,44.9276642879,91,546
+Ninewa,Mosul,Markaz Mosul,36.3561410986,43.0876423608,1660,9960
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.322852,43.7995924,111,666
+Erbil,Makhmur,Markaz Makhmur,35.77564291,43.5842275258,668,4008
+Baghdad,Abu Ghraib,Khan Dhari,33.1957843,43.9346307,116,696
+Ninewa,Hatra,Altal,35.962395,42.468594,20,120
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.407058,44.010871,22,132
+Ninewa,Hatra,Markaz Hatra,35.77036,42.94705,35,210
+Kirkuk,Kirkuk,Markaz Kirkuk,35.3984385381,44.4154355333,500,3000
+Ninewa,Sinjar,Markaz Sinjar,36.2973223,41.8724715,36,216
+Ninewa,Telafar,Markaz Telafar,36.400643,42.529265,276,1656
+Anbar,Falluja,Al-Garma,33.3724597,43.9439908,1390,8340
+Salah al-Din,Tikrit,Markaz Tikrit,34.701161,43.6092194,187,1122
+Ninewa,Al-Hamdaniya,Markaz Al-Hamdaniya,36.301215,43.4122634,500,3000
+Kirkuk,Al-Hawiga,Markaz Al-Hawiga,35.3852275,43.7240313,46,276
+Salah al-Din,Tikrit,Al-Alam,34.687550089,43.7176952396,45,270
+Ninewa,Al-Shikhan,Markaz Al-Shikhan,36.5659843,43.253173,26,156
+Salah al-Din,Al-Shirqat,Markaz Al-Shirqat,35.4167488,43.4021001,27,162
+Ninewa,Mosul,Hamam al Aleel,36.158164,42.971938,100,600
+Anbar,Heet,Kubaisa,33.587898,42.6247521,193,1158
+Ninewa,Telafar,Rubiya,36.8081581141,42.0837072961,410,2460
+Kirkuk,Al-Hawiga,Al-Abassy,35.1260535,43.5553107,33,198
+Ninewa,Mosul,Baashiqa,36.457312,43.3383096075,3300,19800
+Ninewa,Mosul,Al- Muhalabiya,36.10441,42.6377830227,21,126
+Kirkuk,Kirkuk,Al-Multaqa,35.4187908,44.0940697,30,180
+Salah al-Din,Baiji,Al-Siniya,34.9288565,43.4638371,195,1170
+Ninewa,Sinjar,Qaeyrrawan,36.250766,41.969832,32,192
+Ninewa,Al-Hamdaniya,Markaz Al-Hamdaniya,36.2693559,43.5048546,124,744
+Diyala,Al-Khalis,Al-Mansouriyah,34.0793607296,44.9616735152,146,876
+Baghdad,Mahmoudiya,Al-Latifya,32.9541987727,44.417579753,121,726
+Baghdad,Mahmoudiya,Al-Yousifya,33.03191,44.14642,190,1140
+Ninewa,Sinjar,Al-Shamal,36.4178462,41.8808041,67,402
+Ninewa,Sinjar,Qaeyrrawan,36.2571643,42.017056,626,3756
+Ninewa,Mosul,Al- Muhalabiya,36.22532,42.73427,137,822

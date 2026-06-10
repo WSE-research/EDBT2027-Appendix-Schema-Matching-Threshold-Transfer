@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    }
+}

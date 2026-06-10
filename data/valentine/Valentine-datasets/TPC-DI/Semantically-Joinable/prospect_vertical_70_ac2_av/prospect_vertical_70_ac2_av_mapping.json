@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "AgeID"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "CrRa"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "AddLi1"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "State",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "Sta"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "NWo"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "City",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "C"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "Age",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "Ag"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "Coun"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "Ph"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "NumChi"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "FirN"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "OORF"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "NumCrCa"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "In"
+        },
+        {
+            "source_table": "prospect_vertical_70_ac2_av_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_vertical_70_ac2_av_target",
+            "target_column": "NumC"
+        }
+    ]
+}

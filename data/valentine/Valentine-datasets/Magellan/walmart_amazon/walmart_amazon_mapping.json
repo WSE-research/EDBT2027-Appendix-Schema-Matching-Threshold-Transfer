@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "id",
+            "target_table": "walmart_amazon_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "title",
+            "target_table": "walmart_amazon_target",
+            "target_column": "title"
+        },
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "category",
+            "target_table": "walmart_amazon_target",
+            "target_column": "category"
+        },
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "brand",
+            "target_table": "walmart_amazon_target",
+            "target_column": "brand"
+        },
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "modelno",
+            "target_table": "walmart_amazon_target",
+            "target_column": "modelno"
+        },
+        {
+            "source_table": "walmart_amazon_source",
+            "source_column": "price",
+            "target_table": "walmart_amazon_target",
+            "target_column": "price"
+        }
+    ]
+}

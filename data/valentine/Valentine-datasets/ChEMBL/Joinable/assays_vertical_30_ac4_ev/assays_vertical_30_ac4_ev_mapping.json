@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_ASI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_CURAB"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_Ti"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_ASSTI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_ASSCA"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_ev_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_30_ac4_ev_target",
+            "target_column": "assays_Descr"
+        }
+    ]
+}

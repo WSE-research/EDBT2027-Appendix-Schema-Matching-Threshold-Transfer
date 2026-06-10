@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_gncd"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_frstnm"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_phn"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_nmbrcrs"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_stt"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac5_ev_source",
+            "source_column": "City",
+            "target_table": "prospect_both_50_30_ac5_ev_target",
+            "target_column": "prospect_ct"
+        }
+    ]
+}

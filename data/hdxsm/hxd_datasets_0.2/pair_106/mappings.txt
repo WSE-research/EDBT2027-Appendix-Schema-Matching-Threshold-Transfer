@@ -1,0 +1,7 @@
+<"Date_enquete phase 2", "Date_R2">
+<"Province", "Nom Province">
+<"Admin1_Code", "Admin1_Code">
+<"Territoire", "Nom Territoire">
+<"Admin2_Code", "Admin2_Code">
+<"TOTAL PDI A JOUR", "Individus deplace">
+<"TOTAL IND RET A JOUR", "nbre_individus_retournes">

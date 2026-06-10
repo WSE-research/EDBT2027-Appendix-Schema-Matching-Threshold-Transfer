@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_AddrL1"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_MiIni"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_NumCreCa"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_LN"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_vertical_30_ac4_av_target",
+            "target_column": "prospect_Ph"
+        }
+    ]
+}

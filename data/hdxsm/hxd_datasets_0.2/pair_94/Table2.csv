@@ -1,0 +1,101 @@
+SvyDate,ADM0_NAME,ADM1_NAME,ADM2_NAME,AdminStrata,Variable,VariableDescription,Demographic,Mean
+2015-10-01T00:00:00,Guinea,,,N'Zerekore,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.8629
+2015-10-01T00:00:00,Guinea,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Bush pit latrine",0.65931
+2015-11-01T00:00:00,Guinea,,,Kindia,Sentiment,Sentiment of free response statement,,0.01376
+2019-02-01T00:00:00,Guinea,,,Guinea,Dairy,# of days household eating this food item per week,,1.69571
+2017-12-01T00:00:00,Guinea,,,Faranah,FCS,food consumption score,,52.13366
+2015-11-01T00:00:00,Guinea,,,,BorrowOrHelp,# of days household using this coping strategy per week,Shared flush toilet,1.59605
+2016-02-01T00:00:00,Guinea,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"M,Shared flush toilet",0.55473
+2017-12-01T00:00:00,Guinea,,,,LimitPortionSize,# of days household using this coping strategy per week,Latrine,1.41319
+2015-11-01T00:00:00,Guinea,,,Guinea,ManLbr,Daily wages for manual labor,,23724.38673
+2015-08-01T00:00:00,Guinea,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.58837
+2015-11-01T00:00:00,Guinea,,,Boke,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.59
+2015-10-01T00:00:00,Guinea,,,Mamou,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.88
+2015-06-01T00:00:00,Guinea,,,Lower,BorrowOrHelp,# of days household using this coping strategy per week,,2.39819
+2015-12-01T00:00:00,Guinea,,,,rCSI2,,"F,Bush pit latrine",16.71375
+2015-12-01T00:00:00,Guinea,,,Kankan,ImpRiceCup,Price of Imported Rice Cup,,4338.71795
+2016-12-01T00:00:00,Guinea,,,,ReduceNumMeals,# of days household using this coping strategy per week,M,1.63423
+2017-12-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,11-20Large,0.77234
+2015-12-01T00:00:00,Guinea,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Shared flush toilet",0.67085
+2016-02-01T00:00:00,Guinea,,,Faranah,LocRiceCup,Price of Local Rice Cup,,4967.5
+2019-02-01T00:00:00,Guinea,,,Boke,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.79819
+2016-02-01T00:00:00,Guinea,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Own flush toilet,0.56556
+2019-02-01T00:00:00,Guinea,,,Boke,ReduceNumMeals,# of days household using this coping strategy per week,,1.70783
+2015-11-01T00:00:00,Guinea,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Own flush toilet",0.59489
+2019-02-01T00:00:00,Guinea,,,,Pulses,# of days household eating this food item per week,F,2.56252
+2019-02-01T00:00:00,Guinea,,,Boke,Dairy,# of days household eating this food item per week,,1.74699
+2017-12-01T00:00:00,Guinea,,,Boke,BorrowOrHelp,# of days household using this coping strategy per week,,0.90909
+2015-10-01T00:00:00,Guinea,,,Kindia,PalmOil,Price of Palm Oil half pint,,4611.45833
+2015-11-01T00:00:00,Guinea,,,Mamou,BorrowOrHelp,# of days household using this coping strategy per week,,1.62
+2015-09-01T00:00:00,Guinea,,,,rCSI,reduced coping strategy,"M,Shared flush toilet",15.5777
+2015-11-01T00:00:00,Guinea,,,Faranah,rCSI2>=1,,,0.82
+2015-10-01T00:00:00,Guinea,,,Conakry,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.816
+2017-12-01T00:00:00,Guinea,,,,Staples,,Tole,6.90286
+2015-11-01T00:00:00,Guinea,,,Guinea,BorrowOrHelp,# of days household using this coping strategy per week,,1.55407
+2016-02-01T00:00:00,Guinea,,,Boke,ReduceNumMeals,# of days household using this coping strategy per week,,1.68
+2016-02-01T00:00:00,Guinea,,,Mamou,ToT_ImpRiceCup,terms of trade for imported rice cup (manual Labor wage/imported rice cup price),,5.69333
+2015-12-01T00:00:00,Guinea,,,,rCSI2,,M,13.02258
+2017-12-01T00:00:00,Guinea,,,,Meat,# of days household eating this food item per week,Forage,5.19811
+2015-09-01T00:00:00,Guinea,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"M,Shared flush toilet",0.62153
+2015-06-01T00:00:00,Guinea,,,Lower,Sentiment,Sentiment of free response statement,,-0.05267
+2016-12-01T00:00:00,Guinea,,,Labe,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.34
+2016-12-01T00:00:00,Guinea,,,,Meat,# of days household eating this food item per week,toiletteavecchasse,5.16819
+2016-02-01T00:00:00,Guinea,,,Boke,BorrowOrHelp,# of days household using this coping strategy per week,,1.29
+2015-08-01T00:00:00,Guinea,,,N'Zerekore,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.81065
+2017-12-01T00:00:00,Guinea,,,,Sugars,,M,2.03931
+2015-11-01T00:00:00,Guinea,,,Labe,LocRiceCup,Price of Local Rice Cup,,5298.5
+2017-12-01T00:00:00,Guinea,,,,Meat,# of days household eating this food item per week,Aucun,3.53267
+2015-06-01T00:00:00,Guinea,,,,rCSI,reduced coping strategy,"M,Shared flush toilet",18.36299
+2015-09-01T00:00:00,Guinea,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Own flush toilet",0.61759
+2015-12-01T00:00:00,Guinea,,,Faranah,ManLbr,Daily wages for manual labor,,21224.4898
+2017-12-01T00:00:00,Guinea,,,Boke,FCS,food consumption score,,53.75108
+2015-07-01T00:00:00,Guinea,,,N'Zerekore,BorrowOrHelp,# of days household using this coping strategy per week,,2.03846
+2015-06-01T00:00:00,Guinea,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Cement pit latrine",0.70753
+2016-12-01T00:00:00,Guinea,,,Labe,ReduceNumMeals,# of days household using this coping strategy per week,,2.124
+2017-12-01T00:00:00,Guinea,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Puit,0.43745
+2016-02-01T00:00:00,Guinea,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Bush pit latrine",0.7648
+2015-12-01T00:00:00,Guinea,,,Kankan,RestrictConsumption2,,,1.51795
+2019-02-01T00:00:00,Guinea,,,Labe,Sugars,,,4.32558
+2016-02-01T00:00:00,Guinea,,,N'Zerekore,rCSI2,,,12.888
+2017-12-01T00:00:00,Guinea,,,N'Zerekore,Fats,,,6.21662
+2015-12-01T00:00:00,Guinea,,,Faranah,rCSI,reduced coping strategy,,14.01
+2019-02-01T00:00:00,Guinea,,,Kankan,Dairy,# of days household eating this food item per week,,1.55667
+2015-11-01T00:00:00,Guinea,,,Labe,RestrictConsumption2>=1,,,0.58
+2015-06-01T00:00:00,Guinea,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Cement pit latrine",0.94296
+2015-11-01T00:00:00,Guinea,,,,rCSI2,,F,14.25373
+2015-12-01T00:00:00,Guinea,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"F,Shared flush toilet",0.65036
+2016-02-01T00:00:00,Guinea,,,N'Zerekore,ToT_LocRiceCup,terms of trade for local rice cup (manual Labor wage/local rice cup price),,4.32614
+2017-12-01T00:00:00,Guinea,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Aucun,0.47269
+2017-12-01T00:00:00,Guinea,,,Guinea,NiebeKG,,,10800.32202
+2016-02-01T00:00:00,Guinea,,,Mamou,BorrowOrHelp,# of days household using this coping strategy per week,,1.56
+2015-10-01T00:00:00,Guinea,,,,ManLbr,Daily wages for manual labor,"M,Cement pit latrine",23313.4238
+2016-12-01T00:00:00,Guinea,,,Labe,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.64
+2017-12-01T00:00:00,Guinea,,,,Sugars,,Latrine,2.0028
+2016-12-01T00:00:00,Guinea,,,,Pulses,# of days household eating this food item per week,F,2.06722
+2017-12-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,PetitCommerceMetier,0.7156
+2015-06-01T00:00:00,Guinea,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"M,Bush pit latrine",0.92723
+2016-12-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,toiletteavecchasse,0.75515
+2015-09-01T00:00:00,Guinea,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"M,Own flush toilet",0.58403
+2016-02-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,Cement pit latrine,0.81112
+2015-09-01T00:00:00,Guinea,,,Upper,ManLbr,Daily wages for manual labor,,24246.57534
+2017-12-01T00:00:00,Guinea,,,,FCG==3,prevalence-->food consumption group = acceptable,Aucun,0.74931
+2017-12-01T00:00:00,Guinea,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Oui,0.34565
+2017-12-01T00:00:00,Guinea,,,,Fats,,SemiDur,5.68096
+2015-10-01T00:00:00,Guinea,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Bush pit latrine,0.67479
+2015-12-01T00:00:00,Guinea,,,Kankan,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.76804
+2015-10-01T00:00:00,Guinea,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,"M,Shared flush toilet",0.58
+2015-12-01T00:00:00,Guinea,,,,rCSI2>=1,,F,0.85352
+2015-06-01T00:00:00,Guinea,,,Guinea,ToT_ImpRiceCup,terms of trade for imported rice cup (manual Labor wage/imported rice cup price),,5.68274
+2017-12-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,PailleRafia,0.80184
+2017-12-01T00:00:00,Guinea,,,Conakry,NiebeKG,,,14298.01977
+2017-12-01T00:00:00,Guinea,,,,FCG==2,prevalence-->food consumption group = borderline,SalariePublic,0.088
+2015-10-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,Cement pit latrine,0.90773
+2015-11-01T00:00:00,Guinea,,,N'Zerekore,BorrowOrHelp,# of days household using this coping strategy per week,,1.912
+2015-09-01T00:00:00,Guinea,,,N'Zerekore,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.72956
+2017-12-01T00:00:00,Guinea,,,,LessExpensiveFood,# of days household using this coping strategy per week,ToiletteAmelioree,0.82743
+2019-02-01T00:00:00,Guinea,,,Conakry,FCG==1,prevalence-->food consumption group = poor,,0.02658
+2015-12-01T00:00:00,Guinea,,,Boke,PalmOil,Price of Palm Oil half pint,,4825.75758
+2015-11-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.84549
+2017-12-01T00:00:00,Guinea,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,Latrine,0.77172
+2016-02-01T00:00:00,Guinea,,,Kankan,rCSI2>=1,,,0.73711
+2017-12-01T00:00:00,Guinea,,,Conakry,Staples,,,6.84789

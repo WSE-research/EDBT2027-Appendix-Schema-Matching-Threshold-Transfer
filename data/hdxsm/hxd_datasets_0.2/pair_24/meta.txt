@@ -1,0 +1,14 @@
+dbc965d8-473e-4816-8262-e64b491ca173,DTM Nigeria Baseline Assessment Round 37
+25be74fe-a802-4d53-9503-266a3e8b5b0e,DTM Nigeria Location Assessment Round 40
+---hxl_tags---
+#date+reported
+#date+occurred
+#country+name
+#country+code
+#adm1+name
+#adm1+name
+#adm1+code
+#adm2+code
+#adm2+name
+#affected+idps+hh
+#affected+idps+ind

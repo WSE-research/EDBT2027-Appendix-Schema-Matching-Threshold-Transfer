@@ -1,0 +1,7 @@
+e897d5ff-7274-43e3-867c-af80ee3d4b38,Demographic and Socio-economic data
+c740588a-4a43-4d2c-a733-30bbccc0e01c,Social Protection and Labor Indicators for Turkey
+---hxl_tags---
+#indicator+code
+#country+code
+#date+year
+#indicator+value+num

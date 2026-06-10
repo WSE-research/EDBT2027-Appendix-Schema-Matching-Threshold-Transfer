@@ -1,0 +1,101 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    }
+}

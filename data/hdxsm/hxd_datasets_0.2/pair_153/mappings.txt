@@ -1,0 +1,5 @@
+<"Governorate", "Governorate">
+<"District", "District">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"ID Pindividuals", "Individuals">

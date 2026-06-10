@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "CUB"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "ASSUBCELFRAC"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "ASTI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "TISI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "Desc"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "Ti"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "ASORG"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "DI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "BAFO"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_50_ac2_ev_target",
+            "target_column": "ASSST"
+        }
+    ]
+}

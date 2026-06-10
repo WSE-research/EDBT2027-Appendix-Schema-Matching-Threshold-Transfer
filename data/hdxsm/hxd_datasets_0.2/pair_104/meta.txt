@@ -1,0 +1,10 @@
+81afa4e3-204e-4ff6-bc86-87615419ffd2,DTM DRC BA Lomami Oct2018 R2
+1d17ed78-5d7d-41cd-8dac-f783ef4a84fb,DTM DRC BA Tanganyika Sep2021 R12
+---hxl_tags---
+#date+occurred
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#affected+idps+ind
+#affected+returnees+ind

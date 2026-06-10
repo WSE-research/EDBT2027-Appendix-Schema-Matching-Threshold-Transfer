@@ -1,0 +1,116 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    }
+}

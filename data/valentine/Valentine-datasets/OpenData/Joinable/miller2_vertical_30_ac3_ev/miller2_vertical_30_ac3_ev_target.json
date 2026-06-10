@@ -1,0 +1,101 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "sctnd": {
+        "type": "text"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "trddvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "brnchd": {
+        "type": "text"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "cdbsnssdlvrmdl(ld)": {
+        "type": "text"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "prjctnmbr": {
+        "type": "text"
+    },
+    "ntdmnt(prjct-lvlbdgt)": {
+        "type": "real"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "rbnsss(mrkr)": {
+        "type": "int"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "sctrnm": {
+        "type": "text"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "mntspnt": {
+        "type": "real"
+    }
+}

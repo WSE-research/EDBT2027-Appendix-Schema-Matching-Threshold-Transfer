@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_test_type"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_organism"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_category"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_type"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "relationship_type"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "curated_by"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_tissue"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "assay_tax_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "description"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "tid"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "variant_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "src_assay_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "src_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "doc_id"
+        },
+        {
+            "source_table": "assays_both_50_70_ec_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_50_70_ec_ev_target",
+            "target_column": "bao_format"
+        }
+    ]
+}

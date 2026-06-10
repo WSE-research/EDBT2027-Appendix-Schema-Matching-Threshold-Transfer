@@ -1,0 +1,131 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "sctnnm": {
+        "type": "text"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "rbnsss(mrkr)": {
+        "type": "int"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "dvsnd": {
+        "type": "text"
+    },
+    "trddvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "mxmmcdcntrbtn(prjct-lvl)": {
+        "type": "real"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "prgrmmngprcss(nw)": {
+        "type": "text"
+    },
+    "clmtchngdpttn(mrkr)": {
+        "type": "int"
+    },
+    "cdbsnssdlvrmdl(ld)": {
+        "type": "text"
+    },
+    "brnchd": {
+        "type": "text"
+    },
+    "mntspnt": {
+        "type": "real"
+    },
+    "fndcntrnm": {
+        "type": "text"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "sctnd": {
+        "type": "text"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "prjctnmbr": {
+        "type": "text"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "fndcntrd": {
+        "type": "int"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "dsrtfctn(mrkr)": {
+        "type": "int"
+    },
+    "brnchnm": {
+        "type": "text"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "nvrmntlsstnblt(mrkr)": {
+        "type": "int"
+    },
+    "clmtchngmtgtn(mrkr)": {
+        "type": "int"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "sctrnm": {
+        "type": "text"
+    }
+}

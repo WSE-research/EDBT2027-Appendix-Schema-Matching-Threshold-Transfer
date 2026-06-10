@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "wnrrntflg"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "frstnm"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "mrtlstts"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "pstlcd"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac3_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_30_ac3_ev_target",
+            "target_column": "ntwrth"
+        }
+    ]
+}

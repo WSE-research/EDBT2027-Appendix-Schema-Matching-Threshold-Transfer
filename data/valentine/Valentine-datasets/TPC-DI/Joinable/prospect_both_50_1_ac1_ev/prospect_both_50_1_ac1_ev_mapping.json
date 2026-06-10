@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_1_ac1_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_1_ac1_ev_target",
+            "target_column": "prospect_AgencyID"
+        }
+    ]
+}

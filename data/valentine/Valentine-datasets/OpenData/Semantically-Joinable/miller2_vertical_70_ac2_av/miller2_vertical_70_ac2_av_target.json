@@ -1,0 +1,131 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "FSTCPe": {
+        "type": "real"
+    },
+    "UntAmoPrBud": {
+        "type": "real"
+    },
+    "ICTAATFDev": {
+        "type": "int"
+    },
+    "OrganiT": {
+        "type": "text"
+    },
+    "DiID": {
+        "type": "text"
+    },
+    "DiviNa": {
+        "type": "text"
+    },
+    "ProjNum": {
+        "type": "text"
+    },
+    "SecID": {
+        "type": "text"
+    },
+    "ClChMiti": {
+        "type": "int"
+    },
+    "OrgaN": {
+        "type": "text"
+    },
+    "CouRePe": {
+        "type": "real"
+    },
+    "PBATy": {
+        "type": "text"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "OrganiCla": {
+        "type": "text"
+    },
+    "SeNa": {
+        "type": "text"
+    },
+    "ProgPr": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "GeEqua": {
+        "type": "int"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "CIDABusDelMod": {
+        "type": "text"
+    },
+    "Deserti": {
+        "type": "int"
+    },
+    "FCenN": {
+        "type": "text"
+    },
+    "SePe": {
+        "type": "real"
+    },
+    "BilaAMa": {
+        "type": "int"
+    },
+    "OrgS": {
+        "type": "text"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "ChIs": {
+        "type": "int"
+    },
+    "St": {
+        "type": "text"
+    },
+    "ClimChAda": {
+        "type": "int"
+    },
+    "BrID": {
+        "type": "text"
+    },
+    "EnvSust": {
+        "type": "int"
+    },
+    "RePr": {
+        "type": "int"
+    },
+    "KnowFDeve": {
+        "type": "int"
+    },
+    "IndIs": {
+        "type": "int"
+    },
+    "DisabIs": {
+        "type": "int"
+    },
+    "OrgID": {
+        "type": "text"
+    },
+    "ContNa": {
+        "type": "text"
+    },
+    "ProjBroCounID": {
+        "type": "text"
+    },
+    "CouReID": {
+        "type": "text"
+    },
+    "CouReNa": {
+        "type": "text"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

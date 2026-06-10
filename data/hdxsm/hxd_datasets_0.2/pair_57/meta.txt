@@ -1,0 +1,22 @@
+230fb62d-80ad-49db-8420-2504a81860e7,DTM Nigeria Location Assessment Round 34
+c8590b8c-62ff-4407-9e86-d71add1e26a0,DTM Nigeria Site Assessment Round 23
+---hxl_tags---
+#meta+round
+#adm1+code
+#adm1+Name
+#adm2+code
+#adm2+name
+#adm3+code
+#adm3+name
+#geo+lon
+#geo+lat
+#indicator+site+management+bool
+#indicator+registration+bool
+#indicator+wash+bool
+#indicator+health+bool
+#indicator+shelter+nfi+bool
+#indicator+food+bool
+#indicator+protection+bool
+#indicator+education+bool
+#indicator+livelihood+bool
+#indicator+common_shelter+type

@@ -1,0 +1,116 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "PartDevAGGover": {
+        "type": "int"
+    },
+    "EnviSust": {
+        "type": "int"
+    },
+    "DiviN": {
+        "type": "text"
+    },
+    "OrgTy": {
+        "type": "text"
+    },
+    "SecPe": {
+        "type": "real"
+    },
+    "ClimChMit": {
+        "type": "int"
+    },
+    "ConNa": {
+        "type": "text"
+    },
+    "PBAT": {
+        "type": "text"
+    },
+    "PrNum": {
+        "type": "text"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "MaxiCIDACon": {
+        "type": "real"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "FuCenID": {
+        "type": "int"
+    },
+    "UnAmProBud": {
+        "type": "real"
+    },
+    "FSTCPe": {
+        "type": "real"
+    },
+    "YouIss": {
+        "type": "int"
+    },
+    "DiID": {
+        "type": "text"
+    },
+    "OrganCla": {
+        "type": "text"
+    },
+    "ClChAdapt": {
+        "type": "int"
+    },
+    "OrganiN": {
+        "type": "text"
+    },
+    "CounRegPe": {
+        "type": "real"
+    },
+    "CIDABusDeliMod": {
+        "type": "text"
+    },
+    "St": {
+        "type": "text"
+    },
+    "IndIss": {
+        "type": "int"
+    },
+    "DisabIs": {
+        "type": "int"
+    },
+    "ICTAATFDevel": {
+        "type": "int"
+    },
+    "KnowlFoDevelo": {
+        "type": "int"
+    },
+    "GenEqu": {
+        "type": "int"
+    },
+    "OrgaID": {
+        "type": "text"
+    },
+    "OrganiSu": {
+        "type": "text"
+    },
+    "ConID": {
+        "type": "int"
+    },
+    "PrBrCounID": {
+        "type": "text"
+    },
+    "CounRegID": {
+        "type": "text"
+    },
+    "CouRegNa": {
+        "type": "text"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "AmoSp": {
+        "type": "real"
+    }
+}

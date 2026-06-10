@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASSORGA"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASSSUBCEFRA"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "CONFSCO"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASCET"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "VARII"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASSTTY"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "RELAT"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASTIS"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASTY"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "Descr"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "DOI"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "CURAB"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "ASCA"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "BAFOR"
+        },
+        {
+            "source_table": "assays_both_50_70_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_70_ac2_av_target",
+            "target_column": "CEI"
+        }
+    ]
+}

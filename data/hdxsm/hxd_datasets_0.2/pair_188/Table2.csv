@@ -1,0 +1,101 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,7,21,289,CF,Central african republic,2005,43
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,7,21,289,CF,Central african republic,1995,123.04
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,7,21,289,CF,Central african republic,2000,91.9
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,4.366644,18.558288,289,CF,Bangui,2013,792000
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,7,21,289,CF,Central african republic,2000,39
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,7,21,289,CF,Central african republic,1994,72.8
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,2007,1665
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1995,2.27
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1955,1.61
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,7,21,289,CF,Central african republic,2020,42460
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,7,21,289,CF,Central african republic,2007,1551
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1956,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1977,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2033,1.16
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,2035,3410
+Population,population_capital_cities,Population of capital cities,1000,4.366644,18.558288,289,CF,Bangui,2007,672
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,7,21,289,CF,Central african republic,2009,95.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1986,2.32
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,7,21,289,CF,Central african republic,2015,124882
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2035,1.06
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,1960,1223
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,7,21,289,CF,Central african republic,1994,24.8
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,7,21,289,CF,Central african republic,1994,20.3
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,4.366644,18.558288,289,CF,Bangui,2013,6
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2013,1.78
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1997,2.27
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,1985,952
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,7,21,289,CF,Central african republic,1980,17
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,2010,0.41
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,7,21,289,CF,Central african republic,2020,63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1975,2.46
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,7,21,289,CF,Central african republic,1985,27
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2006,1.83
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2010,2804
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2022,1.41
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2040,0.96
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,7,21,289,CF,Central african republic,1995,192.9
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,7,21,289,CF,Central african republic,2007,70.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,2035,0.36
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,1955,1.63
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,1950,1125
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,7,21,289,CF,Central african republic,1995,37
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1979,2.46
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,7,21,289,CF,Central african republic,2010,23076
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,7,21,289,CF,Central african republic,1995,26
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,7,21,289,CF,Central african republic,2000,2
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,2040,0.34
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,1955,1171
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2046,0.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1950,1.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2008,1.83
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,2000,1454
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2018,1.58
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1983,2.79
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2007,2677
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1966,2.1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,7,21,289,CF,Central african republic,2005,1
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,7,21,289,CF,Central african republic,1995,61.78
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,7,21,289,CF,Central african republic,2015,61
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,7,21,289,CF,Central african republic,2010,24.85
+Slum dwellers,slum_population,Slum population – Urban,1000,7,21,289,CF,Central african republic,1995,1152
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,1985,0.73
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,7,21,289,CF,Central african republic,1950,2
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2000,2409
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,7,21,289,CF,Central african republic,2020,73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2025,1.27
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1969,2.1
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,7,21,289,CF,Central african republic,1994,18.5
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,7,21,289,CF,Central african republic,1980,120.77
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,1995,2166
+Streets,street_density_city_core,Street density (km/km²) – city core,n,4.366644,18.558288,289,CF,Bangui,2013,4.7
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,1950,1.73
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,7,21,289,CF,Central african republic,1995,1113
+Slum dwellers,literacy_rate_women_1_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 1 Shelter deprivation,p,7,21,289,CF,Central african republic,1994,67.1
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,7,21,289,CF,Central african republic,2020,0.4
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,7,21,289,CF,Central african republic,1970,9788
+Resilience,population_affected_by_conflicts,Annual average of population affected by conflicts,p,7,21,289,CF,Central african republic,1980,3.6
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,1960,308
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,7,21,289,CF,Central african republic,1965,77.03
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,1985,1726
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1970,1.92
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,7,21,289,CF,Central african republic,1995,52283
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2027,1.27
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2037,1.06
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,7,21,289,CF,Central african republic,1995,2
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2030,3205
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,4.366644,18.558288,289,CF,Bangui,2013,111
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,7,21,289,CF,Central african republic,2005,58.44
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,7,21,289,CF,Central african republic,1955,3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1951,1.44
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,7,21,289,CF,Central african republic,2009,1642
+Population,urban_population_countries,Urban population – Countries,1000,7,21,289,CF,Central african republic,1970,511
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2045,3033
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2036,1.06
+Population,rural_population,Rural population,1000,7,21,289,CF,Central african republic,2025,3197
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,1964,1.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2047,0.86
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,7,21,289,CF,Central african republic,1980,22719
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,4.366644,18.558288,289,CF,Bangui,2013,0.123
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,7,21,289,CF,Central african republic,2028,1.27

@@ -1,0 +1,9 @@
+<"Place id", "Place ID">
+<"Governorate", "Governorate">
+<"District", "District">
+<"Location name\nin English", "Location_name">
+<"Location name\nin Arabic ", "Arabic_name">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"Families", "Families">
+<"Individuals", "Individuals">

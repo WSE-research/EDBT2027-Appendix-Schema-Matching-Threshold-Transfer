@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_AgID"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Coun"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Ag"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Ge"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "Phone",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Pho"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Em"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_Sta"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_NumCrCar"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_MiInit"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_MarSt"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac4_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_vertical_50_ac4_ev_target",
+            "target_column": "prospect_NuCa"
+        }
+    ]
+}

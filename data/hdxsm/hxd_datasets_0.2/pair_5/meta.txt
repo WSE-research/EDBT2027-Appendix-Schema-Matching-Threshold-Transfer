@@ -1,0 +1,23 @@
+93bc317a-189b-4b91-9564-c8334ab687c9,2021 SHCC Incident Data
+a26a7e59-31a4-4c6b-a3a4-0d290a8fed13,2022 Attacks on Health Care Incident Data.xlsx
+---hxl_tags---
+#date
+#country+name
+#group+perp
+#group+perp+name
+#weapon
+#affected+healthworker+killed
+#affected+healthworker+kidnapped
+#affected+healthworker+arrested
+#affected+healthworker+injured
+#affected+healthworker+assaulted
+#affected+healthworker+assaulted
+#indicator+health_facility+destroyed+num
+#indicator+health_facility+damaged+num
+#indicator+health_facility+armed_entry+num
+#indicator+health_facility+occupy
+#indicator+health_transport+destroyed+num
+#indicator+health_transport+damaged+num
+#indicator+health_transport+abducted+num
+#indicator+health_supplies+taken+num
+#indicator+health_obstruction

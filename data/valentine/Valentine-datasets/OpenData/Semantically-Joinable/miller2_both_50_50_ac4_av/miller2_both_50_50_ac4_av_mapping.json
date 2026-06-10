@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_FiYe"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_MaxCIDACont"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_ICTAATFDevel"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_ContID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Enviromental sustainability (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_EnvSustain"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_ProgProc"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_DiNa"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_OrganiID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Bilateral aid (international marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_BilatAiMar"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_PartDeveAGoGover"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Urban issues (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_UrIs"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Organisation type",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_OrganiTy"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_TraDevel"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_OrgaNa"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_ClimChaAda"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_KnoFDevel"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_FuCenN"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_CoRegID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_CoReNa"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_CliChMitig"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_PBAT"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_ChiIs"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_SectID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_SectN"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac4_av_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_both_50_50_ac4_av_target",
+            "target_column": "miller2_DiID"
+        }
+    ]
+}

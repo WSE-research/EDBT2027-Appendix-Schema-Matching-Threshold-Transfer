@@ -1,0 +1,38 @@
+{
+    "assays_ASI": {
+        "type": "integer"
+    },
+    "assays_T": {
+        "type": "integer"
+    },
+    "assays_RELAT": {
+        "type": "varchar(1)"
+    },
+    "assays_CONSCO": {
+        "type": "smallint unsigned"
+    },
+    "assays_CUB": {
+        "type": "varchar(32)"
+    },
+    "assays_SI": {
+        "type": "smallint"
+    },
+    "assays_SRASSI": {
+        "type": "varchar(50)"
+    },
+    "assays_CHEI": {
+        "type": "varchar(20)"
+    },
+    "assays_CI": {
+        "type": "integer"
+    },
+    "assays_BFO": {
+        "type": "varchar(11)"
+    },
+    "assays_TII": {
+        "type": "integer"
+    },
+    "assays_VAI": {
+        "type": "integer unsigned"
+    }
+}

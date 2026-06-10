@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASSTY"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASTTY"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASSTI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASSTR"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "Ti"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "CURB"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "Des"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "SRASSI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "CHEI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_50_ac2_ev_target",
+            "target_column": "ASCATE"
+        }
+    ]
+}

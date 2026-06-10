@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "cnfdnc_scr"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_rgnsm"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "dscrptn"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_tp"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_tx_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_tss"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_ctgr"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "chmbl_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "dc_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "rltnshp_tp"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "b_frmt"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "src_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "tss_d"
+        },
+        {
+            "source_table": "assays_both_50_70_ac3_ev_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_50_70_ac3_ev_target",
+            "target_column": "ss_tst_tp"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "AgID": {
+        "type": "varchar(30)"
+    },
+    "FirN": {
+        "type": "varchar(30)"
+    },
+    "MiIni": {
+        "type": "varchar(1)"
+    },
+    "LN": {
+        "type": "varchar(30)"
+    },
+    "AddLi1": {
+        "type": "varchar(80)"
+    },
+    "NumCa": {
+        "type": "numeric(2)"
+    },
+    "OORFl": {
+        "type": "varchar(1)"
+    },
+    "AdL2": {
+        "type": "varchar(80)"
+    },
+    "Gen": {
+        "type": "varchar(1)"
+    },
+    "CreRa": {
+        "type": "numeric(4)"
+    },
+    "Ci": {
+        "type": "varchar(25)"
+    },
+    "NuChil": {
+        "type": "numeric(2)"
+    },
+    "MariSta": {
+        "type": "varchar(1)"
+    },
+    "Ag": {
+        "type": "numeric(3)"
+    },
+    "Em": {
+        "type": "varchar(30)"
+    },
+    "NumCrCar": {
+        "type": "numeric(2)"
+    },
+    "NeWor": {
+        "type": "numeric(12)"
+    }
+}

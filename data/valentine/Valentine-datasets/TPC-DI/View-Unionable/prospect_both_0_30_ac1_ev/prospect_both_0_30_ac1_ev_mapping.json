@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_AgencyID"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_NumberCreditCards"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_CreditRating"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_Employer"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_NetWorth"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac1_ev_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_0_30_ac1_ev_target",
+            "target_column": "prospect_LastName"
+        }
+    ]
+}

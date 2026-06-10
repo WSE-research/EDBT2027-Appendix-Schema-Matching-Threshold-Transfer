@@ -1,0 +1,6 @@
+<"Number of health workers killed", "Total health worker killed">
+<"Number of health workers kidnapped", "Total health worker kidnapped">
+<"Number of health workers injured", "Total health worker injured">
+<"Total health worker assaulted", "Total health worker assaulted">
+<"Total number of attacks on facilities which reported destruction", "Total number of attacks on facilities which reported destruction">
+<"Total number of attacks on facilities which reported damage", "Total number of attacks on facilities which reported damage">

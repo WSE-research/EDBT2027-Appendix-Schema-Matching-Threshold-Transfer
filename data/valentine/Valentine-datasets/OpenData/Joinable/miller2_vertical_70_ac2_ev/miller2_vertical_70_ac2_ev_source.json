@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    }
+}

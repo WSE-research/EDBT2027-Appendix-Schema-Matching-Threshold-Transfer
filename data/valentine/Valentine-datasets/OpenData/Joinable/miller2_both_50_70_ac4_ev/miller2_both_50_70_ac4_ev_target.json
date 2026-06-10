@@ -1,0 +1,131 @@
+{
+    "miller2_FisYe": {
+        "type": "text"
+    },
+    "miller2_DivNa": {
+        "type": "text"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_MaxiCIDACon": {
+        "type": "real"
+    },
+    "miller2_YouIs": {
+        "type": "int"
+    },
+    "miller2_SeN": {
+        "type": "text"
+    },
+    "miller2_FCeID": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFDevel": {
+        "type": "int"
+    },
+    "miller2_BilaAiMa": {
+        "type": "int"
+    },
+    "miller2_UrbIss": {
+        "type": "int"
+    },
+    "miller2_Sta": {
+        "type": "text"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    },
+    "miller2_KnowlFDeve": {
+        "type": "int"
+    },
+    "miller2_DisaIs": {
+        "type": "int"
+    },
+    "miller2_FSTCPe": {
+        "type": "real"
+    },
+    "miller2_SecID": {
+        "type": "text"
+    },
+    "miller2_BraNa": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "miller2_BrID": {
+        "type": "text"
+    },
+    "miller2_ProgProc": {
+        "type": "text"
+    },
+    "miller2_Biod": {
+        "type": "int"
+    },
+    "miller2_Desert": {
+        "type": "int"
+    },
+    "miller2_ContNa": {
+        "type": "text"
+    },
+    "miller2_ContiID": {
+        "type": "int"
+    },
+    "miller2_CoRePerc": {
+        "type": "real"
+    },
+    "miller2_SePerc": {
+        "type": "real"
+    },
+    "miller2_OrgaS": {
+        "type": "text"
+    },
+    "miller2_RegiProg": {
+        "type": "int"
+    },
+    "miller2_UntAmoProBu": {
+        "type": "real"
+    },
+    "miller2_EnvSust": {
+        "type": "int"
+    },
+    "miller2_ProjNum": {
+        "type": "text"
+    },
+    "miller2_PrBrCouID": {
+        "type": "text"
+    },
+    "miller2_FCeN": {
+        "type": "text"
+    },
+    "miller2_OrganTy": {
+        "type": "text"
+    },
+    "miller2_OrganID": {
+        "type": "text"
+    },
+    "miller2_ChilIss": {
+        "type": "int"
+    },
+    "miller2_IndiIss": {
+        "type": "int"
+    },
+    "miller2_GeEqu": {
+        "type": "int"
+    },
+    "miller2_OrgN": {
+        "type": "text"
+    },
+    "miller2_OrgaCla": {
+        "type": "text"
+    },
+    "miller2_CouReID": {
+        "type": "text"
+    },
+    "miller2_CoRegN": {
+        "type": "text"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    }
+}

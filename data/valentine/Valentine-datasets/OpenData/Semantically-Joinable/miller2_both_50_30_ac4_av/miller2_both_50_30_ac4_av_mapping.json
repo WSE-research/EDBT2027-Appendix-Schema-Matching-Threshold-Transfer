@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_FisY"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_KnoFoDevelo"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Fund centre ID",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_FuCeID"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_OrgaCla"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_DivNa"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_ClimChaAdap"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_ProjNum"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_CouRePe"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_RegPr"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_OrgaID"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_ProgrPro"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Disability issues (marker)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_DisIs"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Urban issues (marker)",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_UrbIss"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_SectID"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac4_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_50_30_ac4_av_target",
+            "target_column": "miller2_PBATy"
+        }
+    ]
+}

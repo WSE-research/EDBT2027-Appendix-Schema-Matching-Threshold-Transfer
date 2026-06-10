@@ -1,0 +1,13 @@
+<"Province (Admin 1)", "Province">
+<"Province (Admin 1)", "IDP Origin Province (Admin 1)">
+<"Province P_Code", "Province Pcode">
+<"District (Admin 2)", "District">
+<"District (Admin 2)", "IDP Origin District (Admin 2)">
+<"District P_Code", "District Pcode">
+<"Post (Admin 3)", "Post">
+<"Post (Admin 3)", "IDP Origin Traditional Area (Admin 3)">
+<"Latitude", "Latitude (Manual GPS)">
+<"Longitude", "Longitude (Manugal GPS)">
+<"Total Households Affected", "Number of families/households">
+<"Total Individuals Affected", "Total number of IDP individuals">
+<"Locality", "Location">

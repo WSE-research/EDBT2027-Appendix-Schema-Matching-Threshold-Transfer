@@ -1,0 +1,101 @@
+prospect_AgID,prospect_Coun,prospect_Ag,prospect_Ge,prospect_Pho,prospect_Em,prospect_Sta,prospect_NumCrCar,prospect_MiInit,prospect_MarSt,prospect_NuCa,prospect_Ci,prospect_Inc,prospect_NumChi,prospect_CrRa,prospect_OORF,prospect_NWo
+PEL0,United States of America,20.0,f,1-712-522-6088,Brink's,MA,,,W,,Fairbanks,368776.0,3.0,760.0,O,1058868.0
+LED1,United States of America,3.0,F,1-626-426-4298,,PA,6.0,,U,5.0,Quebec,177967.0,1.0,555.0,U,1988185.0
+lat2,United States of America,,,1-524-787-8784,,Alberta,6.0,,S,2.0,Henderson,321772.0,1.0,566.0,O,3673128.0
+RUD3,Canada,77.0,,1-741-997-1688,Air Products & Chemicals,AR,3.0,,W,2.0,Salem,25449.0,1.0,,O,2005895.0
+JAY4,Canada,21.0,f,1-002-194-1991,Oshkosh,OR,4.0,M,M,0.0,Toledo,166567.0,3.0,815.0,O,624736.0
+tod5,United States of America,77.0,M,1-441-371-7651,,VA,10.0,Z,M,1.0,Corpus Christi,43631.0,4.0,333.0,R,3064615.0
+Kan6,Canada,23.0,m,1-957-940-5980,VeraSun Energy,OH,1.0,R,,4.0,Salt Lake City,466230.0,0.0,528.0,O,3489129.0
+Din7,United States of America,9.0,,1-768-633-4096,IDT,Prince Edward Island,7.0,Z,M,2.0,Brownsville,420243.0,2.0,680.0,U,3430744.0
+Thi8,United States of America,63.0,,1-107-689-2155,Adams Resources & Energy,NV,10.0,,U,3.0,Escondido,141862.0,,761.0,O,1743614.0
+May9,United States of America,32.0,,1-173-594-6096,MGIC Investment,Ontario,,,M,0.0,Los Angeles,402011.0,2.0,416.0,O,216299.0
+mah10,Canada,96.0,,1-561-520-0611,Iasis Healthcare,TX,9.0,U,M,2.0,West Covina,79928.0,2.0,493.0,O,1528641.0
+Siz11,United States of America,46.0,,1-730-406-9727,AMR,NE,0.0,,M,1.0,San Buenaventura,109496.0,0.0,564.0,R,3752907.0
+cra12,United States of America,6.0,,,Embarq,AR,0.0,,U,1.0,Lexington,267901.0,4.0,817.0,U,582378.0
+dac13,United States of America,39.0,m,1-207-867-4589,Advanced Micro Devices,MI,8.0,,U,3.0,Hay River,487273.0,5.0,653.0,R,3458824.0
+HIV14,United States of America,73.0,,1-478-629-9641,Cenveo,MA,2.0,W,M,3.0,Toronto,34013.0,4.0,587.0,O,469408.0
+Pes15,United States of America,26.0,,1-026-208-8595,Kelly Services,TN,6.0,,S,0.0,Denver,473462.0,2.0,472.0,O,1504480.0
+CHI16,Canada,54.0,,1-432-681-4853,Viacom,TN,4.0,,M,5.0,St. Paul,499493.0,4.0,817.0,O,2763009.0
+Din17,United States of America,87.0,,,Macy's,OK,0.0,,M,5.0,Bellevue,266928.0,4.0,441.0,R,2787199.0
+De 18,United States of America,85.0,,1-357-207-6320,Gardner Denver,Ontario,6.0,M,M,2.0,Detroit,72444.0,3.0,848.0,O,2789368.0
+Mck19,United States of America,86.0,m,1-462-774-1277,Family Dollar Stores,KY,8.0,,U,3.0,Omaha,77290.0,3.0,843.0,R,2784776.0
+WIN20,United States of America,59.0,M,1-702-382-2898,,PA,,P,U,2.0,Costa Mesa,395066.0,0.0,,R,288747.0
+BIT21,United States of America,94.0,,1-909-554-7120,Sun Microsystems,MD,0.0,,U,5.0,Berkeley,119283.0,3.0,300.0,O,876575.0
+luz22,United States of America,,f,1-752-296-7940,Costco Wholesale,TX,8.0,V,U,1.0,St. Louis,330991.0,1.0,795.0,O,2041224.0
+don23,United States of America,5.0,,1-995-554-5056,Illinois Tool Works,IN,5.0,S,,4.0,Colorado Springs,,0.0,367.0,U,2231509.0
+Gia24,United States of America,23.0,,1-090-303-3807,Southern Union,MD,1.0,T,M,1.0,Fontana,252031.0,5.0,507.0,O,3206409.0
+SPR25,United States of America,61.0,M,1-492-968-0932,Moog,KY,9.0,,M,3.0,St. Catharines,101800.0,1.0,362.0,O,3850037.0
+SKA26,United States of America,,F,1-960-227-2020,Old Republic International,CA,7.0,,D,0.0,Hayward,436977.0,1.0,527.0,O,528440.0
+Gar27,United States of America,51.0,m,1-431-122-8597,,FL,0.0,,S,0.0,Palmdale,495334.0,,354.0,O,597140.0
+Dor28,United States of America,97.0,,1-822-836-7200,Great Plains Energy,Newfoundland,1.0,,M,1.0,Phoenix,274685.0,1.0,511.0,O,146931.0
+DIO29,United States of America,52.0,,1-530-117-0497,Broadcom,TX,7.0,X,,2.0,Gary,320820.0,2.0,412.0,,353495.0
+Mer30,Canada,98.0,m,1-051-257-2719,Discover Financial Services,WA,1.0,,S,4.0,Beaumont,195835.0,0.0,583.0,O,295647.0
+Atc31,United States of America,47.0,,1-171-989-1363,UAL,MN,5.0,R,U,5.0,Nashua,108085.0,3.0,710.0,O,408941.0
+Pla32,United States of America,47.0,m,1-042-705-3246,Charles Schwab,WY,9.0,X,M,2.0,San Jose,260185.0,1.0,380.0,O,362523.0
+SEL33,United States of America,9.0,F,1-098-328-2026,Coach,NY,2.0,E,M,0.0,Nashua,258323.0,0.0,796.0,R,2102359.0
+sha34,United States of America,85.0,f,1-209-754-5635,DaVita,SC,2.0,Z,M,1.0,Fort Smith,79476.0,3.0,818.0,U,3480265.0
+MER35,United States of America,81.0,,1-498-781-3456,Marshall & Ilsley Corp.,MS,3.0,,M,5.0,Lancaster,102156.0,3.0,766.0,U,3648900.0
+con36,United States of America,0.0,,1-615-241-0440,Cablevision Systems,UT,2.0,,M,2.0,Colorado Springs,221481.0,3.0,359.0,O,1161790.0
+ons37,United States of America,28.0,M,1-995-449-5200,Barnes & Noble,PA,2.0,,S,1.0,Washington,41836.0,5.0,401.0,R,2050587.0
+Sum38,Canada,65.0,M,1-295-673-4452,EMC,OK,0.0,,U,1.0,Lowell,72389.0,1.0,609.0,O,3579198.0
+gro39,United States of America,20.0,,1-914-675-2986,Fluor,WY,2.0,F,S,3.0,Frederick,66486.0,0.0,630.0,O,889494.0
+dil40,United States of America,55.0,,,Dollar General,RI,9.0,I,M,3.0,Mesa,200185.0,1.0,671.0,O,2205682.0
+DOL41,United States of America,76.0,,1-825-739-0336,Lear,HI,10.0,,U,0.0,Lakewood,289215.0,2.0,715.0,O,1140117.0
+Pos42,United States of America,1.0,,1-956-713-3802,J.P. Morgan Chase & Co.,VA,9.0,,M,4.0,Cleveland,322484.0,1.0,707.0,O,1421319.0
+Mac43,United States of America,3.0,,1-814-932-1579,Affinia Group Intermediate,OK,0.0,,M,4.0,Grand Rapids,83458.0,2.0,329.0,O,3525204.0
+che44,United States of America,100.0,,1-135-443-7282,,Prince Edward Island,8.0,,D,0.0,Peoria,,3.0,601.0,R,468976.0
+hol45,United States of America,81.0,,1-720-975-0667,Goldman Sachs Group,SD,2.0,,W,5.0,Inglewood,492407.0,1.0,623.0,O,1685443.0
+pfi46,United States of America,76.0,f,1-871-598-3505,E*Trade Financial,OH,2.0,,S,4.0,Akron,346630.0,4.0,376.0,O,337564.0
+elk47,Canada,51.0,,1-607-222-4809,Pfizer,MA,0.0,Y,W,1.0,Charlottetown,9572.0,3.0,560.0,O,84777.0
+Lab48,United States of America,,F,1-965-046-0642,Safeway,MD,4.0,,,1.0,Bellevue,265369.0,5.0,693.0,O,3146477.0
+laf49,United States of America,58.0,,1-155-441-3579,Simon Property Group,Saskatchewan,0.0,Y,S,1.0,Dover,104172.0,2.0,346.0,U,495277.0
+Nor50,United States of America,52.0,,,Trinity Industries,WA,0.0,I,M,0.0,Fullerton,65550.0,3.0,342.0,O,746904.0
+hag51,Canada,91.0,,1-544-132-7237,Solutia,OH,8.0,,M,2.0,Denver,,0.0,563.0,R,1219620.0
+Bet52,United States of America,17.0,m,1-821-089-2089,,WY,4.0,,M,2.0,Dallas,,3.0,391.0,O,1718910.0
+Van53,United States of America,6.0,m,1-135-391-9787,A.O. Smith,NJ,8.0,,S,4.0,San Jose,66244.0,4.0,381.0,O,
+O'L54,United States of America,89.0,F,1-776-182-6215,AptarGroup,ND,9.0,,S,0.0,Bellevue,426954.0,3.0,539.0,U,2636424.0
+and55,United States of America,99.0,m,1-079-780-7761,Coca-Cola,NC,0.0,,M,5.0,San Buenaventura,126891.0,4.0,497.0,O,1326305.0
+sta56,Canada,77.0,,1-504-346-4393,Kimberly-Clark,WV,,,M,4.0,St. Louis,454196.0,2.0,661.0,O,2241997.0
+CHA57,United States of America,,,1-985-538-4351,Visteon,GA,0.0,,S,5.0,Pueblo,163940.0,3.0,558.0,R,1542891.0
+ASI58,Canada,90.0,R,1-254-097-9398,TECO Energy,Ontario,,,W,,Regina,365213.0,1.0,534.0,O,797918.0
+ask59,United States of America,82.0,f,1-545-924-9552,Bemis,MA,6.0,,M,0.0,Saskatoon,428739.0,0.0,373.0,U,347654.0
+Kik60,United States of America,,,1-984-233-8818,Wyeth,CA,8.0,K,M,4.0,Jackson,142444.0,0.0,382.0,O,2456397.0
+Cha61,United States of America,15.0,F,1-528-691-1642,United Technologies,SD,10.0,,S,3.0,St. Petersburg,416168.0,3.0,475.0,O,1284229.0
+KIL62,United States of America,,m,,Clorox,Saskatchewan,3.0,U,D,2.0,Scottsdale,291420.0,0.0,539.0,O,618787.0
+kin63,United States of America,96.0,f,1-171-807-8213,Discovery Communications,RI,6.0,,M,4.0,Charlotte,413501.0,5.0,711.0,O,1171606.0
+MAL64,United States of America,38.0,,1-056-241-7009,Williams-Sonoma,NC,1.0,,M,4.0,Waterbury,,,606.0,O,3983261.0
+Odu65,United States of America,10.0,,1-389-414-0570,Manitowoc,SD,0.0,J,W,3.0,Chesapeake,419143.0,3.0,494.0,O,2328568.0
+DI 66,United States of America,72.0,,1-583-542-1656,Henry Schein,IL,3.0,,M,1.0,Hialeah,155057.0,5.0,309.0,O,2078600.0
+STU67,United States of America,97.0,,1-269-712-0672,Trinity Industries,OR,3.0,K,M,2.0,Charleston,313859.0,5.0,630.0,O,2986155.0
+HAM68,United States of America,48.0,,1-670-102-0463,Pepsi Bottling,Ontario,10.0,,S,4.0,Salem,265907.0,1.0,330.0,O,1864039.0
+LIB69,Canada,97.0,m,1-699-726-3895,UGI,FL,9.0,,S,,Sacramento,283481.0,0.0,710.0,O,1293721.0
+ohs70,United States of America,73.0,M,1-640-666-2876,Greif,NM,7.0,,M,4.0,Santa Clarita,200635.0,0.0,475.0,R,3850114.0
+HUM71,United States of America,71.0,,1-540-639-1311,Equifax,NE,3.0,O,U,0.0,Sherbrooke,434519.0,1.0,596.0,O,1618743.0
+BRA72,United States of America,93.0,,1-285-874-8492,,MI,9.0,,W,5.0,Colorado Springs,392315.0,1.0,670.0,O,3383487.0
+Boa73,United States of America,53.0,,1-121-904-0040,Freescale Semiconductor,New Brunswick,,X,U,5.0,Berkeley,493829.0,3.0,722.0,O,2981876.0
+Mcn74,United States of America,32.0,,1-017-842-3201,Aleris International,NJ,7.0,,U,3.0,San Buenaventura,97489.0,2.0,587.0,O,2109339.0
+MAR75,United States of America,1.0,F,1-215-859-3206,,ND,4.0,,S,4.0,New Haven,,3.0,609.0,O,791803.0
+Wil76,United States of America,39.0,f,1-764-520-7470,World Fuel Services,Saskatchewan,7.0,,S,0.0,Shreveport,383046.0,1.0,401.0,O,3523678.0
+Dea77,United States of America,77.0,m,1-414-130-0162,R.R. Donnelley & Sons,KS,0.0,S,M,4.0,Lansing,1190.0,0.0,335.0,,1681902.0
+Hou78,United States of America,18.0,,1-970-240-9990,Brinker International,SD,7.0,,U,5.0,Pembroke Pines,85733.0,5.0,569.0,O,3851455.0
+Goy79,Canada,70.0,,1-408-684-6459,Temple-Inland,FL,9.0,,M,0.0,Palmdale,387890.0,2.0,,R,2339382.0
+Mok80,United States of America,26.0,f,1-330-353-5908,Psychiatric Solutions,Saskatchewan,7.0,Z,S,2.0,Savannah,16808.0,0.0,679.0,O,
+Run81,United States of America,,,1-766-726-2675,Nash-Finch,FL,10.0,I,M,,Amarillo,304589.0,4.0,356.0,,2065016.0
+BEL82,United States of America,58.0,o,1-938-425-7509,AMR,UT,9.0,,S,2.0,Anchorage,48506.0,5.0,308.0,R,2454049.0
+BAE83,United States of America,43.0,,1-527-308-8874,Spartan Stores,WY,4.0,Y,M,0.0,Louisville,,4.0,412.0,O,2423395.0
+MAU84,United States of America,65.0,f,1-810-590-0635,Cigna,NH,4.0,,D,2.0,Hilo,358862.0,3.0,618.0,O,1342045.0
+Koo85,United States of America,24.0,,1-274-548-2512,General Cable,AR,5.0,,S,5.0,Sudbury,477614.0,3.0,429.0,O,861756.0
+Lau86,United States of America,79.0,,1-649-754-4601,Dun & Bradstreet,CT,3.0,,S,3.0,Orlando,175414.0,1.0,819.0,O,1215349.0
+Man87,Canada,48.0,F,1-905-932-1785,Casey's General Stores,VT,7.0,L,M,0.0,Missoula,427598.0,1.0,552.0,O,3981554.0
+PIE88,United States of America,69.0,,1-031-004-7697,Jack in the Box,Manitoba,9.0,,S,0.0,Abilene,368207.0,4.0,587.0,O,3865937.0
+Bus89,United States of America,91.0,M,1-994-812-4796,Assurant,NJ,6.0,,S,3.0,Saskatoon,449944.0,1.0,304.0,O,2804700.0
+BAB90,United States of America,75.0,,1-176-513-4041,Psychiatric Solutions,KY,4.0,,,5.0,Irvine,166247.0,5.0,795.0,U,3283558.0
+Bur91,United States of America,85.0,M,1-072-244-6337,Danaher,GA,2.0,,S,1.0,Reno,391165.0,3.0,830.0,O,450524.0
+Kin92,United States of America,76.0,,1-924-669-9328,Clorox,NJ,3.0,,M,5.0,Sacramento,165854.0,3.0,709.0,R,
+POM93,United States of America,68.0,,1-598-488-3541,Boyd Gaming,SC,8.0,,S,2.0,Topeka,326181.0,1.0,493.0,O,
+BOA94,United States of America,95.0,M,1-295-539-3868,Eaton,TN,,,M,3.0,Rancho Cucamonga,173387.0,,680.0,O,633760.0
+Ron95,United States of America,15.0,,1-554-020-0267,Dynegy,WY,,R,M,1.0,Hilo,301127.0,5.0,800.0,R,3634954.0
+wei96,United States of America,17.0,,1-793-621-4566,AmeriCredit,Ontario,4.0,A,M,1.0,Saint John,487230.0,5.0,614.0,R,799268.0
+Hel97,Canada,94.0,M,1-787-267-4261,SLM,DC,6.0,P,,4.0,Torrance,425747.0,0.0,763.0,R,39093.0
+mog98,United States of America,70.0,m,1-668-247-1597,NV Energy,Alberta,3.0,,S,4.0,Santa Clara,401946.0,4.0,561.0,O,2705353.0
+boz99,United States of America,29.0,,1-901-346-8890,Landstar System,ME,4.0,,S,1.0,Torrance,425422.0,2.0,569.0,O,3565153.0

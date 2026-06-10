@@ -1,0 +1,53 @@
+{
+    "AgeID": {
+        "type": "varchar(30)"
+    },
+    "Coun": {
+        "type": "varchar(24)"
+    },
+    "NumC": {
+        "type": "numeric(2)"
+    },
+    "LN": {
+        "type": "varchar(30)"
+    },
+    "NumCreCa": {
+        "type": "numeric(2)"
+    },
+    "AddLi1": {
+        "type": "varchar(80)"
+    },
+    "FirN": {
+        "type": "varchar(30)"
+    },
+    "Ge": {
+        "type": "varchar(1)"
+    },
+    "CreRa": {
+        "type": "numeric(4)"
+    },
+    "OwORFl": {
+        "type": "varchar(1)"
+    },
+    "Inc": {
+        "type": "numeric(9)"
+    },
+    "Ph": {
+        "type": "varchar(30)"
+    },
+    "NumChil": {
+        "type": "numeric(2)"
+    },
+    "MarSt": {
+        "type": "varchar(1)"
+    },
+    "A": {
+        "type": "numeric(3)"
+    },
+    "Em": {
+        "type": "varchar(30)"
+    },
+    "NeWo": {
+        "type": "numeric(12)"
+    }
+}

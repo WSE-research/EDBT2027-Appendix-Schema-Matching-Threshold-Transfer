@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASCA"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASTIS"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "variant_id",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_VAI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASSOR"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_CHI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_DI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASSTR"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_Ti"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_CURAB"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_vertical_50_ac4_ev_target",
+            "target_column": "assays_ASSTAI"
+        }
+    ]
+}

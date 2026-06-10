@@ -1,0 +1,8 @@
+<"Snapshot date (MMM-yyyy)", "Snapshot Date">
+<"1.1.a.1 \nSite Assessment Date  (dd-MMM-yyyy)", "Date de l'enquête">
+<"1.1.a.3\nAdmin 0\n(Country)", "Country">
+<"Admin 0 iso3", "Country Code">
+<"1.1.e.1\nAdmin 1", "Admin1">
+<"Admin 1 Pcode", "Admin1 Pcode">
+<"1.1.e.2\nAdmin 2", "Admin2">
+<"Admin 2 Pcode", "Admin2 Pcode">

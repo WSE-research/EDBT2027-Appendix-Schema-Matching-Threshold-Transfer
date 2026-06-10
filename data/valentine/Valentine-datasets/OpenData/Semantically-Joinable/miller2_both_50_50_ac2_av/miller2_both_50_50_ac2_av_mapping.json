@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "FisYe"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "PartDevAGGover"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Enviromental sustainability (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "EnviSust"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "DiviN"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Organisation type",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "OrgTy"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Sector percent",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "SecPe"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "ClimChMit"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "ConNa"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "PBAT"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "PrNum"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "Bio"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "MaxiCIDACon"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "SecNa"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Fund centre ID",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "FuCenID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "UnAmProBud"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "FSTCPe"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Youth issues (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "YouIss"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "DiID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "OrganCla"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "ClChAdapt"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "OrganiN"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "CounRegPe"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "CIDABusDeliMod"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Status",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "St"
+        },
+        {
+            "source_table": "miller2_both_50_50_ac2_av_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_both_50_50_ac2_av_target",
+            "target_column": "IndIss"
+        }
+    ]
+}

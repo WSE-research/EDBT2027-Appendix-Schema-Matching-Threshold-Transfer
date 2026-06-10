@@ -1,0 +1,101 @@
+AgencyID,NumberCreditCards,CreditRating,Employer,NetWorth,LastName,FirstName,MiddleInitial,Gender,AddressLine1,AddressLine2,PostalCode,City,State
+PEL0,,760.0,Brink's,1058868.0,PELLAND,Netti,,f,21847 olympia street,,T6b 1i1,Fairbanks,MA
+LED1,6.0,555.0,,1988185.0,LEDUC,TRUDY,,F,245 congress court,APT. 624,77281,Quebec,PA
+lat2,6.0,566.0,,3673128.0,latif,ireland,,,6517 frailing west,,91355,Henderson,Alberta
+RUD3,3.0,,Air Products & Chemicals,2005895.0,RUDDICK,Misti,,,11449 blalock park,,36615,Salem,AR
+JAY4,4.0,815.0,Oshkosh,624736.0,JAYAMANNE,sarena,M,f,18354 dodd court,Apt. 619,t6a 1i3,Toledo,OR
+tod5,10.0,333.0,,3064615.0,todo,Paulette,Z,M,14117 roxboro street,,A2b 1v3,Corpus Christi,VA
+Kan6,1.0,528.0,VeraSun Energy,3489129.0,Kanno,AMALITA,R,m,24697 FLORENCE WEST,,49513,Salt Lake City,OH
+Din7,7.0,680.0,IDT,3430744.0,Dinkel,Ernesto,Z,,6488 applewood drive,,M5d 1v6,Brownsville,Prince Edward Island
+Thi8,10.0,761.0,Adams Resources & Energy,1743614.0,Thibodeaux,Toby,,,17404 gale court,,V6c 1q1,Escondido,NV
+May9,,416.0,MGIC Investment,216299.0,Mayo,evangelia,,,15913 alexis street,,99716,Los Angeles,Ontario
+mah10,9.0,493.0,Iasis Healthcare,1528641.0,mahendra,umakanth,U,,18313 5th lane,,A2b 1w1,West Covina,TX
+Siz11,0.0,564.0,AMR,3752907.0,Sizto,terrie,,,13653 collier avenue,,M5F 1W1,San Buenaventura,NE
+cra12,0.0,817.0,Embarq,582378.0,crawley,Mary-pat,,,15306 pike park,,95118,Lexington,AR
+dac13,8.0,653.0,Advanced Micro Devices,3458824.0,dacal,Catherin,,m,1540 crestmere north,,H2f 1v7,Hay River,MI
+HIV14,2.0,587.0,Cenveo,469408.0,HIVELY,annissa,W,,10790 bonita crescent,,19217,Toronto,MA
+Pes15,6.0,472.0,Kelly Services,1504480.0,Peschke,Amour,,,24679 AIRPORT CRESCENT,Apt. 290,21228,Denver,TN
+CHI16,4.0,817.0,Viacom,2763009.0,CHILDERHOSE,jenica,,,7627 douglas road,,85097,St. Paul,TN
+Din17,0.0,441.0,Macy's,2787199.0,Dinnin,KATTIE,,,6106 ashland east,,V6j 1q8,Bellevue,OK
+De 18,6.0,848.0,Gardner Denver,2789368.0,De witte,Roselle,M,,1111 norden street,,43207,Detroit,Ontario
+Mck19,8.0,843.0,Family Dollar Stores,2784776.0,Mckeegan,arlyne,,m,2798 1st east,,V6t 1q8,Omaha,KY
+WIN20,,,,288747.0,WINTERS,Rong-chin,P,M,11358 elle lee street,,94467,Costa Mesa,PA
+BIT21,0.0,300.0,Sun Microsystems,876575.0,BITTMAN,Darlleen,,,21074 MALLORY LOWER,,94321,Berkeley,MD
+luz22,8.0,795.0,Costco Wholesale,2041224.0,luzarraga,Radoslav,V,f,16124 weyland park,,C2a 4w7,St. Louis,TX
+don23,5.0,367.0,Illinois Tool Works,2231509.0,donovan,Aryn,S,,23822 marvin crescent,,35808,Colorado Springs,IN
+Gia24,1.0,507.0,Southern Union,3206409.0,Giallo,Allisan,T,,2203 valita boulevard,,M5f 1v6,Fontana,MD
+SPR25,9.0,362.0,Moog,3850037.0,SPRUELL,Ammamaria,,M,11538 COLLINWOOD AVENUE,,99539,St. Catharines,KY
+SKA26,7.0,527.0,Old Republic International,528440.0,SKALSKI,Mari,,F,7818 EAST STREET,,95055,Hayward,CA
+Gar27,0.0,354.0,,597140.0,Gargul,Anica,,m,10013 shaw road,,93686,Palmdale,FL
+Dor28,1.0,511.0,Great Plains Energy,146931.0,Dore,Melba,,,6802 AMES STREET,,75218,Phoenix,Newfoundland
+DIO29,7.0,412.0,Broadcom,353495.0,DIOGO,Tracee,X,,22501 SUMMIT RUE,,91174,Gary,TX
+Mer30,1.0,583.0,Discover Financial Services,295647.0,Merrick,CANADIAN,,m,291 frances rue,,49515,Beaumont,WA
+Atc31,5.0,710.0,UAL,408941.0,Atchison,Oue,R,,16264 sanders east,,16506,Nashua,MN
+Pla32,9.0,380.0,Charles Schwab,362523.0,Plamondon,wallie,X,m,16068 cantey way,,94383,San Jose,WY
+SEL33,2.0,796.0,Coach,2102359.0,SELCHOW,Andromache,E,F,21170 EDLOE BOULEVARD,,T6d 1b3,Nashua,NY
+sha34,2.0,818.0,DaVita,3480265.0,shane,THOR,Z,f,885 CROSBY LANE,,25339,Fort Smith,SC
+MER35,3.0,766.0,Marshall & Ilsley Corp.,3648900.0,MERWIN,SALAH,,,12235 jay street,,V6o 1v4,Lancaster,MS
+con36,2.0,359.0,Cablevision Systems,1161790.0,conrad,HOR-LAM,,,20340 LOMBARD CRESCENT,,01852,Colorado Springs,UT
+ons37,2.0,401.0,Barnes & Noble,2050587.0,onsiteteam,Vania,,M,22074 dexter upper,,78230,Washington,PA
+Sum38,0.0,609.0,EMC,3579198.0,Summerlin,Niel,,M,1540 MURIE RUE,,93770,Lowell,OK
+gro39,2.0,630.0,Fluor,889494.0,grooms,ziad,F,,7075 glen loch drive,,m4l 1n4,Frederick,WY
+dil40,9.0,671.0,Dollar General,2205682.0,dilkie,Claude,I,,11237 balmoral way,Apt. 382,22335,Mesa,RI
+DOL41,10.0,715.0,Lear,1140117.0,DOLSON,AVTAR,,,8316 GARDEN BROOK NORTH,,V6C 1T4,Lakewood,HI
+Pos42,9.0,707.0,J.P. Morgan Chase & Co.,1421319.0,Posthumus,Donny,,,2240 clifton lower,,M6t 1h3,Cleveland,VA
+Mac43,0.0,329.0,Affinia Group Intermediate,3525204.0,Machika,Cocos,,,20907 NOTINGHAM LOWER,,95263,Grand Rapids,OK
+che44,8.0,601.0,,468976.0,chenoweth,ruud,,,601 carroll lower,,v5b 1p5,Peoria,Prince Edward Island
+hol45,2.0,623.0,Goldman Sachs Group,1685443.0,holbrooks,Belvia,,,18267 state drive,,32318,Inglewood,SD
+pfi46,2.0,376.0,E*Trade Financial,337564.0,pfieffer,ATHAR,,f,9270 LEAF SOUTH,,93872,Akron,OH
+elk47,0.0,560.0,Pfizer,84777.0,elkington,Cherey,Y,,18582 PERIMETER BOULEVARD,,92824,Charlottetown,MA
+Lab48,4.0,693.0,Safeway,3146477.0,Labenek,RAZ,,F,9612 park stream upper,,e4a 1r2,Bellevue,MD
+laf49,0.0,346.0,Simon Property Group,495277.0,laferriere,kishore,Y,,2803 clearwater north,,H7G 1V4,Dover,Saskatchewan
+Nor50,0.0,342.0,Trinity Industries,746904.0,Norment,Nelleke,I,,11103 BISSONNET WEST,,85039,Fullerton,WA
+hag51,8.0,563.0,Solutia,1219620.0,hagar,sibby,,,4652 outervale lane,,v6m 1q3,Denver,OH
+Bet52,4.0,391.0,,1718910.0,Betcher,ericha,,m,341 dunbar west,,X7j 1r1,Dallas,WY
+Van53,8.0,381.0,A.O. Smith,,Van der,Janson,,m,16176 vernon drive,,B8b 1z5,San Jose,NJ
+O'L54,9.0,539.0,AptarGroup,2636424.0,O'LEARY,Dorotea,,F,23131 clint way,,t5d 1v4,Bellevue,ND
+and55,0.0,497.0,Coca-Cola,1326305.0,anderson,Denice,,m,11640 baltic upper,,V6t 1r2,San Buenaventura,NC
+sta56,,661.0,Kimberly-Clark,2241997.0,starks,Myron,,,20796 dolores drive,,91177,St. Louis,WV
+CHA57,0.0,558.0,Visteon,1542891.0,CHASSE,Barby,,,14359 COMMERCE WEST,Apt. 275,T5c 1t1,Pueblo,GA
+ASI58,,534.0,TECO Energy,797918.0,ASING,Ariella,,R,21448 hampton boulevard,,35862,Regina,Ontario
+ask59,6.0,373.0,Bemis,347654.0,askins,ADEY,,f,7637 pershing way,,96820,Saskatoon,MA
+Kik60,8.0,382.0,Wyeth,2456397.0,Kikuta,GAYEL,K,,11529 arcana boulevard,,75238,Jackson,CA
+Cha61,10.0,475.0,United Technologies,1284229.0,Chane,Man,,F,2700 windwood north,,85769,St. Petersburg,SD
+KIL62,3.0,539.0,Clorox,618787.0,KILLEN,Klara,U,m,22279 gramercy road,,H5i 1o9,Scottsdale,Saskatchewan
+kin63,6.0,711.0,Discovery Communications,1171606.0,kinley,Abdalla,,f,9828 west east,,90849,Charlotte,RI
+MAL64,1.0,606.0,Williams-Sonoma,3983261.0,MALAHER,bal,,,5935 mcafee park,,43644,Waterbury,NC
+Odu65,0.0,494.0,Manitowoc,2328568.0,Odum,Romy,J,,12460 CLAYTON STREET,,99213,Chesapeake,SD
+DI 66,3.0,309.0,Henry Schein,2078600.0,DI NINNO,KORAL,,,275 3rd drive,,72226,Hialeah,IL
+STU67,3.0,630.0,Trinity Industries,2986155.0,STUBBLEFIELD,YUKIHIKO,K,,6907 FERNCLIFF CRESCENT,,V6Z 1Q9,Charleston,OR
+HAM68,10.0,330.0,Pepsi Bottling,1864039.0,HAMBALI,Khanh,,,885 crosby lane,,20082,Salem,Ontario
+LIB69,9.0,710.0,UGI,1293721.0,LIBRARIAN,Darnell,,m,2344 kalani west,,35827,Sacramento,FL
+ohs70,7.0,475.0,Greif,3850114.0,ohsone,feridoun,,M,22870 LA CIENEGA STREET,,99692,Santa Clarita,NM
+HUM71,3.0,596.0,Equifax,1618743.0,HUMMEL,Magdy,O,,8478 green avenue,APT. 143,V6c 1q5,Sherbrooke,NE
+BRA72,9.0,670.0,,3383487.0,BRADD,jiri,,,23639 purdue rue,,80158,Colorado Springs,MI
+Boa73,,722.0,Freescale Semiconductor,2981876.0,Boarder,AILA,X,,19202 ansley park,,t6d 1b6,Berkeley,New Brunswick
+Mcn74,7.0,587.0,Aleris International,2109339.0,Mcnally,Vincenzo,,,11319 devonshire rue,,33120,San Buenaventura,NJ
+MAR75,4.0,609.0,,791803.0,MARKOVICH,Minnnie,,F,23665 deerwood park,,99742,New Haven,ND
+Wil76,7.0,401.0,World Fuel Services,3523678.0,Willekes,alfonzo,,f,4855 union north,,V6N 1T1,Shreveport,Saskatchewan
+Dea77,0.0,335.0,R.R. Donnelley & Sons,1681902.0,Deacetis,Swandi,S,m,9466 SHADOWBRIAR WEST,,44104,Lansing,KS
+Hou78,7.0,569.0,Brinker International,3851455.0,Houk,Anya,,,3504 regency avenue,,14605,Pembroke Pines,SD
+Goy79,9.0,,Temple-Inland,2339382.0,Goyette,Enrika,,,7281 northland lower,,80076,Palmdale,FL
+Mok80,7.0,679.0,Psychiatric Solutions,,Mok-fung,SONJA,Z,f,12481 hayden lower,,V6I 1V6,Savannah,Saskatchewan
+Run81,10.0,356.0,Nash-Finch,2065016.0,Rundle,Liem,I,,2328 gracie avenue,,97307,Amarillo,FL
+BEL82,9.0,308.0,AMR,2454049.0,BELLEY,COLLETTE,,o,4737 campbell street,,46237,Anchorage,UT
+BAE83,4.0,412.0,Spartan Stores,2423395.0,BAER,SIAMACK,Y,,2401 stratmore lower,,V6B 1S6,Louisville,WY
+MAU84,4.0,618.0,Cigna,1342045.0,MAULDIN,Toshihiro,,f,21477 JUNIPER CRESCENT,,H2d 1x1,Hilo,NH
+Koo85,5.0,429.0,General Cable,861756.0,Koohgoli,Casey,,,19214 YAUPON BOULEVARD,,95108,Sudbury,AR
+Lau86,3.0,819.0,Dun & Bradstreet,1215349.0,Lauriston,Daryn,,,7785 rusk boulevard,,80050,Orlando,CT
+Man87,7.0,552.0,Casey's General Stores,3981554.0,Mangum,Adrianna,L,F,18002 cantrell upper,,90122,Missoula,VT
+PIE88,9.0,587.0,Jack in the Box,3865937.0,PIERCY,Cortney,,,23341 brookside upper,,43614,Abilene,Manitoba
+Bus89,6.0,304.0,Assurant,2804700.0,Buscaglia,Duane,,M,20494 ROSS WEST,,61110,Saskatoon,NJ
+BAB90,4.0,795.0,Psychiatric Solutions,3283558.0,BABIONE,Tele,,,17552 SAVANNAH NORTH,,70174,Irvine,KY
+Bur91,2.0,830.0,Danaher,450524.0,Burkard,Ophelia,,M,4462 pace crescent,APT. 373,90324,Reno,GA
+Kin92,3.0,709.0,Clorox,,Kinsella,lorine,,,7161 tallowood upper,,s7d 1n1,Sacramento,NJ
+POM93,8.0,493.0,Boyd Gaming,,POMMAINVILLE,Viole,,,3489 silver sage west,,93829,Topeka,SC
+BOA94,,680.0,Eaton,633760.0,BOATWRIGHT,Nani,,M,12481 hayden lower,,89116,Rancho Cucamonga,TN
+Ron95,,800.0,Dynegy,3634954.0,Ronald,cherey,R,,13210 3RD DRIVE,,94315,Hilo,WY
+wei96,4.0,614.0,AmeriCredit,799268.0,weihs,Redgie,A,,8899 starling lane,,T5b 1u9,Saint John,Ontario
+Hel97,6.0,763.0,SLM,39093.0,Helpb,Yousef,P,M,11480 fennel south,,T6b 1a5,Torrance,DC
+mog98,3.0,561.0,NV Energy,2705353.0,moghe,Damaris,,m,7266 cherry upper,,60699,Santa Clara,Alberta
+boz99,4.0,569.0,Landstar System,3565153.0,bozicevich,Ilyssa,,,10678 ENGLEWOOD WEST,,V6p 1s8,Torrance,ME

@@ -1,0 +1,101 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    }
+}

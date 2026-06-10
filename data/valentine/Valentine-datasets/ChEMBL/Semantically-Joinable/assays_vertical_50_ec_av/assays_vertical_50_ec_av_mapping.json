@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_cell_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "cell_id"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_test_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "description"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "confidence_score"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "src_assay_id"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_category"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "tid"
+        },
+        {
+            "source_table": "assays_vertical_50_ec_av_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_vertical_50_ec_av_target",
+            "target_column": "assay_tax_id"
+        }
+    ]
+}

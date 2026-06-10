@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_Em"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_CrRat"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_PoCo"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_FirN"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac4_ev_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_vertical_30_ac4_ev_target",
+            "target_column": "prospect_AdLi2"
+        }
+    ]
+}

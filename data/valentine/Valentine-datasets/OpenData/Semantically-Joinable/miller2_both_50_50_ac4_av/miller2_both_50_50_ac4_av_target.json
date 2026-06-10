@@ -1,0 +1,116 @@
+{
+    "miller2_FiYe": {
+        "type": "text"
+    },
+    "miller2_MaxCIDACont": {
+        "type": "real"
+    },
+    "miller2_ICTAATFDevel": {
+        "type": "int"
+    },
+    "miller2_ContID": {
+        "type": "int"
+    },
+    "miller2_EnvSustain": {
+        "type": "int"
+    },
+    "miller2_ProgProc": {
+        "type": "text"
+    },
+    "miller2_DiNa": {
+        "type": "text"
+    },
+    "miller2_OrganiID": {
+        "type": "text"
+    },
+    "miller2_BilatAiMar": {
+        "type": "int"
+    },
+    "miller2_PartDeveAGoGover": {
+        "type": "int"
+    },
+    "miller2_UrIs": {
+        "type": "int"
+    },
+    "miller2_OrganiTy": {
+        "type": "text"
+    },
+    "miller2_TraDevel": {
+        "type": "int"
+    },
+    "miller2_OrgaNa": {
+        "type": "text"
+    },
+    "miller2_ClimChaAda": {
+        "type": "int"
+    },
+    "miller2_KnoFDevel": {
+        "type": "int"
+    },
+    "miller2_FuCenN": {
+        "type": "text"
+    },
+    "miller2_CoRegID": {
+        "type": "text"
+    },
+    "miller2_CoReNa": {
+        "type": "text"
+    },
+    "miller2_CliChMitig": {
+        "type": "int"
+    },
+    "miller2_PBAT": {
+        "type": "text"
+    },
+    "miller2_ChiIs": {
+        "type": "int"
+    },
+    "miller2_SectID": {
+        "type": "text"
+    },
+    "miller2_SectN": {
+        "type": "text"
+    },
+    "miller2_DiID": {
+        "type": "text"
+    },
+    "miller2_YoIss": {
+        "type": "int"
+    },
+    "miller2_IndiIss": {
+        "type": "int"
+    },
+    "miller2_DisaIss": {
+        "type": "int"
+    },
+    "miller2_GeEqu": {
+        "type": "int"
+    },
+    "miller2_OrganCl": {
+        "type": "text"
+    },
+    "miller2_OrganSu": {
+        "type": "text"
+    },
+    "miller2_ConN": {
+        "type": "text"
+    },
+    "miller2_ProjBrCoID": {
+        "type": "text"
+    },
+    "miller2_CoRegPer": {
+        "type": "real"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SeNa": {
+        "type": "text"
+    },
+    "miller2_SecPerc": {
+        "type": "real"
+    },
+    "miller2_AmoSp": {
+        "type": "real"
+    }
+}

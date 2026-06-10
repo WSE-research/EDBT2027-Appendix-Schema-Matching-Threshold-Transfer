@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_ASSTI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_RELATITY"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_ASTI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_TISI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac4_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_vertical_30_ac4_av_target",
+            "target_column": "assays_VAI"
+        }
+    ]
+}

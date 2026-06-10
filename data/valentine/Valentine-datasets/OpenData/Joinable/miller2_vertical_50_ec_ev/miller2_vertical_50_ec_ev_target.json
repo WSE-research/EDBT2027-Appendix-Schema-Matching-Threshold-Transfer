@@ -1,0 +1,116 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    }
+}

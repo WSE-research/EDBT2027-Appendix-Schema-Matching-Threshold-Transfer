@@ -1,0 +1,101 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "SectN": {
+        "type": "text"
+    },
+    "OrgaT": {
+        "type": "text"
+    },
+    "KnowlFoDev": {
+        "type": "int"
+    },
+    "OrganSu": {
+        "type": "text"
+    },
+    "SecPerc": {
+        "type": "real"
+    },
+    "OrgID": {
+        "type": "text"
+    },
+    "ConN": {
+        "type": "text"
+    },
+    "CliChAda": {
+        "type": "int"
+    },
+    "PrograProc": {
+        "type": "text"
+    },
+    "RegProg": {
+        "type": "int"
+    },
+    "UnAmPrBu": {
+        "type": "real"
+    },
+    "FSTCPer": {
+        "type": "real"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "SeID": {
+        "type": "text"
+    },
+    "Biodi": {
+        "type": "int"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "ChiIss": {
+        "type": "int"
+    },
+    "YouIs": {
+        "type": "int"
+    },
+    "IndIs": {
+        "type": "int"
+    },
+    "DisIss": {
+        "type": "int"
+    },
+    "ICTAAToFDevel": {
+        "type": "int"
+    },
+    "GeEq": {
+        "type": "int"
+    },
+    "OrganN": {
+        "type": "text"
+    },
+    "OrgaCla": {
+        "type": "text"
+    },
+    "ConID": {
+        "type": "int"
+    },
+    "ProBrowCouID": {
+        "type": "text"
+    },
+    "CoReID": {
+        "type": "text"
+    },
+    "CoReN": {
+        "type": "text"
+    },
+    "CouRePe": {
+        "type": "real"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "SecN": {
+        "type": "text"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

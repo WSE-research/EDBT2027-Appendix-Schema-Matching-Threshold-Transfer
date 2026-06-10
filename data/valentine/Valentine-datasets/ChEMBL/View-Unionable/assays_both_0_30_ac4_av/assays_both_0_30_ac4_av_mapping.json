@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_ASI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_VARI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_SRI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_ASSCTY"
+        },
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_BFO"
+        },
+        {
+            "source_table": "assays_both_0_30_ac4_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_0_30_ac4_av_target",
+            "target_column": "assays_TII"
+        }
+    ]
+}

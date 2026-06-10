@@ -1,0 +1,116 @@
+{
+    "miller2_FiY": {
+        "type": "text"
+    },
+    "miller2_TraDeve": {
+        "type": "int"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_ChiIss": {
+        "type": "int"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_KnowFDeve": {
+        "type": "int"
+    },
+    "miller2_AmoSpe": {
+        "type": "real"
+    },
+    "miller2_Deserti": {
+        "type": "int"
+    },
+    "miller2_Biodi": {
+        "type": "int"
+    },
+    "miller2_PrNu": {
+        "type": "text"
+    },
+    "miller2_SecNa": {
+        "type": "text"
+    },
+    "miller2_CouRePerc": {
+        "type": "real"
+    },
+    "miller2_IndigIss": {
+        "type": "int"
+    },
+    "miller2_EnvirSustai": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_CoRegN": {
+        "type": "text"
+    },
+    "miller2_ClChaMit": {
+        "type": "int"
+    },
+    "miller2_BraID": {
+        "type": "text"
+    },
+    "miller2_SectID": {
+        "type": "text"
+    },
+    "miller2_OrganCla": {
+        "type": "text"
+    },
+    "miller2_OrgSu": {
+        "type": "text"
+    },
+    "miller2_MaxiCIDACont": {
+        "type": "real"
+    },
+    "miller2_DisIs": {
+        "type": "int"
+    },
+    "miller2_ParticDevAGoGove": {
+        "type": "int"
+    },
+    "miller2_FCenNa": {
+        "type": "text"
+    },
+    "miller2_ClChaAdapt": {
+        "type": "int"
+    },
+    "miller2_UrbIs": {
+        "type": "int"
+    },
+    "miller2_YouIss": {
+        "type": "int"
+    },
+    "miller2_ICTAATFoDevel": {
+        "type": "int"
+    },
+    "miller2_GeEq": {
+        "type": "int"
+    },
+    "miller2_OrgID": {
+        "type": "text"
+    },
+    "miller2_OrgN": {
+        "type": "text"
+    },
+    "miller2_OrgT": {
+        "type": "text"
+    },
+    "miller2_ContID": {
+        "type": "int"
+    },
+    "miller2_ConN": {
+        "type": "text"
+    },
+    "miller2_ProBroCounID": {
+        "type": "text"
+    },
+    "miller2_CouRegID": {
+        "type": "text"
+    },
+    "miller2_SePe": {
+        "type": "real"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_ss_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "variant_id",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_vrnt_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_src_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_ss_rgnsm"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_30_ac5_ev_target",
+            "target_column": "assays_cll_d"
+        }
+    ]
+}

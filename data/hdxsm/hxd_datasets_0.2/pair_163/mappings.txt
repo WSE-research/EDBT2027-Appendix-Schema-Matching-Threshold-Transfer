@@ -1,0 +1,10 @@
+<"Date de l'évaluation", "Date de l'évaluation">
+<"Région", "Region">
+<"Région p_code", "Region Pcode">
+<"A1. Département", "Departement">
+<"Département p_code", "Departement Pcode">
+<"A2. Sous-préfecture", "Sous-prefecture">
+<"_A4. Coordonnées GPS du Lieu_latitude", "Latitude">
+<"_A4. Coordonnées GPS du Lieu_longitude", "Longitude">
+<"B2a Nombre de ménages retournés", "Retourne Nombre de ménages">
+<"B2b Nombre d'individus retournés", "Retoune Nombre d'individus">

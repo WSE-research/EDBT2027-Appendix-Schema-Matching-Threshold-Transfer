@@ -1,0 +1,9 @@
+<"Place ID", "Place ID">
+<"Governorate", "Governorate">
+<"District", "District">
+<"Location Name", "Location_name">
+<"Arabic Name", "Arabic_name">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"ID Pfamilies", "Families">
+<"ID Pindividuals", "Individuals">

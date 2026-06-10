@@ -1,0 +1,101 @@
+{
+    "FisY": {
+        "type": "text"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "CIDABuDeliMo": {
+        "type": "text"
+    },
+    "IndiIss": {
+        "type": "int"
+    },
+    "CounRegNa": {
+        "type": "text"
+    },
+    "ProgrPro": {
+        "type": "text"
+    },
+    "SecN": {
+        "type": "text"
+    },
+    "OrganiID": {
+        "type": "text"
+    },
+    "OrganiS": {
+        "type": "text"
+    },
+    "FCeN": {
+        "type": "text"
+    },
+    "FCeID": {
+        "type": "int"
+    },
+    "UntAmPrBu": {
+        "type": "real"
+    },
+    "OrgN": {
+        "type": "text"
+    },
+    "Deserti": {
+        "type": "int"
+    },
+    "Biodi": {
+        "type": "int"
+    },
+    "TraDev": {
+        "type": "int"
+    },
+    "UrIs": {
+        "type": "int"
+    },
+    "ChIs": {
+        "type": "int"
+    },
+    "YoIs": {
+        "type": "int"
+    },
+    "DisaIs": {
+        "type": "int"
+    },
+    "ICTAAToFoDevelo": {
+        "type": "int"
+    },
+    "KnowlFDev": {
+        "type": "int"
+    },
+    "GeEq": {
+        "type": "int"
+    },
+    "OrgaT": {
+        "type": "text"
+    },
+    "OrganiCl": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "ConNa": {
+        "type": "text"
+    },
+    "ProjBroCoID": {
+        "type": "text"
+    },
+    "CounRegID": {
+        "type": "text"
+    },
+    "CouRePerc": {
+        "type": "real"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "SePe": {
+        "type": "real"
+    },
+    "AmoSp": {
+        "type": "real"
+    }
+}

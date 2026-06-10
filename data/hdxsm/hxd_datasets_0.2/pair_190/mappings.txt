@@ -1,0 +1,5 @@
+<"Date Added", "Date Created (Post Date)">
+<"Date updated", "Updated date">
+<"Notes", "Notes">
+<"Preferred Term", "Preferred Term">
+<"Preferred Term", "Preferred Term (fr)">

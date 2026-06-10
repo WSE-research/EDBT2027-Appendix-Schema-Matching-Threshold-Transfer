@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "nmbrcrs"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "crdtrtng"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "phn"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "nmbrcrdtcrds"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "mrtlstts"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "ddrssln1"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "wnrrntflg"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "City",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "ct"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "ntwrth"
+        },
+        {
+            "source_table": "prospect_vertical_50_ac3_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_vertical_50_ac3_av_target",
+            "target_column": "mddlntl"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "assays_assay_id": {
+        "type": "integer"
+    },
+    "assays_assay_organism": {
+        "type": "varchar(250)"
+    },
+    "assays_confidence_score": {
+        "type": "smallint unsigned"
+    },
+    "assays_assay_type": {
+        "type": "varchar(1)"
+    },
+    "assays_assay_cell_type": {
+        "type": "varchar(100)"
+    },
+    "assays_src_id": {
+        "type": "smallint"
+    },
+    "assays_description": {
+        "type": "varchar(400)"
+    },
+    "assays_tid": {
+        "type": "integer"
+    },
+    "assays_assay_tax_id": {
+        "type": "bigint unsigned"
+    },
+    "assays_assay_subcellular_fraction": {
+        "type": "varchar(100)"
+    },
+    "assays_variant_id": {
+        "type": "integer unsigned"
+    },
+    "assays_chembl_id": {
+        "type": "varchar(20)"
+    },
+    "assays_doc_id": {
+        "type": "integer"
+    },
+    "assays_tissue_id": {
+        "type": "integer"
+    },
+    "assays_cell_id": {
+        "type": "integer"
+    },
+    "assays_src_assay_id": {
+        "type": "varchar(50)"
+    },
+    "assays_assay_tissue": {
+        "type": "varchar(100)"
+    },
+    "assays_relationship_type": {
+        "type": "varchar(1)"
+    },
+    "assays_curated_by": {
+        "type": "varchar(32)"
+    },
+    "assays_bao_format": {
+        "type": "varchar(11)"
+    }
+}

@@ -1,0 +1,10 @@
+,Governorate,District,Latitude,Longitude,Households,Individuals
+Place ID,0.0,0.0,0.0,0.0,0.0,0.0
+Governorate,1.0,0.0,0.0,0.0,0.0,0.0
+District,0.0,1.0,0.0,0.0,0.0,0.0
+Location Name,0.0,0.0,0.0,0.0,0.0,0.0
+Arabic Name,0.0,0.0,0.0,0.0,0.0,0.0
+Latitude,0.0,0.0,1.0,0.0,0.0,0.0
+Longitude,0.0,0.0,0.0,1.0,0.0,0.0
+ID Pfamilies,0.0,0.0,0.0,0.0,0.0,0.0
+ID Pindividuals,0.0,0.0,0.0,0.0,0.0,1.0

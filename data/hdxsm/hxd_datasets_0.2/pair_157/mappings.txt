@@ -1,0 +1,7 @@
+<"Governorate", "Governorate">
+<"District", "District">
+<"Location name\nin English", "Sub-district">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"Households", "Households">
+<"Individuals", "Individuals">

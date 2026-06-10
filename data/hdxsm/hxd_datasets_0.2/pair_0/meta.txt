@@ -1,0 +1,9 @@
+f65b4a71-df3f-45ae-8947-2d5960fc9357,Public Sector Indicators for Belarus
+34a51bde-77b3-476f-84a4-1fd5b7458d4e,Science and Technology Indicators for Belarus
+---hxl_tags---
+#country+name
+#country+code
+#date+year
+#indicator+name
+#indicator+code
+#indicator+value+num

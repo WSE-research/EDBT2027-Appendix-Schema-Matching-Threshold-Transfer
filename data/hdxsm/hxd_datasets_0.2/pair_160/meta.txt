@@ -1,0 +1,19 @@
+9728136d-b31d-4c0d-bbad-5a1e05cab4af,Child health Indicators for Eswatini
+baf4c725-092c-46da-b7d1-83ca86cb0054,World Health Statistics Indicators for Kingdom of Eswatini
+---hxl_tags---
+#indicator+code
+#indicator+name
+#indicator+url
+#meta+source
+#status+code
+#status+name
+#date+year
+#region+code
+#date+year+start
+#date+year+end
+#region+name
+#country+code
+#country+name
+#sex+code
+#sex+name
+#indicator+value+num

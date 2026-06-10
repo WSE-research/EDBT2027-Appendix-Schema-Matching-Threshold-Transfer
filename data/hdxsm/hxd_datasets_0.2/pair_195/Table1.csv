@@ -1,0 +1,101 @@
+INDICATOR_ID,COUNTRY_ID,YEAR,TYPE,METADATA
+NARA.AGM1.RUR.Q3.F,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+MATH.PRIMARY.LPIA,TUR,2011,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4
+NARA.AGM1.RUR.Q2.F,TUR,2004,Source:Data sources,Not available (no data for children aged one year before official primary entry age).
+ROFST.H.1.URB.Q2.F,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.2.WPIA,TUR,2008,Source:Data sources,"Turkey DHS 2008. World Inequality Database on Education (WIDE), June 2019."
+CR.2.F.WPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.1.RUR.Q4.M,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+CR.1.RUR.Q5.M,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.1.Q4,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.RUR.Q1.F,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.Q1.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+READ.PRIMARY.NONNATIVE,TUR,2001,Source:Data sources,Progress in International Reading Literacy Study (PIRLS). Students achieving at least low International Benchmark. Grade 4
+NARA.AGM1.Q2.F.LPIA,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+CR.1.Q5.M,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.1.URB.Q4,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+MATH.LOWERSEC.LOWSES,TUR,2011,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. TIMSS over PISA was chosen by the country. Grade 8
+ROFST.H.2.RUR.WPIA,TUR,2004,Source:Data sources,Value based on 25-49 unweighted observations in sample.
+ROFST.H.3.URB.Q5.M,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.2.URB.Q5,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+MATH.PRIMARY.NONLANGTEST,TUR,2015,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4
+CR.2.Q3.F.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.2.RUR.Q1.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.1.Q5.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.3.RUR.Q5.M,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+ESG.LOWERSEC.COGN.GPIA,TUR,2019,Source:Data sources,TIMSS
+CR.3.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ODAFLOW.VOLUMESCHOLARSHIP,TUR,2010,Source:Data sources,"Official Development Assistance. Scholarships/training. Constant Prices 2018 (USD). Gross Disbursements. Source: OECD, Creditor Reporting System, 2021."
+ROFST.H.2.Q2.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+GAR.5T8.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.3.URB.M.WPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+READ.LOWERSEC.NPIA,TUR,2003,Source:Data sources,Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799
+CR.3.F,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.3.Q3.F.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ROFST.H.3.URB.WPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+EA.3T8.AG25T99,TUR,2015,Under Coverage:Students or individuals,Proportion of population with unknown educational attainment greater than 5%.
+NARA.AGM1.URB.Q2.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.3.Q4.M.LPIA,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+NARA.AGM1.URB.Q1.F,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+READ.LOWERSEC.URBAN,TUR,2018,Source:Data sources,Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799
+NARA.AGM1.GPIA,TUR,2004,Source:Data sources,Not available (no data for children aged one year before official primary entry age).
+NARA.AGM1.RUR.Q1.GPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ICTSKILLPROGLANG,TUR,2014,Source:Data sources,International Telecommunication Union (ITU) - Turkish Statistical Institute
+READ.LOWERSEC.LOWSES,TUR,2012,Source:Data sources,Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799
+GAR.5T8.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.F,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+NARA.AGM1.RUR.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.2.URB.Q1,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+NARA.AGM1.Q3.M.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+EA.2T8.AG25T99.M,TUR,2015,Under Coverage:Students or individuals,Proportion of population with unknown educational attainment greater than 5%.
+CR.2.M,TUR,2008,Source:Data sources,"Turkey DHS 2008. World Inequality Database on Education (WIDE), June 2019."
+CR.2.RUR.Q4.GPIA,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+ROFST.H.1.URB.WPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+PRYA.12MO.GPI,TUR,2007,Source:Data sources,Adult Education Survey (AES).
+NARA.AGM1.Q2.F.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.1.Q3.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.3.URB.Q5.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.RUR.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+EA.S1T8.AG25T99,TUR,2010,Under Coverage:Students or individuals,Proportion of population with unknown educational attainment greater than 5%.
+READ.LOWERSEC.LANGTEST,TUR,2006,Source:Data sources,Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799
+MATH.LOWERSEC,TUR,2011,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. TIMSS over PISA was chosen by the country. Grade 8
+CR.3.RUR.Q2.F,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.3.Q5.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+NARA.AGM1.RUR.F.WPIA,TUR,2004,Source:Data sources,Not available (no data for children aged one year before official primary entry age).
+ICTSKILLCREAT,TUR,2014,Source:Data sources,International Telecommunication Union (ITU) - Turkish Statistical Institute
+MATH.LOWERSEC.LTPIA,TUR,2011,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. TIMSS over PISA was chosen by the country. Grade 8
+ICTSKILLFORMULA.M,TUR,2016,Source:Data sources,International Telecommunication Union (ITU) - Turkish Statistical Institute
+CR.1.URB,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+MATH.PRIMARY.NONLANGTEST,TUR,2011,Source:Data sources,Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4
+READ.LOWERSEC,TUR,2009,Source:Data sources,Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799
+ROFST.H.2.Q5.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.3.F,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ROFST.H.1.RUR.F.WPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.1.RUR.Q2,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ROFST.H.1.Q4,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+NARA.AGM1.URB.Q3.M,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+NARA.AGM1.Q2.M.LPIA,TUR,2004,Source:Data sources,Not available (no data for children aged one year before official primary entry age).
+CR.3.Q1,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.1.RUR.F.WPIA,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+CR.2.RUR.Q3.F,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.2.Q4.M.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+NARA.AGM1.RUR.Q4,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+GAR.5T8.Q4.F.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.1.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+PRYA.12MO.GPI,TUR,2011,Source:Data sources,Adult Education Survey (AES).
+GAR.5T8.Q2.F.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.1.URB.WPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ROFST.H.2.RUR.WPIA,TUR,2014,Source:Data sources,Value suppressed (less than 25 unweighted observations in sample).
+GAR.5T8.Q4.GPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+CR.1.M.WPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+ROFST.H.3.URB.Q5.M,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+EA.5T8.AG25T99,TUR,2010,Under Coverage:Students or individuals,Proportion of population with unknown educational attainment greater than 5%.
+EA.2T8.AG25T99,TUR,2009,Under Coverage:Students or individuals,Proportion of population with unknown educational attainment greater than 5%.
+CR.2.RUR.Q1,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+ROFST.H.1.Q1.M.LPIA,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.
+CR.2.Q4.F.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.Q2.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.Q4.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+NARA.AGM1.URB.Q2.F,TUR,2004,Source:Data sources,Not available (no data for children aged one year before official primary entry age).
+CR.3.Q3.M.LPIA,TUR,2004,Source:Data sources,Turkey DHS 2003-04. The survey collected data on school attendance for age 6-24 and educational attainment for age 6 and above.
+GAR.5T8.URB.Q5.F,TUR,2014,Source:Data sources,Turkey DHS 2013. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.

@@ -1,0 +1,101 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "clmtchngdpttn(mrkr)": {
+        "type": "int"
+    },
+    "fstcprcnt": {
+        "type": "real"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "brnchnm": {
+        "type": "text"
+    },
+    "cdbsnssdlvrmdl(ld)": {
+        "type": "text"
+    },
+    "dvsnd": {
+        "type": "text"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "cfl(mrkr)": {
+        "type": "int"
+    },
+    "nvrmntlsstnblt(mrkr)": {
+        "type": "int"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "prgrmmngprcss(nw)": {
+        "type": "text"
+    },
+    "rtcprcnt": {
+        "type": "real"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "sctrnm": {
+        "type": "text"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "mntspnt": {
+        "type": "real"
+    }
+}

@@ -1,0 +1,85 @@
+<"Snapshot Date", "Snapshot date">
+<"Country", "Country">
+<"Country Code", "Country Code">
+<"DTM Round", "DTM Round">
+<"Date", "Date">
+<"State", "State">
+<"State_Pcode", "State_Pcode">
+<"LGA", "LGA">
+<"LGA Pcode", "LGA Pcode">
+<"Ward", "Ward">
+<"CODs_Ward_Pcode", "CODs_Ward_Pcode">
+<"SiteID", "SiteID">
+<"Site Name", "Site Name">
+<"Longitude", "Longitude">
+<"Latitude", "Latitude">
+<"Site Type", "Site Type">
+<"Site Classification", "Site Classification">
+<"Site Management Agency", "Site Management Agency">
+<"SMA type", "SMA type">
+<"Registration Activity", "Registration Activity">
+<"WASH Support", "WASH Support">
+<"CCCM Support", "CCCM Support">
+<"CCCM_Organization", "CCCM_Organization">
+<"HEALTH Support", "HEALTH Support">
+<"SHELTER Support", "SHELTER Support">
+<"NFI Support ", "NFI Support ">
+<"FOOD Support", "FOOD Support">
+<"PROTECTION Support", "PROTECTION Support">
+<"EDUCATION Support", "EDUCATION Support">
+<"LIVELIHOOD Support", "LIVELIHOOD Support">
+<"PSS SUPPORT", "PSS SUPPORT">
+<"PSS_ORGANIZATION", "PSS_ORGANIZATION">
+<"Land Ownership", "Land Ownership">
+<"Most Common Type of Shelter", "Most Common Type of Shelter">
+<"Number of Households", "Number of Households">
+<"Number of Individuals", "Number of Individuals">
+<"Boys (<1)", "Boys (<1)">
+<"Girls (<1)", "Girls (<1)">
+<"Boys (1 - 5 y)", "Boys (1 - 5 y)">
+<"Girls (1 - 5 y)", "Girls (1 - 5 y)">
+<"Boys 6to12y", "Boys 6to12y">
+<"Girls 6to12y", "Girls 6to12y">
+<"Boys 13to17y", "Boys 13to17y">
+<"Girls 13to17y", "Girls 13to17y">
+<"Men (18 - 59 y)", "Men (18 - 59 y)">
+<"Women (18 - 59 y)", "Women (18 - 59 y)">
+<"(Elderly men 60+ y)", "(Elderly men 60+ y)">
+<"(Elderly women 60+ y)", "(Elderly women 60+ y)">
+<"Have IDPs been displaced previously", "Have IDPs been displaced previously">
+<"Reason for displacement of Majority", "Reason for displacement of Majority">
+<"Natural Hazard Risks", "Natural Hazard Risks">
+<"Intended Area of Return", "Intended Area of Return">
+<"Reasons to Return Home", "Reasons to Return Home">
+<"Reasons NOT to Return Home", "Reasons NOT to Return Home">
+<"% HH living outside (no shelter)", "% HH living outside (no shelter)">
+<"% HH living in EmS", "% HH living in EmS">
+<"% HH living in makeshift/self-made shelter", "% HH living in makeshift/self-made shelter">
+<"% HH living indoors (solid walls)", "% HH living indoors (solid walls)">
+<"% HH have access to electricity", "% HH have access to electricity">
+<"% HH have access to safe cooking facilities", "% HH have access to safe cooking facilities">
+<"% HH have private living area", "% HH have private living area">
+<"% HH have mosquito nets", "% HH have mosquito nets">
+<"Most needed NFI", "Most needed NFI">
+<"Location of site main water source", "Location of site main water source">
+<"Main drinking water source", "Main drinking water source">
+<"Avg amount of water available /day/person", "Avg amount of water available /day/person">
+<"Is drinking water potable", "Is drinking water potable">
+<"Complaints about drinking water quality", "Complaints about drinking water quality">
+<"Condition of most of the toilets", "Condition of most of the toilets">
+<"# of functioning toilets", "# of functioning toilets">
+<"Main garbage disposal", "Main garbage disposal">
+<"Garbage and solid waste problem", "Garbage and solid waste problem">
+<"Availability of hand-washing station", "Availability of hand-washing station">
+<"Hygiene promotion campaign", "Hygiene promotion campaign">
+<"Evidence of open defecation", "Evidence of open defecation">
+<"Access to food", "Access to food">
+<"Access to market near from the site", "Access to market near from the site">
+<"Frequency of food distribution", "Frequency of food distribution">
+<"Most common source for obtaining food", "Most common source for obtaining food">
+<"Screening for malnutrition", "Screening for malnutrition">
+<"Most health problem", "Most health problem">
+<"Regular access to medicine", "Regular access to medicine">
+<"Access to health facility", "Access to health facility">
+<"Location of health facilities", "Location of health facilities">
+<"Main provider of health facilities", "Main provider of health facilities">

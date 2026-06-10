@@ -1,0 +1,14 @@
+<"Snapshot date", "Snapshot Date">
+<"Round", "DTM Round">
+<"Country", "Country">
+<"Country Code", "Country Code">
+<"State Pcode", "State_Pcode">
+<"State of Displacement", "State">
+<"LGA Pcode", "LGA Pcode">
+<"LGA", "LGA">
+<"CODs PCODE", "CODs_Ward_Pcode">
+<"Ward", "Ward">
+<"Estimated Household Number", "Number of Households">
+<"Estimated Number of IDP", "Number of Individuals">
+<"IDP category", "Reason for displacement of Majority">
+<"Date Occurred", "Date">

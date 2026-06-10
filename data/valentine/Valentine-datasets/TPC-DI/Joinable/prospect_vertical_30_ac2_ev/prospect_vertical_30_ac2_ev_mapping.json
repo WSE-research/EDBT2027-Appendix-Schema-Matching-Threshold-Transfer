@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "AgeID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "CreRat"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "NuCreCa"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "NumChi"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "FiN"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_vertical_30_ac2_ev_target",
+            "target_column": "MariSta"
+        }
+    ]
+}

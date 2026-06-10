@@ -1,0 +1,9 @@
+<"Reported_Date", "Reported Date">
+<"Country", "Country">
+<"Country_Code", "Country Code">
+<"State", "Site Location (State)">
+<"State_Pcode", "State Code">
+<"LGA", "Site Location (LGA)">
+<"LGA Pcode", "LGA Code">
+<"Number of Households", "Number of Households">
+<"Number of Individuals", "Number of Individuals">

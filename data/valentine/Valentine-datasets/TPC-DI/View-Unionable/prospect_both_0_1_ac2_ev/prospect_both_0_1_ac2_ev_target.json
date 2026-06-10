@@ -1,0 +1,38 @@
+{
+    "AgID": {
+        "type": "varchar(30)"
+    },
+    "Ph": {
+        "type": "varchar(30)"
+    },
+    "Inc": {
+        "type": "numeric(9)"
+    },
+    "NumC": {
+        "type": "numeric(2)"
+    },
+    "NuChi": {
+        "type": "numeric(2)"
+    },
+    "MaSta": {
+        "type": "varchar(1)"
+    },
+    "Ag": {
+        "type": "numeric(3)"
+    },
+    "CreRa": {
+        "type": "numeric(4)"
+    },
+    "OwOReFl": {
+        "type": "varchar(1)"
+    },
+    "Empl": {
+        "type": "varchar(30)"
+    },
+    "NumCreCar": {
+        "type": "numeric(2)"
+    },
+    "NeWor": {
+        "type": "numeric(12)"
+    }
+}

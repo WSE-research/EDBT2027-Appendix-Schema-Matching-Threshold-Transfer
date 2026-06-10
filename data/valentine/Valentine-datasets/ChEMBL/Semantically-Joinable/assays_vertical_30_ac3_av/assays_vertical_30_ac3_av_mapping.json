@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "cnfdnc_scr"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "tss_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "vrnt_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_30_ac3_av_target",
+            "target_column": "rltnshp_tp"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "ASSORGA"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "CUB"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "CHEI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "CI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "ASSCA"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "T"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "TII"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "ASSTY"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "VAI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac2_av_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_50_ac2_av_target",
+            "target_column": "Descri"
+        }
+    ]
+}

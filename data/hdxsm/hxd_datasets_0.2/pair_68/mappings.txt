@@ -1,0 +1,11 @@
+<"ISO3", "ISO3">
+<"DataId", "DataId">
+<"Indicator", "Indicator">
+<"Value", "Value">
+<"Precision", "Precision">
+<"CountryName", "CountryName">
+<"SurveyYear", "SurveyYear">
+<"SurveyId", "SurveyId">
+<"IndicatorId", "IndicatorId">
+<"ByVariableId", "ByVariableId">
+<"ByVariableLabel", "ByVariableLabel">

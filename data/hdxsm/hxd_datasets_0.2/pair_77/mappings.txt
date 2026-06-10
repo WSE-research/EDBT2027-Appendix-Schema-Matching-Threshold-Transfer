@@ -1,0 +1,9 @@
+<"Round", "DTM Round">
+<"State of Displacement", "State">
+<"State Pcode", "State_Pcode">
+<"LGA", "LGA">
+<"LGA Pcode", "LGA_Pcode">
+<"Ward", "Ward">
+<"CODs PCODE", "Ward_Pcode">
+<"Estimated Household Number", "Number households">
+<"Estimated Number of IDP", "Number individuals">

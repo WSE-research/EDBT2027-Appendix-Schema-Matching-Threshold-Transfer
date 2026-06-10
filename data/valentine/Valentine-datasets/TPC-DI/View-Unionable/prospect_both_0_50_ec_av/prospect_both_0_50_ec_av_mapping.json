@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "AgencyID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "Age"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "Country"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "Phone"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "NetWorth"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "MiddleInitial"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "Employer"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "NumberChildren"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "NumberCreditCards"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_50_ec_av_target",
+            "target_column": "City"
+        }
+    ]
+}

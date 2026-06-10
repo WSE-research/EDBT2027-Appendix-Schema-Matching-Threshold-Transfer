@@ -1,0 +1,17 @@
+fa625cd1-729a-484c-83bb-a6fad14df3be,DTM DRC BA Tanganyika Dec2020 R10
+28a7ae5c-8808-4df7-8726-ec8321db3411,DTM DRC BA South Kivu Apr 2021 R6
+---hxl_tags---
+#country+name
+#country+code
+#date+reported
+#adm1+code
+#adm1+name
+#adm2+code
+#adm2+name
+#adm3+code
+#adm3+name
+#date+occurred
+#affected+idps+hh
+#affected+idps+ind
+#affected+returnees+hh
+#affected+returnees+ind

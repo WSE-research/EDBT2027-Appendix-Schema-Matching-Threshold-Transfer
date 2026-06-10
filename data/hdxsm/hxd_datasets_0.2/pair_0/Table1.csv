@@ -1,0 +1,101 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Belarus,BLR,1999,Interest payments (current LCU),GC.XPN.INTP.CN,1932510
+Belarus,BLR,2008,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,7.49152504193983
+Belarus,BLR,2014,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,27.410400205909
+Belarus,BLR,1992,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,5.29100529100529
+Belarus,BLR,2002,Other expense (% of expense),GC.XPN.OTHR.ZS,2.99495698789708
+Belarus,BLR,2000,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,261969000
+Belarus,BLR,2019,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,13.3015061393462
+Belarus,BLR,2016,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.452628562848377
+Belarus,BLR,2009,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,3144640000
+Belarus,BLR,1996,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,12.5416952028681
+Belarus,BLR,2005,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,33.7785670484776
+Belarus,BLR,2003,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,3.71734669654094
+Belarus,BLR,2007,Tax payments (number),IC.TAX.PAYM,124
+Belarus,BLR,1995,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,10.8961627511439
+Belarus,BLR,2016,Grants and other revenue (current LCU),GC.REV.GOTR.CN,7180056061.51
+Belarus,BLR,2004,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,9.50652745130955
+Belarus,BLR,1996,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,2.094505423212
+Belarus,BLR,2016,Social contributions (% of revenue),GC.REV.SOCL.ZS,33.234223801528
+Belarus,BLR,2000,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,6.58681263312187
+Belarus,BLR,2016,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,27480754810.51
+Belarus,BLR,1992,Compensation of employees (current LCU),GC.XPN.COMP.CN,70
+Belarus,BLR,2013,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,28.7220108739005
+Belarus,BLR,2001,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Belarus,BLR,2009,Military expenditure (current LCU),MS.MIL.XPND.CN,1886500000
+Belarus,BLR,1999,Grants and other revenue (current LCU),GC.REV.GOTR.CN,6646120
+Belarus,BLR,1999,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,41000000
+Belarus,BLR,2002,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,12.6581901962663
+Belarus,BLR,2017,"Armed forces personnel, total",MS.MIL.TOTL.P1,155000
+Belarus,BLR,2004,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,543991000
+Belarus,BLR,1999,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,86883950
+Belarus,BLR,1998,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,41000000
+Belarus,BLR,1993,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.79097146104819
+Belarus,BLR,2000,Social contributions (% of revenue),GC.REV.SOCL.ZS,35.451450121766
+Belarus,BLR,1997,Other expense (% of expense),GC.XPN.OTHR.ZS,0.369425807317596
+Belarus,BLR,1992,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,5.21739130434783
+Belarus,BLR,1992,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,2.20957995884982
+Belarus,BLR,1993,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,5.23857868020305
+Belarus,BLR,2006,Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN,116410202
+Belarus,BLR,2011,Compensation of employees (% of expense),GC.XPN.COMP.ZS,11.6731059690479
+Belarus,BLR,2003,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,370189400
+Belarus,BLR,1999,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,28.7118679578489
+Belarus,BLR,2010,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,1.75481587290663
+Belarus,BLR,2007,Social contributions (current LCU),GC.REV.SOCL.CN,1125668642.6
+Belarus,BLR,2017,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,52.9
+Belarus,BLR,2019,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,4.95858653103866
+Belarus,BLR,2020,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,9.19528365058666
+Belarus,BLR,1992,Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN,0
+Belarus,BLR,2018,Taxes on exports (current LCU),GC.TAX.EXPT.CN,3908002655.8
+Belarus,BLR,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Belarus,BLR,1995,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,30.026605602827
+Belarus,BLR,1994,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,24.7501826561007
+Belarus,BLR,2004,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.35822231382833
+Belarus,BLR,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.8181818181818
+Belarus,BLR,2014,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,0.229657975308041
+Belarus,BLR,2007,Social contributions (% of revenue),GC.REV.SOCL.ZS,30.2867733703344
+Belarus,BLR,2012,Taxes on exports (current LCU),GC.TAX.EXPT.CN,1098910000
+Belarus,BLR,2009,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,288143500
+Belarus,BLR,2006,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,54.20625
+Belarus,BLR,1993,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Belarus,BLR,2003,Goods and services expense (current LCU),GC.XPN.GSRV.CN,173869420
+Belarus,BLR,2017,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,5.38393529877477
+Belarus,BLR,1999,Social contributions (% of revenue),GC.REV.SOCL.ZS,34.2823386828062
+Belarus,BLR,2006,"Armed forces personnel, total",MS.MIL.TOTL.P1,183000
+Belarus,BLR,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+Belarus,BLR,2008,Compensation of employees (current LCU),GC.XPN.COMP.CN,446693500
+Belarus,BLR,2008,Goods and services expense (% of expense),GC.XPN.GSRV.ZS,11.8516662609197
+Belarus,BLR,2005,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Belarus,BLR,1994,Compensation of employees (current LCU),GC.XPN.COMP.CN,18040
+Belarus,BLR,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Belarus,BLR,1998,Social contributions (current LCU),GC.REV.SOCL.CN,7001260
+Belarus,BLR,2011,Tax revenue (current LCU),GC.TAX.TOTL.CN,4457840000
+Belarus,BLR,2020,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,13.2303805087523
+Belarus,BLR,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Belarus,BLR,2007,Other expense (% of expense),GC.XPN.OTHR.ZS,5.39565956132152
+Belarus,BLR,2004,Other expense (% of expense),GC.XPN.OTHR.ZS,5.01576008208555
+Belarus,BLR,1994,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,33.3670544596189
+Belarus,BLR,2012,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,14.6629750334495
+Belarus,BLR,2011,Compensation of employees (current LCU),GC.XPN.COMP.CN,912740000
+Belarus,BLR,1999,Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS,-1.45940072648827
+Belarus,BLR,2021,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Belarus,BLR,1974,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Belarus,BLR,2007,Compensation of employees (% of expense),GC.XPN.COMP.ZS,11.2560645679159
+Belarus,BLR,2016,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,90
+Belarus,BLR,2005,"Armed forces personnel, total",MS.MIL.TOTL.P1,183000
+Belarus,BLR,2014,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,3.6048483938598
+Belarus,BLR,2007,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,32.4493927125506
+Belarus,BLR,2020,Other expense (% of expense),GC.XPN.OTHR.ZS,7.73539597353493
+Belarus,BLR,2007,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,3.1620235639678
+Belarus,BLR,2012,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.22921872178113
+Belarus,BLR,1996,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Belarus,BLR,1997,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.76896655126353
+Belarus,BLR,2007,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,0.925231948303004
+Belarus,BLR,2013,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,12.1096264457318
+Belarus,BLR,2010,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,86.66667
+Belarus,BLR,1992,"Central government debt, total (current LCU)",GC.DOD.TOTL.CN,2370
+Belarus,BLR,2018,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,13.262694905306
+Belarus,BLR,2000,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.34698415075765
+Belarus,BLR,2008,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,25.3533892055523
+Belarus,BLR,2012,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,10484880000
+Belarus,BLR,2004,Compensation of employees (current LCU),GC.XPN.COMP.CN,194427500

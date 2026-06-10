@@ -1,0 +1,14 @@
+54db2f8f-2d18-4312-b39e-271b08b11066,DTM Mozambique Baseline Assessment Round 2
+e340f01d-c503-4978-b111-5e6b9fc0ec42,DTM Mozambique Site Assessment Round 7
+---hxl_tags---
+#date+occurred
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#adm3+name
+#adm3+code
+#geo+lat
+#geo+lon
+#affected+idps+hh
+#affected+idps+ind

@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "src_id"
+        },
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "assay_type"
+        },
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "bao_format"
+        },
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "assay_tax_id"
+        },
+        {
+            "source_table": "assays_both_50_30_ec_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_30_ec_ev_target",
+            "target_column": "doc_id"
+        }
+    ]
+}

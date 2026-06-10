@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "SI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "ASSTI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "ASCT"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "RELAT"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_30_ac2_ev_target",
+            "target_column": "CUB"
+        }
+    ]
+}

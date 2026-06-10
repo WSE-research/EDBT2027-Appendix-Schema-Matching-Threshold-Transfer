@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_ss_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_b_frmt"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_rltnshp_tp"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_td"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_ss_strn"
+        },
+        {
+            "source_table": "assays_vertical_30_ac5_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_30_ac5_av_target",
+            "target_column": "assays_cnfdnc_scr"
+        }
+    ]
+}

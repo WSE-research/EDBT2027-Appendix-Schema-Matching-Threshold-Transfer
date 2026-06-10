@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "Des"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "CI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "BFO"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "CURAB"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_vertical_30_ac2_av_target",
+            "target_column": "ASSSUBCELFR"
+        }
+    ]
+}

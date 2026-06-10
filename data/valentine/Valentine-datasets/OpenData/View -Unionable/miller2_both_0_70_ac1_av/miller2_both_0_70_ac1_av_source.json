@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    }
+}

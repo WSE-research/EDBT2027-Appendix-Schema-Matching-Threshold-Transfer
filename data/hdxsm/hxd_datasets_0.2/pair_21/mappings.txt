@@ -1,0 +1,10 @@
+<"Country", "Country">
+<"Country Code", "Country Code">
+<"Reported Date", "Snapshot Date">
+<"State ", "State">
+<"Admin 1 Code", "State_Pcode">
+<"LGA ", "LGA">
+<"Admin 2 Code", "LGA Pcode">
+<"Number households", "Number of Households">
+<"Number individuals", "Number of Individuals">
+<"Date of Assessment", "Date">

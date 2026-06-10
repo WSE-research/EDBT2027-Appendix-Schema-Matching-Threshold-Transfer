@@ -1,0 +1,6365 @@
+{
+  "BEYONDCOAL": {
+    "BFF unit ID": {
+      "examples": [
+        "DE-190-2",
+        "BG-10-4",
+        "DE-216-1",
+        "CZ-31-2",
+        "CZ-9-2"
+      ]
+    },
+    "BFF plant ID": {
+      "examples": [
+        "BA-10",
+        "BA-4",
+        "ES-30",
+        "DE-32",
+        "CZ-77"
+      ]
+    },
+    "Unit name": {
+      "examples": [
+        "Veltheim 3",
+        "Republika (Pernik) 4",
+        "Ulm Magirusstrasse 1",
+        "Vitkovice 2",
+        "Melnik I 2"
+      ]
+    },
+    "Plant name": {
+      "examples": [
+        "Maritsa East 2",
+        "Fyns",
+        "Deuben",
+        "Meirama",
+        "Malesice"
+      ]
+    },
+    "Country": {
+      "examples": [
+        "Spain",
+        "Bosnia & Herzegovina",
+        "Germany",
+        "Austria",
+        "Greece"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Western Balkans",
+        "EU+UK"
+      ]
+    },
+    "Fuel type": {
+      "examples": [
+        "hard coal",
+        "lignite"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "Vattenfall",
+        "City of Flensburg",
+        "EPH",
+        "Engie",
+        "Stadtwerke Cottbus GmbH"
+      ]
+    },
+    "Commissioning year": {
+      "examples": [
+        "2017.0",
+        "1996.0",
+        "1961.0",
+        "1983.0",
+        "2002.0"
+      ]
+    },
+    "(Announced) Retirement year": {
+      "examples": [
+        "2034",
+        "By 2030",
+        "2038",
+        "2024",
+        "2013"
+      ]
+    },
+    "Date of retirement announcement": {
+      "examples": [
+        "2020-08-10",
+        "2011-12-31",
+        "2019-08-28",
+        "2024-05-15",
+        "2019-10-04"
+      ]
+    },
+    "Retirement announced?": {
+      "examples": [
+        "yes",
+        "no"
+      ]
+    },
+    "Covered by country phase-out? [if yes: country phase-out year]": {
+      "examples": [
+        "no",
+        "2040",
+        "2033"
+      ]
+    },
+    "Unit type": {
+      "examples": [
+        "chp",
+        "industrial",
+        "conventional",
+        "heat"
+      ]
+    },
+    "Unit status\n(gross)": {
+      "examples": [
+        "open",
+        "new coal active",
+        "retired or fuel switch",
+        "new coal inactive"
+      ]
+    },
+    "Unit status\n(detailed)": {
+      "examples": [
+        "standby",
+        "operational",
+        "no longer coal",
+        "retired",
+        "retrofitting"
+      ]
+    },
+    "Capacity": {
+      "examples": [
+        "350",
+        "300",
+        "134",
+        "912",
+        "5"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "43.64611",
+        "44.521",
+        "52.2888",
+        "49.3649",
+        "49.8405"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "17.33139",
+        "18.6064",
+        "7.7479",
+        "7.2355",
+        "18.2342"
+      ]
+    }
+  },
+  "CARMA": {
+    "cdist": {
+      "examples": [
+        "CA09",
+        "AZ06",
+        "AZ01",
+        "CA04",
+        "AR01"
+      ]
+    },
+    "state": {
+      "examples": [
+        "AL",
+        "CA",
+        "AR",
+        "AK",
+        "AZ"
+      ]
+    },
+    "company": {
+      "examples": [
+        "ALASKA POWER & TELEPHONE",
+        "NEVADA IRRIGATION DIST (CA)",
+        "UNS ELECTRIC, INC",
+        "GWF POWER SYSTEMS, L.P.",
+        "MALACHA/AT&T/CONSTELLATION"
+      ]
+    },
+    "locationid": {
+      "examples": [
+        "45404.0",
+        "25866.0",
+        "29415.0",
+        "46145.0",
+        "29372.0"
+      ]
+    },
+    "plant": {
+      "examples": [
+        "NELSON CREEK",
+        "BERNICE LAKE",
+        "NEW MELONES",
+        "INTERNATIONAL PAPER COURTLAND MILL",
+        "CHARLES R LOWMAN"
+      ]
+    },
+    "bustype": {
+      "examples": [
+        "GOVT",
+        "FUELS",
+        "SVCS",
+        "UTIL",
+        "MFG"
+      ]
+    },
+    "electype": {
+      "examples": [
+        "U",
+        "A",
+        "P"
+      ]
+    },
+    "sb": {
+      "examples": [
+        "0",
+        "1"
+      ]
+    },
+    "chp": {
+      "examples": [
+        "1.0",
+        "0.0"
+      ]
+    },
+    "cap": {
+      "examples": [
+        "4.9",
+        "138.0",
+        "6.4",
+        "2.0",
+        "3.0"
+      ]
+    },
+    "fuel1": {
+      "examples": [
+        "BSOL",
+        "FLIQ",
+        "SUN",
+        "GEO",
+        "FGAS"
+      ]
+    },
+    "fuel1.shr": {
+      "examples": [
+        "0.998389759965066",
+        "0.9882251690005",
+        "0.959904383907631",
+        "1.0",
+        "0.658150666531238"
+      ]
+    },
+    "fuel2": {
+      "examples": [
+        "WAT",
+        "FGAS",
+        "FLIQ",
+        "BGAS",
+        "WIND"
+      ]
+    },
+    "fuel2.shr": {
+      "examples": [
+        "0.174474006152066",
+        "0.0070677538553533",
+        "0.435808947694313",
+        "9.13478185677567e-05",
+        "0.0418980611562053"
+      ]
+    },
+    "iso2": {
+      "examples": [
+        "US"
+      ]
+    },
+    "region1": {
+      "examples": [
+        "Alabama",
+        "California",
+        "Arkansas",
+        "Alaska",
+        "Arizona"
+      ]
+    },
+    "reg1.id": {
+      "examples": [
+        "4829764.0",
+        "5332921.0",
+        "4099753.0",
+        "5879092.0",
+        "5551752.0"
+      ]
+    },
+    "region2": {
+      "examples": [
+        "Colbert County",
+        "Phillips County",
+        "Washington County",
+        "Russell County",
+        "Tehama County"
+      ]
+    },
+    "reg2.id": {
+      "examples": [
+        "4108100.0",
+        "4053062.0",
+        "4097694.0",
+        "4047434.0",
+        "5383537.0"
+      ]
+    },
+    "city": {
+      "examples": [
+        "Springerville",
+        "Ozark",
+        "Tuscumbia",
+        "French Gulch",
+        "Hoonah"
+      ]
+    },
+    "city.id": {
+      "examples": [
+        "5312595.0",
+        "4133707.0",
+        "4078964.0",
+        "5293083.0",
+        "5864197.0"
+      ]
+    },
+    "city.lon": {
+      "examples": [
+        "-109.3609327",
+        "-94.2335396",
+        "-87.6675292",
+        "-109.5453447",
+        "-166.0966667"
+      ]
+    },
+    "city.lat": {
+      "examples": [
+        "34.5058698",
+        "36.1778565",
+        "34.7448112",
+        "31.3445471",
+        "61.5311111"
+      ]
+    },
+    "pcode": {
+      "examples": [
+        "99686.0",
+        "95652.0",
+        "99615.0",
+        "86440.0",
+        "99633.0"
+      ]
+    },
+    "iso3": {
+      "examples": [
+        "USA"
+      ]
+    },
+    "country": {
+      "examples": [
+        "United States"
+      ]
+    },
+    "ctry.id": {
+      "examples": [
+        "6252001"
+      ]
+    },
+    "continent": {
+      "examples": [
+        "North America"
+      ]
+    },
+    "cont.id": {
+      "examples": [
+        "6255149"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "-151.0356",
+        "-122.4675",
+        "-135.1211",
+        "-134.0533",
+        "-122.2669138"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "38.0139",
+        "64.7356",
+        "33.7845",
+        "61.9769",
+        "56.4522"
+      ]
+    },
+    "crd": {
+      "examples": [
+        "1",
+        "2"
+      ]
+    },
+    "mwh": {
+      "examples": [
+        "14952.0",
+        "4737.0",
+        "30643.0",
+        "22743.0",
+        "5251.0"
+      ]
+    },
+    "tj": {
+      "examples": [
+        "163.63136552",
+        "444.99160114",
+        "38140.13624392",
+        "108.4918198",
+        "92514.66534334"
+      ]
+    },
+    "tco2": {
+      "examples": [
+        "1108.2",
+        "17287.0",
+        "378020.0",
+        "93413.0",
+        "7524.9"
+      ]
+    },
+    "int": {
+      "examples": [
+        "1120.0",
+        "453.0",
+        "840.0",
+        "973.0",
+        "627.0"
+      ]
+    },
+    "dis": {
+      "examples": [
+        "3"
+      ]
+    },
+    "orispl": {
+      "examples": [
+        "50223.0",
+        "6292.0",
+        "6158.0",
+        "50245.0",
+        "56.0"
+      ]
+    },
+    "plant.id": {
+      "examples": [
+        "71626",
+        "71061",
+        "30997",
+        "71635",
+        "9610"
+      ]
+    },
+    "company.id": {
+      "examples": [
+        "529",
+        "70615",
+        "74974",
+        "75112",
+        "71825"
+      ]
+    },
+    "cdist.id": {
+      "examples": [
+        "99990609.0",
+        "99990406.0",
+        "99990401.0",
+        "99990604.0",
+        "99990501.0"
+      ]
+    },
+    "name.s1": {
+      "examples": [
+        "Jeff Sessions",
+        "Barbara Boxer",
+        "John Boozman",
+        "Mark Begich",
+        "Jon Kyl"
+      ]
+    },
+    "party.s1": {
+      "examples": [
+        "R",
+        "D"
+      ]
+    },
+    "address.s1": {
+      "examples": [
+        "326 Russell Senate Office Building",
+        "112 Hart Senate Office Building",
+        "320 Hart Senate Office Building",
+        "111 Russell Senate Office Building",
+        "730 Hart Senate Office Building"
+      ]
+    },
+    "phone1.s1": {
+      "examples": [
+        "202-224-4124",
+        "202-224-3553",
+        "202-224-4843",
+        "202-224-3004",
+        "202-224-4521"
+      ]
+    },
+    "phone2.s1": {
+      "examples": [
+        "334-244-7017",
+        "213-894-5000",
+        "479-725-0400",
+        "907-271-5915",
+        "520-575-8633"
+      ]
+    },
+    "email.s1": {
+      "examples": [
+        "http://www.sessions.senate.gov/public/index.cfm?FuseAction=ConstituentServices.C",
+        "http://boxer.senate.gov/en/contact/policycomments.cfm",
+        "http://www.boozman.senate.gov/public/index.cfm/e-mail-me",
+        "http://begich.senate.gov/public/index.cfm/emailsenator",
+        "http://kyl.senate.gov/contact.cfm"
+      ]
+    },
+    "name.s2": {
+      "examples": [
+        "Richard Shelby",
+        "Dianne Feinstein",
+        "Mark Pryor",
+        "Lisa Murkowski",
+        "John McCain"
+      ]
+    },
+    "party.s2": {
+      "examples": [
+        "D",
+        "R"
+      ]
+    },
+    "address.s2": {
+      "examples": [
+        "304 Russell Senate Office Building",
+        "331 Hart Senate Office Building",
+        "255 Dirksen Senate Office Building",
+        "709 Hart Senate Office Building",
+        "241 Russell Senate Office Building"
+      ]
+    },
+    "phone1.s2": {
+      "examples": [
+        "202-224-5744",
+        "202-224-3841",
+        "202-224-2353",
+        "202-224-6665",
+        "202-224-2235"
+      ]
+    },
+    "phone2.s2": {
+      "examples": [
+        "334-223-7303",
+        "415-393-0707",
+        "501-324-6336",
+        "907-376-7665",
+        "602-952-2410"
+      ]
+    },
+    "email.s2": {
+      "examples": [
+        "http://shelby.senate.gov/public/index.cfm/contactsenatorshelby?p=EmailSenatorShe",
+        "http://feinstein.senate.gov/public/index.cfm/e-mail-me",
+        "http://www.pryor.senate.gov/public/index.cfm?p=ContactForm",
+        "http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa",
+        "http://www.mccain.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm"
+      ]
+    },
+    "name.c": {
+      "examples": [
+        "Barbara Lee",
+        "Jeff Flake",
+        "Paul A. Gosar",
+        "Tom McClintock",
+        "Rick Crawford"
+      ]
+    },
+    "party.c": {
+      "examples": [
+        "D",
+        "R"
+      ]
+    },
+    "address.c": {
+      "examples": [
+        "2267 Rayburn House Office Building",
+        "240 Cannon House Office Building",
+        "504 Cannon House Office Building",
+        "428 Cannon House Office Building",
+        "1408 Longworth House Office Building"
+      ]
+    },
+    "phone1.c": {
+      "examples": [
+        "202-225-2661",
+        "202-225-2635",
+        "202-225-2315",
+        "202-225-2511",
+        "202-225-4076"
+      ]
+    },
+    "phone2.c": {
+      "examples": [
+        "510-763-0370",
+        "480-833-0092",
+        "520-836-5289",
+        "916-786-5560",
+        "501-843-3043"
+      ]
+    },
+    "email.c": {
+      "examples": [
+        "https://griffin.house.gov/contact-me/email-me",
+        "https://pelosi.house.gov/contact/email-me.shtml",
+        "http://crawford.house.gov/contact/",
+        "https://forms.house.gov/mcclintock/contact-form.shtml",
+        "http://donyoung.house.gov/Contact/"
+      ]
+    },
+    "marea": {
+      "examples": [
+        "Sacramento--Arden-Arcade--Yuba City, CA-NV",
+        "Montgomery-Alexander City, AL",
+        "Huntsville-Decatur, AL",
+        "Mobile-Daphne-Fairhope, AL",
+        "Little Rock-North Little Rock-Pine Bluff, AR"
+      ]
+    },
+    "marea.id": {
+      "examples": [
+        "99999472.0",
+        "99999388.0",
+        "99999290.0",
+        "99999380.0",
+        "99999340.0"
+      ]
+    },
+    "year": {
+      "examples": [
+        "2009"
+      ]
+    }
+  },
+  "EESI": {
+    "id": {
+      "examples": [
+        "61463",
+        "60895",
+        "61488",
+        "61058",
+        "60957"
+      ]
+    },
+    "alias": {
+      "examples": [
+        "/storage-inventory-maps/project/renegia-bierkowice-bess",
+        "/storage-inventory-maps/project/kotka-bess",
+        "/storage-inventory-maps/project/harrington-franklin-battery-storage-project",
+        "/storage-inventory-maps/project/lerum-bess",
+        "/storage-inventory-maps/project/sens-katrineholm-bess"
+      ]
+    },
+    "title": {
+      "examples": [
+        "Neilston Battery Energy  Storage System",
+        "Kotka BESS",
+        "Maddaloni",
+        "Mapragg",
+        "PASM Großspeicher Münster I (Pixii)"
+      ]
+    },
+    "status": {
+      "examples": [
+        "Under Construction",
+        "Inactive",
+        "Operational",
+        "Announced",
+        "Permitted"
+      ]
+    },
+    "power": {
+      "examples": [
+        "12.8",
+        "150.0",
+        "36.4",
+        "330.0",
+        "2.5"
+      ]
+    },
+    "capacity": {
+      "examples": [
+        "14.1",
+        "1.25",
+        "80.0",
+        "134.2",
+        "720.0"
+      ]
+    },
+    "facility_id": {
+      "examples": [
+        "61597",
+        "61710",
+        "61112",
+        "61653",
+        "61349"
+      ]
+    },
+    "facility_title": {
+      "examples": [
+        "Cyprus",
+        "Finland(Finland)",
+        "Latvia(Latvia)",
+        "I-SEM(United Kingdom)",
+        "Lithuania(Lithuania)"
+      ]
+    },
+    "facility_region": {
+      "examples": [
+        "Wales",
+        "Groningen",
+        "Malopolskie",
+        "Ulster",
+        "Ile-de-France"
+      ]
+    },
+    "facility_country": {
+      "examples": [
+        "Italy",
+        "Slovakia",
+        "France",
+        "Austria",
+        "Germany"
+      ]
+    },
+    "facility_latitude": {
+      "examples": [
+        "52.94",
+        "55.91",
+        "57.03",
+        "42.8",
+        "41.74"
+      ]
+    },
+    "facility_longitude": {
+      "examples": [
+        "11.55",
+        "8.54",
+        "8.78",
+        "-6.35",
+        "-0.00307"
+      ]
+    },
+    "technology_id": {
+      "examples": [
+        "48",
+        "38",
+        "79",
+        "39",
+        "54"
+      ]
+    },
+    "technology_name": {
+      "examples": [
+        "Redox flow batteries Vanadium",
+        "Lead Acid batteries",
+        "Unespecified Storage - mechanical",
+        "Lithium-ion batteries",
+        "Compressed Air Energy Storage (CAES)"
+      ]
+    },
+    "technology_parentName": {
+      "examples": [
+        "ElectroChemical",
+        "Mechanical",
+        "Thermal"
+      ]
+    }
+  },
+  "ENTSOE": {
+    "Bidding Zone": {
+      "examples": [
+        "10YDE-ENBW-----N",
+        "10Y1001A1001A39I",
+        "10YDE-VE-------2",
+        "10YMK-MEPSO----8",
+        "10YBA-JPCC-----D"
+      ]
+    },
+    "Installed Capacity [MW]": {
+      "examples": [
+        "257.0",
+        "1038.0",
+        "176.0",
+        "144.0",
+        "407.0"
+      ]
+    },
+    "Name": {
+      "examples": [
+        "KW Hamm-Uentrop",
+        "Vesterhav Syd",
+        "Silkeborgvaerket",
+        "KW Jänschwalde",
+        "GuD Dormagen"
+      ]
+    },
+    "Production Type": {
+      "examples": [
+        "Fossil Gas",
+        "Wind Onshore",
+        "Fossil Brown coal/Lignite",
+        "Fossil Oil shale",
+        "Hydro Run-of-river and poundage"
+      ]
+    },
+    "Voltage Connection Level [kV]": {
+      "examples": [
+        "60.0",
+        "330.0",
+        "110.0",
+        "225.0",
+        "240.0"
+      ]
+    }
+  },
+  "GBPT": {
+    "Date last researched": {
+      "examples": [
+        "2024-08-01",
+        "2022-08-04",
+        "2025-06-02",
+        "2024-07-29",
+        "2022-11-16"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Thailand",
+        "India",
+        "Iraq",
+        "Chile",
+        "South Korea"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "Anhui Fengyang power station",
+        "Bay Front power station",
+        "AVR Rozenburg power station",
+        "Alcomira power station",
+        "Altamaha Green Energy power station"
+      ]
+    },
+    "Unit Name": {
+      "examples": [
+        "--",
+        "3",
+        "6",
+        "GEN2",
+        "1900-01-02 07:12:00"
+      ]
+    },
+    "Project Name in Local Language / Script": {
+      "examples": [
+        "Usina de biomassa Alcomira",
+        "Acarsoy Enerji Biyokütle Santrali",
+        "Usina sucroenergética Bioflex Caeté",
+        "बीडब्ल्यूई जसरासर",
+        "Boren Biyokütle Enerji Santrali"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "Bajaj Hindustan Sugar Mill, Bilai Mill Steam Cogen Plant",
+        "Donmon, Don Mon, Ace Amphan Biomass Power Plant",
+        "Ayebo Biomass Power Station, Biovea power project, Biokala Biomass Plant",
+        "Termoutilizzatore Impianto Cogen (Brescia), Brescia Termoutilizzatore",
+        "Reworld Babylon Inc"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "65.0",
+        "1.4",
+        "140.0",
+        "7.66",
+        "31.76"
+      ]
+    },
+    "Fuel": {
+      "examples": [
+        "bioenergy: agricultural waste (biogas)",
+        "bioenergy: wood & other biomass (solids), bioenergy: refuse (municipal and indus",
+        "bioenergy: agricultural waste (unknown)",
+        "bioenergy: wastewater and sewage sludge (solids or biogas)",
+        "bioenergy: paper mill wastes"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "mothballed",
+        "construction",
+        "cancelled",
+        "operating",
+        "cancelled - inferred 4 y"
+      ]
+    },
+    "Conversion/Replacement?": {
+      "examples": [
+        "oil to bioenergy conversion",
+        "coal to bioenergy conversion",
+        "gas to bioenergy conversion"
+      ]
+    },
+    "Unit Conversion Year": {
+      "examples": [
+        "2013.0",
+        "2005.0",
+        "2023.0",
+        "2012.0",
+        "2010.0"
+      ]
+    },
+    "Start Year": {
+      "examples": [
+        "2027.0",
+        "2026.0",
+        "2019.0",
+        "1997.0",
+        "1965.0"
+      ]
+    },
+    "Retired Year": {
+      "examples": [
+        "2025.0",
+        "2020.0",
+        "2013.0"
+      ]
+    },
+    "Hydrogen Capable": {
+      "examples": [
+        "not found"
+      ]
+    },
+    "Operator(s)": {
+      "examples": [
+        "Usina Cerradão; Bioenergia Sao Matheus",
+        "BEN - Bioenergia Geração e Comercialização de Energia do Nordeste",
+        "APF Athabasca",
+        "Thalia Waste Management",
+        "Langxi Li'Ang Bio Power Generation"
+      ]
+    },
+    "Operator Name(s) in Local Language / Script": {
+      "examples": [
+        "上海电气（濉溪）生物质发电有限公司",
+        "灵璧国祯生物质热电有限公司",
+        "北京南宫生物质能源有限公司",
+        "中节能（肥西）环保能源有限公司",
+        "光大生物能源（六安）有限公司"
+      ]
+    },
+    "Operator(s) GEM Entity ID": {
+      "examples": [
+        "E100001016802; E100000132549",
+        "E100001016799",
+        "E100000132497",
+        "E100002010292",
+        "E100001017354"
+      ]
+    },
+    "Owner(s)": {
+      "examples": [
+        "Kansai Electric Power Co [100%]",
+        "Mälarenergi AB",
+        "Avic Securities Co Ltd [100%]",
+        "ASTRIA SAS",
+        "Afro Renewable Energy Group [100%]"
+      ]
+    },
+    "Owner Name(s) in Local Language / Script": {
+      "examples": [
+        "5ER Enerji Tarım Hayvancılık",
+        "ООО \"АЛЬТЕРНАТИВНАЯ ГЕНЕРИРУЮЩАЯ КОМПАНИЯ-1\"",
+        "CÔNG TY CỔ PHẦN ĐƯỜNG QUẢNG NGÃI",
+        "安徽国祯生态科技有限公司; 南京科远智慧能源投资有限公司",
+        "安徽国祯生态科技有限公司"
+      ]
+    },
+    "Owner(s) GEM Entity ID": {
+      "examples": [
+        "E100000000646 [100%]",
+        "E100001000205",
+        "E100000129714 [100%]",
+        "E100002010589",
+        "E100001016791 [100%]"
+      ]
+    },
+    "Parent(s)": {
+      "examples": [
+        "Kansai Electric Power Co [100.0%]",
+        "Aralco Sa Comércio E Indústria",
+        "Anhui Province Energy Group Co Ltd [100.0%]",
+        "Dr. Babasaheb Ambedkar SSK Ltd",
+        "Shougang Environmental Industry Co Ltd [100.0%]"
+      ]
+    },
+    "Parent(s) GEM Entity ID": {
+      "examples": [
+        "E100000000646 [100.0%]",
+        "E100000190215",
+        "E100000124116 [100.0%]",
+        "E100002015205",
+        "E100001017580 [100.0%]"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "18.08532898904",
+        "45.5115",
+        "-4.9279",
+        "28.706",
+        "-22.0409"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "76.1839341647691",
+        "10.2099",
+        "-80.8491",
+        "78.5446",
+        "-53.8419"
+      ]
+    },
+    "Location Accuracy": {
+      "examples": [
+        "exact",
+        "approximate"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Ajax",
+        "Camaçari",
+        "Bremen",
+        "Barra Bonita",
+        "Grande Prairie"
+      ]
+    },
+    "Local Area (taluk, county)": {
+      "examples": [
+        "Tianchang City",
+        "Jieshou City",
+        "Gävleborg County",
+        "Chaohu City",
+        "Huairou District"
+      ]
+    },
+    "Major Area (prefecture, district)": {
+      "examples": [
+        "Boundiali Department",
+        "South Yorkshire Mayoral Combined Authority",
+        "Si Maha Phot",
+        "Baku City",
+        "Sarıçam"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "Puerto Rico",
+        "South Holland",
+        "North Rhine-Westphalia",
+        "Guangxi",
+        "England"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Eastern Europe",
+        "Eastern Asia",
+        "South-eastern Asia",
+        "Western Europe",
+        "Northern Africa"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Europe",
+        "Oceania",
+        "Americas",
+        "Asia",
+        "Africa"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000200125",
+        "L100001047650",
+        "L100000200218",
+        "L100000200790",
+        "L100001047458"
+      ]
+    },
+    "GEM phase ID": {
+      "examples": [
+        "G100000201019",
+        "G100001054362",
+        "G100001022205",
+        "G100000200189",
+        "G100001054000"
+      ]
+    },
+    "Other IDs (location)": {
+      "examples": [
+        "ANEEL: UTE.AI.SP.056751-5.1",
+        "ANEEL: UTE.AI.SP.050205-7.1",
+        "World Resources Institute: Usa0054429, EIA: 54429",
+        "EIA: 10773",
+        "EIA: 55044"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Anhui_Fengyang_power_station",
+        "https://www.gem.wiki/Bay_Front_power_station",
+        "https://www.gem.wiki/AVR_Rozenburg_power_station",
+        "https://www.gem.wiki/Alcomira_power_station",
+        "https://www.gem.wiki/Altamaha_Green_Energy_power_station"
+      ]
+    },
+    "Unnamed: 35": {
+      "examples": [
+        "https://www.gem.wiki/Anhui_Fengyang_power_station",
+        "https://www.gem.wiki/Bay_Front_power_station",
+        "https://www.gem.wiki/AVR_Rozenburg_power_station",
+        "https://www.gem.wiki/Alcomira_power_station",
+        "https://www.gem.wiki/Altamaha_Green_Energy_power_station"
+      ]
+    }
+  },
+  "GCPT": {
+    "GEM unit/phase ID": {
+      "examples": [
+        "G100000101052",
+        "G100000106282",
+        "G100000106670",
+        "G100000100598",
+        "G100000108031"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000100177",
+        "L100000100158",
+        "L100000100017",
+        "L100000100005",
+        "L100000100076"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Brazil",
+        "Bulgaria",
+        "Albania",
+        "Cambodia",
+        "Belarus"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Poplar_River_power_station",
+        "https://www.gem.wiki/Sihanoukville_CIIDG_power_station",
+        "https://www.gem.wiki/Gladstone_power_station",
+        "https://www.gem.wiki/Eraring_power_station",
+        "https://www.gem.wiki/Khulna_power_station_(Orion)"
+      ]
+    },
+    "Plant name": {
+      "examples": [
+        "Poplar River power station",
+        "Sihanoukville CIIDG power station",
+        "Gladstone power station",
+        "Eraring power station",
+        "Khulna power station (Orion)"
+      ]
+    },
+    "Unit name": {
+      "examples": [
+        "Phase II",
+        "Plant II Unit 1",
+        "Phase C Unit 1",
+        "Unit 1",
+        "Unit 1- Swanbank B"
+      ]
+    },
+    "Plant name (other)": {
+      "examples": [
+        "Maritsa East 2 power station",
+        "西哈努克港燃煤电站项目, Sihanoukville CIIDG-Huadian power station",
+        "14 Mineros power station, Central Termoeléctrica 14 Mineros",
+        "CTJL",
+        "Worsley Refinery Cogen Steam Power Plant"
+      ]
+    },
+    "Plant name (local)": {
+      "examples": [
+        "Usina Termelétrica Ouro Negro",
+        "Usina Termelétrica Itaqui",
+        "Central Térmica Río Turbio",
+        "UTE CTSul",
+        "Usina Termelétrica Candiota"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "E.ON SE [100%]",
+        "Waratah Coal Pty Ltd [100%]",
+        "Enemona AD [100%]",
+        "Rudnik i Termoelektrana Gacko AD [100%]",
+        "RMU Banovici dd [100%]"
+      ]
+    },
+    "Owner GEM Entity ID": {
+      "examples": [
+        "E100000001454 [100%]",
+        "E100000121536 [100%]",
+        "E100000120405 [100%]",
+        "E100000121187 [100%]",
+        "E100000121159 [100%]"
+      ]
+    },
+    "Parent": {
+      "examples": [
+        "Vale SA [100.0%]",
+        "Stoket Ltd [64.0%]; Newbury Management Ltd [22.0%]; Cowlan Corp Ltd [10.0%]; sma",
+        "Westgen Pty Ltd",
+        "Redbank Energy Ltd [100.0%]",
+        "Sena Kalyan Sangstha [100.0%]"
+      ]
+    },
+    "Parent GEM Entity ID": {
+      "examples": [
+        "E100001000480 [100.0%]",
+        "E100002000206 [64.0%]; E100002000207 [22.0%]; E100002000208 [10.0%]; E1000010155",
+        "E100000121544",
+        "E100000121170 [100.0%]",
+        "E100000121262 [100.0%]"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "227.0",
+        "290.0",
+        "130.0",
+        "283.0",
+        "55.0"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "announced",
+        "mothballed",
+        "pre-permit",
+        "cancelled",
+        "shelved"
+      ]
+    },
+    "Start year": {
+      "examples": [
+        "1969.0",
+        "1961.0",
+        "1958.0",
+        "2022.0",
+        "1964.0"
+      ]
+    },
+    "Retired year": {
+      "examples": [
+        "2016.0",
+        "2001.0",
+        "2015.0",
+        "2013.0",
+        "2024.0"
+      ]
+    },
+    "Planned retirement": {
+      "examples": [
+        "2033.0",
+        "2031.0",
+        "2040.0",
+        "2042.0",
+        "2027.0"
+      ]
+    },
+    "Combustion technology": {
+      "examples": [
+        "subcritical",
+        "IGCC",
+        "ultra-supercritical",
+        "subcritical/CCS",
+        "unknown"
+      ]
+    },
+    "Coal type": {
+      "examples": [
+        "anthracite",
+        "unknown",
+        "unknown with CCS",
+        "bituminous",
+        "lignite with CCS"
+      ]
+    },
+    "Coal source": {
+      "examples": [
+        "Kotezi coal mine",
+        "Troyanovo 1 coal mine, Troyanovo 3 coal mine",
+        "Ukraine",
+        "Dighipara coal mine",
+        "Lom mine"
+      ]
+    },
+    "Conversion to (fuel)": {
+      "examples": [
+        "bioenergy: agricultural waste (solids)",
+        "fossil gas: natural gas",
+        "fossil gas: natural gas, other: hydrogen (green)",
+        "fossil gas: LNG",
+        "bioenergy: wood & other biomass (solids), bioenergy: refuse (municipal and indus"
+      ]
+    },
+    "Conversion to (GEM unit ID)": {
+      "examples": [
+        "G100001017959",
+        "G100000202471",
+        "G100000406326",
+        "G100001017951",
+        "G100000202517"
+      ]
+    },
+    "Alternate Fuel": {
+      "examples": [
+        "bioenergy",
+        "fossil liquids",
+        "bioenergy, fossil gas",
+        "fossil liquids, fossil gas",
+        "fossil gas"
+      ]
+    },
+    "Location": {
+      "examples": [
+        "Sliven",
+        "Naval Base",
+        "Bukinje",
+        "Capivari de Baixo",
+        "Londa"
+      ]
+    },
+    "Local area (taluk, county)": {
+      "examples": [
+        "Muswellbrook",
+        "Mongla",
+        "Kakanj",
+        "Gazaria Upazila",
+        "Kalapara"
+      ]
+    },
+    "Major area (prefecture, district)": {
+      "examples": [
+        "Zenica-Doboj",
+        "Richmond",
+        "Haldimand",
+        "Bagerhat",
+        "Greenview"
+      ]
+    },
+    "Subnational unit (province, state)": {
+      "examples": [
+        "Vidin",
+        "Alberta",
+        "Durres",
+        "Ontario",
+        "New South Wales"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "South-eastern Asia",
+        "Latin America and the Caribbean",
+        "Eastern Europe",
+        "Southern Europe",
+        "Northern America"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Americas",
+        "Africa",
+        "Oceania",
+        "Europe",
+        "Asia"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "-24.402096",
+        "53.507405",
+        "50.564167",
+        "44.089722",
+        "44.089633"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "150.750738",
+        "146.34421",
+        "103.494722",
+        "27.5125",
+        "26.010002"
+      ]
+    },
+    "Location accuracy": {
+      "examples": [
+        "exact",
+        "approximate"
+      ]
+    },
+    "Permits": {
+      "examples": [
+        "September 2019 – Environmental Clearance"
+      ]
+    },
+    "Permit Date": {
+      "examples": [
+        "Sep-19"
+      ]
+    },
+    "Permit Parsed": {
+      "examples": [
+        "Year: 2019, Month: 9"
+      ]
+    },
+    "Captive": {
+      "examples": [
+        "other metals & mining",
+        "aluminum",
+        "coal mining & coal products",
+        "machinery",
+        "chemicals"
+      ]
+    },
+    "Captive industry use": {
+      "examples": [
+        "both",
+        "power"
+      ]
+    },
+    "Captive residential use": {
+      "examples": [
+        "power"
+      ]
+    },
+    "CHP": {
+      "examples": [
+        "yes"
+      ]
+    },
+    "Plant age (years)": {
+      "examples": [
+        "58",
+        "14",
+        "0",
+        "74",
+        "40"
+      ]
+    },
+    "Capacity factor": {
+      "examples": [
+        "0.55"
+      ]
+    },
+    "Heat rate (Btu per kWh)": {
+      "examples": [
+        "10090.8",
+        "11186.5",
+        "8272.0",
+        "12182.8",
+        "7528.0"
+      ]
+    },
+    "Emission factor (kg of CO2 per TJ)": {
+      "examples": [
+        "94600",
+        "96100",
+        "10100",
+        "101000",
+        "98300"
+      ]
+    },
+    "Annual CO2 (million tonnes / annum)": {
+      "examples": [
+        "1.934262489143985",
+        "3.45243658655115",
+        "1.899968153008118",
+        "2.6266899744228",
+        "1.895357277066825"
+      ]
+    },
+    "Remaining plant lifetime (years)": {
+      "examples": [
+        "29",
+        "18",
+        "34",
+        "21",
+        "2"
+      ]
+    },
+    "Lifetime CO2 (million tonnes)": {
+      "examples": [
+        "0.9101878273634854",
+        "5.509459749298033",
+        "7.353021958408252",
+        "38.31288296633375",
+        "0.4004826440399336"
+      ]
+    }
+  },
+  "GEO_Plants": {
+    "Name": {
+      "examples": [
+        "Essar Mahan Coal Power Plant India",
+        "Trenton Coal Generating Station Canada",
+        "Wardha Warora Coal Power Plant India",
+        "Shanghai Caojing Coal Power Plant China",
+        "Anhui Huadian Wuhu Coal Power Plant China"
+      ]
+    },
+    "Type": {
+      "examples": [
+        "Coal"
+      ]
+    },
+    "Country": {
+      "examples": [
+        "Italy",
+        "Finland",
+        "Colombia",
+        "Hungary",
+        "Bulgaria"
+      ]
+    },
+    "State": {
+      "examples": [
+        "Meurthe-et-Moselle",
+        "Kumamoto",
+        "Lampung",
+        "Tianjin",
+        "Saarland"
+      ]
+    },
+    "Type_of_Plant_rng1": {
+      "examples": [
+        "Sub-critical Thermal",
+        "Super-critical Thermal",
+        "Ultra-Super-Critical Thermal",
+        "Cogeneration Power and Heat Steam Turbine",
+        "Super and Ultra-Super Critical Thermal"
+      ]
+    },
+    "Type_of_Fuel_rng1_Primary": {
+      "examples": [
+        "Anthracite coal",
+        "Coal (Indigenous)",
+        "Hard Coal, Heavy Fuel Oil",
+        "Coal subbutiminous",
+        "Sub butiminous coal"
+      ]
+    },
+    "Type_of_Fuel_rng2_Secondary": {
+      "examples": [
+        "Light Fuel Oil",
+        "Natural Gas",
+        "Heavy Fuel Oil",
+        "Fuel Oil",
+        "Waste Furnace Gas"
+      ]
+    },
+    "Design_Capacity_MWe_nbr": {
+      "examples": [
+        "279.0",
+        "1760.0",
+        "640.0",
+        "200.0",
+        "4000.0"
+      ]
+    },
+    "Date_of_Scraping": {
+      "examples": [
+        "2022-03-02"
+      ]
+    },
+    "GEO_Assigned_Identification_Number": {
+      "examples": [
+        "45659",
+        "5772",
+        "43533",
+        "41863",
+        "42349"
+      ]
+    },
+    "State_ID": {
+      "examples": [
+        "1089",
+        "1737",
+        "1496",
+        "701",
+        "1173"
+      ]
+    },
+    "Electric_Power_Grid_Connected_To_rng1": {
+      "examples": [
+        "Regional Grid",
+        "National Grid",
+        "Captive and Grid Connected"
+      ]
+    },
+    "Points0": {
+      "examples": [
+        "akadD}{~|Tws@s@_@uPpSQ\\{a@ph@r@Gfo@aHzC",
+        "japcEcgsaUdLlApE_MQeYef@fKq@|[nQ|E`BkI",
+        "u{``KwcobC}ADUmMmIfAoFOo@ySk@{Ik@iFAoHfAuFdBQ`@s@H_BUgGtAEd@pUlFYb@`WjC|A\\vKf@~A",
+        "uzzdFknu{YcH~BtCbO{Fh@T|DqRbEf@xF}HvMbEt[qOjDmJ{@}Dse@xImb@}Dwc@jo@cL{CsV`GsA",
+        "ywswCmwqoR}F`IiMvDjBxG{z@pCVsFbOkBcB{KnO_G[iCpJ}Cu@wBtIgD_CaE`A_AtMpJ"
+      ]
+    },
+    "Currency_enum": {
+      "examples": [
+        "8",
+        "36",
+        "27",
+        "9",
+        "54"
+      ]
+    },
+    "Source_of_Cooling_Water_rng1": {
+      "examples": [
+        "River Brahmani through a 7 km long double circuit pipeline",
+        "Adjacent reservoir",
+        "660 cum/hr from IGNP through 600 mm pipe of length 170 kms (From Mohangarh to Gi",
+        "cross country pipe line of approx 25 km from Parwan River and has also construct",
+        "Jawahar Lal Nehru Canal"
+      ]
+    },
+    "Owners1": {
+      "examples": [
+        "APGENCO",
+        "PT Sumberenergi Sakti Prima (SSP)",
+        "West Bengal Power Development Corporation Limited (WBPDCL)",
+        "Stanwell Corporation (merged with Tarong Corporation in July 2011)",
+        "Huaneng Power International Inc"
+      ]
+    },
+    "Saved_Latitude_Start": {
+      "examples": [
+        "34.7535",
+        "45.6202",
+        "49.176",
+        "30.628",
+        "51.8347"
+      ]
+    },
+    "PerformanceDecade": {
+      "examples": [
+        "2000-2009"
+      ]
+    },
+    "Location_Accuracy": {
+      "examples": [
+        "Approximate",
+        "Exact"
+      ]
+    },
+    "Latitude_Start": {
+      "examples": [
+        "34.7535",
+        "45.6202",
+        "49.176",
+        "30.628",
+        "51.8347"
+      ]
+    },
+    "ShapesCount": {
+      "examples": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    "Longitude_Start": {
+      "examples": [
+        "140.6915",
+        "-62.6498",
+        "9.2073",
+        "121.145",
+        "14.4603"
+      ]
+    },
+    "Map_Height": {
+      "examples": [
+        "320"
+      ]
+    },
+    "Country_ID": {
+      "examples": [
+        "105",
+        "72",
+        "47",
+        "97",
+        "33"
+      ]
+    },
+    "SOx_Control_Device_Type_enum": {
+      "examples": [
+        "6.0",
+        "1.0",
+        "0.0",
+        "5.0"
+      ]
+    },
+    "Status_of_Plant_itf": {
+      "examples": [
+        "Operating Fully",
+        "Decommissioned",
+        "Under Construction",
+        "Operating Partially",
+        "Built and In Test Stage"
+      ]
+    },
+    "Type_ID": {
+      "examples": [
+        "1"
+      ]
+    },
+    "Source_of_Coal_rng1": {
+      "examples": [
+        "Imported by ship and train",
+        "Adjacent Collinsville open-cut coal mines",
+        "Amlori, Dudhichua,  Amlori Expansion Mines",
+        "Imported via the Datteln-Hamm Canal and railway",
+        "Local coal mines"
+      ]
+    },
+    "Saved_Longitude_Start": {
+      "examples": [
+        "140.6915",
+        "-62.6498",
+        "9.2073",
+        "121.145",
+        "14.4603"
+      ]
+    },
+    "User_ID": {
+      "examples": [
+        "0"
+      ]
+    },
+    "NOx_Control_Device_Type_enum": {
+      "examples": [
+        "4.0",
+        "10.0",
+        "20.0",
+        "0.0",
+        "14.0"
+      ]
+    },
+    "References1": {
+      "examples": [
+        "http://www.verveenergy.com.au/mainContent/powerStations/muja.html",
+        "http://www.enel.it/it-IT/impianti/mappa/umbria/pietro_vannucci_bastardo.aspx",
+        "http://www.saskpower.com/poweringyourfuture/today/generation/poplarriver.shtml",
+        "http://www.rwe.com/web/cms/en/60142/rwe-power-ag/locations/lignite/weisweiler-po",
+        "http://www.atcopower.com/Our-Facilities/Our-Power-Technologies/Coal-Fired-Therma"
+      ]
+    },
+    "ParticulatesPM_Control_Device_Type_enum": {
+      "examples": [
+        "0.0",
+        "3.0",
+        "1.0"
+      ]
+    },
+    "CurrentPage_sys": {
+      "examples": [
+        "/geoid/45659",
+        "/geoid/5772",
+        "/geoid/43533",
+        "/geoid/41863",
+        "/geoid/42349"
+      ]
+    },
+    "Description_ID": {
+      "examples": [
+        "45659",
+        "40870",
+        "45282",
+        "41863",
+        "42349"
+      ]
+    },
+    "Location": {
+      "examples": [
+        "Vadinar, Gujarat, India",
+        "Gacko, Srpska, Bosnia and Herzegovina",
+        "Jaigad, Ratnigiri district, Maharashtra, India",
+        "Wilhelmshaven, Lower Saxony, Germany",
+        "Jiaxin, Zhejiang, China"
+      ]
+    },
+    "Map_Width": {
+      "examples": [
+        "920"
+      ]
+    },
+    "References2": {
+      "examples": [
+        "http://www.bordnamona.ie/our-company/our-businesses/power-generation/peat-biomas",
+        "http://en.wikipedia.org/wiki/Playford_B_Power_Station",
+        "http://www.cne.cl/estadisticas/energia/electricidad",
+        "http://www.sdicpower.com/",
+        "http://www.enerconsult.com.br/en/services/ProjectPage.asp?s=0000%0233%CURM_BOX&p"
+      ]
+    },
+    "Comments1": {
+      "examples": [
+        "Units 1-4 are plant A; units 5-6 are plant B and unit 7 is plant C",
+        "Adjacent to Berlin Reuter C Power Plant (shares coal handling facility)",
+        "Madhya Pradesh (37.50%) share, Punjab (15%), Uttar Pradesh (12.5%), Delhi (11.25",
+        "Also known as Gersteinwerk Block K. There are four (three operating) gas fired u",
+        "This plant has 4 units built in stages A and B"
+      ]
+    },
+    "Operating_Company": {
+      "examples": [
+        "Shandong Rizhao Power Company Ltd.",
+        "J-Power (EPDC)",
+        "Trianel",
+        "Datang International Power Generation Co Ltd",
+        "Lanco Amarkntak Power Pvt. Ltd."
+      ]
+    },
+    "Power_Plant_Used_For_": {
+      "examples": [
+        "Base Load",
+        "Intermediate/Peak Load",
+        "Peaking Load",
+        "Intermediate Load",
+        "Peaking Load and Backup"
+      ]
+    },
+    "Type_of_Plant_rng2_Short_Description": {
+      "examples": [
+        "Unit 4 last used in 2009-03-00 and Unit 3 in 2010-08-00",
+        "can burn three fuels -- coal, gas and oil",
+        "Called unit C",
+        "4x330 subcritical 5x660 Supercritical",
+        "Converted to Diesel with capacity 47MW in 2009"
+      ]
+    },
+    "Type_of_Ownership": {
+      "examples": [
+        "CPP and IPP",
+        "Government Municipal",
+        "Government Province",
+        "Government Provincial",
+        "State Government"
+      ]
+    },
+    "References3": {
+      "examples": [
+        "http://www.industcards.com/st-coal-germany-bb-mv.htm",
+        "http://www.turbinetec.com/Download_GE_Layer.html",
+        "http://www.thehindubusinessline.com/2003/05/28/stories/2003052801570200.htm",
+        "http://www.steag.com/fileadmin/user_upload/steag.com/downloadbereich/downloaddat",
+        "http://en.wikipedia.org/wiki/Wallerawang_Power_Station"
+      ]
+    },
+    "Points1": {
+      "examples": [
+        "c~|iD_hv{Mwf@bnAyTjVyS}ZcSae@fYoMhBip@",
+        "woetFkmvfTbe@ia@c]mu@s`@fk@bUxh@nBtA",
+        "mmfgCoejhL`XcyA`{@sh@tJ{H",
+        "klroHqnsoBsPj[yLzGqEwQD{YvAuErGrOiAdAnDtHtOgTpExF",
+        "jaiiF_~~nZuC|HgBeHmIaRdEsGtNaLdGtM{N`M"
+      ]
+    },
+    "Comments2": {
+      "examples": [
+        "In 1990 the circulating Fluid Bed boiler was replaced by a pulverized coal boile",
+        "high-efficiency electro-static precipitator (ESP), which acts as a giant dust co",
+        "Units 5-8 have been derated to 110 MWe.  Previously Units 1-4 were called Kothag",
+        "7200 tonnes of coal daily. This coal is procured from the KPC-owned mine (Nagpur",
+        "The GWh generated listed in Annual Reports are energy sent out.  Total generatti"
+      ]
+    },
+    "Percent_Share_nbr1": {
+      "examples": [
+        "66.7",
+        "74.0",
+        "70.0",
+        "40.0",
+        "49.5"
+      ]
+    },
+    "References4": {
+      "examples": [
+        "http://www.industcards.com/st-coal-chile.htm",
+        "http://de.wikipedia.org/wiki/Kraftwerk_Datteln",
+        "http://en.wikipedia.org/wiki/STEAG_Power_Plant_Herne",
+        "https://www.sourcewatch.org/index.php/Provence_power_station",
+        "http://www.industcards.com/st-coal-colombia.htm"
+      ]
+    },
+    "Source_of_Makeup_Water_rng2_Rate_cum_day_nbr": {
+      "examples": [
+        "5280.0",
+        "4000.0"
+      ]
+    },
+    "Source_of_Cooling_Water_rng2_Rate_cum_day_nbr": {
+      "examples": [
+        "1814400.0",
+        "27500.0",
+        "81600.0"
+      ]
+    },
+    "Capital_Cost_Currency_rng3_In_Year_YYYY_yr": {
+      "examples": [
+        "1995.0",
+        "2016.0",
+        "2001.0",
+        "1988.0",
+        "1965.0"
+      ]
+    },
+    "EPGC_To_rng3_PPAyears": {
+      "examples": [
+        "21.0",
+        "25.0",
+        "15.0",
+        "30.0",
+        "20.0"
+      ]
+    },
+    "Capital_Cost_of_Plant_nbr_rng1": {
+      "examples": [
+        "23874000000.0",
+        "24000000000.0",
+        "78924200000.0",
+        "18000000000.0",
+        "2700000000.0"
+      ]
+    },
+    "Kilometers_rng2_Name_of_Major_Mines": {
+      "examples": [
+        "Rajmahal coal mines of ECL",
+        "Gubei Coal Mine (6 MT per year)",
+        "Loy Yang",
+        "Amrapali block of North Karanpura coal fields.",
+        "Kogan coal field"
+      ]
+    },
+    "EPGC_To_rng2_Name_Operator": {
+      "examples": [
+        "Amprion",
+        "Kyushu Electric Power Co Ltd",
+        "Greater Northern Interconnected System (SING)",
+        "Provincial electric power grid via 69kV, 138 kV, 230 kV transmission lines",
+        "Jiangsu Electric Power Company"
+      ]
+    },
+    "References5": {
+      "examples": [
+        "http://it.wikipedia.org/wiki/Centrale_termoelettrica_Andrea_Palladio",
+        "http://www.metso.com/energy/boiler_prod.nsf/WebWID/WTB-130218-22575-21816?OpenDo",
+        "http://www.cea.nic.in/planning/c%20and%20e/Government%20of%20India%20website.htm",
+        "http://www.enbw.com/company/press/press-releases/press-release-details_38272.htm",
+        "http://www.canadianbiomassmagazine.ca/content/view/1985/57/"
+      ]
+    },
+    "ParticulatesPM_Control_Device_Type_other": {
+      "examples": [
+        "K3: Fabric baghouse",
+        "over 99.5% efficient",
+        "Alstom baghouses",
+        "unit 7",
+        "ESP amnd Bag filters"
+      ]
+    },
+    "Year_rng2_yr1": {
+      "examples": [
+        "2002.0",
+        "1998.0",
+        "2009.0",
+        "1984.0",
+        "1990.0"
+      ]
+    },
+    "Configuration_of_Boiler_Turbine_Gen": {
+      "examples": [
+        "4 units",
+        "Seven units",
+        "3 turbines 4 boilers",
+        "Units 1-4 are sub-critical; units 5-9 are supercritical",
+        "4x350 units and 2x600 supercritical units"
+      ]
+    },
+    "Upgrade1": {
+      "examples": [
+        "FGD units installed on 4x200 in June 1998",
+        "All four units refurbished",
+        "upgraded",
+        "Reconstruction and modernization of Units 5 and 6 (110 MW), Partial reconstructi",
+        "Refurbishing of boilers and life extension work. Addition of FGD units"
+      ]
+    },
+    "Year_rng1_yr1": {
+      "examples": [
+        "2002.0",
+        "1971.0",
+        "1990.0",
+        "1987.0",
+        "1996.0"
+      ]
+    },
+    "Kilometers_to_Coal_Mines_Average_rng1_nbr": {
+      "examples": [
+        "125.0",
+        "11.0",
+        "2.0",
+        "3.5",
+        "1.0"
+      ]
+    },
+    "Source_of_Makeup_Water_rng1": {
+      "examples": [
+        "Ukai Reservoir",
+        "River Shannon",
+        "Danube River",
+        "Adjacent Reservoir",
+        "Champamathi River"
+      ]
+    },
+    "Owners2": {
+      "examples": [
+        "Hebei Construction Investment Group Co Ltd",
+        "Huaneng OzGen (bought out Intergen in 2003)",
+        "EVN AG",
+        "Commonwealth Bank Group",
+        "Energie Baden-Wurttemberg (EnBW)"
+      ]
+    },
+    "Construction_EPC_Contractor": {
+      "examples": [
+        "TransAlta",
+        "SHANDONG ELECTRIC POWER ENGINEERING CONSULTINShandong Electric Power constructio",
+        "China Power Complete Equipment Co, SEPCO II",
+        "Dongfang",
+        "Siemens"
+      ]
+    },
+    "Percent_Share_nbr2": {
+      "examples": [
+        "21.7",
+        "11.83",
+        "16.7",
+        "19.5",
+        "40.0"
+      ]
+    },
+    "Owners4": {
+      "examples": [
+        "Energy Investment Fund",
+        "Ryowa II GPS Pty Ltd",
+        "Jiangsu Guoxin Asset Management Group Limited Taicang City",
+        "PT Batu Hitam Perkasa of Indonesia",
+        "YTL Power"
+      ]
+    },
+    "Owners5": {
+      "examples": [
+        "GE Capital Finance Company",
+        "YKK GPS (Queensland) Pty Ltd",
+        "Yunnan Electric Power Design Co., Ltd",
+        "Others",
+        "Tianjin   (Units 3 and 4)"
+      ]
+    },
+    "Owners3": {
+      "examples": [
+        "The Tokyo Electric Power Company, Incorporated (TEPCO)",
+        "Inner Mongolian Huaneng Thermal Power Company Ltd",
+        "National Thermal Power Corporation (NTPC)",
+        "Tianjin Jinneng Investment Co (Units 1 and 2)",
+        "Datang Hebei Power Co Ltd"
+      ]
+    },
+    "Percent_Share_nbr5": {
+      "examples": [
+        "6.3",
+        "4.75",
+        "1.2",
+        "1.33",
+        "25.0"
+      ]
+    },
+    "Percent_Share_nbr4": {
+      "examples": [
+        "10.0",
+        "20.0",
+        "5.0",
+        "4.7",
+        "75.0"
+      ]
+    },
+    "Percent_Share_nbr3": {
+      "examples": [
+        "5.0",
+        "8.5",
+        "19.0",
+        "10.0",
+        "15.0"
+      ]
+    },
+    "Name_of_SubStation_Connected_To": {
+      "examples": [
+        "Three lines: Butibori -Wardha 50 MW line:(1 km); Wardha -Ambazari 200 MW line (7",
+        "Sukamandi",
+        "Phokoje substation (about 105km)",
+        "one 500KV booster station, one 220KV booster station, four 500KV transmission li",
+        "SSTPP – PITHAMPUR, CHHEGAON"
+      ]
+    },
+    "Firm_Capacity_MWe_nbr": {
+      "examples": [
+        "2447.0",
+        "509.0",
+        "1400.0",
+        "450.0",
+        "2100.0"
+      ]
+    },
+    "Steam_Supplied_To_rng3_Description": {
+      "examples": [
+        "Heat is supplied to Boxberg and Weißwasser",
+        "district heating for Helsinki",
+        "Munich",
+        "BSL",
+        "50% of heat requirements of Datteln"
+      ]
+    },
+    "Comments3": {
+      "examples": [
+        "Sulphur dioxide (SO2) Approximately 2,000 t/yr (340 mg/Nm3 at standard reference",
+        "Units 1-7 can operate on gas and units 1-2, 5-6 on coal also.",
+        "Municipal Aalborg Forsyning finished purchase of Vattenfall’s Nordjylland for 82",
+        "Unit 3 undergoing a $354 M retrofit to make it ready for CCS and extend life by ",
+        "Rehab/Replacement by Toshiba of turbines and generators of units 1, 3,  4, the c"
+      ]
+    },
+    "Water_Withdrawal_Rate_at_Full_Power_rng1_nbr_cum_hour": {
+      "examples": [
+        "102960.0",
+        "1611.0",
+        "3000.0"
+      ]
+    },
+    "Comments4": {
+      "examples": [
+        "The two gas turbines use topping gas",
+        "Imported coal from Bunyu Island, Indonesia, under a 15-year fuel supply agreemen",
+        "In place of Units 1-4 two high efficiency gas turbines (HEGTs) are being built  ",
+        "Cost:  Stage I (units 1-3) - Rs.94561.2 million.  Stage-II (units 4-5) Rs. 47301"
+      ]
+    },
+    "Cogen_Mode_Steam_Supplied_To_rng1": {
+      "examples": [
+        "Industry",
+        "Industry, Commercial and Residential",
+        "Utility Company"
+      ]
+    },
+    "SOx_Control_Device_Type_other": {
+      "examples": [
+        "Danish \\\"Niro-Atomizer desulfurization\\\", a dry cleaning process with SDA using ",
+        "K3: FGD",
+        "SNOX-system",
+        "FGD systems from Insigma Mechanical & Electrical Engineering",
+        "semidry FGD scrubber from Flakt"
+      ]
+    },
+    "Heat_Supply_Capacity_MWth_nbr": {
+      "examples": [
+        "423.0",
+        "320.0",
+        "395.0",
+        "150.0",
+        "500.0"
+      ]
+    },
+    "Source_Coal_rng2_Onsite_Storage_Capacity_Tonnes_nbr": {
+      "examples": [
+        "900000.0",
+        "180000.0",
+        "200000.0",
+        "700000.0",
+        "600000.0"
+      ]
+    },
+    "NOx_Control_Device_Type_other": {
+      "examples": [
+        "Unit 4 in 2007",
+        "DeNOx",
+        "Low NOx Pulverised Coal Burners",
+        "Boosted Over Fire Air (BOFA), Selected Catalyst Reactor (SCR) systems",
+        "DeNOx added in 2004"
+      ]
+    },
+    "Type_of_Cooling_System": {
+      "examples": [
+        "natural draft wet cooling tower",
+        "Two natural draught cooling towers",
+        "Cooling Tower",
+        "Natural draft cooling tower",
+        "Seawater"
+      ]
+    },
+    "Plant_Efficiency_and_Impact_itf": {
+      "examples": [
+        "High Efficiency and Low Enivronmental Imapct",
+        "High Efficiency and Medium Environmental Impact",
+        "Medium Efficiency and Medium Environmental Impact",
+        "Low Efficiency and High Environmental Imapct"
+      ]
+    },
+    "Project_Financed_By": {
+      "examples": [
+        "IBRD",
+        "IDA, OPEC, KFW",
+        "World Bank",
+        "JBIC",
+        "IDA, KWF"
+      ]
+    },
+    "Capital_Cost_of_Plant_rng2_and_or_In_US_Dollars_nbr": {
+      "examples": [
+        "2600000000.0",
+        "1740000000.0",
+        "4200000000.0",
+        "600000000.0",
+        "496000000.0"
+      ]
+    },
+    "Country_Assigned_Identification_Number": {
+      "examples": [
+        "NPRI-ID 1033",
+        "NPRI-ID 3048",
+        "NPRI-ID 1809",
+        "NPRI-ID 267",
+        "NPRI-ID 1698"
+      ]
+    },
+    "Environmental_Issues": {
+      "examples": [
+        "99.35% efficient  electrostatic precipitator",
+        "2 electrostatioc precipitators: Flue-gas emission levels at stack.",
+        "2008: In the process of installing units to reduce emission of nitrogen oxide, i",
+        "Wastewater treatment and air quality monitoring",
+        "Electrostatic precipitator installed"
+      ]
+    },
+    "References10": {
+      "examples": [
+        "Nova Scotia Power. Date Unknown. Renewable Energy. http://www.nspower.ca/environ"
+      ]
+    },
+    "References11": {
+      "examples": [
+        "Ontario Clean Air Alliance. August 17, 2006. OCAA calls on Parkdale-High Park by"
+      ]
+    },
+    "References12": {
+      "examples": [
+        "Statistics Canada. 2003. Electric Power Capability and Load. http://www.statcan."
+      ]
+    },
+    "References13": {
+      "examples": [
+        "Statistics Canada. November 17, 2008. Quarterly demographic estimates. http://ww"
+      ]
+    },
+    "References14": {
+      "examples": [
+        "http://www.transalta.com/transalta/webcms.nsf/AllDoc/44D5ABABDF861E4C8725717E007"
+      ]
+    },
+    "References15": {
+      "examples": [
+        "Utilities Consumer Advocate. February, 2009. EPCOR Energy Inc./EPCOR Energy Albe"
+      ]
+    },
+    "References16": {
+      "examples": [
+        "World Coal Institute. Date Unknown. Environmental Impacts of Coal Mining. http:/"
+      ]
+    },
+    "References17": {
+      "examples": [
+        "http://www.capitalpower.com/generationportfolio/merchantcommercial/Documents/201"
+      ]
+    },
+    "References18": {
+      "examples": [
+        "http://www.capitalpower.com/generationportfolio/Pages/default.aspx"
+      ]
+    },
+    "Mercury_Control_Device": {
+      "examples": [
+        "full-scale activated carbon injection",
+        "K3: mercury emission control system, using activated carbon injection technology",
+        "No"
+      ]
+    },
+    "References8": {
+      "examples": [
+        "National Energy Board. February 2, 2009. Current Market Conditions February-Marc",
+        "http://turbinetec.com/downloads.html",
+        "http://www.alpiq.com/what-we-offer/our-assets/thermal-power-plants/gas-fired-com"
+      ]
+    },
+    "References9": {
+      "examples": [
+        "http://www.epcor.ca/SiteCollectionDocuments/Corporate/pdfs/publications%20and%20"
+      ]
+    },
+    "References6": {
+      "examples": [
+        "http://www.eon.fr/content/dam/eon-fr/fr/downloads/Brochures/Entreprise_Sites/Fic",
+        "http://www.capitalpower.com/generationportfolio/Pages/default.aspx",
+        "http://www.ses.sk/en/index.php?start&language=en&navID=2&id=61",
+        "Hughes, Larry. May 31, 2001. Greenhouse Gas Emissions and the Nova Scotia Energy",
+        "http://www.balcke-duerr.com/business-areas/energy/coal/case-study-rdk7/"
+      ]
+    },
+    "References7": {
+      "examples": [
+        "https://www.opg.com/generating-power/thermal/stations/atikokan-station/Pages/ati",
+        "http://www.alpiq.com/what-we-offer/our-assets/thermal-power-plants/gas-fired-com",
+        "MacDonald, Rodney J. 2006. Premier Rodney MacDonald. http://www.pcparty.ns.ca/. ",
+        "http://www.ec.gc.ca/pdb/npri/npri_prev_dat_e.cfm  and http://www.ec.gc.ca/pdb/gh"
+      ]
+    },
+    "Cost_nbr3": {
+      "examples": [
+        "75000000.0"
+      ]
+    },
+    "Year_rng2_yr3": {
+      "examples": [
+        "2009.0"
+      ]
+    },
+    "Year_rng2_yr2": {
+      "examples": [
+        "2012.0",
+        "2014.0",
+        "1998.0",
+        "2007.0",
+        "2004.0"
+      ]
+    },
+    "Year_rng1_yr2": {
+      "examples": [
+        "2006.0",
+        "2012.0",
+        "1995.0",
+        "2007.0",
+        "2008.0"
+      ]
+    },
+    "Year_rng1_yr3": {
+      "examples": [
+        "2009.0"
+      ]
+    },
+    "Upgrade3": {
+      "examples": [
+        "Unit 5 uprated by 53 MW"
+      ]
+    },
+    "Upgrade2": {
+      "examples": [
+        "Lucy 4 - project (?) - gaz power plant - 430 MW",
+        "Addition of unit R of 675 MW",
+        "Unit 4 uprated by 53 MW",
+        "Istallation of wet limestone-gypsum flue gas desulphurization Lurgi technology",
+        "Upgrade of capacity of 2x50 MW TG sets to 2x57 MW and 12 MW to 12.8 MW, and 100M"
+      ]
+    },
+    "EnvironmentalIssuesDescription1": {
+      "examples": [
+        "Long term testing using activated carbon injection for mercury control in K2 uni"
+      ]
+    },
+    "EnvironmentalIssuesType_1": {
+      "examples": [
+        "Emissions: Toxic Chemicals (Hg, Pb, ...)"
+      ]
+    },
+    "Cost_nbr1": {
+      "examples": [
+        "46860000000.0",
+        "841000000.0",
+        "16400000000.0",
+        "170000000.0",
+        "30330000000.0"
+      ]
+    },
+    "Plant_Overall_Rating_setfield_itf_State_of_the_art": {
+      "examples": [
+        "State-of-the-art"
+      ]
+    },
+    "Cost_nbr2": {
+      "examples": [
+        "300000000.0",
+        "10900000000.0",
+        "15780000000.0",
+        "1000000000.0"
+      ]
+    },
+    "Points2": {
+      "examples": [
+        "cmfgCcgjhLdXowA|AsnBgg@ygAwHgN",
+        "{{i`Caf~oNsUkp@ag@sEgOic@xFqCjFtHrNpGjQaDn`@iCjIz_@zOnJ`EpCad@`f@"
+      ]
+    },
+    "Steam_Supplied_To_rng2_Tonnes_hour_nbr": {
+      "examples": [
+        "660.0",
+        "900.0"
+      ]
+    }
+  },
+  "GEO_Units": {
+    "Boiler_Model_Type": {
+      "examples": [
+        "300t/h",
+        "Multi Fuel CFB",
+        "circulating fluidized-bed (CFB)",
+        "1195t/h",
+        "Circulating Fluidised Bed"
+      ]
+    },
+    "GEO_Assigned_Identification_Number": {
+      "examples": [
+        "3371",
+        "42423",
+        "40750",
+        "43167",
+        "44792"
+      ]
+    },
+    "Chimney_Height_m_nbr": {
+      "examples": [
+        "270.0",
+        "200.0",
+        "165.0",
+        "260.0",
+        "210.0"
+      ]
+    },
+    "Capacity_MWe_nbr": {
+      "examples": [
+        "279.0",
+        "500.0",
+        "131.0",
+        "400.0",
+        "450.0"
+      ]
+    },
+    "Date_Commissioned_dt": {
+      "examples": [
+        "1990-08-00",
+        "1996-00-00",
+        "2011-06-03",
+        "1996-08-00",
+        "1987-04-00"
+      ]
+    },
+    "Turbine_Manufacturer": {
+      "examples": [
+        "Alstom Beizhong Power",
+        "Mitsubishi Heavy Industries (MHI), Japan",
+        "Siemens",
+        "ST-1",
+        "Toshiba"
+      ]
+    },
+    "Boiler_Manufacturer": {
+      "examples": [
+        "Combustion Engineering Canada",
+        "Deutsche Babcock",
+        "AE&E",
+        "Steinmuller",
+        "Stein"
+      ]
+    },
+    "Generator_Manufacturer": {
+      "examples": [
+        "Asgen Italy",
+        "Marelli",
+        "Shanghai Electric Power Supply Company",
+        "ABB",
+        "Harbin"
+      ]
+    },
+    "Unit_Nbr": {
+      "examples": [
+        "11",
+        "10",
+        "1",
+        "9",
+        "6"
+      ]
+    },
+    "Turbine_Model_Type": {
+      "examples": [
+        "ST-6",
+        "GT",
+        "ST-4",
+        "ST-U12",
+        "SCST-3"
+      ]
+    },
+    "Decommission_Date_dt": {
+      "examples": [
+        "2005-04-30",
+        "1997-00-00",
+        "1996-00-00",
+        "2005-00-00",
+        "2013-09-26"
+      ]
+    },
+    "Unit_Efficiency_Percent_nbr": {
+      "examples": [
+        "40.0",
+        "39.5",
+        "45.2"
+      ]
+    },
+    "Generator_Model_Type": {
+      "examples": [
+        "TGH-120",
+        "TAKS"
+      ]
+    },
+    "Control_NOx_yr": {
+      "examples": [
+        "2014.0",
+        "2013.0",
+        "1986.0",
+        "2009.0",
+        "2008.0"
+      ]
+    },
+    "Control_SOx_yr": {
+      "examples": [
+        "2004.0",
+        "2007.0",
+        "1986.0",
+        "2010.0",
+        "2002.0"
+      ]
+    },
+    "Control_PM_yr": {
+      "examples": [
+        "2007.0",
+        "1986.0",
+        "2015.0",
+        "2009.0",
+        "2005.0"
+      ]
+    }
+  },
+  "GGPT": {
+    "GEM location ID": {
+      "examples": [
+        "L100000407607",
+        "L100000408827",
+        "L100001016282",
+        "L100000408143",
+        "L100001016277"
+      ]
+    },
+    "GEM unit ID": {
+      "examples": [
+        "G100000411342",
+        "G100000408060",
+        "G100000413428",
+        "G100000406934",
+        "G100000400824"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Kwinana_Refinery_cogeneration_power_station",
+        "https://www.gem.wiki/Roskovec_power_station",
+        "https://www.gem.wiki/Río_Gallegos_power_station",
+        "https://www.gem.wiki/Moranbah_North_power_station",
+        "https://www.gem.wiki/Roldán_power_station"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Bahamas",
+        "Azerbaijan",
+        "Afghanistan",
+        "Austria",
+        "Armenia"
+      ]
+    },
+    "Plant name": {
+      "examples": [
+        "Kwinana Refinery cogeneration power station",
+        "Roskovec power station",
+        "Río Gallegos power station",
+        "Moranbah North power station",
+        "Roldán power station"
+      ]
+    },
+    "Plant Name in Local Language / Script": {
+      "examples": [
+        "Central Térmica Cruz Alta",
+        "Central Térmica Loma Campana",
+        "محطة كهرباء تارقة",
+        "Central Térmica Argener",
+        "Астаринская ТЭС, Astara elektrik stansiyası"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "Simmering Biomasse-KWK-Kraftwerk",
+        "Mazar-e-Sharif power station",
+        "AGL’s Barker Inlet Power Station",
+        "Marsat El Hadjadj Steam, Marsat Power Plant",
+        "Hadjret En Nouss, Centrale électrique de Hadjret ennouss"
+      ]
+    },
+    "Unit name": {
+      "examples": [
+        "GT 2",
+        "CC-2",
+        "23",
+        "COSTTV02",
+        "1b"
+      ]
+    },
+    "Fuel": {
+      "examples": [
+        "fossil gas: LNG, fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "fossil gas: natural gas [95%], other: hydrogen (green) [5%]",
+        "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "fossil gas: natural gas, fossil gas: waste heat from natural gas, fossil liquids"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "130.0",
+        "320.0",
+        "300.0",
+        "60.2",
+        "431.0"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "cancelled",
+        "shelved",
+        "mothballed",
+        "cancelled - inferred 4 y",
+        "shelved - inferred 2 y"
+      ]
+    },
+    "Turbine/Engine Technology": {
+      "examples": [
+        "gas turbine",
+        "internal combustion",
+        "ISCC",
+        "steam turbine",
+        "combined cycle"
+      ]
+    },
+    "Equipment Manufacturer/Model": {
+      "examples": [
+        "Mitsubishi Power: FT8 SWIFTPAC 60",
+        "GE Power: GT26",
+        "Wärtsilä: 18V50DF",
+        "KWU Siemens",
+        "Mitsubishi Power: M701DA"
+      ]
+    },
+    "CHP": {
+      "examples": [
+        "no",
+        "yes"
+      ]
+    },
+    "Hydrogen capable?": {
+      "examples": [
+        "no",
+        "hydrogen capable: progress",
+        "hydrogen capable: turbine"
+      ]
+    },
+    "CCS attachment?": {
+      "examples": [
+        "no"
+      ]
+    },
+    "Conversion/replacement?": {
+      "examples": [
+        "conversion",
+        "replacement"
+      ]
+    },
+    "Conversion from/replacement of (fuel)": {
+      "examples": [
+        "coal: bituminous"
+      ]
+    },
+    "Conversion from/replacement of (GEM unit ID)": {
+      "examples": [
+        "G100000110177",
+        "G100000106840"
+      ]
+    },
+    "Conversion to (fuel)": {
+      "examples": [
+        "bioenergy: wood & other biomass (solids), bioenergy: paper mill wastes",
+        "fossil gas: natural gas [70%], other: hydrogen (green) [30%]"
+      ]
+    },
+    "Conversion to (GEM unit ID)": {
+      "examples": [
+        "G100001053943",
+        "G100001031183"
+      ]
+    },
+    "Start year": {
+      "examples": [
+        "1969.0",
+        "1967.0",
+        "2009.0",
+        "2027.0",
+        "2010.0"
+      ]
+    },
+    "Retired year": {
+      "examples": [
+        "2020.0",
+        "2021.0",
+        "2022.0"
+      ]
+    },
+    "Planned retire": {
+      "examples": [
+        "2076.0",
+        "2037.0",
+        "2026.0",
+        "2025.0",
+        "2045.0"
+      ]
+    },
+    "Operator(s)": {
+      "examples": [
+        "Central Termoeléctrica Guillermo Brown",
+        "Generación Riojana",
+        "Generacion Independencia",
+        "Squadron Energy",
+        "Renco"
+      ]
+    },
+    "Owner(s)": {
+      "examples": [
+        "Wels Strom GmbH [100%]",
+        "AGL SA Generation Pty Ltd [100%]",
+        "TransAlta Corp [100%]",
+        "Algerian Energy Company SpA [100%]",
+        "Sullair Argentina SA [100%]"
+      ]
+    },
+    "Owner GEM Entity ID": {
+      "examples": [
+        "E100000001733 [100%]",
+        "E100000002382 [100%]",
+        "E100000001830 [100%]",
+        "E100001001012 [100%]",
+        "E100001015626 [100%]"
+      ]
+    },
+    "Parent(s)": {
+      "examples": [
+        "Energía Argentina SA [65.0%]; unknown [12.4%]; Central Puerto SA [10.8%]; AES Co",
+        "Grupo Albanesi [75.0%]; Tefu SA [25.0%]",
+        "Ministry of Mines and Petroleum (Afghanistan)",
+        "Yerevan Thermal Power Plant CJSC [100.0%]",
+        "Capex SA [100.0%]"
+      ]
+    },
+    "Parent GEM Entity ID": {
+      "examples": [
+        "E100000001362",
+        "E100000000008 [65.0%]; E100000132388 [12.4%]; E100000001758 [10.8%]; E1000000013",
+        "E100000000322 [100.0%]",
+        "E100001000951 [72.0%]; E100000000651 [28.0%]",
+        "E100001014061"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "35.8",
+        "40.737819",
+        "-30.737574",
+        "-34.601405",
+        "-21.98612164823543"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "-0.1924",
+        "19.703411",
+        "121.506442",
+        "-60.993939",
+        "148.0200557472841"
+      ]
+    },
+    "Location accuracy": {
+      "examples": [
+        "approximate",
+        "exact"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Newport",
+        "Braemar",
+        "El Borma",
+        "Luján de Cuyo",
+        "Kambala East"
+      ]
+    },
+    "Local area (taluk, county)": {
+      "examples": [
+        "Western  Australia",
+        "Babar",
+        "Hunter Valley region",
+        "Tuti-Maidan field",
+        "Hunter Valley/Newcastle"
+      ]
+    },
+    "Major area (prefecture, district)": {
+      "examples": [
+        "Jauzjan and Faryab regions",
+        "Aïn Beïda",
+        "departamento Bahía Blanca",
+        "Naâma",
+        "departamento San Nicolás"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "Fier",
+        "Styria",
+        "Ouargla",
+        "Jowzjan",
+        "Tamanrasset"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Southern Europe",
+        "Western Asia",
+        "Southern Asia",
+        "Western Europe",
+        "Northern Africa"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Europe",
+        "Oceania",
+        "Africa",
+        "Asia",
+        "Americas"
+      ]
+    },
+    "Other IDs (location)": {
+      "examples": [
+        "World Resources Institute: WRI1023778, Global Energy Observatory: GEO41730",
+        "AEMO Survey ID: 1054",
+        "World Resources Institute: WRI1023789",
+        "Beyond Fossil Fuels: AL-1",
+        "AEMO Survey ID: 1433"
+      ]
+    },
+    "Other IDs (unit)": {
+      "examples": [
+        "AEMO DUID: OSB-AG",
+        "Beyond Fossil Fuels: AL-1-1",
+        "AEMO DUID: JLB02",
+        "AEMO DUID: PPCCGT",
+        "AEMO DUID: JLA02"
+      ]
+    },
+    "Captive industry use": {
+      "examples": [
+        "power",
+        "both",
+        "heat"
+      ]
+    },
+    "Captive industry type": {
+      "examples": [
+        "aluminum",
+        "iron & steel",
+        "industrial park",
+        "pulp & paper",
+        "chemicals"
+      ]
+    },
+    "Captive non-industry use": {
+      "examples": [
+        "power",
+        "none",
+        "heat"
+      ]
+    },
+    "Fuel classification?": {
+      "examples": [
+        "Oil only",
+        "LNG only",
+        "Gas only",
+        "Multi fuel"
+      ]
+    }
+  },
+  "GGTPT": {
+    "Date Last Researched": {
+      "examples": [
+        "2025-01-29",
+        "2023-05-15",
+        "2024-03-13",
+        "2025-01-09",
+        "2025-01-16"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Chile",
+        "Uganda",
+        "Canada",
+        "Australia",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "Bjarnarflag geothermal power plant",
+        "Katwe geothermal power plant",
+        "Nereidas Valley geothermal power plant",
+        "Ngozi geothermal power plant",
+        "Eagle Rock geothermal plant"
+      ]
+    },
+    "Unit Name": {
+      "examples": [
+        "GEN1-3",
+        "--",
+        "7",
+        "GEN7-9",
+        "OEC1"
+      ]
+    },
+    "Project Name in Local Language / Script": {
+      "examples": [
+        "Centrale Geotermica Nuova Monterotondo",
+        "AFJET Jeotermal Enerji Santrali",
+        "Centrale geotermica di Monteverdi",
+        "Central geotérmica Chinameca",
+        "Planta de vapor Cabanaconde, Central geotérmica Cabanaconde"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "Enel Cove Fort",
+        "Korosi Geothermal Plant (Baringo-Silali), Baringo-Silali",
+        "Kawerau 1",
+        "Geysers geothermal plant U20",
+        "Rafferty Geothermal Power Project (Torquay)"
+      ]
+    },
+    "Unit Capacity (MW)": {
+      "examples": [
+        "270.0",
+        "24.8",
+        "6.0",
+        "33.0",
+        "4.0"
+      ]
+    },
+    "Technology": {
+      "examples": [
+        "advanced geothermal systems (AGS)",
+        "flash steam - single",
+        "dry steam",
+        "binary cycle",
+        "flash steam - triple"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "retired",
+        "pre-construction",
+        "cancelled - inferred 4 y",
+        "operating",
+        "cancelled"
+      ]
+    },
+    "Start Year": {
+      "examples": [
+        "2018.0",
+        "1989.0",
+        "2000.0",
+        "2020.0",
+        "1998.0"
+      ]
+    },
+    "Retired Year": {
+      "examples": [
+        "2006.0",
+        "2023.0",
+        "2016.0",
+        "2013.0"
+      ]
+    },
+    "Operator": {
+      "examples": [
+        "Hokkaido Electric Power",
+        "LaGeo",
+        "Minami-Aso Yunotani Geothermal Power",
+        "Geotérmica Del Norte (GDN)",
+        "PT Medco Power Indonesia [TO BE DELETED]"
+      ]
+    },
+    "Operator Name in Local Language / Script": {
+      "examples": [
+        "東北電力株式会社",
+        "ПАО «РусГидро»",
+        "PT Perusahaan Listrik Negara",
+        "Menderes Geothermal Elektrik Uretim A.S.",
+        "北海道電力株式会社"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "Tokyo Electric Power Co",
+        "Geo Energie Jura AG",
+        "Mercury NZ Ltd [100%]",
+        "PetroGreen Energy CORP (PGEC) [100%]",
+        "PT Medco Power Indonesia [TO BE DELETED] [51%]; Ormat Technology Inc [49%]"
+      ]
+    },
+    "Owner Name in Local Language / Script": {
+      "examples": [
+        "ПАО «РусГидро»",
+        "北海道電力株式会社",
+        "安比地熱株式会社",
+        "オリックス株式会社",
+        "株式会社INPEX; 出光興産株式会社"
+      ]
+    },
+    "Green Hydrogen Producing": {
+      "examples": [
+        "yes",
+        "not found"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "7.7888",
+        "5.0438",
+        "32.8484",
+        "50.1254",
+        "10.7002"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "38.7952",
+        "-75.5246",
+        "-115.7815",
+        "-5.23637",
+        "-85.1944"
+      ]
+    },
+    "Location Accuracy": {
+      "examples": [
+        "approximate",
+        "exact"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Ahuachapan",
+        "Liberia",
+        "Padaawas",
+        "Manisa",
+        "Calamba"
+      ]
+    },
+    "Local area (taluk, county)": {
+      "examples": [
+        "Lassen County",
+        "Berastagi",
+        "Cabanaconde",
+        "Municipio de Ahuachapán",
+        "Mineral County"
+      ]
+    },
+    "Major area (prefecture, district)": {
+      "examples": [
+        "Olkaria",
+        "Unalaska Island",
+        "Karo Regency",
+        "Imbabura",
+        "Pemberton"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "Negros Oriental",
+        "Departamento de Ahuachapán",
+        "Colorado",
+        "Central Java",
+        "Banten"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Southern Asia",
+        "Australia and New Zealand",
+        "Western Asia",
+        "Western Europe",
+        "Eastern Asia"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Americas",
+        "Oceania",
+        "Africa",
+        "Asia",
+        "Europe"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000700013",
+        "L100000700076",
+        "L100000700195",
+        "L100000700240",
+        "L100000700044"
+      ]
+    },
+    "GEM unit ID": {
+      "examples": [
+        "G100000700155",
+        "G100000700470",
+        "G100000700511",
+        "G100001048503",
+        "G100000700042"
+      ]
+    },
+    "Other IDs (location)": {
+      "examples": [
+        "EIA: 63491",
+        "World Resources Institute: GEODB0043615",
+        "World Resources Institute: WRI1001956",
+        "EIA: 4397, World Resources Institute: USA0010875, EIA: 10875",
+        "World Resources Institute: USA0000902, EIA: 902"
+      ]
+    },
+    "Other IDs (unit/phase)": {
+      "examples": [
+        "EIA: 34691"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Bjarnarflag_geothermal_power_plant",
+        "https://www.gem.wiki/Katwe_geothermal_power_plant",
+        "https://www.gem.wiki/Nereidas_Valley_geothermal_power_plant",
+        "https://www.gem.wiki/Ngozi_geothermal_power_plant",
+        "https://www.gem.wiki/Eagle_Rock_geothermal_plant"
+      ]
+    }
+  },
+  "GHPT": {
+    "Date Last Researched": {
+      "examples": [
+        "2022-09-15",
+        "2024-11-21",
+        "2024-10-07",
+        "2024-11-22",
+        "2024-10-02"
+      ]
+    },
+    "Country/Area 1": {
+      "examples": [
+        "Afghanistan",
+        "Bulgaria",
+        "Bosnia and Herzegovina",
+        "Albania",
+        "Austria"
+      ]
+    },
+    "Country/Area 2": {
+      "examples": [
+        "Romania",
+        "Brazil",
+        "Togo",
+        "Paraguay",
+        "Serbia"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "Henry Borden hydroelectric plant",
+        "Hrazdan hydroelectric plant",
+        "Itaúba hydroelectric plant",
+        "Großraming hydroelectric plant",
+        "Kareeya hydroelectric plant"
+      ]
+    },
+    "Project Name (local lang/script)": {
+      "examples": [
+        "Central Hidroeléctrica Piedra del Aguila",
+        "Central Hidroeléctrica Chihuido 1",
+        "Usina Hidrelétrica Barra Bonita",
+        "Usina Hidrelétrica Chavantes",
+        "Usina Hidrelétrica Campos Novos"
+      ]
+    },
+    "Other name(s)": {
+      "examples": [
+        "Mayrhofen (Zemm)",
+        "Castanheira Arinos",
+        "Fangut",
+        "Grossraming",
+        "Vorotran Spandaryan"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "104",
+        "730",
+        "5000",
+        "86",
+        "216"
+      ]
+    },
+    "Binational": {
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    "Country/Area 1 Capacity (MW)": {
+      "examples": [
+        "104.0",
+        "355.0",
+        "5000.0",
+        "86.0",
+        "216.0"
+      ]
+    },
+    "Country/Area 2 Capacity (MW)": {
+      "examples": [
+        "0.0",
+        "51.0",
+        "36.0",
+        "135.0",
+        "76.0"
+      ]
+    },
+    "Turbines": {
+      "examples": [
+        "20 x 144 MW",
+        "4 x 200 MW",
+        "3 x 136 MW",
+        "2 x 31.1 MW",
+        "4 x 32 MW"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "mothballed",
+        "operating",
+        "pre-construction",
+        "announced",
+        "cancelled - inferred 4 y"
+      ]
+    },
+    "Complex": {
+      "examples": [
+        "Shoalhaven Complex",
+        "Batak Cascade Complex",
+        "Pieman Complex",
+        "Complexo Hidrelétrico Do Tapajós",
+        "Devoll Complex"
+      ]
+    },
+    "Start Year": {
+      "examples": [
+        "1954.0",
+        "1994.0",
+        "1961.0",
+        "2015.0",
+        "2010.0"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "Druk Green Power CORP LTD (DGPC) [100%]",
+        "Pampa Energia SA [100%]",
+        "Emprendimientos Energéticos Binacionales SA (EBISA) [100%]",
+        "Itiquira Energética SA [100%]",
+        "AES Brasil Operações SA [100%]"
+      ]
+    },
+    "Owner Name (local lang/script)": {
+      "examples": [
+        "SPIC Brasil Energia Participações",
+        "中国水利水电建设股份有限公司",
+        "سونلغاز",
+        "中国华电集团有限公司",
+        "Elektroprivreda Bosne i Hercegovine"
+      ]
+    },
+    "Operator": {
+      "examples": [
+        "Enel Green Power Volta Grande",
+        "Comisión Técnica Mixta (CTM)",
+        "Enel Generación",
+        "Votorantim Cimentos",
+        "Companhia Hidrelétrica Teles Pires"
+      ]
+    },
+    "Operator Name (local lang/script)": {
+      "examples": [
+        "ÖBB-Infrastruktur Aktiengesellschaft",
+        "SPIC Brasil Energia Participações",
+        "سونلغاز",
+        "Empresa Nacional de Electricidad (ENDE)"
+      ]
+    },
+    "Technology Type": {
+      "examples": [
+        "conventional storage",
+        "unknown",
+        "conventional and run-of-river",
+        "run-of-river",
+        "conventional and pumped storage"
+      ]
+    },
+    "River / Watercourse": {
+      "examples": [
+        "Nikachu River",
+        "Río Juramento",
+        "Aras River",
+        "Rio Piracicaba",
+        "Rio Uatumã"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "40.2211",
+        "-19.1419",
+        "-9.3969",
+        "-24.0814",
+        "-17.6078"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "-50.7588",
+        "-2.9844",
+        "14.1503",
+        "-52.0002",
+        "-56.4681"
+      ]
+    },
+    "Location Accuracy": {
+      "examples": [
+        "exact",
+        "approximate"
+      ]
+    },
+    "City 1": {
+      "examples": [
+        "Gemeinde Vandans",
+        "Local community Jasenica",
+        "Dubravica",
+        "Shingkhar Village",
+        "Bunakha Village"
+      ]
+    },
+    "Local Area 1": {
+      "examples": [
+        "Tsenzabi Masangdaza",
+        "Bezirk Deutschlandsberg",
+        "Kampong Cham Commune",
+        "Pedanía Santa Rosa",
+        "Bramoy Commune"
+      ]
+    },
+    "Major Area 1": {
+      "examples": [
+        "Provincia Sud Yungas",
+        "Rangamati Hill District",
+        "La Consulta",
+        "Hrazdan",
+        "Região Geográfica Intermediária de Belo Horizonte"
+      ]
+    },
+    "State/Province 1": {
+      "examples": [
+        "Minas Gerais",
+        "Northern Albania",
+        "Bezirk Lienz",
+        "Tyrol",
+        "Malanje Province"
+      ]
+    },
+    "Subregion 1": {
+      "examples": [
+        "Eastern Europe",
+        "Southern Europe",
+        "Western Asia",
+        "Southern Asia",
+        "Western Europe"
+      ]
+    },
+    "Region 1": {
+      "examples": [
+        "Europe",
+        "Oceania",
+        "Africa",
+        "Asia",
+        "Americas"
+      ]
+    },
+    "City 2": {
+      "examples": [
+        "دهستان منجوان شرقی",
+        "Bajina Basta Municipality",
+        "Ljubovija Municipality"
+      ]
+    },
+    "Local Area 2": {
+      "examples": [
+        "Landkreis Rottal-Inn",
+        "Landkreis Passau",
+        "Macva Administrative District",
+        "Khoda Afarin County",
+        "Zlatibor Administrative District"
+      ]
+    },
+    "Major Area 2": {
+      "examples": [
+        "Região Geográfica Intermediária de Ijui"
+      ]
+    },
+    "State/Province 2": {
+      "examples": [
+        "Dubrovnik",
+        "Central Serbia",
+        "Itapúa",
+        "Teleorman",
+        "Bayern"
+      ]
+    },
+    "Subregion 2": {
+      "examples": [
+        "Latin America and the Caribbean",
+        "Western Europe",
+        "Eastern Europe",
+        "Southern Asia",
+        "Southern Europe"
+      ]
+    },
+    "Region 2": {
+      "examples": [
+        "Europe",
+        "Africa",
+        "Americas",
+        "Asia"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000600266",
+        "L100000600044",
+        "L100000600278",
+        "L100001046168",
+        "L100000600064"
+      ]
+    },
+    "GEM unit ID": {
+      "examples": [
+        "G100000600266",
+        "G100000600044",
+        "G100000600278",
+        "G100001052090",
+        "G100000600064"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Henry_Borden_hydroelectric_plant",
+        "https://www.gem.wiki/Hrazdan_hydroelectric_plant",
+        "https://www.gem.wiki/Itaúba_hydroelectric_plant",
+        "https://www.gem.wiki/Großraming_hydroelectric_plant",
+        "https://www.gem.wiki/Kareeya_hydroelectric_plant"
+      ]
+    }
+  },
+  "GHR": {
+    "ID": {
+      "examples": [
+        "GHR00362",
+        "GHR00074",
+        "GHR00375",
+        "GHR00156",
+        "GHR00105"
+      ]
+    },
+    "country": {
+      "examples": [
+        "Bangladesh",
+        "Bhutan",
+        "Afghanistan",
+        "Bosnia and Herzegovina",
+        "Armenia"
+      ]
+    },
+    "name": {
+      "examples": [
+        "Carandaí",
+        "FITZ SIMON",
+        "Jochenstein",
+        "Warragamba",
+        "Kalsdorf"
+      ]
+    },
+    "capacity_mw": {
+      "examples": [
+        "80.4",
+        "293.0",
+        "45.0",
+        "6.3",
+        "14.16"
+      ]
+    },
+    "plant_lat": {
+      "examples": [
+        "-24.0479",
+        "-34.9907",
+        "-12.5303",
+        "-22.658",
+        "-3.1264"
+      ]
+    },
+    "plant_lon": {
+      "examples": [
+        "-49.4578",
+        "-68.6383",
+        "-57.8808",
+        "-51.3598",
+        "-51.775"
+      ]
+    },
+    "plant_type": {
+      "examples": [
+        "ROR",
+        "PS",
+        "STO",
+        "Canal"
+      ]
+    },
+    "plant_type_source": {
+      "examples": [
+        "https://en.wikipedia.org/wiki/Murray_Two_Dam",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/neuoet",
+        "https://www.power-technology.com/marketdata/power-plant-profile-cabra-corral-arg",
+        "https://www.gamesaelectric.com/refurbishment-of-heid-de-goreux-hydropower-plant-",
+        "https://www.epbih.ba/eng/page/hydro-power-plant-salakovac"
+      ]
+    },
+    "year": {
+      "examples": [
+        "1973.0",
+        "1972.0",
+        "2001.0",
+        "1952.0",
+        "1948.0"
+      ]
+    },
+    "plant_source": {
+      "examples": [
+        "JRC",
+        "https://www.drukgreen.bt/en/mangdechhu-hydropower-plant/",
+        "RePP",
+        "WRI",
+        "https://www.power-technology.com/data-insights/power-plant-profile-sevan-hrazdan"
+      ]
+    },
+    "plant_source_id": {
+      "examples": [
+        "ARG0000272",
+        "ARG0000210",
+        "WRI1005216",
+        "H80",
+        "ARG0000086"
+      ]
+    },
+    "dam_name": {
+      "examples": [
+        "Casa de Piedra",
+        "Shkopet",
+        "Großraming",
+        "Capão Preto",
+        "Cachoeira Dourada"
+      ]
+    },
+    "dam_height_m": {
+      "examples": [
+        "52.0",
+        "28.5",
+        "153.0",
+        "24.0",
+        "6.0"
+      ]
+    },
+    "dam_height_source": {
+      "examples": [
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/kalsdo",
+        "https://en.wikipedia.org/wiki/Tribute_Power_Station",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/nussdo",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/st-mar",
+        "GranD"
+      ]
+    },
+    "res_name": {
+      "examples": [
+        "Lake Burbury",
+        "Mulwala",
+        "Gove",
+        "Mackintosh Lake",
+        "Echo"
+      ]
+    },
+    "res_dam_source": {
+      "examples": [
+        "GranD",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/villac",
+        "https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke/soelk",
+        "Google Earth Explorer",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/leoben"
+      ]
+    },
+    "res_dam_source_id": {
+      "examples": [
+        "634.0",
+        "697.0",
+        "6625.0",
+        "630.0",
+        "2445.0"
+      ]
+    },
+    "man_dam_lat": {
+      "examples": [
+        "-26.8333",
+        "41.81460833",
+        "39.9116",
+        "-16.1925",
+        "-18.9403"
+      ]
+    },
+    "man_dam_lon": {
+      "examples": [
+        "-68.5285",
+        "10.03944908",
+        "15.31032514",
+        "14.68913254",
+        "15.336014"
+      ]
+    },
+    "river": {
+      "examples": [
+        "Rio das Femeas",
+        "Wilmot River",
+        "Cavernoso River",
+        "Rio Lajeado Grande",
+        "Cheliff"
+      ]
+    },
+    "head_m": {
+      "examples": [
+        "595.0",
+        "21.0",
+        "325.0",
+        "16.7",
+        "122.62"
+      ]
+    },
+    "head_source": {
+      "examples": [
+        "https://www.power-technology.com/data-insights/power-plant-profile-ampsin-neuvil",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/bischo",
+        "https://www.power-technology.com/data-insights/power-plant-profile-castro-alves-",
+        "https://cdm.unfccc.int/UserManagement/FileStorage/G2WQHTM96SNDAPVJ8EURBI453LXY70",
+        "https://voith.com/corp-en/about-us/markets-locations/africa/voith-hydro-in-afric"
+      ]
+    },
+    "res_avg_depth_m": {
+      "examples": [
+        "19.0",
+        "5.300000191",
+        "25.0",
+        "77.7",
+        "7.6"
+      ]
+    },
+    "res_area_km2": {
+      "examples": [
+        "238.12",
+        "14.16",
+        "0.25",
+        "39.56",
+        "2.91"
+      ]
+    },
+    "res_vol_km3": {
+      "examples": [
+        "0.074",
+        "0.2",
+        "0.0528",
+        "0.0665",
+        "0.01905"
+      ]
+    },
+    "res_attr_source": {
+      "examples": [
+        "https://zenodo.org/records/7778767",
+        "GDAT",
+        "https://www.cachoeiraenergia.com.br/en/edp-cachoeira-caldeirao-power-plant",
+        "https://www.mek.am/en/pages/index/hpp-yerevan1/",
+        "https://en.wikipedia.org/wiki/Belo_Monte_Dam"
+      ]
+    },
+    "res_attr_id": {
+      "examples": [
+        "3981.0",
+        "24896.0",
+        "3294.0",
+        "6895.0",
+        "6837.0"
+      ]
+    },
+    "hydrolakes_id": {
+      "examples": [
+        "181680.0",
+        "122023.0",
+        "14393.0",
+        "169447.0",
+        "120431.0"
+      ]
+    },
+    "final_comments": {
+      "examples": [
+        "Water is transferred from multiple sources",
+        "https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants/kreuze",
+        "Location of plant was incorrect in WRI",
+        "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers16-06/010033275",
+        "location is incorrect in WRI database"
+      ]
+    }
+  },
+  "GND": {
+    "Id": {
+      "examples": [
+        "363",
+        "74",
+        "376",
+        "157",
+        "106"
+      ]
+    },
+    "Name": {
+      "examples": [
+        "Kalinin-4",
+        "Bradwell-1",
+        "Kashiwazaki Kariwa-6",
+        "Comanche Peak-2",
+        "Calder Hall-2"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "40.182",
+        "50.409",
+        "39.216",
+        "35.701",
+        "49.984"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "7.485",
+        "9.077",
+        "141.39",
+        "77.708",
+        "22.162"
+      ]
+    },
+    "Country": {
+      "examples": [
+        "Indonesia",
+        "Mexico",
+        "Kazakhstan",
+        "Bulgaria",
+        "Japan"
+      ]
+    },
+    "CountryCode": {
+      "examples": [
+        "ID",
+        "MX",
+        "KZ",
+        "BG",
+        "JP"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "Decommissioning Completed",
+        "Operational",
+        "Suspended Construction",
+        "Shutdown",
+        "Suspended Operation"
+      ]
+    },
+    "ReactorType": {
+      "examples": [
+        "GCR",
+        "PHWR",
+        "OCR",
+        "ABWR",
+        "FBR"
+      ]
+    },
+    "ReactorModel": {
+      "examples": [
+        "AMB-200",
+        "BWR-4 (Mark 2)",
+        "CANDU 750B",
+        "BWR-5",
+        "BWR-6 (Mark 3)"
+      ]
+    },
+    "ConstructionStartAt": {
+      "examples": [
+        "1968-09-30",
+        "1957-01-01",
+        "1985-04-01",
+        "2015-12-22",
+        "1967-05-01"
+      ]
+    },
+    "OperationalFrom": {
+      "examples": [
+        "1959-04-22",
+        "1976-08-28",
+        "1981-11-01",
+        "1960-04-04",
+        "1987-04-01"
+      ]
+    },
+    "OperationalTo": {
+      "examples": [
+        "2002-03-31",
+        "1968-02-01",
+        "1972-11-29",
+        "1974-10-31",
+        "1999-11-30"
+      ]
+    },
+    "Capacity": {
+      "examples": [
+        "237.0",
+        "590.0",
+        "1030.0",
+        "411.0",
+        "692.0"
+      ]
+    },
+    "LastUpdatedAt": {
+      "examples": [
+        "2015-05-24T04:51:57+03:00",
+        "2017-02-10T23:59:19+02:00",
+        "2017-09-25T03:20:10+03:00",
+        "2015-05-24T04:51:28+03:00",
+        "2017-09-25T03:20:02+03:00"
+      ]
+    },
+    "Source": {
+      "examples": [
+        "Wikipedia",
+        "WNA/IAEA/Google Maps",
+        "IAEA",
+        "WNA/IAEA",
+        "WNA/IAEA/Wikipedia"
+      ]
+    },
+    "IAEAId": {
+      "examples": [
+        "680.0",
+        "503.0",
+        "359.0",
+        "351.0",
+        "43.0"
+      ]
+    }
+  },
+  "GNPT": {
+    "Date Last Researched": {
+      "examples": [
+        "2024-05-29",
+        "2024-05-23",
+        "2024-05-22",
+        "2024-05-06",
+        "2024-06-20"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Argentina",
+        "Armenia",
+        "Belarus",
+        "Finland",
+        "Egypt"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "Jiamusi nuclear power plant",
+        "Fangchenggang nuclear power plant",
+        "Chalk River nuclear power plant",
+        "Cangnan San'ao nuclear power plant",
+        "Loviisa nuclear power plant"
+      ]
+    },
+    "Unit Name": {
+      "examples": [
+        "B6",
+        "B-2",
+        "B-4",
+        "B-1",
+        "C2"
+      ]
+    },
+    "Project Name in Local Language / Script": {
+      "examples": [
+        "阳江核电站",
+        "Central Argentina de Elementos Modulares",
+        "台山核电站",
+        "海丰核电站",
+        "大亚湾核电站"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "长河核电厂",
+        "山东红石顶核电站",
+        "Unit IV (Phase 3)",
+        "Huizhou nuclear power plant",
+        "玲珑一号小核反应堆"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "211.0",
+        "10.0",
+        "1561.0",
+        "1089.0",
+        "951.0"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "pre-construction",
+        "cancelled",
+        "operating",
+        "cancelled - inferred 4 y",
+        "mothballed"
+      ]
+    },
+    "Reactor Type": {
+      "examples": [
+        "heavy water light water reactor",
+        "pressurized heavy water reactor",
+        "heavy water gas-cooled reactor",
+        "gas-cooled reactor",
+        "unknown"
+      ]
+    },
+    "Model": {
+      "examples": [
+        "PHWR KWU",
+        "unknown",
+        "CFR600",
+        "CNP-600",
+        "PRE KONVOI"
+      ]
+    },
+    "Start Year": {
+      "examples": [
+        "1974.0",
+        "1980.0",
+        "1972.0",
+        "1983.0",
+        "2026.0"
+      ]
+    },
+    "Retirement Year": {
+      "examples": [
+        "2037.0",
+        "2064.0",
+        "1989.0",
+        "2043.0",
+        "1985.0"
+      ]
+    },
+    "Planned Retirement": {
+      "examples": [
+        "Y",
+        "N"
+      ]
+    },
+    "Cancellation Year": {
+      "examples": [
+        "2018.0",
+        "2000.0",
+        "1978.0",
+        "2022.0",
+        "1991.0"
+      ]
+    },
+    "Construction Start Date": {
+      "examples": [
+        "1976-01-01",
+        "1967-12-01",
+        "1980-07-28",
+        "2009-03-07",
+        "1978-04-01"
+      ]
+    },
+    "First Criticality Date": {
+      "examples": [
+        "1962-09-16",
+        "1980-10-17",
+        "1986-10-24",
+        "2016-06-29",
+        "2019-05-28"
+      ]
+    },
+    "First Grid Connection": {
+      "examples": [
+        "1993-06-18",
+        "1987-06-11",
+        "1990-07-06",
+        "2016-07-15",
+        "2006-05-12"
+      ]
+    },
+    "Commercial Operation Date": {
+      "examples": [
+        "1992-01-01",
+        "1987-07-19",
+        "1980-01-03",
+        "2026",
+        "2003-07-24"
+      ]
+    },
+    "Retirement Date": {
+      "examples": [
+        "2043",
+        "2037",
+        "1989-02-25",
+        "2020-02-22",
+        "1977-06-01"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "China Datang Corp",
+        "CGN Ninghe Investment CO LTD",
+        "CEZ AS",
+        "Bulgarian Energy Holding CO",
+        "State Nuclear Power Technology CO LTD"
+      ]
+    },
+    "Owner Name in Local Language / Script": {
+      "examples": [
+        "广东核电合营有限公司",
+        "国电投核能有限公司",
+        "中国华电集团有限公司",
+        "台山核电产业投资有限公司",
+        "中国核工业集团有限公司"
+      ]
+    },
+    "Operator": {
+      "examples": [
+        "Hubei Nuclear Power CO LTD",
+        "Nucleoelectrica Argentina SA",
+        "CGN Hebei Nuclear Power CO LTD",
+        "China General Nuclear Power Group",
+        "CPI Guangxi Nuclear Power CO LTD"
+      ]
+    },
+    "Operator Name in Local Language / Script": {
+      "examples": [
+        "ČEZ AS",
+        "华能核电开发有限公司",
+        "清华大学核能技术设计研究院",
+        "中广核惠州核电有限公司",
+        "华能海南昌江核电有限公司"
+      ]
+    },
+    "Reference Net Capacity (MW)": {
+      "examples": [
+        "880.0",
+        "340.0",
+        "642.0",
+        "769.0",
+        "962.0"
+      ]
+    },
+    "Design Net Capacity (MW)": {
+      "examples": [
+        "17.0",
+        "319.0",
+        "732.0",
+        "508.0",
+        "1340.0"
+      ]
+    },
+    "Thermal Capacity (MWt)": {
+      "examples": [
+        "1179.0",
+        "3200.0",
+        "65.0",
+        "1882.0",
+        "2832.0"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "21.7516",
+        "21.7092",
+        "50.5334",
+        "46.3953",
+        "47.5103"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "114.984522",
+        "112.2607",
+        "4.2597",
+        "-81.6006",
+        "127.0034"
+      ]
+    },
+    "Location Accuracy": {
+      "examples": [
+        "approximate",
+        "exact"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Jianghe",
+        "Xin'an",
+        "Lieyu",
+        "Guangpo",
+        "Xudapu"
+      ]
+    },
+    "Local Area (taluk, county)": {
+      "examples": [
+        "Xiangtan",
+        "Dongzhi",
+        "Haut-Rhin",
+        "Taoyuan",
+        "Tarn-et-Garonne"
+      ]
+    },
+    "Major Area (prefecture, district)": {
+      "examples": [
+        "Shanwei",
+        "Partido de Zárate",
+        "Jiangmen",
+        "Região Geográfica Intermediária do Rio de Janeiro",
+        "Laibin"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "Quebec",
+        "Centre-Val de Loire",
+        "Occitania",
+        "Grand Est",
+        "Guangxi"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Northern Africa",
+        "Western Asia",
+        "Northern America",
+        "Latin America and the Caribbean",
+        "Northern Europe"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Asia",
+        "Africa",
+        "Americas",
+        "Europe"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000500346",
+        "L100000500313",
+        "L100000500386",
+        "L100000500352",
+        "L100000500194"
+      ]
+    },
+    "GEM unit ID": {
+      "examples": [
+        "G100000501140",
+        "G100000500416",
+        "G100000500956",
+        "G100000500861",
+        "G100000500802"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/Jiamusi_nuclear_power_plant",
+        "https://www.gem.wiki/Fangchenggang_nuclear_power_plant",
+        "https://www.gem.wiki/Chalk_River_nuclear_power_plant",
+        "https://www.gem.wiki/Cangnan_San'ao_nuclear_power_plant",
+        "https://www.gem.wiki/Loviisa_nuclear_power_plant"
+      ]
+    }
+  },
+  "GPD": {
+    "country": {
+      "examples": [
+        "ALB",
+        "ARG",
+        "AFG",
+        "AUS",
+        "DZA"
+      ]
+    },
+    "country_long": {
+      "examples": [
+        "Albania",
+        "Argentina",
+        "Afghanistan",
+        "Australia",
+        "Algeria"
+      ]
+    },
+    "name": {
+      "examples": [
+        "Beryl AU",
+        "Tindouf",
+        "Brisbane BNE",
+        "CT CATAMARCA",
+        "BARILOCHE (PUERTO  MORENO)"
+      ]
+    },
+    "gppd_idnr": {
+      "examples": [
+        "WKS0069215",
+        "WKS0068925",
+        "WKS0070137",
+        "ARG0000054",
+        "ARG0000266"
+      ]
+    },
+    "capacity_mw": {
+      "examples": [
+        "370.0",
+        "340.0",
+        "292.0",
+        "519.0",
+        "500.0"
+      ]
+    },
+    "latitude": {
+      "examples": [
+        "26.768",
+        "35.3396",
+        "32.602",
+        "-32.5807",
+        "-9.7955"
+      ]
+    },
+    "longitude": {
+      "examples": [
+        "-0.6319",
+        "15.4672",
+        "7.3619",
+        "150.9982",
+        "150.8537"
+      ]
+    },
+    "primary_fuel": {
+      "examples": [
+        "Waste",
+        "Solar",
+        "Wind",
+        "Hydro",
+        "Coal"
+      ]
+    },
+    "other_fuel1": {
+      "examples": [
+        "Oil",
+        "Solar",
+        "Coal",
+        "Gas",
+        "Hydro"
+      ]
+    },
+    "other_fuel2": {
+      "examples": [
+        "Oil",
+        "Other"
+      ]
+    },
+    "commissioning_year": {
+      "examples": [
+        "2002.0",
+        "1965.0",
+        "1993.5",
+        "1996.0",
+        "2011.0"
+      ]
+    },
+    "owner": {
+      "examples": [
+        "Edify Energy Blackrock",
+        "ENERGIA DEL SUR SA",
+        "YPF ENERGIA ELECTRICA S.A.",
+        "International Power - GDF Suez Australia",
+        "APA Group and AGL Energy Ltd"
+      ]
+    },
+    "source": {
+      "examples": [
+        "Antarctica Australia",
+        "GEODB",
+        "Armenia Ministry of Energy and Natural Resources",
+        "Australian Renewable Energy Mapping Infrastructure",
+        "Energy Charter Secretariat"
+      ]
+    },
+    "url": {
+      "examples": [
+        "http://www.minenergy.am/en/page/532",
+        "http://www.minenergy.am/en/page/534",
+        "http://globalenergyobservatory.org",
+        "http://www.minenergy.am/en/page/533",
+        "http://www.antarctica.gov.au/__data/assets/pdf_file/0007/21949/ml_38547499791666"
+      ]
+    },
+    "geolocation_source": {
+      "examples": [
+        "GEODB",
+        "Wiki-Solar",
+        "Ministerio de Energía y Minería",
+        "KTH",
+        "WRI"
+      ]
+    },
+    "wepp_id": {
+      "examples": [
+        "1009890.0",
+        "1048633.0",
+        "1009867.0",
+        "1071001.0",
+        "1048816.0"
+      ]
+    },
+    "year_of_capacity_data": {
+      "examples": [
+        "2015.0",
+        "2017.0"
+      ]
+    },
+    "generation_gwh_2013": {
+      "examples": [
+        "354.07916666666665",
+        "89.59527777777778",
+        "182.1888888888889",
+        "49.04416666666667",
+        "20.22888888888889"
+      ]
+    },
+    "generation_gwh_2014": {
+      "examples": [
+        "83.12416666666667",
+        "102.64277777777778",
+        "41.01583333333333",
+        "1.8797222222222223",
+        "18.21361111111111"
+      ]
+    },
+    "generation_gwh_2015": {
+      "examples": [
+        "90.71888888888888",
+        "96.55555555555556",
+        "7.618888888888889",
+        "16.99861111111111",
+        "2.9072222222222224"
+      ]
+    },
+    "generation_gwh_2016": {
+      "examples": [
+        "93.78305555555556",
+        "95.87277777777778",
+        "6.788333333333333",
+        "92.10472222222222",
+        "3.228611111111112"
+      ]
+    },
+    "generation_gwh_2017": {
+      "examples": [
+        "9.491944444444444",
+        "85.90027777777777",
+        "12.046111111111111",
+        "138.54722222222222",
+        "2.898333333333333"
+      ]
+    },
+    "generation_gwh_2018": {
+      "examples": [
+        "1019.7230555555556",
+        "92.68222222222222",
+        "80.28138888888888",
+        "138.95555555555555",
+        "2.876388888888889"
+      ]
+    },
+    "generation_data_source": {
+      "examples": [
+        "Australia Clean Energy Regulator"
+      ]
+    },
+    "estimated_generation_gwh_2013": {
+      "examples": [
+        "43.06",
+        "1965.53",
+        "4.26",
+        "57.43",
+        "328.41"
+      ]
+    },
+    "estimated_generation_gwh_2014": {
+      "examples": [
+        "854.95",
+        "218.42",
+        "24.98",
+        "200.87",
+        "113.26"
+      ]
+    },
+    "estimated_generation_gwh_2015": {
+      "examples": [
+        "838.63",
+        "218.37",
+        "24.82",
+        "228.48",
+        "153.59"
+      ]
+    },
+    "estimated_generation_gwh_2016": {
+      "examples": [
+        "846.61",
+        "219.59",
+        "24.65",
+        "222.0",
+        "132.33"
+      ]
+    },
+    "estimated_generation_gwh_2017": {
+      "examples": [
+        "633.17",
+        "165.16",
+        "2453.24",
+        "95.16",
+        "186.48"
+      ]
+    },
+    "estimated_generation_note_2013": {
+      "examples": [
+        "HYDRO-V1",
+        "SOLAR-V1-NO-AGE",
+        "NO-ESTIMATION"
+      ]
+    },
+    "estimated_generation_note_2014": {
+      "examples": [
+        "HYDRO-V1",
+        "SOLAR-V1-NO-AGE",
+        "NO-ESTIMATION"
+      ]
+    },
+    "estimated_generation_note_2015": {
+      "examples": [
+        "HYDRO-V1",
+        "SOLAR-V1-NO-AGE",
+        "NO-ESTIMATION"
+      ]
+    },
+    "estimated_generation_note_2016": {
+      "examples": [
+        "HYDRO-V1",
+        "SOLAR-V1-NO-AGE",
+        "NO-ESTIMATION"
+      ]
+    },
+    "estimated_generation_note_2017": {
+      "examples": [
+        "SOLAR-V1-NO-AGE",
+        "CAPACITY-FACTOR-V1",
+        "HYDRO-V1",
+        "NO-ESTIMATION"
+      ]
+    }
+  },
+  "GSPT": {
+    "Date Last Researched": {
+      "examples": [
+        "2024/11/01",
+        "2024/02/22",
+        "2025/08/26",
+        "2025/05/20",
+        "2025/03/12"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Argentina",
+        "Albania",
+        "Angola",
+        "Afghanistan",
+        "Antigua and Barbuda"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "San-1 solar project",
+        "Akerni solar farm",
+        "Setif solar farm",
+        "Kabul Solar Park",
+        "Artma solar project"
+      ]
+    },
+    "Phase Name": {
+      "examples": [
+        "Solargen 2",
+        "Solar Thermal",
+        "El Carmen",
+        "Altiplano",
+        "Tolga Solar PV Plant"
+      ]
+    },
+    "Project Name in Local Language / Script": {
+      "examples": [
+        "Parque Solar Posadas 1",
+        "محطة الخنق للطاقة الشمسية ٢, محطة الخنق للطاقة الشمسية ١",
+        "Planta Solar Guañizuil",
+        "Parque Solar Las Lomas",
+        "Parque Solar Catamarca II"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "Sun Africa Luena, Moxico",
+        "Algerie Sud-Ouest solar farm",
+        "Kandahar JOL",
+        "Aga Solar",
+        "El Khnag 1 solar plant (Phase 1), PV Laghouat-II (Phase 2), PV Laghouat-I (Phase"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "70.0",
+        "105.0",
+        "59.0",
+        "1.8",
+        "25.3"
+      ]
+    },
+    "Capacity Rating": {
+      "examples": [
+        "unknown",
+        "MWac",
+        "MWp/dc"
+      ]
+    },
+    "Technology Type": {
+      "examples": [
+        "PV",
+        "Assumed PV",
+        "Solar Thermal"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "construction",
+        "announced",
+        "cancelled - inferred 4 y",
+        "cancelled",
+        "shelved - inferred 2 y"
+      ]
+    },
+    "Start year": {
+      "examples": [
+        "2019.0",
+        "2030.0",
+        "2029.0",
+        "2017.0",
+        "2025.0"
+      ]
+    },
+    "Operator": {
+      "examples": [
+        "Genneia",
+        "Hanz Energy",
+        "Shariket Kahraba wa Taket Moutadjadida SPA (SKTM)",
+        "Sinohydro",
+        "360 Energy"
+      ]
+    },
+    "Operator Name in Local Language / Script": {
+      "examples": [
+        "晶科能源股份有限公司",
+        "Société Nationale pour la Recherche, la Production, le Transport, la Transformat",
+        "中国水利水电建设股份有限公司",
+        "شركة الكهرباء و الطاقات المتجددة",
+        "مصدر"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "Cooperativa Provincial de Servicios Públicos y Comunitarios Limitada de Neuquén ",
+        "Da Afghanistan Breshna Sherkat [100%]",
+        "Industrias Juan F. Secco SA; Cementos Avellaneda SA [100%]",
+        "Premium Energy [100%]",
+        "Agro Iliria Group"
+      ]
+    },
+    "Owner Name in Local Language / Script": {
+      "examples": [
+        "شركة الكهرباء و الطاقات المتجددة",
+        "カナディアン・ソーラー・プロジェクト株式会社",
+        "Greencells Energy Ελλας Μονοπροσωπη Ιδιωτικη Κεφαλαιουχικη Εταιρια",
+        "مصدر",
+        "سونلغاز"
+      ]
+    },
+    "Associated Storage": {
+      "examples": [
+        "True"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "-14.5518",
+        "34.3777",
+        "-8.4182",
+        "-12.4667",
+        "35.8945"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "-64.2444",
+        "-2.2878",
+        "66.7473",
+        "6.1652",
+        "0.804"
+      ]
+    },
+    "Location accuracy": {
+      "examples": [
+        "approximate",
+        "exact"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Makman Ben Ammar",
+        "Barika",
+        "Tindouf",
+        "Santa Catalina",
+        "Jalalabad"
+      ]
+    },
+    "Local area (taluk, county)": {
+      "examples": [
+        "Villa Ángela",
+        "Reggane District",
+        "Calingasta",
+        "Aïn El Ibel District",
+        "Talita"
+      ]
+    },
+    "Major area (prefecture, district)": {
+      "examples": [
+        "Susques Department",
+        "Shahristan",
+        "Shiwa",
+        "Sayad",
+        "Enjil"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "Laghouat",
+        "Djelfa",
+        "Kapisa",
+        "Uruzgan Province",
+        "Formosa"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Southern Asia",
+        "Southern Europe",
+        "Latin America and the Caribbean",
+        "Northern Africa",
+        "Sub-Saharan Africa"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Europe",
+        "Americas",
+        "Africa",
+        "Asia",
+        "Oceania"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100001068885",
+        "L100000806496",
+        "L100000800289",
+        "L100000808580",
+        "L100001068880"
+      ]
+    },
+    "GEM phase ID": {
+      "examples": [
+        "G100000809552",
+        "G100000810862",
+        "G100000809556",
+        "G100000831110",
+        "G100000807456"
+      ]
+    },
+    "Other IDs (location)": {
+      "examples": [
+        "World Resources Institute: WKS0068905,World Resources Institute: WKS0068912",
+        "World Resources Institute: WKS0068701",
+        "World Resources Institute: WKS0071212",
+        "World Resources Institute: WKS0065285",
+        "World Resources Institute: WKS0068918"
+      ]
+    },
+    "Other IDs (unit/phase)": {
+      "examples": [
+        "PSRC: 733",
+        "WKSL: 68918",
+        "WKSL: 76552",
+        "TZ: 857812,TZ: 1290879,TZ: 220164,OpenStreetMap: 995328272,TZ: 1225618",
+        "PSRC: 681"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/San-1_solar_project",
+        "https://www.gem.wiki/Akerni_solar_farm",
+        "https://www.gem.wiki/Setif_solar_farm",
+        "https://www.gem.wiki/Kabul_Solar_Park",
+        "https://www.gem.wiki/Artma_solar_project"
+      ]
+    }
+  },
+  "GWPT": {
+    "Date Last Researched": {
+      "examples": [
+        "2025/04/16",
+        "2024/09/02",
+        "2022/06/22",
+        "2025/06/10",
+        "2025/03/12"
+      ]
+    },
+    "Country/Area": {
+      "examples": [
+        "Aruba",
+        "Åland Islands",
+        "Angola",
+        "Afghanistan",
+        "Armenia"
+      ]
+    },
+    "Project Name": {
+      "examples": [
+        "High Road wind farm",
+        "Allendale wind farm",
+        "Los Arroyos wind farm",
+        "Drysdale wind farm",
+        "Bullawah wind farm"
+      ]
+    },
+    "Phase Name": {
+      "examples": [
+        "6",
+        "1.1",
+        "4",
+        "0",
+        "Karara"
+      ]
+    },
+    "Project Name in Local Language / Script": {
+      "examples": [
+        "Parque Eólico Vientos de Necochea",
+        "Parque Eólico Manque",
+        "Parque Eólico Rionegrina",
+        "Parque Eólico Los Olivos",
+        "Parque Eólico Los Meandros"
+      ]
+    },
+    "Other Name(s)": {
+      "examples": [
+        "Bendemeer wind farm",
+        "Vivoratá wind farm",
+        "Queensland Wind",
+        "Kaban",
+        "Noatun Norra, Stormskär and Väderskär"
+      ]
+    },
+    "Capacity (MW)": {
+      "examples": [
+        "1332.0",
+        "171.0",
+        "228.0",
+        "209.0",
+        "200.0"
+      ]
+    },
+    "Installation Type": {
+      "examples": [
+        "Offshore mount unknown",
+        "Offshore floating",
+        "Unknown",
+        "Onshore",
+        "Offshore hard mount"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "shelved",
+        "announced",
+        "cancelled",
+        "construction",
+        "mothballed"
+      ]
+    },
+    "Start year": {
+      "examples": [
+        "2017.0",
+        "2026.0",
+        "2024.0",
+        "2015.0",
+        "2028.0"
+      ]
+    },
+    "Operator": {
+      "examples": [
+        "Sonelgaz",
+        "Goldwind Australia",
+        "China Shipbuilding Industry",
+        "HERA",
+        "INVAP"
+      ]
+    },
+    "Operator Name in Local Language / Script": {
+      "examples": [
+        "سونلغاز",
+        "中国船舶重工集团有限公司",
+        "株式会社ユーラスエナジーホールディングス",
+        "Siemens Gamesa Renewable Energy A.E.",
+        "台灣韋能能源股份有限公司"
+      ]
+    },
+    "Owner": {
+      "examples": [
+        "EU Green Energy [100%]",
+        "Northleaf Capital Partners [100%]",
+        "AR Energy Services [100%]",
+        "Zenith Energy Ltd [100%]",
+        "HMC Capital"
+      ]
+    },
+    "Owner Name in Local Language / Script": {
+      "examples": [
+        "科理歐永續能源",
+        "شركة الكهرباء و الطاقات المتجددة",
+        "台灣韋能能源股份有限公司",
+        "株式会社ユーラスエナジーホールディングス",
+        "씨에스에너지 (주)"
+      ]
+    },
+    "Hydrogen": {
+      "examples": [
+        "True"
+      ]
+    },
+    "Associated Storage": {
+      "examples": [
+        "True"
+      ]
+    },
+    "Latitude": {
+      "examples": [
+        "-20.8608",
+        "-33.5402",
+        "-8.9409",
+        "-35.2411",
+        "-42.9167"
+      ]
+    },
+    "Longitude": {
+      "examples": [
+        "-60.3817",
+        "115.3399",
+        "145.463",
+        "-68.4751",
+        "-62.259"
+      ]
+    },
+    "Location accuracy": {
+      "examples": [
+        "exact",
+        "approximate"
+      ]
+    },
+    "City": {
+      "examples": [
+        "Beetaloo Valley",
+        "Gundagai",
+        "Ben Lomond",
+        "Hay",
+        "Ravenshoe"
+      ]
+    },
+    "Local area (taluk, county)": {
+      "examples": [
+        "General Pueyrredón",
+        "Bass Strait",
+        "Åland Islands",
+        "Kojonup",
+        "Partido de Tornquist"
+      ]
+    },
+    "Major area (prefecture, district)": {
+      "examples": [
+        "Hunter",
+        "San Nicolas North",
+        "Riverina",
+        "Newcastle",
+        "Great Southern Region"
+      ]
+    },
+    "State/Province": {
+      "examples": [
+        "San Luis",
+        "Namibe",
+        "American Samoa",
+        "Gegharkunik Province",
+        "Northern Territory"
+      ]
+    },
+    "Subregion": {
+      "examples": [
+        "Western Asia",
+        "Northern Europe",
+        "Sub-Saharan Africa",
+        "Southern Asia",
+        "Australia and New Zealand"
+      ]
+    },
+    "Region": {
+      "examples": [
+        "Europe",
+        "Americas",
+        "Africa",
+        "Asia",
+        "Oceania"
+      ]
+    },
+    "GEM location ID": {
+      "examples": [
+        "L100000906158",
+        "L100000905976",
+        "L100001050130",
+        "L100000906203",
+        "L100000922303"
+      ]
+    },
+    "GEM phase ID": {
+      "examples": [
+        "G100000927829",
+        "G100000907347",
+        "G100001023271",
+        "G100000907014",
+        "G100001057866"
+      ]
+    },
+    "Other IDs (location)": {
+      "examples": [
+        "World Resources Institute: AUS0000422",
+        "World Resources Institute: AUS0000003",
+        "The Wind Power: 40060",
+        "World Resources Institute: AUS0000417",
+        "World Resources Institute: AUS0000047"
+      ]
+    },
+    "Other IDs (unit/phase)": {
+      "examples": [
+        "AEMO KCI: V00031",
+        "AEMO KCI: Q00008",
+        "AEMO KCI: V00100",
+        "AEMO KCI: Q00106"
+      ]
+    },
+    "Wiki URL": {
+      "examples": [
+        "https://www.gem.wiki/High_Road_wind_farm",
+        "https://www.gem.wiki/Allendale_wind_farm",
+        "https://www.gem.wiki/Los_Arroyos_wind_farm",
+        "https://www.gem.wiki/Drysdale_wind_farm",
+        "https://www.gem.wiki/Bullawah_wind_farm"
+      ]
+    }
+  },
+  "IRENASTAT": {
+    "Country/area": {
+      "examples": [
+        "Afghanistan"
+      ]
+    },
+    "Technology": {
+      "examples": [
+        "Solid biofuels",
+        "Solar photovoltaic",
+        "Renewable hydropower",
+        "Total renewable",
+        "Marine energy"
+      ]
+    },
+    "Data Type": {
+      "examples": [
+        "Electricity Installed Capacity (MW)"
+      ]
+    },
+    "Grid connection": {
+      "examples": [
+        "Off-grid",
+        "On-grid"
+      ]
+    },
+    "Year": {
+      "examples": [
+        "2008",
+        "2016",
+        "2000",
+        "2023",
+        "2011"
+      ]
+    },
+    "Electricity statistics": {
+      "examples": [
+        "191.5",
+        "313.0",
+        "16.12",
+        "1.1",
+        "0.3"
+      ]
+    }
+  },
+  "JRC": {
+    "id": {
+      "examples": [
+        "H1396",
+        "H1073",
+        "H1409",
+        "H1168",
+        "H1108"
+      ]
+    },
+    "name": {
+      "examples": [
+        "Sagittario nuovo",
+        "Vrhovo HE Vrhovo 1 - Vrhovo Hydroelectric Power Plant Slovenia",
+        "LAS PICADAS 1",
+        "Bannwil",
+        "Kraftwerk Zirknitz"
+      ]
+    },
+    "installed_capacity_MW": {
+      "examples": [
+        "15.5",
+        "18.0",
+        "36.8",
+        "37.184050839198",
+        "28.5"
+      ]
+    },
+    "pumping_MW": {
+      "examples": [
+        "1184.0",
+        "300.0",
+        "1029.0",
+        "55.0",
+        "360.0"
+      ]
+    },
+    "type": {
+      "examples": [
+        "HDAM",
+        "HPHS",
+        "HROR"
+      ]
+    },
+    "country_code": {
+      "examples": [
+        "SE",
+        "PT",
+        "CH",
+        "IE",
+        "EL"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "41.8947384616695",
+        "42.360941",
+        "60.0833333",
+        "47.4166667",
+        "57.077999"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "12.4839019775391",
+        "14.138007",
+        "13.9833333",
+        "15.2833333",
+        "-4.781"
+      ]
+    },
+    "dam_height_m": {
+      "examples": [
+        "26.7",
+        "90.0",
+        "45.0",
+        "50.0",
+        "1748.0"
+      ]
+    },
+    "volume_Mm3": {
+      "examples": [
+        "142.4",
+        "1.68",
+        "333.0",
+        "140.0",
+        "500.0"
+      ]
+    },
+    "storage_capacity_MWh": {
+      "examples": [
+        "15075.0",
+        "34200.0",
+        "50000.0",
+        "1320.0",
+        "2027.0"
+      ]
+    },
+    "avg_annual_generation_GWh": {
+      "examples": [
+        "1967.0",
+        "190.0",
+        "76.3",
+        "495.0",
+        "29.0"
+      ]
+    },
+    "pypsa_id": {
+      "examples": [
+        "3348.0",
+        "1659.0",
+        "3720.0",
+        "3813.0",
+        "2189.0"
+      ]
+    },
+    "GEO": {
+      "examples": [
+        "43943.0",
+        "44808.0",
+        "45671.0",
+        "45575.0",
+        "3219.0"
+      ]
+    },
+    "WRI": {
+      "examples": [
+        "WRI1004074",
+        "WRI1002882",
+        "WRI1002929",
+        "WRI1020277",
+        "WRI1005937"
+      ]
+    }
+  },
+  "MASTR": {
+    "EinheitMastrNummer": {
+      "examples": [
+        "SEE999915026826",
+        "SEE938311948233",
+        "SEE925482036777",
+        "SEE933898969824",
+        "SEE990236457498"
+      ]
+    },
+    "EinheitBetriebsstatus": {
+      "examples": [
+        "Endgültig stillgelegt",
+        "In Planung",
+        "In Betrieb",
+        "Vorübergehend stillgelegt"
+      ]
+    },
+    "KwkMastrNummer": {
+      "examples": [
+        "KWK946082695164",
+        "KWK945200016720",
+        "KWK979572589025",
+        "KWK918039944021",
+        "KWK915588866965"
+      ]
+    },
+    "Hauptbrennstoff": {
+      "examples": [
+        "Wald-Holzhackschnitzel, Wald-Scheitholz, -Kronenholz",
+        "Holz-Pellets, Holz-Briketts",
+        "Biogas",
+        "Deponiegas",
+        "Biomethan (Bioerdgas)"
+      ]
+    },
+    "Biomasseart": {
+      "examples": [
+        "Gasförmige Biomasse",
+        "Feste Biomasse",
+        "Flüssige Biomasse"
+      ]
+    },
+    "Technologie": {
+      "examples": [
+        "Verbrennungsmotor",
+        "ORC (Organic Rankine Cycle)-Anlage",
+        "Gasturbinen ohne Abhitzekessel",
+        "Sonstige",
+        "Kondensationsmaschine mit Entnahme"
+      ]
+    },
+    "Land": {
+      "examples": [
+        "Deutschland"
+      ]
+    },
+    "Landkreis": {
+      "examples": [
+        "Mittelsachsen",
+        "Oldenburg",
+        "Ansbach",
+        "Hameln-Pyrmont",
+        "Konstanz"
+      ]
+    },
+    "Gemeinde": {
+      "examples": [
+        "Harburg (Schwaben)",
+        "Creußen",
+        "Niesky",
+        "Oberndorf",
+        "Ellerau"
+      ]
+    },
+    "Postleitzahl": {
+      "examples": [
+        "21787",
+        "95473",
+        "71522",
+        "70794",
+        "49406"
+      ]
+    },
+    "Ort": {
+      "examples": [
+        "Altkalen",
+        "Creußen",
+        "St. Wendel",
+        "Ganderkesee",
+        "Risum-Lindholm"
+      ]
+    },
+    "Laengengrad": {
+      "examples": [
+        "7.937777",
+        "11.154895",
+        "12.839939",
+        "10.360238",
+        "8.943023"
+      ]
+    },
+    "Breitengrad": {
+      "examples": [
+        "48.358337",
+        "48.555041",
+        "48.642519",
+        "51.693211",
+        "51.264552"
+      ]
+    },
+    "GeplantesInbetriebnahmedatum": {
+      "examples": [
+        "2019-04-30",
+        "2023-04-01"
+      ]
+    },
+    "Inbetriebnahmedatum": {
+      "examples": [
+        "2013-10-01",
+        "2008-06-27",
+        "2009-12-19",
+        "2013-03-26",
+        "2010-09-08"
+      ]
+    },
+    "DatumEndgueltigeStilllegung": {
+      "examples": [
+        "2022-04-25",
+        "2024-06-13",
+        "2016-12-22",
+        "2020-10-01",
+        "2020-02-24"
+      ]
+    },
+    "DatumBeginnVoruebergehendeStilllegung": {
+      "examples": [
+        "2024-08-31",
+        "2020-08-21",
+        "2022-12-31",
+        "2020-02-04",
+        "2025-01-01"
+      ]
+    },
+    "DatumWiederaufnahmeBetrieb": {
+      "examples": [
+        "2024-09-01"
+      ]
+    },
+    "NameStromerzeugungseinheit": {
+      "examples": [
+        "BHKW100/2010",
+        "BHKW Donautal 1",
+        "BGA Niesky BHKW 1",
+        "BHKW3 Anlage",
+        "Scherzinger Biogas GbR BHKW Hagl"
+      ]
+    },
+    "Energietraeger": {
+      "examples": [
+        "Biomasse"
+      ]
+    },
+    "Nettonennleistung": {
+      "examples": [
+        "390.0",
+        "400.0",
+        "1501.0",
+        "240.0",
+        "625.0"
+      ]
+    },
+    "ThermischeNutzleistung": {
+      "examples": [
+        "586.0",
+        "1813.0",
+        "457.0",
+        "657.0",
+        "1512.0"
+      ]
+    },
+    "Filesuffix": {
+      "examples": [
+        "Bioenergy"
+      ]
+    }
+  },
+  "OPSD_DE": {
+    "id": {
+      "examples": [
+        "BNA0543",
+        "BNA0271",
+        "BNA0711",
+        "BNA1076b",
+        "BNA0450"
+      ]
+    },
+    "name_bnetza": {
+      "examples": [
+        "Trianel Kohlekraftwerk Lünen",
+        "HKW Jena",
+        "Vohburg",
+        "Heizkraftwerk",
+        "Faimingen"
+      ]
+    },
+    "block_bnetza": {
+      "examples": [
+        "2",
+        "Koepchenwerk",
+        "MÜN DT12",
+        "Kühtai Ma 2",
+        "LIP S"
+      ]
+    },
+    "name_uba": {
+      "examples": [
+        "Völklingen-Fenne MKV",
+        "Grevenbroich - Neurath  A",
+        "Herne 4",
+        "Hamburg-Tiefstack HKW",
+        "Saarbrücken-Römerbrücke"
+      ]
+    },
+    "company": {
+      "examples": [
+        "Mohn Media Mohndruck GmbH",
+        "BinderHolz Deutschland GmbH",
+        "RWE Power AG",
+        "Stadtwerke Cottbus mbH",
+        "Infraserv GmbH & Co. Höchst KG"
+      ]
+    },
+    "street": {
+      "examples": [
+        "Dreichlinger Str. 76",
+        "Kurt Kessler Str. 1",
+        "Albrechtstr. 54",
+        "Ederstraße",
+        "Werkstraße"
+      ]
+    },
+    "postcode": {
+      "examples": [
+        "66287",
+        "53121",
+        "13353",
+        "86679",
+        "79790"
+      ]
+    },
+    "city": {
+      "examples": [
+        "Mumsdorf",
+        "Berlin",
+        "Werne",
+        "Helmstedt",
+        "Lehmen"
+      ]
+    },
+    "state": {
+      "examples": [
+        "Niedersachsen",
+        "Berlin",
+        "Saarland",
+        "Bayern",
+        "Hessen"
+      ]
+    },
+    "country": {
+      "examples": [
+        "AT",
+        "LU",
+        "DE",
+        "CH"
+      ]
+    },
+    "capacity_net_bnetza": {
+      "examples": [
+        "19.8",
+        "18.6",
+        "90.0",
+        "136.0",
+        "103.0"
+      ]
+    },
+    "capacity_gross_uba": {
+      "examples": [
+        "162.1",
+        "340.0",
+        "100.0",
+        "160.0",
+        "838.0"
+      ]
+    },
+    "energy_source": {
+      "examples": [
+        "Hard coal",
+        "Natural gas",
+        "Hydro",
+        "Biomass and biogas",
+        "Lignite"
+      ]
+    },
+    "technology": {
+      "examples": [
+        "Gas turbine",
+        "Pumped storage",
+        "Steam turbine",
+        "Reservoir",
+        "Combustion Engine"
+      ]
+    },
+    "chp": {
+      "examples": [
+        "no",
+        "yes"
+      ]
+    },
+    "chp_capacity_uba": {
+      "examples": [
+        "600",
+        "121.63736343772757",
+        "590",
+        "185",
+        "105.0"
+      ]
+    },
+    "commissioned": {
+      "examples": [
+        "2014.0",
+        "1987.0",
+        "1974.0",
+        "1930.0",
+        "2003.0"
+      ]
+    },
+    "commissioned_original": {
+      "examples": [
+        "01.05.1991",
+        "01.10.2004",
+        "15.05.2003",
+        "18.01.1975",
+        "01.01.1998"
+      ]
+    },
+    "retrofit": {
+      "examples": [
+        "2006.0",
+        "1989.0",
+        "2003.0",
+        "2012.0",
+        "1994.0"
+      ]
+    },
+    "shutdown": {
+      "examples": [
+        "2017.0",
+        "2019.0",
+        "2018.0",
+        "2012.0",
+        "2015.0"
+      ]
+    },
+    "status": {
+      "examples": [
+        "operating",
+        "shutdown_temporary",
+        "reserve",
+        "shutdown",
+        "special_case"
+      ]
+    },
+    "type": {
+      "examples": [
+        "IPP",
+        "CHP"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "48.40099",
+        "46.81420479999999",
+        "47.586290000000005",
+        "53.320352",
+        "48.6693835"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "10.93576",
+        "12.761757",
+        "8.13207",
+        "14.271028",
+        "8.353047617"
+      ]
+    },
+    "eic_code_plant": {
+      "examples": [
+        "11WD7MITB1S--KWK",
+        "11WD2WI1K000303F",
+        "11WD7ENSD2SKW1-4",
+        "11WD4AL1KU1-S--E",
+        "11WD4IFFE5G----Z"
+      ]
+    },
+    "eic_code_block": {
+      "examples": [
+        "11WD7RHAU5GKW3B5",
+        "11WD8WED15C---1M",
+        "11WD7VIAN2H-1-4I",
+        "11WD7NEUR1B--B-X",
+        "11WD2W2M20000748"
+      ]
+    },
+    "efficiency_data": {
+      "examples": [
+        "0.33",
+        "0.387",
+        "0.4639999999999999",
+        "0.366",
+        "0.45"
+      ]
+    },
+    "efficiency_source": {
+      "examples": [
+        "http://www.energie-chronik.de/120212.htm",
+        "http://www.abendblatt.de/hamburg/article108154203/Naturschuetzer-sorgen-fuer-hoe",
+        "http://stefanschroeter.com/669-mibrag-expandiert-ins-helmstedter-revier.html#.Vk",
+        "http://www.marlaktuell.de/?p=123972",
+        "http://corporate.vattenfall.de/energie-im-fokus/energieproduktion/kohle/boxberg-"
+      ]
+    },
+    "efficiency_estimate": {
+      "examples": [
+        "0.3696",
+        "0.3375",
+        "0.3952",
+        "0.315",
+        "0.2464"
+      ]
+    },
+    "energy_source_level_1": {
+      "examples": [
+        "Fossil fuels",
+        "Renewable energy"
+      ]
+    },
+    "energy_source_level_2": {
+      "examples": [
+        "Hard coal",
+        "Natural gas",
+        "Hydro",
+        "Bioenergy",
+        "Lignite"
+      ]
+    },
+    "energy_source_level_3": {
+      "examples": [
+        "Biomass and biogas"
+      ]
+    },
+    "eeg": {
+      "examples": [
+        "no",
+        "yes"
+      ]
+    },
+    "network_node": {
+      "examples": [
+        "Niederstedem",
+        "Umspannwerk Bischofferode",
+        "SWU 1, SWU 2",
+        "Heilbronn",
+        "Umspannwerk Wyhlen"
+      ]
+    },
+    "voltage": {
+      "examples": [
+        "110, 16,7 Hz",
+        "50",
+        "Mittelspannung (MS)",
+        "380, 110",
+        "USp. Hoch- / Mittelspannung (HS/MS)"
+      ]
+    },
+    "network_operator": {
+      "examples": [
+        "Bayernwerk Netz GmbH",
+        "WSW Netz GmbH",
+        "Rheinische NETZGesellschaft mbH",
+        "Transnet BW, Pfalzwerke Netzgesellschaft, Netrion, DB Energie GmbH",
+        "Westnetz GmbH/DB Energie GmbH"
+      ]
+    },
+    "merge_comment": {
+      "examples": [
+        "List matching type: Single UBA power plant assigned to single BNetzA power plant",
+        "List matching type: UBA capacity distributed proportionally to multiple BNetzA p",
+        "List matching type: Multiple UBA capacities aggregated to single BNetzA power pl"
+      ]
+    }
+  },
+  "OPSD_EU": {
+    "name": {
+      "examples": [
+        "Łaziska 3 B12",
+        "EDF Luminus Seraing GT2",
+        "Pątnów 1 B4",
+        "ROC2",
+        "Centrale Gelderland (CG13)"
+      ]
+    },
+    "company": {
+      "examples": [
+        "Veolia Energia Poznań ZEC S.A.",
+        "EON BENELUX",
+        "PGE Energia Odnawialna S.A.",
+        "CORUS STAAL B.V.",
+        "GDF SUEZ ENERGIE NEDERLAND NV"
+      ]
+    },
+    "street": {
+      "examples": [
+        "Petroleumweg 44",
+        "Beukenlaan 2A",
+        "Herbert H. Dowweg 5D",
+        "Roermondseweg 55",
+        "Huibertgatweg 1"
+      ]
+    },
+    "postcode": {
+      "examples": [
+        "4782PM",
+        "5651CD",
+        "4542NM",
+        "8221RC",
+        "9979XZ"
+      ]
+    },
+    "city": {
+      "examples": [
+        "Maasbracht",
+        "Utrecht",
+        "Borssele",
+        "Lelystad",
+        "Haelen"
+      ]
+    },
+    "country": {
+      "examples": [
+        "NL",
+        "CZ",
+        "FR",
+        "BE",
+        "PL"
+      ]
+    },
+    "capacity": {
+      "examples": [
+        "500.0",
+        "435.0",
+        "474.0",
+        "31.0",
+        "2.5"
+      ]
+    },
+    "energy_source": {
+      "examples": [
+        "Other or unspecified energy sources",
+        "Oil",
+        "Non-renewable waste",
+        "Natural gas",
+        "Hard coal"
+      ]
+    },
+    "technology": {
+      "examples": [
+        "Combined cycle",
+        "Gas turbine",
+        "Reservoir",
+        "Steam turbine",
+        "Run-of-river"
+      ]
+    },
+    "chp": {
+      "examples": [
+        "Yes"
+      ]
+    },
+    "commissioned": {
+      "examples": [
+        "2018.0",
+        "2019.0",
+        "1960.0",
+        "2004.0",
+        "1981.0"
+      ]
+    },
+    "type": {
+      "examples": [
+        "CHP/IPP"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "50.59349",
+        "50.97971",
+        "49.53671",
+        "43.35822",
+        "45.80141"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "5.46137",
+        "5.80891",
+        "-1.88229",
+        "5.02112",
+        "5.26614"
+      ]
+    },
+    "eic_code": {
+      "examples": [
+        "17W100P100P0192A",
+        "17W100P100P0322N",
+        "19W000000000199I",
+        "19W0000000002418",
+        "22WTIHANG000242R"
+      ]
+    },
+    "energy_source_level_1": {
+      "examples": [
+        "Renewable energy",
+        "Other or unspecified energy sources",
+        "Fossil fuels",
+        "Nuclear"
+      ]
+    },
+    "energy_source_level_2": {
+      "examples": [
+        "Oil",
+        "Mixed fossil fuels",
+        "Natural gas",
+        "Lignite",
+        "Bioenergy"
+      ]
+    },
+    "energy_source_level_3": {
+      "examples": [
+        "Biomass and biogas"
+      ]
+    },
+    "comment": {
+      "examples": [
+        "NoMetering",
+        "Basin"
+      ]
+    },
+    "source": {
+      "examples": [
+        "https://www.tennet.org/english/operational_management/export_data.aspx",
+        "https://www.ceps.cz/cs/priprava-provozu",
+        "https://www.services-rte.com/en/view-data-published-by-rte/production-installed-",
+        "https://www.elia.be/en/grid-data/power-generation/generating-facilities#",
+        "http://gpi.tge.pl/en/wykaz-jednostek"
+      ]
+    }
+  },
+  "OPSD_VRE": {
+    "electrical_capacity": {
+      "examples": [
+        "0.019",
+        "0.0017",
+        "0.14",
+        "0.0019",
+        "0.0065"
+      ]
+    },
+    "energy_source_level_1": {
+      "examples": [
+        "Renewable energy"
+      ]
+    },
+    "energy_source_level_2": {
+      "examples": [
+        "Hydro",
+        "Wind",
+        "Bioenergy",
+        "Solar"
+      ]
+    },
+    "energy_source_level_3": {
+      "examples": [
+        "Sewage and landfill gas",
+        "Biomass and biogas"
+      ]
+    },
+    "technology": {
+      "examples": [
+        "Photovoltaics",
+        "Onshore",
+        "Other or unspecified technology",
+        "Run-of-river"
+      ]
+    },
+    "data_source": {
+      "examples": [
+        "BFE"
+      ]
+    },
+    "nuts_1_region": {
+      "examples": [
+        "CH0"
+      ]
+    },
+    "nuts_2_region": {
+      "examples": [
+        "CH05",
+        "CH06",
+        "CH04",
+        "CH02",
+        "CH03"
+      ]
+    },
+    "nuts_3_region": {
+      "examples": [
+        "CH052",
+        "CH051",
+        "CH057",
+        "CH066",
+        "CH062"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "7.3856",
+        "8.9833",
+        "6.5228",
+        "7.0582",
+        "8.462"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "47.0261",
+        "47.6667",
+        "46.7903",
+        "47.1538",
+        "47.2235"
+      ]
+    },
+    "municipality": {
+      "examples": [
+        "Brunnen",
+        "Küblis",
+        "Bülach",
+        "Lugnorre",
+        "St-Légier-Chiésaz"
+      ]
+    },
+    "country": {
+      "examples": [
+        "CH"
+      ]
+    },
+    "commissioning_date": {
+      "examples": [
+        "2006-09-18",
+        "2007-09-24",
+        "2006-05-19",
+        "2007-05-01",
+        "2007-02-01"
+      ]
+    },
+    "geographical_resolution": {
+      "examples": [
+        "municipality"
+      ]
+    }
+  },
+  "OSM": {
+    "projectID": {
+      "examples": [
+        "OSM_plant:way/1086930279",
+        "OSM_plant:relation/14441832",
+        "OSM_plant:way/462638567",
+        "OSM_plant:way/140644903",
+        "OSM_plant:way/566132573"
+      ]
+    },
+    "Country": {
+      "examples": [
+        "Austria",
+        "Belgium",
+        "Cyprus",
+        "Bosnia and Herzegovina",
+        "Croatia"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "45.728152869518986",
+        "48.1020367",
+        "48.15278241844068",
+        "47.37772894015618",
+        "47.2122305615212"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "18.06819079785822",
+        "16.754769",
+        "16.446943763980705",
+        "13.209845662592274",
+        "10.721362115987686"
+      ]
+    },
+    "type": {
+      "examples": [
+        "plant:way",
+        "plant:relation"
+      ]
+    },
+    "Fueltype": {
+      "examples": [
+        "Hard Coal",
+        "Solar",
+        "Solid Biomass",
+        "Wind",
+        "Nuclear"
+      ]
+    },
+    "Technology": {
+      "examples": [
+        "Onshore",
+        "PV",
+        "Pumped Storage",
+        "Run-Of-River",
+        "Reservoir"
+      ]
+    },
+    "Capacity": {
+      "examples": [
+        "260.0",
+        "79.2",
+        "16.8",
+        "24.2",
+        "35.2"
+      ]
+    },
+    "Name": {
+      "examples": [
+        "VDM Energija - Donji Miholjac",
+        "WKA1",
+        "Sunčana elektrana na Općinskoj bolnici Zabok",
+        "MVE Černý mlýn",
+        "Reverzibilna hidroelektrana Lepenica"
+      ]
+    },
+    "generator_count": {
+      "examples": [
+        "20.0",
+        "16.0",
+        "70.0",
+        "38.0",
+        "3.0"
+      ]
+    },
+    "Set": {
+      "examples": [
+        "Store",
+        "PP"
+      ]
+    },
+    "capacity_source": {
+      "examples": [
+        "100 kW",
+        "160 MW",
+        "7.0 MW",
+        "395 kW",
+        "332,6 kW"
+      ]
+    },
+    "id": {
+      "examples": [
+        "way/1086930279",
+        "relation/14441832",
+        "way/462638567",
+        "way/140644903",
+        "way/566132573"
+      ]
+    },
+    "created_at": {
+      "examples": [
+        "2025-12-28T00:50:02.582187",
+        "2025-12-28T00:44:06.688748",
+        "2025-12-28T00:52:22.982612",
+        "2025-12-28T00:44:06.770403",
+        "2025-12-28T00:44:06.712727"
+      ]
+    },
+    "config_hash": {
+      "examples": [
+        "b5cf116fd7447e2fac7292f041d492c9"
+      ]
+    },
+    "config_version": {
+      "examples": [
+        "1.0"
+      ]
+    },
+    "processing_parameters": {
+      "examples": [
+        "{'capacity_extraction': {'enabled': True}, 'capacity_estimation': {'enabled': Fa"
+      ]
+    },
+    "DateIn": {
+      "examples": [
+        "1968.0",
+        "1991.0",
+        "1981.0",
+        "1913.0",
+        "1899.0"
+      ]
+    }
+  },
+  "WIKIPEDIA": {
+    "Name": {
+      "examples": [
+        "Loviisa",
+        "Ringhals",
+        "Cernavodă",
+        "Nogent",
+        "Fessenheim"
+      ]
+    },
+    "Block": {
+      "examples": [
+        "–",
+        "B4",
+        "1",
+        "G-3",
+        "A2"
+      ]
+    },
+    "Reactor": {
+      "examples": [
+        "AGR  [61]",
+        "Superphénix (Brutreaktor)",
+        "Druckröhrenreaktor",
+        "HWGCR",
+        "Druckwasserreaktor [14]"
+      ]
+    },
+    "Status": {
+      "examples": [
+        "Betriebsstillstand (seit 03/2018) [58]",
+        "In Bau  seit 2018",
+        "Stillgelegt",
+        "Bau eingestellt  am 1. März 1990",
+        "In Bau  seit 2005"
+      ]
+    },
+    "Net performance MW": {
+      "examples": [
+        "360.0",
+        "1.5",
+        "962.0",
+        "480.0",
+        "183.0"
+      ]
+    },
+    "Gross performance MW": {
+      "examples": [
+        "945",
+        "80",
+        "1009",
+        "937",
+        "268"
+      ]
+    },
+    "Commissioning (planned)": {
+      "examples": [
+        "10.11.1975",
+        "27.10.1984",
+        "21.01.1981",
+        "21.11.1983",
+        "01.12.1967"
+      ]
+    },
+    "Shutdown (planned)": {
+      "examples": [
+        "22.02.1977",
+        "(14.05.2021)  [veraltet]",
+        "-2027",
+        "01.03.1977",
+        "27.05.1994"
+      ]
+    },
+    "Sleepment [11] (TWH)": {
+      "examples": [
+        "62.82",
+        "-",
+        "213.74",
+        "88.74",
+        "207.81"
+      ]
+    },
+    "country": {
+      "examples": [
+        "Belgium",
+        "Bulgaria",
+        "Ireland",
+        "Hungary",
+        "Slovakia"
+      ]
+    },
+    "lat": {
+      "examples": [
+        "61.23666667",
+        "51.32472222",
+        "48.60462778",
+        "47.51027778",
+        "53.41"
+      ]
+    },
+    "lon": {
+      "examples": [
+        "21.44222222",
+        "4.258747222",
+        "12.30398611",
+        "2875.0",
+        "10.40888889"
+      ]
+    },
+    "decommission_year": {
+      "examples": [
+        "1987",
+        "2006",
+        "2029",
+        "1977",
+        "2024"
+      ]
+    },
+    "commission_year": {
+      "examples": [
+        "2000.0",
+        "1990.0",
+        "1991.0",
+        "1958.0",
+        "1992.0"
+      ]
+    }
+  }
+}

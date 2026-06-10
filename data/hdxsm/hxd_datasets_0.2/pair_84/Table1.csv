@@ -1,0 +1,101 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Afghanistan,AFG,2010,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,48.28708366
+Afghanistan,AFG,2007,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,1.9
+Afghanistan,AFG,1985,"Population ages 65 and above, total",SP.POP.65UP.TO,244616
+Afghanistan,AFG,2001,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,48.5563146790323
+Afghanistan,AFG,2006,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,49.0679711974258
+Afghanistan,AFG,2015,Smoking (% of women): Q1 (lowest),SH.PRV.SMOK.FE.Q1.ZS,89.7
+Afghanistan,AFG,2007,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,2.53653594437451
+Afghanistan,AFG,2018,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,11.4421628
+Afghanistan,AFG,2014,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,70
+Afghanistan,AFG,1962,"Population ages 0-14, female",SP.POP.0014.FE.IN,1860384
+Afghanistan,AFG,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,164.4486
+Afghanistan,AFG,2004,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,40.2
+Afghanistan,AFG,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,0.89142376
+Afghanistan,AFG,2016,"Population ages 65 and above, total",SP.POP.65UP.TO,830919
+Afghanistan,AFG,2017,Net migration,SM.POP.NETM,-47090
+Afghanistan,AFG,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.2
+Afghanistan,AFG,1996,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,0.716662603183245
+Afghanistan,AFG,1983,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,5.23923129166327
+Afghanistan,AFG,2008,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,18.47561455
+Afghanistan,AFG,1979,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,1.22703251211354
+Afghanistan,AFG,2020,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,10.0977257583491
+Afghanistan,AFG,1992,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,21
+Afghanistan,AFG,1961,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,1.8824825433402
+Afghanistan,AFG,1976,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,2.66519955769739
+Afghanistan,AFG,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,35.924
+Afghanistan,AFG,2008,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,0.332558500515012
+Afghanistan,AFG,2007,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,51.544782
+Afghanistan,AFG,2002,"Number of under-five deaths, female",SH.DTH.MORT.FE,58324
+Afghanistan,AFG,2009,"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,15.47097889
+Afghanistan,AFG,2011,"Under-5 mortality rate (per 1,000 live births): Q5 (highest)",SH.DYN.MORT.Q5,84
+Afghanistan,AFG,2005,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,4.47079603331284
+Afghanistan,AFG,2019,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,11.6423367423771
+Afghanistan,AFG,1987,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,2.75646079346892
+Afghanistan,AFG,1981,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,136143
+Afghanistan,AFG,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,103.18264032645
+Afghanistan,AFG,1998,"Population, total",SP.POP.TOTL,18493132
+Afghanistan,AFG,1974,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,2.39825078831319
+Afghanistan,AFG,2020,Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,70
+Afghanistan,AFG,1968,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,0.805137089177176
+Afghanistan,AFG,2016,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,4.73580537793962
+Afghanistan,AFG,1970,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,1.79487135305805
+Afghanistan,AFG,2002,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,0.327275505618999
+Afghanistan,AFG,1978,"Population ages 0-14, male",SP.POP.0014.MA.IN,2992258
+Afghanistan,AFG,1993,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,4.33384578107302
+Afghanistan,AFG,2019,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,2.07320335567457
+Afghanistan,AFG,2014,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,2.1
+Afghanistan,AFG,2007,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,0.333066497520156
+Afghanistan,AFG,2011,"Number of under-five deaths, female",SH.DTH.MORT.FE,45374
+Afghanistan,AFG,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.1
+Afghanistan,AFG,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,145.245
+Afghanistan,AFG,1990,Net migration,SM.POP.NETM,-666001
+Afghanistan,AFG,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.891
+Afghanistan,AFG,1999,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,236299
+Afghanistan,AFG,2007,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,63.65493809
+Afghanistan,AFG,1965,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,0.1932421459707
+Afghanistan,AFG,2002,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,58.5
+Afghanistan,AFG,2015,Vitamin A supplements for postpartum women (% of women with a birth): Q3,SN.ITK.VAPP.Q3.ZS,20.9
+Afghanistan,AFG,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.342
+Afghanistan,AFG,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,236.917
+Afghanistan,AFG,1999,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,21.21040009934
+Afghanistan,AFG,1984,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,4.21123773139004
+Afghanistan,AFG,1997,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,0.02
+Afghanistan,AFG,2008,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,3.04279983657025
+Afghanistan,AFG,2014,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,45.2
+Afghanistan,AFG,2005,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,48.780609866013
+Afghanistan,AFG,2015,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,1.1
+Afghanistan,AFG,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.798
+Afghanistan,AFG,2019,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,49.7810848710223
+Afghanistan,AFG,2008,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,14.2431522167712
+Afghanistan,AFG,2007,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Afghanistan,AFG,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,78.9311427087465
+Afghanistan,AFG,2013,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,9.17023618985925
+Afghanistan,AFG,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,4
+Afghanistan,AFG,1989,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,50.4132114095266
+Afghanistan,AFG,1978,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,0.223322728459821
+Afghanistan,AFG,1970,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,17.9278280648242
+Afghanistan,AFG,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,2.41775383911968
+Afghanistan,AFG,1977,"Population ages 15-64, female",SP.POP.1564.FE.IN,3213962
+Afghanistan,AFG,1986,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,4.22349663633921
+Afghanistan,AFG,1968,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,305.9
+Afghanistan,AFG,2008,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,277012
+Afghanistan,AFG,1983,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,156.3
+Afghanistan,AFG,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,4.83473020936816
+Afghanistan,AFG,2020,"Population, male",SP.POP.TOTL.MA.IN,19692301
+Afghanistan,AFG,2001,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,4.8
+Afghanistan,AFG,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,308.249
+Afghanistan,AFG,2011,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,49.3617576739049
+Afghanistan,AFG,2012,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,0.203791057863718
+Afghanistan,AFG,1995,Age dependency ratio (% of working-age population),SP.POP.DPND,103.028465438358
+Afghanistan,AFG,2015,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,165.84698503
+Afghanistan,AFG,2006,"Number of under-five deaths, female",SH.DTH.MORT.FE,54055
+Afghanistan,AFG,2015,"Infant mortality rate (per 1,000 live births): Q5 (highest)",SP.DYN.IMRT.Q5,35
+Afghanistan,AFG,1972,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,28.682141
+Afghanistan,AFG,2009,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,0.187001323476312
+Afghanistan,AFG,2015,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,1.18431462889146
+Afghanistan,AFG,1998,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,7.642
+Afghanistan,AFG,2007,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,47.9988968973278
+Afghanistan,AFG,1970,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,8.60518371274658
+Afghanistan,AFG,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,0.385327536273078
+Afghanistan,AFG,2010,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,67.9

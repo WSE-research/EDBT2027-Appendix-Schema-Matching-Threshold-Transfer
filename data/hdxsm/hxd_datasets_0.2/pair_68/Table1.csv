@@ -1,0 +1,101 @@
+ISO3,Location,DataId,Indicator,Value,Precision,CountryName,SurveyYear,SurveyId,IndicatorId,ByVariableId,ByVariableLabel
+NGA,North Central,1086377,Children wasted,9.3,1,Nigeria,2008,NG2008DHS,CN_NUTS_C_WH2,0,
+NGA,Benue,1219616,Postneonatal mortality rate,48,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_PNR,14003,Ten years preceding the survey
+NGA,Southwest - 1990,1272289,Child mortality rate,90,0,Nigeria,1990,NG1990DHS,CM_ECMR_C_CMR,14003,Ten years preceding the survey
+NGA,South South,3178563,Accepting attitudes - Female teacher who is HIV+ but not sick should be allowed to continue teaching in school (3) [Men],29.2,1,Nigeria,2003,NG2003DHS,HA_AATT_M_FTC,0,
+NGA,Borno,1646209,Gender parity index for net primary school attendance,1.06,2,Nigeria,2013,NG2013DHS,ED_NARP_B_GPI,0,
+NGA,Kano,1648762,Gender parity index for net primary school attendance,0.97,2,Nigeria,2013,NG2013DHS,ED_NARP_B_GPI,0,
+NGA,South South,1662219,Gender parity index for net secondary school attendance,1,2,Nigeria,2003,NG2003DHS,ED_NARS_B_GPI,0,
+NGA,Ekiti,1282115,Children stunted,19.2,1,Nigeria,2013,NG2013DHS,CN_NUTS_C_HA2,0,
+NGA,Delta,2883110,Women receiving an HIV test and receiving test results in the last 12 months,10.8,1,Nigeria,2013,NG2013DHS,HA_CPHT_W_T1R,0,
+NGA,Rivers,1345025,Child mortality rate,40,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_CMR,14003,Ten years preceding the survey
+NGA,North East,1625685,Children underweight,30.8,1,Nigeria,2013,NG2013DHS,CN_NUTS_C_WA2,0,
+NGA,North West,3126306,Children with fever who had blood taken from a finger or heel for testing,6.7,1,Nigeria,2013,NG2013DHS,ML_FEVT_C_BLD,0,
+NGA,South East,1193449,Accepting attitudes towards those living with HIV - Composite of 4 components [Women],8.8,1,Nigeria,2013,NG2013DHS,HA_AATT_W_AAT,0,
+NGA,Niger,3631880,Mother's first postnatal checkup in the first two days after birth,39.8,1,Nigeria,2013,NG2013DHS,RH_PCMT_W_DY2,0,
+NGA,North East,2357695,Antenatal care from a skilled provider,47.9,1,Nigeria,2003,NG2003DHS,RH_ANCP_W_SKP,14000,Three years preceding the survey
+NGA,Ekiti,1281770,Higher-risk Sex (with multiple partners among all respondents) [Women],2,1,Nigeria,2013,NG2013DHS,HA_MSXP_W_2PP,0,
+NGA,Jigawa,4005919,Comprehensive correct knowledge about AIDS [Women],20.4,1,Nigeria,2013,NG2013DHS,HA_CKNA_W_CKA,0,
+NGA,Delta,1235326,Neonatal mortality rate,27,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_NNR,14003,Ten years preceding the survey
+NGA,Kebbi,1638304,Population living in households using an improved water source,21,1,Nigeria,2013,NG2013DHS,WS_SRCE_P_IMP,0,
+NGA,Ogun,1345033,Child mortality rate,32,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_CMR,14003,Ten years preceding the survey
+NGA,North Central,2608754,Households with at least one insecticide-treated mosquito net (ITN) for every two persons who stayed in the household the previous night,22.8,1,Nigeria,2013,NG2013DHS,ML_NETP_H_IT2,0,
+NGA,North West,2743744,Women receiving an HIV test and receiving test results in the last 12 months,2,1,Nigeria,2008,NG2008DHS,HA_CPHT_W_T1R,0,
+NGA,Gombe,3470476,Treatment of diarrhea: ORT or increased fluids,30.8,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ORI,14001,Five years preceding the survey
+NGA,Niger,2242778,Higher-risk Sex (with multiple partners among all respondents) [Women],0.6,1,Nigeria,2013,NG2013DHS,HA_MSXP_W_2PP,0,
+NGA,Edo,3737458,Assistance during delivery from a skilled provider,78.3,1,Nigeria,2013,NG2013DHS,RH_DELA_C_SKP,14001,Five years preceding the survey
+NGA,North East,1648538,Households with at least one insecticide-treated mosquito net (ITN) for every two persons who stayed in the household the previous night,0.5,1,Nigeria,2003,NG2003DHS,ML_NETP_H_IT2,0,
+NGA,Kebbi,2714479,Children with fever who had blood taken from a finger or heel for testing,11.6,1,Nigeria,2013,NG2013DHS,ML_FEVT_C_BLD,0,
+NGA,Oyo,1648835,Gender parity index for net secondary school attendance,1.22,2,Nigeria,2013,NG2013DHS,ED_NARS_B_GPI,0,
+NGA,Borno,3808656,Treatment of diarrhea: Taken to a health facility,23.8,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ADV,14001,Five years preceding the survey
+NGA,Gombe,3777547,Birth weight of child reported,3.6,1,Nigeria,2013,NG2013DHS,CH_SZWT_C_REP,14001,Five years preceding the survey
+NGA,Bayelsa,3146286,Birth weight of child reported,14.3,1,Nigeria,2013,NG2013DHS,CH_SZWT_C_REP,14000,Three years preceding the survey
+NGA,Kano,2711144,Children 6-23 months fed 5+ food groups,11.7,1,Nigeria,2013,NG2013DHS,CN_IYCF_C_4FA,0,
+NGA,Bauchi,1637493,Households with at least one insecticide-treated mosquito net (ITN) for every two persons and/or indoor residual spraying (IRS) in the past 12 months,25.6,1,Nigeria,2013,NG2013DHS,ML_IRSM_H_I2I,0,
+NGA,South East,3470977,Households with iodized salt,95.7,1,Nigeria,2008,NG2008DHS,CN_IODZ_H_IOD,0,
+NGA,Borno,1644700,Children under 5 who slept under an insecticide-treated net (ITN),10.7,1,Nigeria,2013,NG2013DHS,ML_NETC_C_ITN,0,
+NGA,North Central,771644,Delivery by cesarean section,1.8,1,Nigeria,2008,NG2008DHS,RH_DELA_C_CSC,14000,Three years preceding the survey
+NGA,Nasarawa,649388,Tetanus protection at birth,51.4,1,Nigeria,2013,NG2013DHS,RH_TTIJ_W_PRT,14001,Five years preceding the survey
+NGA,North East,976737,Tetanus protection at birth,40.7,1,Nigeria,2013,NG2013DHS,RH_TTIJ_W_PRT,14001,Five years preceding the survey
+NGA,Enugu,588327,Population who slept under an insecticide-treated mosquito net (ITN) last night,14.7,1,Nigeria,2013,NG2013DHS,ML_NETU_P_ITN,0,
+NGA,Rivers,3147685,Treatment of diarrhea: Taken to a health facility,36.8,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ADV,14001,Five years preceding the survey
+NGA,Bauchi,1265142,Infant mortality rate,96,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_IMR,14003,Ten years preceding the survey
+NGA,North Central,85561,Treatment of diarrhea: ORT or increased fluids,52.3,1,Nigeria,2008,NG2008DHS,CH_DIAT_C_ORI,14001,Five years preceding the survey
+NGA,North Central,2754194,Children with symptoms of ARI taken to a health facility,23.2,1,Nigeria,2013,NG2013DHS,CH_ARIS_C_ADV,14000,Three years preceding the survey
+NGA,Niger,1644787,Pregnant women who slept under an insecticide-treated net (ITN),14,1,Nigeria,2013,NG2013DHS,ML_NETW_W_ITN,0,
+NGA,North Central,439834,Assistance during delivery from a skilled provider,50.1,1,Nigeria,2003,NG2003DHS,RH_DELA_C_SKP,14000,Three years preceding the survey
+NGA,Imo,2605666,Population who slept under an insecticide-treated mosquito net (ITN) last night,23.6,1,Nigeria,2013,NG2013DHS,ML_NETU_P_ITN,0,
+NGA,Ebonyi,1066080,Treatment of diarrhea: Taken to a health facility,20.4,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ADV,14000,Three years preceding the survey
+NGA,Taraba,3752903,"Condom use at last higher risk sex (with a non-marital, non-cohabiting partner) [Women]",21.3,1,Nigeria,2013,NG2013DHS,HA_HRSX_W_CND,0,
+NGA,North Central,2667162,Children with fever who took a combination with artemisinin,3.3,1,Nigeria,2008,NG2008DHS,ML_FEVT_C_ACT,0,
+NGA,South West,1110477,Mother's first postnatal checkup in the first two days after birth,72.7,1,Nigeria,2013,NG2013DHS,RH_PCMT_W_DY2,0,
+NGA,South West,1286181,Place of delivery: Health facility,69.1,1,Nigeria,2008,NG2008DHS,RH_DELP_C_DHF,14000,Three years preceding the survey
+NGA,Rivers,2362447,Place of delivery: Health facility,50.7,1,Nigeria,2013,NG2013DHS,RH_DELP_C_DHF,14000,Three years preceding the survey
+NGA,North Central,1352627,Neonatal mortality rate,53,0,Nigeria,2003,NG2003DHS,CM_ECMR_C_NNR,14003,Ten years preceding the survey
+NGA,Northwest - 1990,1349609,Neonatal mortality rate,58,0,Nigeria,1990,NG1990DHS,CM_ECMR_C_NNR,14003,Ten years preceding the survey
+NGA,Cross River,86538,Safe disposal of stools,25.6,1,Nigeria,2013,NG2013DHS,CH_DSTL_C_SAF,14000,Three years preceding the survey
+NGA,Plateau,1031123,Households with at least one insecticide-treated mosquito net (ITN),57.2,1,Nigeria,2013,NG2013DHS,ML_NETP_H_ITN,0,
+NGA,North Central,1349837,Child mortality rate,70,0,Nigeria,2003,NG2003DHS,CM_ECMR_C_CMR,14003,Ten years preceding the survey
+NGA,Benue,3021466,Married women currently using any method of contraception,16.5,1,Nigeria,2013,NG2013DHS,FP_CUSM_W_ANY,0,
+NGA,Bauchi,1625726,Children underweight,40.6,1,Nigeria,2013,NG2013DHS,CN_NUTS_C_WA2,0,
+NGA,North East,3129210,Children under 5 who slept under an insecticide-treated net (ITN),3.6,1,Nigeria,2008,NG2008DHS,ML_NETC_C_ITN,0,
+NGA,Ogun,2241121,Women receiving an HIV test and receiving test results in the last 12 months,8,1,Nigeria,2013,NG2013DHS,HA_CPHT_W_T1R,0,
+NGA,South East,3633542,Safe disposal of stools,68.5,1,Nigeria,2003,NG2003DHS,CH_DSTL_C_SAF,14000,Three years preceding the survey
+NGA,South South,732972,Safe disposal of stools,41.1,1,Nigeria,2013,NG2013DHS,CH_DSTL_C_SAF,14001,Five years preceding the survey
+NGA,Borno,1112587,Safe disposal of stools,89.3,1,Nigeria,2013,NG2013DHS,CH_DSTL_C_SAF,14002,Two years preceding the survey
+NGA,Nasarawa,519769,Treatment of diarrhea: Taken to a health facility,53.1,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ADV,14000,Three years preceding the survey
+NGA,Ebonyi,3448957,Pregnant women counselled for HIV during ANC visit,46.7,1,Nigeria,2013,NG2013DHS,HA_CATH_W_CSL,0,
+NGA,Taraba,1625694,Children stunted,43.4,1,Nigeria,2013,NG2013DHS,CN_NUTS_C_HA2,0,
+NGA,Borno,3808672,Treatment of diarrhea: ORT or increased fluids,52.5,1,Nigeria,2013,NG2013DHS,CH_DIAT_C_ORI,14001,Five years preceding the survey
+NGA,Ebonyi,700215,Children who started breastfeeding within 1 hour of birth,17.3,1,Nigeria,2013,NG2013DHS,CN_BRFI_C_1HR,0,
+NGA,Osun,2989706,Tetanus protection at birth,94.1,1,Nigeria,2013,NG2013DHS,RH_TTIJ_W_PRT,14001,Five years preceding the survey
+NGA,North East,3312677,Unmet need for family planning,18.8,1,Nigeria,2003,NG2003DHS,FP_NADM_W_UNT,0,
+NGA,South South,1349838,Neonatal mortality rate,53,0,Nigeria,2003,NG2003DHS,CM_ECMR_C_NNR,14003,Ten years preceding the survey
+NGA,Bauchi,3804911,Antenatal care from a skilled provider,56.7,1,Nigeria,2013,NG2013DHS,RH_ANCP_W_SKP,14000,Three years preceding the survey
+NGA,Abia,3135689,Households with at least one insecticide-treated mosquito net (ITN) for every two persons who stayed in the household the previous night,34.9,1,Nigeria,2013,NG2013DHS,ML_NETP_H_IT2,0,
+NGA,North Central,3239526,Wife beating justified for at least one specific reason [Women],47.1,1,Nigeria,2008,NG2008DHS,WE_AWBT_W_AGR,0,
+NGA,Sokoto,3477322,Children who started breastfeeding within 1 hour of birth,40.8,1,Nigeria,2013,NG2013DHS,CN_BRFI_C_1HR,0,
+NGA,South West,3755822,Households with at least one insecticide-treated mosquito net (ITN) and/or indoor residual spraying (IRS) in the past 12 months,6,1,Nigeria,2008,NG2008DHS,ML_IRSM_H_IIR,0,
+NGA,Kogi,691749,Households with at least one insecticide-treated mosquito net (ITN),25.5,1,Nigeria,2013,NG2013DHS,ML_NETP_H_ITN,0,
+NGA,Enugu,3954275,Comprehensive correct knowledge about AIDS [Women],16.3,1,Nigeria,2013,NG2013DHS,HA_CKNA_W_CKA,0,
+NGA,Kwara,3098613,Children registered,59.2,1,Nigeria,2013,NG2013DHS,CP_BREG_C_REG,0,
+NGA,Ebonyi,3146330,Birth weight of child reported,19.6,1,Nigeria,2013,NG2013DHS,CH_SZWT_C_REP,14000,Three years preceding the survey
+NGA,Bauchi,510609,Safe disposal of stools,71.7,1,Nigeria,2013,NG2013DHS,CH_DSTL_C_SAF,14002,Two years preceding the survey
+NGA,Rivers,88674,Safe disposal of stools,34.8,1,Nigeria,2013,NG2013DHS,CH_DSTL_C_SAF,14001,Five years preceding the survey
+NGA,North Central,889250,Wife beating justified for at least one specific reason [Women],39,1,Nigeria,2013,NG2013DHS,WE_AWBT_W_AGR,0,
+NGA,Abia,696994,Non-breastfed children 6-23 months fed milk or milk products,32.6,1,Nigeria,2013,NG2013DHS,CN_IYCF_C_MKN,0,
+NGA,Taraba,2864669,Households with at least one insecticide-treated mosquito net (ITN) and/or indoor residual spraying (IRS) in the past 12 months,59.4,1,Nigeria,2013,NG2013DHS,ML_IRSM_H_IIR,0,
+NGA,Bayelsa,3211020,Children 6-23 months with 3 IYCF practices,14.8,1,Nigeria,2013,NG2013DHS,CN_IYCF_C_3PA,0,
+NGA,Enugu,1265144,Child mortality rate,42,0,Nigeria,2013,NG2013DHS,CM_ECMR_C_CMR,14003,Ten years preceding the survey
+NGA,Imo,2877856,Antenatal care from a skilled provider,95.9,1,Nigeria,2013,NG2013DHS,RH_ANCP_W_SKP,14001,Five years preceding the survey
+NGA,Sokoto,1634919,Children under 5 who slept under an insecticide-treated net (ITN),12.3,1,Nigeria,2013,NG2013DHS,ML_NETC_C_ITN,0,
+NGA,Benue,3939979,Delivery by cesarean section,2.4,1,Nigeria,2013,NG2013DHS,RH_DELA_C_CSC,14000,Three years preceding the survey
+NGA,North Central,1673794,Gender parity index for net primary school attendance,0.97,2,Nigeria,2008,NG2008DHS,ED_NARP_B_GPI,0,
+NGA,South East,83480,Safe disposal of stools,65.4,1,Nigeria,2003,NG2003DHS,CH_DSTL_C_SAF,14002,Two years preceding the survey
+NGA,North Central,3253008,Higher-risk Sex (with multiple partners among all respondents) [Women],1,1,Nigeria,2003,NG2003DHS,HA_MSXP_W_2PP,0,
+NGA,Lagos,3174438,Newborn's first postnatal checkup in the first two days after birth,57.9,1,Nigeria,2013,NG2013DHS,RH_PCCT_C_DY2,0,
+NGA,Zamfara,1630609,Non-breastfed children 6-23 months fed milk or milk products,5.4,1,Nigeria,2013,NG2013DHS,CN_IYCF_C_MKN,0,
+NGA,Yobe,759767,Accepting attitudes towards those living with HIV - Composite of 4 components [Women],14.4,1,Nigeria,2013,NG2013DHS,HA_AATT_W_AAT,0,
+NGA,Kano,2638905,Assistance during delivery from a skilled provider,13.7,1,Nigeria,2013,NG2013DHS,RH_DELA_C_SKP,14001,Five years preceding the survey
+NGA,Katsina,536098,Newborn's first postnatal checkup in the first two days after birth,2.4,1,Nigeria,2013,NG2013DHS,RH_PCCT_C_DY2,0,
+NGA,Nasarawa,708586,Non-breastfed children 6-23 months with 3 IYCF practices,3.8,1,Nigeria,2013,NG2013DHS,CN_IYCF_C_3PN,0,

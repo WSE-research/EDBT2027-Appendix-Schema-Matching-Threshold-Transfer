@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "FisY"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Sector name",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "SecNa"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "CIDABuDeliMo"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "IndiIss"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "CounRegNa"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "ProgrPro"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "SecN"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "OrganiID"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "OrganiS"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "FCeN"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Fund centre ID",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "FCeID"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "UntAmPrBu"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "OrgN"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "Deserti"
+        },
+        {
+            "source_table": "miller2_both_50_30_ac2_ev_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_both_50_30_ac2_ev_target",
+            "target_column": "Biodi"
+        }
+    ]
+}

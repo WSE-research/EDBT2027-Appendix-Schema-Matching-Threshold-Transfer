@@ -1,0 +1,14 @@
+<"Date of Assessment", "1.1.a.1 Date of Current Survey">
+<"Round Number:", "1.1.a.2 Survey Round">
+<"Province (Admin 1)", "1.1.e.2 Province (Admin 1)">
+<"Province P_Code", "Province Code">
+<"District (Admin 2)", "1.1.e.3 District (Admin 2)">
+<"District P_Code", "District Code">
+<"Post (Admin 3)", "1.1.e.4 Post (Admin 3)">
+<"Post P_Code", "Post Code">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"Total Households Affected", "2.1.a.1 Number of families/households">
+<"Total Individuals Affected", "2.1.b.1 Total number of IDP individuals">
+<"Locality", "Locality">
+<"Locality P_Code", "Locality Code">

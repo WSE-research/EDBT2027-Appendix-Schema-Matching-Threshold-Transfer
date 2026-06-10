@@ -1,0 +1,14 @@
+93bc317a-189b-4b91-9564-c8334ab687c9,2021 SHCC Incident Data
+dcde5ea1-5e1d-4275-8415-6e2b78da82bd,2000-2022 Attacked and Threatened Health Care at Risk.xlsx
+---hxl_tags---
+#event+id
+#date
+#group+perp
+#group+perp+name
+#weapon
+#affected+healthworker+killed
+#affected+healthworker+kidnapped
+#affected+healthworker+injured
+#affected+healthworker+assaulted
+#indicator+health_facility+destroyed+num
+#indicator+health_facility+damaged+num

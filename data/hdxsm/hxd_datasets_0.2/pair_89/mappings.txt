@@ -1,0 +1,3 @@
+<"Country", "country">
+<"Sector ", "sector">
+<"People in need", "people_in_need">

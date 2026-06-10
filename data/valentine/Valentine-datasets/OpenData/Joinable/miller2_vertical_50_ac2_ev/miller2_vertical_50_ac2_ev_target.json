@@ -1,0 +1,116 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "MaxiCIDACont": {
+        "type": "real"
+    },
+    "PrBroCoID": {
+        "type": "text"
+    },
+    "TraDevelo": {
+        "type": "int"
+    },
+    "UrIss": {
+        "type": "int"
+    },
+    "OrgSu": {
+        "type": "text"
+    },
+    "ClChMitig": {
+        "type": "int"
+    },
+    "ContiNa": {
+        "type": "text"
+    },
+    "Biod": {
+        "type": "int"
+    },
+    "KnowlFDev": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "ReProg": {
+        "type": "int"
+    },
+    "ConID": {
+        "type": "int"
+    },
+    "CouReID": {
+        "type": "text"
+    },
+    "ChilIss": {
+        "type": "int"
+    },
+    "CounRegPer": {
+        "type": "real"
+    },
+    "DisIs": {
+        "type": "int"
+    },
+    "IRTCPerc": {
+        "type": "real"
+    },
+    "Desertif": {
+        "type": "int"
+    },
+    "BilAMa": {
+        "type": "int"
+    },
+    "ProgrPro": {
+        "type": "text"
+    },
+    "FSTCPer": {
+        "type": "real"
+    },
+    "DiN": {
+        "type": "text"
+    },
+    "ICTAAToFDeve": {
+        "type": "int"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "CliChaAda": {
+        "type": "int"
+    },
+    "ParticDevAnGoGov": {
+        "type": "int"
+    },
+    "YouIss": {
+        "type": "int"
+    },
+    "IndigIs": {
+        "type": "int"
+    },
+    "GeEq": {
+        "type": "int"
+    },
+    "OrgID": {
+        "type": "text"
+    },
+    "OrganiNa": {
+        "type": "text"
+    },
+    "OrganiT": {
+        "type": "text"
+    },
+    "OrgaCl": {
+        "type": "text"
+    },
+    "CounReN": {
+        "type": "text"
+    },
+    "SecN": {
+        "type": "text"
+    },
+    "SecPe": {
+        "type": "real"
+    },
+    "AmSpe": {
+        "type": "real"
+    }
+}

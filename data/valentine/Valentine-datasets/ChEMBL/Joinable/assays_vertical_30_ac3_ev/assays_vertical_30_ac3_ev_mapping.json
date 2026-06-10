@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "td"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "ss_cll_tp"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "ss_rgnsm"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "ss_tss"
+        },
+        {
+            "source_table": "assays_vertical_30_ac3_ev_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_30_ac3_ev_target",
+            "target_column": "dscrptn"
+        }
+    ]
+}

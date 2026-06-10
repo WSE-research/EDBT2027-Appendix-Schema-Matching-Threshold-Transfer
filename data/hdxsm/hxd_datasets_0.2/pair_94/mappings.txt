@@ -1,0 +1,4 @@
+<"Area", "ADM0_NAME">
+<"Item Code", "Variable">
+<"Item", "VariableDescription">
+<"Value", "Mean">

@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_gncd"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_ct"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_ddrssln2"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_crdtrtng"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_wnrrntflg"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_ncm"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_frstnm"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_nmbrchldrn"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_ntwrth"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_mddlntl"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_av_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_50_ac5_av_target",
+            "target_column": "prospect_mplr"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+assay_id,assay_test_type,assay_organism,assay_category,assay_type,relationship_type,curated_by,assay_tissue,assay_tax_id,description,tid,variant_id,src_assay_id,src_id,doc_id,bao_format,confidence_score,chembl_id,cell_id,tissue_id
+7524,In vivo,Rattus norvegicus,,A,N,Intermediate,Kidney,10116.0,Biodistribution in normal rat kidney in the presence of 0.005 M Gd/0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL618647,,2113.0
+7525,In vivo,Rattus norvegicus,,A,N,Intermediate,Kidney,10116.0,Biodistribution in normal rat kidney in the presence of 0.01 M Gd/0.05 M lig,50597,,,1,9866,BAO_0000218,1,CHEMBL618648,,2113.0
+7526,In vivo,Rattus norvegicus,,A,N,Intermediate,Kidney,10116.0,Biodistribution in normal rat kidney in the presence of NAC Gd 0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL618649,,2113.0
+7527,In vivo,Rattus norvegicus,,A,N,Intermediate,Liver,10116.0,Biodistribution in normal rat liver in the presence of 0.005 M Gd/0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL618650,,2107.0
+7528,In vivo,Rattus norvegicus,,A,N,Intermediate,Liver,10116.0,Biodistribution in normal rat liver in the presence of 0.01 M Gd/0.05 M lig,50597,,,1,9866,BAO_0000218,1,CHEMBL618651,,2107.0
+7529,In vivo,Rattus norvegicus,,A,N,Intermediate,Liver,10116.0,Biodistribution in normal rat liver in the presence of NAC Gd 0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL876497,,2107.0
+7530,In vivo,Rattus norvegicus,,A,N,Intermediate,Lung,10116.0,Biodistribution in normal rat lung in the presence of 0.005 M Gd/0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL618652,,2048.0
+7531,In vivo,Rattus norvegicus,,A,N,Intermediate,Lung,10116.0,Biodistribution in normal rat lung in the presence of 0.01 M Gd/0.05 M lig,50597,,,1,9866,BAO_0000218,1,CHEMBL618653,,2048.0
+7532,In vivo,Rattus norvegicus,,A,N,Intermediate,Lung,10116.0,Biodistribution in normal rat lung in the presence of NAC Gd 0.01 M lig at 2 hr,50597,,,1,9866,BAO_0000218,1,CHEMBL618654,,2048.0
+7533,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Recovery rate from urine and bile was determined after iv administration at 20 mg/kg in rats; Not tested,50597,,,1,6351,BAO_0000218,1,CHEMBL618655,,
+7534,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Compound was tested for solubility in water,50597,,,1,1465,BAO_0000218,1,CHEMBL618656,,
+7535,,,,P,U,Intermediate,,,Solubility in phosphate buffered saline (1% DMSO) at pH 6.5 (24 hr equilibration),22229,,,1,5182,BAO_0000100,0,CHEMBL618657,,
+7536,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Solubility was determined,50597,,,1,17847,BAO_0000218,1,CHEMBL618658,,
+7537,,Rattus norvegicus,,A,N,Intermediate,,10116.0,solubility in water (ug/mL) at 37 degree C.,50597,,,1,15339,BAO_0000218,1,CHEMBL618659,,
+7538,,Rattus norvegicus,,A,N,Intermediate,,10116.0,First pass metabolism and metabolic bioavailability using rat hepatic microsomes,50597,,,1,5202,BAO_0000218,1,CHEMBL618660,,
+7539,,Rattus norvegicus,,A,N,Intermediate,,10116.0,In vitro stability relative to (+)-AJ76 in rat hepatocyte assay,50597,,,1,1088,BAO_0000218,1,CHEMBL618661,,
+7540,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in rats,50597,,,1,3169,BAO_0000218,1,CHEMBL873807,,
+7541,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in Dawley rat,50597,,,1,5353,BAO_0000218,1,CHEMBL618662,,
+7542,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period after 3 mg/kg iv administration,50597,,,1,2864,BAO_0000218,1,CHEMBL618663,,
+7543,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period after 3 mg/kg iv administration in rat,50597,,,1,2864,BAO_0000218,1,CHEMBL618664,,
+7544,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period after 3 mg/kg iv administration in the rat,50597,,,1,2864,BAO_0000218,1,CHEMBL618665,,
+7545,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period in female Sprague-Dawley rats,50597,,,1,6362,BAO_0000218,1,CHEMBL876498,,
+7546,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period in rat,50597,,,1,6249,BAO_0000218,1,CHEMBL618666,,
+7547,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life in rats was determined,50597,,,1,3169,BAO_0000218,1,CHEMBL620440,,
+7548,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life in rats with metabolic oxidation,50597,,,1,3169,BAO_0000218,1,CHEMBL620441,,
+7549,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life in rats,50597,,,1,3169,BAO_0000218,1,CHEMBL620442,,
+7550,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,T 1/2 at a dose of 10 mg/Kg administered intravenously in female hanover-wistar rat,50597,,,1,17260,BAO_0000218,1,CHEMBL620443,,
+7551,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,T 1/2 at a dose of 10 mg/Kg administered perorally in female hanover-wistar rat,50597,,,1,17260,BAO_0000218,1,CHEMBL620444,,
+7552,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,T max at a dose of 10 mg/Kg administered intravenously in female hanover-wistar rat,50597,,,1,17260,BAO_0000218,1,CHEMBL620445,,
+7553,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,T max at a dose of 10 mg/Kg administered perorally in female hanover-wistar rat,50597,,,1,17260,BAO_0000218,1,CHEMBL620446,,
+7554,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Biological half-life measured in plasma of rat,50597,,,1,2879,BAO_0000218,1,CHEMBL620447,,1969.0
+7555,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Biological half-life measured in plasma of rat; 22-25,50597,,,1,2879,BAO_0000218,1,CHEMBL621129,,1969.0
+7556,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Biological half-life measured in plasma of rat; 9-16,50597,,,1,2879,BAO_0000218,1,CHEMBL621130,,1969.0
+7557,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Compound was evaluated for its half life when administered intravenously in rat,50597,,,1,3184,BAO_0000218,1,CHEMBL873808,,
+7558,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Compound was evaluated for pharmacokinetic parameter percent bioavailability at 8 h,50597,,,1,4891,BAO_0000218,1,CHEMBL876598,,
+7559,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Evaluated for pharmacokinetic parameter half-life in rat at the dose 50 mg/kg,50597,,,1,429,BAO_0000218,1,CHEMBL621131,,
+7560,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life (T1/2) after oral administration in rat,50597,,,1,5656,BAO_0000218,1,CHEMBL621132,,
+7561,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life of compound after iv administration of 20 mg/kg dose in rat,50597,,,1,4413,BAO_0000218,1,CHEMBL621133,,
+7562,In vivo,Rattus norvegicus,,A,N,Expert,,10116.0,Half life of compound determined in rat after iv administration at a dose of 10 mg/kg,50597,,,1,3598,BAO_0000218,1,CHEMBL621312,,
+7563,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life of compound was determined in rat,50597,,,1,17267,BAO_0000218,1,CHEMBL621313,,
+7564,,Rattus norvegicus,,A,N,Intermediate,Blood,10116.0,Half life of compound was determined in rat blood,50597,,,1,4727,BAO_0000218,1,CHEMBL621314,,178.0
+7565,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life at 1 mg/kg was determined in rat,50597,,,1,17651,BAO_0000218,1,CHEMBL621315,,
+7566,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life at 10 mg/kg was determined in rat,50597,,,1,17651,BAO_0000218,1,CHEMBL621316,,
+7567,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in rats,50597,,,1,401,BAO_0000218,1,CHEMBL621317,,
+7568,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in rats in hours,50597,,,1,4942,BAO_0000218,1,CHEMBL621318,,
+7569,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life following 10 mg/kg intravenous or 50 mg/kg oral dosing in rats was determined,50597,,,1,17735,BAO_0000218,1,CHEMBL621319,,
+7570,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life was calculated at a single intravenous administration of 20 mg/kg in rat,50597,,,1,6056,BAO_0000218,1,CHEMBL621377,,
+7571,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life was determined,50597,,,1,5213,BAO_0000218,1,CHEMBL621378,,
+7572,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life after i.v. administration,50597,,,1,6616,BAO_0000218,1,CHEMBL876599,,
+7573,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in rat after intravenous administration at a concentration 0.5 mg/kg,50597,,,1,5937,BAO_0000218,1,CHEMBL621379,,
+7574,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Half life in rat plasma,50597,,,1,5819,BAO_0000218,1,CHEMBL621380,,1969.0
+7575,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Half life in rat plasma; Not detected,50597,,,1,5819,BAO_0000218,1,CHEMBL621381,,1969.0
+7576,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life in rats,50597,,,1,6803,BAO_0000218,1,CHEMBL618515,,
+7577,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period of compound was determined after peroral administration,50597,,,1,17804,BAO_0000218,1,CHEMBL618516,,
+7578,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period of compound was determined at a dose of 3 mg/kg by intravenous administration,50597,,,1,17804,BAO_0000218,1,CHEMBL618517,,
+7579,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period in rat,50597,,,1,5948,BAO_0000218,1,CHEMBL618518,,
+7580,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period was evaluated against Sprague-Dawley rats at a dose of 15 mg/kg after iv administration,50597,,,1,1916,BAO_0000218,1,CHEMBL618519,,
+7581,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period was evaluated in Sprague-Dawley rats at a dose of 15 mg/kg after po administration,50597,,,1,1916,BAO_0000218,1,CHEMBL618698,,
+7582,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period was evaluated in Sprague-Dawley rats at a dose of 15 mg/kg after po administration; Not available,50597,,,1,1916,BAO_0000218,1,CHEMBL618862,,
+7583,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period was determined after intravenous administration at a dose 5 mg/kg to male Sprague-Dawley rats,50597,,,1,4890,BAO_0000218,1,CHEMBL618863,,
+7584,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life period was determined for compound after intravenous administration in rats at 24 uM/kg,50597,,,1,17764,BAO_0000218,1,CHEMBL618864,,
+7585,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half life time in rat the dose of 2 mg/kg,50597,,,1,4727,BAO_0000218,1,CHEMBL618865,,
+7586,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life 24 hr after 10 mg/kg iv administration in rats,50597,,,1,17509,BAO_0000218,1,CHEMBL618866,,
+7587,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life 24 hr after 2 mg/kg iv administration in rats,50597,,,1,17509,BAO_0000218,1,CHEMBL618867,,
+7588,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life consistent with the observed metabolic steady state in rats,50597,,,1,6597,BAO_0000218,1,CHEMBL875828,,
+7589,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life following 10 mg/kg intravenous or 50 mg/kg oral dosing in rats was determined,50597,,,1,17735,BAO_0000218,1,CHEMBL618868,,
+7590,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life for oxidative metabolic stability was determined using male human,50597,,,1,6597,BAO_0000218,1,CHEMBL618869,,
+7591,In vivo,Rattus norvegicus,,A,N,Intermediate,,10116.0,"Half-life in fischer rats at 5 mg/kg dose, administered intravenously",50597,,,1,17670,BAO_0000218,1,CHEMBL618870,,
+7592,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Half-life in rat plasma,50597,,,1,1696,BAO_0000218,1,CHEMBL618871,,1969.0
+7593,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Half-life in rat plasma was determined,50597,,,1,1742,BAO_0000218,1,CHEMBL618872,,1969.0
+7594,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Half-life in rats was determined,50597,,,1,17800,BAO_0000218,1,CHEMBL873816,,
+7595,,,,A,U,Autocuration,,,Area under curve of acid 2a was determined by HPLC at a dosage of 54.5 mg/kg administered intragastrically by gavage method in dog,22224,,,1,12923,BAO_0000218,0,CHEMBL618873,,
+7596,,,,A,U,Autocuration,,,Area under curve after oral dose of 0.1 mg//kg,22224,,,1,11954,BAO_0000019,0,CHEMBL621602,,
+7597,,,,A,U,Autocuration,,,Area under curve after oral dose of 0.3 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621603,,
+7598,,,,A,U,Autocuration,,,Area under curve after oral dose of 1 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621604,,
+7599,,,,A,U,Autocuration,,,Area under curve after oral dose of 10 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621605,,
+7600,,,,A,U,Autocuration,,,Area under curve after oral dose of 23.4 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621606,,
+7601,,,,A,U,Autocuration,,,Area under curve after oral dose of 3 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621607,,
+7602,,,,A,U,Autocuration,,,Area under curve after oral dose of 3.87 mg/kg,22224,,,1,11954,BAO_0000218,0,CHEMBL621608,,
+7603,,,,A,U,Autocuration,,,Area under curve was determined,22224,,,1,5237,BAO_0000019,0,CHEMBL621609,,
+7604,,,,A,U,Autocuration,,,Area under curve at a dose of 10 mg/kg,22224,,,1,4026,BAO_0000218,0,CHEMBL621610,,
+7605,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was determined; ND=No data,50597,,,1,5237,BAO_0000218,1,CHEMBL621611,,
+7606,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered intraperitoneally at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL621612,,
+7607,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered intraperitoneally at a dose of 10 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622308,,
+7608,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered intravenously at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622309,,
+7609,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered intravenously at a dose of 10 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622310,,
+7610,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered perorally at a dose of 100 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622311,,
+7611,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered perorally at a dose of 100 mg/kg for infinite hours; Not calculated,50597,,,1,14793,BAO_0000218,1,CHEMBL622312,,
+7612,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered perorally at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622931,,
+7613,,Rattus norvegicus,,A,N,Intermediate,,10116.0,Area under curve was evaluated in rat brain when administered perorally at a dose of 10 mg/kg for infinite hours; Not calculated,50597,,,1,14793,BAO_0000218,1,CHEMBL622932,,
+7614,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered intraperitoneally at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622736,,1969.0
+7615,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered intraperitoneally at a dose of 10 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622737,,1969.0
+7616,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered intravenously at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622738,,1969.0
+7617,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered intravenously at a dose of 10 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622739,,1969.0
+7618,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered perorally at a dose of 100 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622740,,1969.0
+7619,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered perorally at a dose of 100 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622741,,1969.0
+7620,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered perorally at a dose of 10 mg/kg for 4 or 6 hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622742,,1969.0
+7621,,Rattus norvegicus,,A,N,Intermediate,Plasma,10116.0,Area under curve was evaluated in rat plasma when administered perorally at a dose of 10 mg/kg for infinite hours,50597,,,1,14793,BAO_0000218,1,CHEMBL622743,,1969.0
+7622,,Mus musculus,,A,N,Intermediate,Plasma,10090.0,AUC in mice,50594,,,1,11637,BAO_0000218,1,CHEMBL622744,,1969.0
+7623,,,,A,U,Autocuration,,,Area under curve was measured from the graph obtained from concentration Vs time,22224,,,1,11149,BAO_0000019,0,CHEMBL624134,,

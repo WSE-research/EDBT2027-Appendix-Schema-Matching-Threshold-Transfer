@@ -1,0 +1,20 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "title": {
+        "type": "text"
+    },
+    "category": {
+        "type": "text"
+    },
+    "brand": {
+        "type": "text"
+    },
+    "modelno": {
+        "type": "text"
+    },
+    "price": {
+        "type": "real"
+    }
+}

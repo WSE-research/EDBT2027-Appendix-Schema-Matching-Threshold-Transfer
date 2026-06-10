@@ -1,0 +1,13 @@
+440afc35-c16b-4a44-8cf9-d8b00183098e,DTM Mozambique Baseline Assessment Round 5
+67705414-2c39-4ca7-a4d6-9fa0e27c5637,DTM Mozambique Site Assessment Round 15
+---hxl_tags---
+#date+reported
+#date+occurred
+#meta+round
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#adm3+name
+#geo+lat
+#geo+lon

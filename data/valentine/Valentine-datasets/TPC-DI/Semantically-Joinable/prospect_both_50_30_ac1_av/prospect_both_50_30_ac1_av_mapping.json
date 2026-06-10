@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_AgencyID"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_Income"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_City"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_FirstName"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac1_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_50_30_ac1_av_target",
+            "target_column": "prospect_LastName"
+        }
+    ]
+}

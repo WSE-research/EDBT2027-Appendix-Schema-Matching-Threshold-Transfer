@@ -1,0 +1,11 @@
+<"Unnamed: 0", "Country">
+<"Total health worker killed", "Health Workers Killed">
+<"Total health worker injured", "Health Workers Injured">
+<"Total health worker assaulted", "Health Workers Assaulted">
+<"Sexual violence against health worker", "Health Workers Sexually Assaulted">
+<"Total health worker kidnapped", "Health Workers Kidnapped">
+<"Total health worker arrested ", "Health Workers Arrested">
+<"Health transportation destroyed", "Health Transportation Destroyed">
+<"Health transportation damaged", "Health Transportation Damaged">
+<"Health transportation stolen/hijacked  ", "Health Transportation Stolen/Highjacked">
+<"Access denied incidents", "Access Denied">

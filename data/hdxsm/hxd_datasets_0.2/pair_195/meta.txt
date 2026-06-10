@@ -1,0 +1,6 @@
+b7552e17-db9f-4b6f-8060-a4b321fc8384,SDG 4 Global and Thematic metadata
+c740588a-4a43-4d2c-a733-30bbccc0e01c,Social Protection and Labor Indicators for Turkey
+---hxl_tags---
+#indicator+code
+#country+code
+#date+year

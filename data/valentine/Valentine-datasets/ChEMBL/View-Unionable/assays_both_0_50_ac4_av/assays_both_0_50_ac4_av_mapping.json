@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_CURB"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASORGA"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_VARI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASSSTR"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_DI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASSCAT"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASSTTY"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_ASSUBCELFRA"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_T"
+        },
+        {
+            "source_table": "assays_both_0_50_ac4_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_0_50_ac4_av_target",
+            "target_column": "assays_AST"
+        }
+    ]
+}

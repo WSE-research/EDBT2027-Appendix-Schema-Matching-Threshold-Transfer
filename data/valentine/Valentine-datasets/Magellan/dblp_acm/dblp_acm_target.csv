@@ -1,0 +1,101 @@
+id,title,authors,venue,year
+0,the wasa2 object-oriented workflow management system,"gottfried vossen , mathias weske",international conference on management of data,1999
+1,a user-centered interface for querying distributed multimedia databases,"isabel f. cruz , kimberly m. james",international conference on management of data,1999
+2,"world wide database-integrating the web , corba and databases","athman bouguettaya , boualem benatallah , lily hendra , james beard , kevin smith , mourad quzzani",international conference on management of data,1999
+3,xml-based information mediation with mix,"chaitan baru , amarnath gupta , bertram lud &#228; scher , richard marciano , yannis papakonstantinou , pavel velikhov , vincent chu",international conference on management of data,1999
+4,the ccube constraint object-oriented database system,"alexander brodsky , victor e. segal , jia chen , paval a. exarkhopoulo",international conference on management of data,1999
+5,the cornell jaguar project : adding mobility to predator,"phillippe bonnet , kyle buza , zhiyuan chan , victor cheng , randolph chung , takako hickey , ryan kennedy , daniel mahashin , tobias mayr , ivan oprencak , praveen seshadri , hubert siu",international conference on management of data,1999
+6,the active multisync controller of the cubetree storage organization,"nick roussopoulos , yannis kotidis , yannis sismanis",international conference on management of data,1999
+7,the jungle database search engine,"michael b &#246; hlen , linas bukauskas , curtis dyreson",international conference on management of data,1999
+8,adept : an agent-based approach to business process management,"n. r. jennings , t. j. norman , p. faratin",acm sigmod record,1998
+9,a componentized architecture for dynamic electronic markets,"benny reich , israel ben-shaul",acm sigmod record,1998
+10,design and implementation of rmp : a virtual electronic market place,"susanne boll , wolfgang klas , bernard battaglin",acm sigmod record,1998
+11,discovering internet marketing intelligence through online analytical web usage mining,"alex g. b &#252; chner , maurice d. mulvenna",acm sigmod record,1998
+12,component-based e-commerce : assessment of current practices and future directions,"martin bichler , arie segev , j. leon zhao",acm sigmod record,1998
+13,building database-driven electronic catalogs,sherif danish,acm sigmod record,1998
+14,xml and electronic commerce : enabling the network economy,"bart meltzer , robert glushko",acm sigmod record,1998
+15,a workflow-based electronic marketplace on the web,"asuman dogac , ilker durusoy , sena arpinar , nesime tatbul , pinar koksal , ibrahim cingil , nazife dimililer",acm sigmod record,1998
+16,dbis-toolkit : adaptable middleware for large scale data delivery,"mehmet altinel , demet aksoy , thomas baby , michael franklin , william shapiro , stan zdonik",international conference on management of data,1999
+17,an xjml-based wrapper generator for web information extraction,"ling liu , wei han , david buttler , calton pu , wei tang",international conference on management of data,1999
+18,database patchwork on the internet,"reinhard braumandl , alfons kemper , donald kossmann",international conference on management of data,1999
+19,domino : databases for moving objects tracking,"ouri wolfson , prasad sistla , bo xu , jutai zhou , sam chamberlain",international conference on management of data,1999
+20,the need for distributed asynchronous transactions,"lyman do , prabhu ram , pamela drew",international conference on management of data,1999
+21,versions and workspaces in microsoft repository,"thomas bergstraesser , philip a. bernstein , shankar pal , david shutt",international conference on management of data,1999
+22,data integration and warehousing in telecom italia,"stefano m. trisolini , maurizio lenzerini , daniele nardi",international conference on management of data,1999
+23,improving oltp data quality using data warehouse mechanisms,"matthias jarke , christoph quix , guido blees , dirk lehmann , gunter michalk , stefan stierl",international conference on management of data,1999
+24,serf : odmg-based generic re-structuring facility,"e. a. rundensteiner , k. claypool , m. li , l. chen , z. zhang , c. natarajan , j. jin , s. de lima , s. weiner",international conference on management of data,1999
+25,"powerbookmarks : a system for personalizable web information organization , sharing , and management","wen-syan li , quoc vu , edward chang , divyakant agrawal , kyoji hirata , sougata mukherjea , yi-leh wu , corey bufi , chen-chuan kevin chang , yoshinori hara , reiko ito , yutaka kimura , kezuyuki shimazu , yukiyoshi saito",international conference on management of data,1999
+26,the aqua approximate query answering system,"swarup acharya , phillip b. gibbons , viswanath poosala , sridhar ramaswamy",international conference on management of data,1999
+27,tam : a system for dynamic transactional activity management,"tong zhou , ling liu , calton pu",international conference on management of data,1999
+28,exploratory mining via constrained frequent set queries,"raymond ng , laks v. s. lakshmanan , jiawei han , teresa mah",international conference on management of data,1999
+29,evolvable view environment ( eve ) : non-equivalent view maintenance under schema changes,"e. a. rundensteiner , a. koeller , x. zhang , a. j. lee , a. nica , a. van wyk , y. lee",international conference on management of data,1999
+30,phoenix : making applications robust,"roger barga , david b. lomet",international conference on management of data,1999
+31,nodose version 2.0,"brad adelberg , matthew denny",international conference on management of data,1999
+32,bringing object-relational technology to the mainstream,"vishu krishnamurthy , sandeepan banerjee , anil nori",international conference on management of data,1999
+33,implementing the spirit of sql-99,paul brown,international conference on management of data,1999
+34,managing web data,dan suciu,international conference on management of data,1999
+35,"o-o , what 's happening to db2 ?","m. carey , d. chamberlin , d. doole , s. rielau , n. mattos , s. narayanan , b. vance , r. swagerman",international conference on management of data,1999
+36,hypertext databases and data mining,soumen chakrabarti,international conference on management of data,1999
+37,clustering methods for large databases : from the past to the future,"alexander hinneburg , daniel a. keim",international conference on management of data,1999
+38,petabyte databases,dirk d &#252; llmann,international conference on management of data,1999
+39,a database perspective on lotus domino/notes,c. mohan,international conference on management of data,1999
+40,microsoft site server ( commerce ed . ) : talk-slides available at the conference,bassel ojjeh,international conference on management of data,1999
+41,e-commerce database issues and experience : ( talk-slides available at at the conference ),anand rajaraman,international conference on management of data,1999
+42,merge replication in microsoft 's sql server 7.0,brad hammond,international conference on management of data,1999
+43,in-memory data management for consumer transactions the timesten approach,corporate timesten team,international conference on management of data,1999
+44,emc information sharing : direct access to mvs data from unix and nt,walt kohler,international conference on management of data,1999
+45,daytona and the foruth-generation language cymbal,rick greer,international conference on management of data,1999
+46,datablitz storage manager : main-memory database performance for critical applications,"j. baulier , p. bohannon , s. gogate , c. gupta , s. haldar",international conference on management of data,1999
+47,indexing medium-dimensionality data in oracle,"k. v. ravi kanth , siva ravada , jayant sharma , jay banerjee",international conference on management of data,1999
+48,storing semistructured data with stored,"alin deutsch , mary fernandez , dan suciu",international conference on management of data,1999
+49,efficient geometry-based similarity search of 3d spatial databases,daniel a. keim,international conference on management of data,1999
+50,a new method for similarity indexing of market basket data,"charu c. aggarwal , joel l. wolf , philip s. yu",international conference on management of data,1999
+51,walrus : a similarity retrieval algorithm for image databases,"apostol natsev , rajeev rastogi , kyuseok shim",international conference on management of data,1999
+52,shrinking the warehouse update window,"wilburt juan labio , ramana yerneni , hector garcia-molina",international conference on management of data,1999
+53,dynamat : a dynamic view management system for data warehouses,"yannis kotidis , nick roussopoulos",international conference on management of data,1999
+54,bottom-up computation of sparse and iceberg cube,"kevin beyer , raghu ramakrishnan",international conference on management of data,1999
+55,client-site query extensions,"tobias mayr , praveen seshadri",international conference on management of data,1999
+56,data management issues in electronic commerce,m. tamer &#214; zsu,international conference on management of data,1999
+57,"of crawlers , portals , mice , and men : is there more to mining the web ?","minos n. garofalakis , sridhar ramaswamy , rajeev rastogi , kyuseok shim",international conference on management of data,1999
+58,"honey , i shrunk the database : footprint , mobility , and beyond",praveen seshadri,international conference on management of data,1999
+59,a layered architecture for querying dynamic web content,"hasan davulcu , juliana freire , michael kifer , i. v. ramakrishnan",international conference on management of data,1999
+60,automatic discovery of language models for text databases,"jamie callan , margaret connell , aiqun du",international conference on management of data,1999
+61,record-boundary discovery in web documents,"d. w. embley , y. jiang , y.-k . ng",international conference on management of data,1999
+62,query rewriting for semistructured data,"yannis papakonstantinou , vasilis vassalos",international conference on management of data,1999
+63,computing capabilities of mediators,"ramana yerneni , chen li , hector garcia-molina , jeffrey ullman",international conference on management of data,1999
+64,high speed on-line backup when using logical log operations,david b. lomet,international conference on management of data,2000
+65,efficient resumption of interrupted warehouse loads,"wilburt juan labio , janet l. wiener , hector garcia-molina , vlad gorelik",international conference on management of data,2000
+66,on-line reorganization in object databases,"mohana k. lakhamraju , rajeev rastogi , s. seshadri , s. sudarshan",international conference on management of data,2000
+67,finding generalized projected clusters in high dimensional spaces,"charu c. aggarwal , philip s. yu",international conference on management of data,2000
+68,density biased sampling : an improved method for data mining and clustering,"christopher r. palmer , christos faloutsos",international conference on management of data,2000
+69,lof : identifying density-based local outliers,"markus m. breunig , hans-peter kriegel , raymond t. ng , j &#246; rg sander",international conference on management of data,2000
+70,answering complex sql queries using automatic summary tables,"markos zaharioudakis , roberta cochrane , george lapis , hamid pirahesh , monica urata",international conference on management of data,2000
+71,synchronizing a database to improve freshness,"junghoo cho , hector garcia-molina",international conference on management of data,2000
+72,how to roll a join : asynchronous incremental view maintenance,"kenneth salem , kevin beyer , bruce lindsay , roberta cochrane",international conference on management of data,2000
+73,on wrapping query languages and efficient xml integration,"vassilis christophides , sophie cluet , j &#233; r &#466; me sim &#232; on",international conference on management of data,2000
+74,xmill : an efficient compressor for xml data,"hartmut liefke , dan suciu",international conference on management of data,2000
+75,xtract : a system for extracting document type descriptors from xml documents,"minos garofalakis , aristides gionis , rajeev rastogi , s. seshadri , kyuseok shim",international conference on management of data,2000
+76,spatial join selectivity using power laws,"christos faloutsos , bernhard seeger , agma traina , caetano traina , jr.",international conference on management of data,2000
+77,mocha : a self-extensible database middleware system for distributed data sources,"manuel rodr &#237; guez-mart &#237; nez , nick roussopoulos",international conference on management of data,2000
+78,closest pair queries in spatial databases,"antonio corral , yannis manolopoulos , yannis theodoridis , michael vassilakopoulos",international conference on management of data,2000
+79,influence sets based on reverse nearest neighbor queries,"flip korn , s. muthukrishnan",international conference on management of data,2000
+80,security of random data perturbation methods,"krishnamurty muralidhar , rathindra sarathy",acm transactions on database systems ( tods ),1999
+81,improving database design through the analysis of relationships,"debabrata dey , veda c. storey , terence m. barron",acm transactions on database systems ( tods ),1999
+82,the sift information dissemination system,"tak w. yan , hector garcia-molina",acm transactions on database systems ( tods ),1999
+83,an ontological analysis of the relationship construct in conceptual modeling,"yair wand , veda c. storey , ron weber",acm transactions on database systems ( tods ),1999
+84,chorochronos : a research network for spatiotemporal database systems,"andrew frank , stephane grumbach , ralf hartmut g &#252; ting , christian s. jensen , manolis koubarakis , nikos lorentzos , yannis manolopoulos , enrico nardelli , barbara pernici , hans-j &#246; rg schek , michel scholl , timos sellis , babis theodoulidis , peter widmayer",acm sigmod record,1999
+85,engineering federated information systems : report of eefis '99 workshop,"s. conrad , w. hasselbring , u. hohenstein , r.-d . kutsche , m. roantree , g. saake , f. saltor",acm sigmod record,1999
+86,first-class views : a key to user-centered computing,"arnon rosenthal , edward sciore",acm sigmod record,1999
+87,cost estimation of user-defined methods in object-relational database systems,"jihad boulos , kinji ono",acm sigmod record,1999
+88,distributed transactions in practice,"prabhu ram , lyman do , pamela drew",acm sigmod record,1999
+89,on mutli-resolution document transmission in mobile web,"stanley m. t. yau , hong va leong , dennis mcleod , antonio si",acm sigmod record,1999
+90,an overview and classification of mediated query systems,"ruxandra domenig , klaus r. dittrich",acm sigmod record,1999
+91,"a distributed scientific data archive using the web , xml and sql/med","mark papiani , jasmin l. wason , alistair n. dunlop , denis a. nicole",acm sigmod record,1999
+92,mining frequent patterns without candidate generation,"jiawei han , jian pei , yiwen yin",international conference on management of data,2000
+93,database research at the university of oklahoma,"le gruenwald , leonard brown , ravi dirckze , sylvain guinepain , carlos sanchez , brian summers , sirirut vanichayobon",acm sigmod record,1999
+94,turbo-charging vertical mining of large databases,"pradeep shenoy , jayant r. haritsa , s. sundarshan , gaurav bhalotia , mayank bawa , devavrat shah",international conference on management of data,2000
+95,data mining on an oltp system ( nearly ) for free,"erik riedel , christos faloutsos , gregory r. ganger , david f. nagle",international conference on management of data,2000
+96,a study on data point search for hg-trees,"joseph kuan , paul lewis",acm sigmod record,1999
+97,the oasis multidatabase prototype,"mark roantree , john murphy , wilhelm hasselbring",acm sigmod record,1999
+98,efficient materialization and use of views in data warehouses,"m &#225; rcio farias de souza , marcus costa sampaio",acm sigmod record,1999
+99,design principles for data-intensive web sites,"stefano ceri , piero fraternali , stefano paraboschi",acm sigmod record,1999

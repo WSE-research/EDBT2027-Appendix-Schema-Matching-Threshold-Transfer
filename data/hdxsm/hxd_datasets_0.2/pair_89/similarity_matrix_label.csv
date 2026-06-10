@@ -1,0 +1,5 @@
+,country,country_pcode,region,region_pcode,cercle,cercle_pcode,population_2021,sector,people_in_need
+Country,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sector ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+People in need,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Total population,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,28 @@
+{
+    "matches": [
+        {
+            "source_table": "amazon_google_exp_source",
+            "source_column": "id",
+            "target_table": "amazon_google_exp_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "amazon_google_exp_source",
+            "source_column": "title",
+            "target_table": "amazon_google_exp_target",
+            "target_column": "title"
+        },
+        {
+            "source_table": "amazon_google_exp_source",
+            "source_column": "manufacturer",
+            "target_table": "amazon_google_exp_target",
+            "target_column": "manufacturer"
+        },
+        {
+            "source_table": "amazon_google_exp_source",
+            "source_column": "price",
+            "target_table": "amazon_google_exp_target",
+            "target_column": "price"
+        }
+    ]
+}

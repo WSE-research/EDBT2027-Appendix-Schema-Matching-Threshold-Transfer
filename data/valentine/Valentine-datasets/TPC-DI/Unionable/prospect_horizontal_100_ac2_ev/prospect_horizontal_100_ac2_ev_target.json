@@ -1,0 +1,68 @@
+{
+    "AgeID": {
+        "type": "varchar(30)"
+    },
+    "LaNa": {
+        "type": "varchar(30)"
+    },
+    "FirNa": {
+        "type": "varchar(30)"
+    },
+    "MidInit": {
+        "type": "varchar(1)"
+    },
+    "Gen": {
+        "type": "varchar(1)"
+    },
+    "AdL1": {
+        "type": "varchar(80)"
+    },
+    "AdLi2": {
+        "type": "varchar(80)"
+    },
+    "PoC": {
+        "type": "varchar(12)"
+    },
+    "C": {
+        "type": "varchar(25)"
+    },
+    "Sta": {
+        "type": "varchar(20)"
+    },
+    "Coun": {
+        "type": "varchar(24)"
+    },
+    "Pho": {
+        "type": "varchar(30)"
+    },
+    "Inc": {
+        "type": "numeric(9)"
+    },
+    "NumCa": {
+        "type": "numeric(2)"
+    },
+    "NuChi": {
+        "type": "numeric(2)"
+    },
+    "MariSt": {
+        "type": "varchar(1)"
+    },
+    "Ag": {
+        "type": "numeric(3)"
+    },
+    "CreRa": {
+        "type": "numeric(4)"
+    },
+    "OOReF": {
+        "type": "varchar(1)"
+    },
+    "Em": {
+        "type": "varchar(30)"
+    },
+    "NumCrCar": {
+        "type": "numeric(2)"
+    },
+    "NeWor": {
+        "type": "numeric(12)"
+    }
+}

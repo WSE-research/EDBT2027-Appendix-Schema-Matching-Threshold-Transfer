@@ -1,0 +1,34 @@
+{
+    "matches": [
+        {
+            "source_table": "dblp_acm_source",
+            "source_column": "id",
+            "target_table": "dblp_acm_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "dblp_acm_source",
+            "source_column": "title",
+            "target_table": "dblp_acm_target",
+            "target_column": "title"
+        },
+        {
+            "source_table": "dblp_acm_source",
+            "source_column": "authors",
+            "target_table": "dblp_acm_target",
+            "target_column": "authors"
+        },
+        {
+            "source_table": "dblp_acm_source",
+            "source_column": "venue",
+            "target_table": "dblp_acm_target",
+            "target_column": "venue"
+        },
+        {
+            "source_table": "dblp_acm_source",
+            "source_column": "year",
+            "target_table": "dblp_acm_target",
+            "target_column": "year"
+        }
+    ]
+}

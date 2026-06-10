@@ -1,0 +1,10 @@
+<"SHCC Event Code", "SHCC Event Code">
+<"Incident date", "Incident date">
+<"Perpetrator ", "Perpetrator ">
+<"Weapons use", "Weapons use">
+<"Total health worker killed", "Total health worker killed">
+<"Total health worker kidnapped", "Total health worker kidnapped">
+<"Total health worker injured", "Total health worker injured">
+<"Total health worker assaulted", "Total health worker assaulted">
+<"Total number of attacks on facilities which reported destruction", "Total number of attacks on facilities which reported destruction">
+<"Total number of attacks on facilities which reported damage", "Total number of attacks on facilities which reported damage">

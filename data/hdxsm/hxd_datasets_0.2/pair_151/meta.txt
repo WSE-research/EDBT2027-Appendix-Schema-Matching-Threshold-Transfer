@@ -1,0 +1,16 @@
+5a296cae-4df3-4229-887f-742531b9737d,170620_marawi_conflict_3w.xlsx
+f76b0dd8-2137-42a1-8a9b-4fc6dc38c007,Philippines 3w as of December 2016.xlsx
+---hxl_tags---
+#org+name
+#org+name+implement
+#sector
+#subsector
+#adm1
+#adm2
+#adm3
+#adm4
+#loc+name
+#activity
+#status
+#date+start
+#date+end

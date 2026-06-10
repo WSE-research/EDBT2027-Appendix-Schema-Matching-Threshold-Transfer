@@ -1,0 +1,38 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "RELATITY": {
+        "type": "varchar(1)"
+    },
+    "CONFISCO": {
+        "type": "smallint unsigned"
+    },
+    "CURB": {
+        "type": "varchar(32)"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "SRASI": {
+        "type": "varchar(50)"
+    },
+    "CHI": {
+        "type": "varchar(20)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BFOR": {
+        "type": "varchar(11)"
+    },
+    "TISI": {
+        "type": "integer"
+    },
+    "VARII": {
+        "type": "integer unsigned"
+    }
+}

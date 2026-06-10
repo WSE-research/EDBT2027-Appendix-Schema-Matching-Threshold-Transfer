@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "AgencyID"
+        },
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "Employer"
+        },
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "LastName"
+        },
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "PostalCode"
+        },
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "AddressLine2"
+        },
+        {
+            "source_table": "prospect_both_0_30_ec_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_30_ec_ev_target",
+            "target_column": "CreditRating"
+        }
+    ]
+}

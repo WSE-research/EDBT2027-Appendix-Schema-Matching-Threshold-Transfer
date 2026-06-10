@@ -1,0 +1,116 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "bltrld(ntrntnlmrkr)": {
+        "type": "int"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "clmtchngmtgtn(mrkr)": {
+        "type": "int"
+    },
+    "brnchnm": {
+        "type": "text"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "nvrmntlsstnblt(mrkr)": {
+        "type": "int"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "dvsnd": {
+        "type": "text"
+    },
+    "cfl(mrkr)": {
+        "type": "int"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "prjctnmbr": {
+        "type": "text"
+    },
+    "dvsnnm": {
+        "type": "text"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "dsrtfctn(mrkr)": {
+        "type": "int"
+    },
+    "cdbsnssdlvrmdl(ld)": {
+        "type": "text"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "brnchd": {
+        "type": "text"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "fndcntrd": {
+        "type": "int"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "sctrnm": {
+        "type": "text"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "mntspnt": {
+        "type": "real"
+    }
+}

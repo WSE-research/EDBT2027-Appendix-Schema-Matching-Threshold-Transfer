@@ -1,0 +1,131 @@
+{
+    "miller2_FiY": {
+        "type": "text"
+    },
+    "miller2_PBAT": {
+        "type": "text"
+    },
+    "miller2_PrograProc": {
+        "type": "text"
+    },
+    "miller2_ContiN": {
+        "type": "text"
+    },
+    "miller2_GeEqua": {
+        "type": "int"
+    },
+    "miller2_YouIs": {
+        "type": "int"
+    },
+    "miller2_RegPro": {
+        "type": "int"
+    },
+    "miller2_CounRegID": {
+        "type": "text"
+    },
+    "miller2_OrganN": {
+        "type": "text"
+    },
+    "miller2_ChiIs": {
+        "type": "int"
+    },
+    "miller2_MaxCIDAContri": {
+        "type": "real"
+    },
+    "miller2_CoRegNa": {
+        "type": "text"
+    },
+    "miller2_ClChMitig": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFDev": {
+        "type": "int"
+    },
+    "miller2_EnvSusta": {
+        "type": "int"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_UrIss": {
+        "type": "int"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_IRTCPer": {
+        "type": "real"
+    },
+    "miller2_SecNa": {
+        "type": "text"
+    },
+    "miller2_FuCenN": {
+        "type": "text"
+    },
+    "miller2_DivID": {
+        "type": "text"
+    },
+    "miller2_OrgCla": {
+        "type": "text"
+    },
+    "miller2_UnAmoPrBud": {
+        "type": "real"
+    },
+    "miller2_DisIss": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_ProNum": {
+        "type": "text"
+    },
+    "miller2_BrID": {
+        "type": "text"
+    },
+    "miller2_SecID": {
+        "type": "text"
+    },
+    "miller2_OrgaS": {
+        "type": "text"
+    },
+    "miller2_Bio": {
+        "type": "int"
+    },
+    "miller2_FSTCPe": {
+        "type": "real"
+    },
+    "miller2_BraNa": {
+        "type": "text"
+    },
+    "miller2_OrganID": {
+        "type": "text"
+    },
+    "miller2_BilatAMar": {
+        "type": "int"
+    },
+    "miller2_IndiIss": {
+        "type": "int"
+    },
+    "miller2_KnoFDevel": {
+        "type": "int"
+    },
+    "miller2_OrgaTy": {
+        "type": "text"
+    },
+    "miller2_PrBrCouID": {
+        "type": "text"
+    },
+    "miller2_CounRePer": {
+        "type": "real"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SecPe": {
+        "type": "real"
+    },
+    "miller2_AmSp": {
+        "type": "real"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "fsclr"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "rgnlprgrm(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Project Browser country ID",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "prjctbrwsrcntrd"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "cntrrgnd"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "cdbsnssdlvrmdl(ld)"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Fund centre ID",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "fndcntrd"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Amount spent",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "mntspnt"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "sctnd"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "dsrtfctn(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "prjctnmbr"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Enviromental sustainability (marker)",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "nvrmntlsstnblt(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "prtcptrdvlpmntndgdgvrnnc"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Disability issues (marker)",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "dsbltsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "rgnstnnm"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac3_av_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_both_0_30_ac3_av_target",
+            "target_column": "cntnntd"
+        }
+    ]
+}

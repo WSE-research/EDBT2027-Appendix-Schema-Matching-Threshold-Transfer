@@ -1,0 +1,116 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "UrIs": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "ICTAAToFoDeve": {
+        "type": "int"
+    },
+    "OrganiSu": {
+        "type": "text"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "FCeID": {
+        "type": "int"
+    },
+    "IRTCPerc": {
+        "type": "real"
+    },
+    "Dese": {
+        "type": "int"
+    },
+    "DivN": {
+        "type": "text"
+    },
+    "OrgCl": {
+        "type": "text"
+    },
+    "BilaAMar": {
+        "type": "int"
+    },
+    "GenEqua": {
+        "type": "int"
+    },
+    "TraDevel": {
+        "type": "int"
+    },
+    "SecPerc": {
+        "type": "real"
+    },
+    "Sta": {
+        "type": "text"
+    },
+    "ProjNu": {
+        "type": "text"
+    },
+    "IndIss": {
+        "type": "int"
+    },
+    "RegProg": {
+        "type": "int"
+    },
+    "ProBroCouID": {
+        "type": "text"
+    },
+    "ClChaAdap": {
+        "type": "int"
+    },
+    "BrID": {
+        "type": "text"
+    },
+    "SeN": {
+        "type": "text"
+    },
+    "FuCenN": {
+        "type": "text"
+    },
+    "SeID": {
+        "type": "text"
+    },
+    "ChIss": {
+        "type": "int"
+    },
+    "YouIss": {
+        "type": "int"
+    },
+    "DisabIss": {
+        "type": "int"
+    },
+    "KnowlFDeve": {
+        "type": "int"
+    },
+    "OrgaID": {
+        "type": "text"
+    },
+    "OrganiN": {
+        "type": "text"
+    },
+    "OrganiTy": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "ConN": {
+        "type": "text"
+    },
+    "CouRegID": {
+        "type": "text"
+    },
+    "CouReNa": {
+        "type": "text"
+    },
+    "CounRegPerc": {
+        "type": "real"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

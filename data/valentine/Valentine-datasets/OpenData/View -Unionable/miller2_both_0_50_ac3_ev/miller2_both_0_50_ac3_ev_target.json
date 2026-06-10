@@ -1,0 +1,116 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "dsrtfctn(mrkr)": {
+        "type": "int"
+    },
+    "prjctnmbr": {
+        "type": "text"
+    },
+    "ntdmnt(prjct-lvlbdgt)": {
+        "type": "real"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "fndcntrd": {
+        "type": "int"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "prgrmmngprcss(nw)": {
+        "type": "text"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "dvsnnm": {
+        "type": "text"
+    },
+    "mxmmcdcntrbtn(prjct-lvl)": {
+        "type": "real"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "brnchd": {
+        "type": "text"
+    },
+    "trddvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "pbtp": {
+        "type": "text"
+    },
+    "rgnlprgrm(mrkr)": {
+        "type": "int"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "rbnsss(mrkr)": {
+        "type": "int"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "sctrnm": {
+        "type": "text"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "mntspnt": {
+        "type": "real"
+    }
+}

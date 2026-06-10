@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_AgencyID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_Country"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_AddressLine1"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_MaritalStatus"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_vertical_30_ac1_ev_target",
+            "target_column": "prospect_Gender"
+        }
+    ]
+}

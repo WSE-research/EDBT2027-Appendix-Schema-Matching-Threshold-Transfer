@@ -1,0 +1,15 @@
+<"Sigla", "Organisación">
+<"Sector*", "Sector">
+<"Actividad*", "Actividad">
+<"Provincia*", "Provincia">
+<"pcode", "Provincia">
+<"pcode", "pcode">
+<"Cantón*", "Cantón">
+<"pcode2", "Cantón">
+<"pcode2", "pcode2">
+<"Parroquia", "Parroquia">
+<"pcode3", "Parroquia">
+<"pcode3", "pcode3">
+<"Nombre de Comunidad/Albergue", "Nobre de Albergue">
+<"Area o Tipo", "Tipo de ubicación">
+<"Estatus*", "Estatus">

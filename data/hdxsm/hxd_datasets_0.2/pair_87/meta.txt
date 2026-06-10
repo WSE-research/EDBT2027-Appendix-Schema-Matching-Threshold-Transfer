@@ -1,0 +1,13 @@
+8989eeb2-fe28-421a-8aa5-17ff8b2befc0,afghanistan-3w-operational-capacity-april-to-june-2019.csv
+c40c0d0f-562b-4912-98f4-8e629545e266,afghanistan-3w-operational-presence-january-to-march-2019.xlsx
+---hxl_tags---
+#loc+name
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#org+acronym
+#org+name
+#org+type+name
+#sector+cluster+code
+#sector+cluster+name

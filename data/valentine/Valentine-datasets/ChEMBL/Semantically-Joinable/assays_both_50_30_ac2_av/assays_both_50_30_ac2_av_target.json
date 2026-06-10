@@ -1,0 +1,47 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "ASSSUBCELFR": {
+        "type": "varchar(100)"
+    },
+    "Descri": {
+        "type": "varchar(400)"
+    },
+    "TISI": {
+        "type": "integer"
+    },
+    "VAI": {
+        "type": "integer unsigned"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "ASSCTY": {
+        "type": "varchar(100)"
+    },
+    "RELAT": {
+        "type": "varchar(1)"
+    },
+    "CONFISC": {
+        "type": "smallint unsigned"
+    },
+    "CUB": {
+        "type": "varchar(32)"
+    },
+    "SRI": {
+        "type": "smallint"
+    },
+    "SASI": {
+        "type": "varchar(50)"
+    },
+    "CHI": {
+        "type": "varchar(20)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BAFO": {
+        "type": "varchar(11)"
+    }
+}

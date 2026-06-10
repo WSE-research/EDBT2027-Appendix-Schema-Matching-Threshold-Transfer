@@ -1,0 +1,13 @@
+<"Date of Assessment", " Date of Current Survey">
+<"Province (Admin 1)", "Province">
+<"Province P_Code", "Province Code">
+<"District (Admin 2)", "District">
+<"District P_Code", "District Code">
+<"Post (Admin 3)", "Posto">
+<"Latitude", "Latitude">
+<"Longitude", "Longtitude">
+<"Total Households Affected", " Number of families/households">
+<"Total Individuals Affected", " Total number of IDP individuals">
+<"Post P_Code", "Origin Posto Code">
+<"Locality", "Locality">
+<"Locality P_Code", "Locality Code">

@@ -1,0 +1,12 @@
+dbc03e2c-eecb-482b-a6c0-a3dfa801d13a,DTM DRC BA Tanganyika Sep2021 R9
+c387ce97-8f82-4a0d-9cb0-e1009f14a896,DTM DRC Site Assessment North Kivu Jul2019 R37
+---hxl_tags---
+#date+reported
+#country+name
+#country+code
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#date+occurred
+#affected+idps+ind

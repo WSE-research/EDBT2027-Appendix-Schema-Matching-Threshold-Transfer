@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "BFO"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "DI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "CEI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "CHEI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "ASSTY"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "TISI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "ASTI"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "ASCT"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "ASTIS"
+        },
+        {
+            "source_table": "assays_both_0_50_ac2_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_0_50_ac2_av_target",
+            "target_column": "SASI"
+        }
+    ]
+}

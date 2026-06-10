@@ -1,0 +1,47 @@
+{
+    "assays_ASI": {
+        "type": "integer"
+    },
+    "assays_CHEI": {
+        "type": "varchar(20)"
+    },
+    "assays_ASORGA": {
+        "type": "varchar(250)"
+    },
+    "assays_ASSTIS": {
+        "type": "varchar(100)"
+    },
+    "assays_ASSTY": {
+        "type": "varchar(1)"
+    },
+    "assays_CURB": {
+        "type": "varchar(32)"
+    },
+    "assays_T": {
+        "type": "integer"
+    },
+    "assays_RELATY": {
+        "type": "varchar(1)"
+    },
+    "assays_CONFSCO": {
+        "type": "smallint unsigned"
+    },
+    "assays_SI": {
+        "type": "smallint"
+    },
+    "assays_SASI": {
+        "type": "varchar(50)"
+    },
+    "assays_CI": {
+        "type": "integer"
+    },
+    "assays_BFO": {
+        "type": "varchar(11)"
+    },
+    "assays_TII": {
+        "type": "integer"
+    },
+    "assays_VAI": {
+        "type": "integer unsigned"
+    }
+}

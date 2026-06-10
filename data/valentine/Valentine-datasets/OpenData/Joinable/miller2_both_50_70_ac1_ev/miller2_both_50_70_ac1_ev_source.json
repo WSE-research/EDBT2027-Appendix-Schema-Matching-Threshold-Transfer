@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    }
+}

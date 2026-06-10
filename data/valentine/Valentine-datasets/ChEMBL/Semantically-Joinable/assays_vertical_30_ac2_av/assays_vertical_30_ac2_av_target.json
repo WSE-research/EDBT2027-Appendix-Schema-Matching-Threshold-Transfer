@@ -1,0 +1,47 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "Des": {
+        "type": "varchar(400)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BFO": {
+        "type": "varchar(11)"
+    },
+    "CURAB": {
+        "type": "varchar(32)"
+    },
+    "ASSSUBCELFR": {
+        "type": "varchar(100)"
+    },
+    "ASCT": {
+        "type": "varchar(100)"
+    },
+    "T": {
+        "type": "integer"
+    },
+    "RELAT": {
+        "type": "varchar(1)"
+    },
+    "CONFSC": {
+        "type": "smallint unsigned"
+    },
+    "SRI": {
+        "type": "smallint"
+    },
+    "SASSI": {
+        "type": "varchar(50)"
+    },
+    "CHEI": {
+        "type": "varchar(20)"
+    },
+    "TISI": {
+        "type": "integer"
+    },
+    "VAI": {
+        "type": "integer unsigned"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "AgID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "Inc"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "Co"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "OwOReF"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "Sta"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "MidIn"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "NumCa"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "LNa"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "Ph"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "MarSta"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_50_ac2_av_target",
+            "target_column": "CrRat"
+        }
+    ]
+}

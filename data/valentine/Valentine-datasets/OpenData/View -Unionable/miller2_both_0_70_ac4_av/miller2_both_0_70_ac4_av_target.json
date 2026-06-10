@@ -1,0 +1,131 @@
+{
+    "miller2_FisY": {
+        "type": "text"
+    },
+    "miller2_DivNa": {
+        "type": "text"
+    },
+    "miller2_UrbIs": {
+        "type": "int"
+    },
+    "miller2_SecID": {
+        "type": "text"
+    },
+    "miller2_ICTAATFDevelo": {
+        "type": "int"
+    },
+    "miller2_DivID": {
+        "type": "text"
+    },
+    "miller2_OrgaT": {
+        "type": "text"
+    },
+    "miller2_FSTCPe": {
+        "type": "real"
+    },
+    "miller2_Sta": {
+        "type": "text"
+    },
+    "miller2_ClimChaAdapt": {
+        "type": "int"
+    },
+    "miller2_TrDevel": {
+        "type": "int"
+    },
+    "miller2_GeEq": {
+        "type": "int"
+    },
+    "miller2_OrgaID": {
+        "type": "text"
+    },
+    "miller2_ProBroCounID": {
+        "type": "text"
+    },
+    "miller2_ContN": {
+        "type": "text"
+    },
+    "miller2_ProjNu": {
+        "type": "text"
+    },
+    "miller2_OrganCl": {
+        "type": "text"
+    },
+    "miller2_OrganNa": {
+        "type": "text"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_CoRePerc": {
+        "type": "real"
+    },
+    "miller2_CounRegNa": {
+        "type": "text"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SeN": {
+        "type": "text"
+    },
+    "miller2_PBAT": {
+        "type": "text"
+    },
+    "miller2_DisaIss": {
+        "type": "int"
+    },
+    "miller2_YouIss": {
+        "type": "int"
+    },
+    "miller2_CIDABusDelMod": {
+        "type": "text"
+    },
+    "miller2_IRTCPerc": {
+        "type": "real"
+    },
+    "miller2_SecPerc": {
+        "type": "real"
+    },
+    "miller2_Desert": {
+        "type": "int"
+    },
+    "miller2_EnvSustai": {
+        "type": "int"
+    },
+    "miller2_BrNa": {
+        "type": "text"
+    },
+    "miller2_RegPr": {
+        "type": "int"
+    },
+    "miller2_UntAmoProBu": {
+        "type": "real"
+    },
+    "miller2_ParticDeveAnGoGove": {
+        "type": "int"
+    },
+    "miller2_Biod": {
+        "type": "int"
+    },
+    "miller2_ChiIs": {
+        "type": "int"
+    },
+    "miller2_IndiIs": {
+        "type": "int"
+    },
+    "miller2_KnowlFDevelo": {
+        "type": "int"
+    },
+    "miller2_OrgaSu": {
+        "type": "text"
+    },
+    "miller2_CounRegID": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    }
+}

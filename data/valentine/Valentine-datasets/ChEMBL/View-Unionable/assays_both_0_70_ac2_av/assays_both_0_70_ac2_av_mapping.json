@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASSSTR"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "DOI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "SRASI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASSSUBFRA"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "CHEI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASSCATE"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "RELATT"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "CUB"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "SI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASSCET"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "T"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASORGA"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASSTAI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "ASTI"
+        },
+        {
+            "source_table": "assays_both_0_70_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_0_70_ac2_av_target",
+            "target_column": "CI"
+        }
+    ]
+}

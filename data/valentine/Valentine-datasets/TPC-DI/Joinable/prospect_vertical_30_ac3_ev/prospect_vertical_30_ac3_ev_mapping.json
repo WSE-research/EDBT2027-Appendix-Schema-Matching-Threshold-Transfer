@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "ddrssln1"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "nmbrcrs"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "wnrrntflg"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "gndr"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_ev_source",
+            "source_column": "LastName",
+            "target_table": "prospect_vertical_30_ac3_ev_target",
+            "target_column": "lstnm"
+        }
+    ]
+}

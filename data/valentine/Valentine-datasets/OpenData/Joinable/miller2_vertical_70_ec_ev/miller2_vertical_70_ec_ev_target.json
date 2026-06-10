@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    }
+}

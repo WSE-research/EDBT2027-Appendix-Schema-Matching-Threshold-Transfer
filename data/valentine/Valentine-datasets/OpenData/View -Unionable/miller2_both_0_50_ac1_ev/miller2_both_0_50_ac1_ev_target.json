@@ -1,0 +1,116 @@
+{
+    "miller2_FiscalYear": {
+        "type": "text"
+    },
+    "miller2_IRTCPercent": {
+        "type": "real"
+    },
+    "miller2_UntiedAmount(Project-levelBudget)": {
+        "type": "real"
+    },
+    "miller2_DisabilityIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_GenderEquality(marker)": {
+        "type": "int"
+    },
+    "miller2_FundCentreName": {
+        "type": "text"
+    },
+    "miller2_OrganisationType": {
+        "type": "text"
+    },
+    "miller2_ProjectBrowserCountryID": {
+        "type": "text"
+    },
+    "miller2_CountryRegionName": {
+        "type": "text"
+    },
+    "miller2_UrbanIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_FundCentreID": {
+        "type": "int"
+    },
+    "miller2_FSTCPercent": {
+        "type": "real"
+    },
+    "miller2_EnviromentalSustainability(marker)": {
+        "type": "int"
+    },
+    "miller2_SectionID": {
+        "type": "text"
+    },
+    "miller2_DivisionName": {
+        "type": "text"
+    },
+    "miller2_AmountSpent": {
+        "type": "real"
+    },
+    "miller2_SectorID": {
+        "type": "int"
+    },
+    "miller2_ClimateChangeMitigation(marker)": {
+        "type": "int"
+    },
+    "miller2_OrganisationClass": {
+        "type": "text"
+    },
+    "miller2_BilateralAid(internationalMarker)": {
+        "type": "int"
+    },
+    "miller2_ContinentID": {
+        "type": "int"
+    },
+    "miller2_OrganisationID": {
+        "type": "text"
+    },
+    "miller2_CountryRegionPercent": {
+        "type": "real"
+    },
+    "miller2_YouthIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_SectorName": {
+        "type": "text"
+    },
+    "miller2_Desertification(marker)": {
+        "type": "int"
+    },
+    "miller2_ParticipatoryDevelopmentAndGoodGovernance": {
+        "type": "int"
+    },
+    "miller2_TradeDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_Biodiversity(marker)": {
+        "type": "int"
+    },
+    "miller2_ChildrenIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_IndigenousIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_ICTAsAToolForDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_KnowledgeForDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_OrganisationName": {
+        "type": "text"
+    },
+    "miller2_OrganisationSub-class": {
+        "type": "text"
+    },
+    "miller2_ContinentName": {
+        "type": "text"
+    },
+    "miller2_CountryRegionID": {
+        "type": "text"
+    },
+    "miller2_SectorPercent": {
+        "type": "real"
+    }
+}

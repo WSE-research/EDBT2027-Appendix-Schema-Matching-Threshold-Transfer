@@ -1,0 +1,13 @@
+<"DTM Round", "DTM Round">
+<"State_Pcode", "State_Pcode">
+<"State", "State">
+<"LGA Pcode", "LGA Pcode">
+<"LGA", "LGA">
+<"Ward Pcode", "CODs_Ward_Pcode">
+<"Ward", "WARD">
+<"SiteID", "SiteID">
+<"Site Name", "Site Name">
+<"Longitude", "Longitude">
+<"Latitude", "Latitude">
+<"Number of Households", "Number of Households">
+<"Number of Individuals", "Number of Individuals">

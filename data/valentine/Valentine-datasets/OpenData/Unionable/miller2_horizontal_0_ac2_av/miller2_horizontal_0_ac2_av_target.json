@@ -1,0 +1,155 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "ProjNum": {
+        "type": "text"
+    },
+    "Sta": {
+        "type": "text"
+    },
+    "MaxCIDAContr": {
+        "type": "real"
+    },
+    "BraID": {
+        "type": "text"
+    },
+    "BraN": {
+        "type": "text"
+    },
+    "DiID": {
+        "type": "text"
+    },
+    "DivNa": {
+        "type": "text"
+    },
+    "SecID": {
+        "type": "text"
+    },
+    "SectN": {
+        "type": "text"
+    },
+    "RegiPr": {
+        "type": "int"
+    },
+    "FuCenID": {
+        "type": "int"
+    },
+    "FCeN": {
+        "type": "text"
+    },
+    "UntAmPrBud": {
+        "type": "real"
+    },
+    "FSTCPerc": {
+        "type": "real"
+    },
+    "IRTCPe": {
+        "type": "real"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "CIDABuDelMod": {
+        "type": "text"
+    },
+    "ProgrProc": {
+        "type": "text"
+    },
+    "BilAMar": {
+        "type": "int"
+    },
+    "PBAT": {
+        "type": "text"
+    },
+    "EnvirSust": {
+        "type": "int"
+    },
+    "CliChaAda": {
+        "type": "int"
+    },
+    "ClimChMitig": {
+        "type": "int"
+    },
+    "Dese": {
+        "type": "int"
+    },
+    "ParticDevelAGoGover": {
+        "type": "int"
+    },
+    "TrDevelo": {
+        "type": "int"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "UrIss": {
+        "type": "int"
+    },
+    "ChiIs": {
+        "type": "int"
+    },
+    "YoIss": {
+        "type": "int"
+    },
+    "IndigIss": {
+        "type": "int"
+    },
+    "DisaIss": {
+        "type": "int"
+    },
+    "ICTAATFDevel": {
+        "type": "int"
+    },
+    "KnoFDevelo": {
+        "type": "int"
+    },
+    "GeEq": {
+        "type": "int"
+    },
+    "OrgID": {
+        "type": "text"
+    },
+    "OrgaN": {
+        "type": "text"
+    },
+    "OrganTy": {
+        "type": "text"
+    },
+    "OrgaCla": {
+        "type": "text"
+    },
+    "OrganiS": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "ContNa": {
+        "type": "text"
+    },
+    "PrBrCoID": {
+        "type": "text"
+    },
+    "CounRegID": {
+        "type": "text"
+    },
+    "CouRegNa": {
+        "type": "text"
+    },
+    "CoRePerc": {
+        "type": "real"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "SePe": {
+        "type": "real"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

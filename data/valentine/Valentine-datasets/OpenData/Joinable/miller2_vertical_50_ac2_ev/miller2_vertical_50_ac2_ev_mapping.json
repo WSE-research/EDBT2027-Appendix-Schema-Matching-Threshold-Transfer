@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "FiY"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "MaxiCIDACont"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Project Browser country ID",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "PrBroCoID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "TraDevelo"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Urban issues (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "UrIss"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "OrgSu"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ClChMitig"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ContiNa"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "Biod"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "KnowlFDev"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Sector ID",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "SecID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ReProg"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ConID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "CouReID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ChilIss"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "CounRegPer"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Disability issues (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "DisIs"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "IRTCPerc"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "Desertif"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Bilateral aid (international marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "BilAMa"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ProgrPro"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "FSTCPer"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "Division name",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "DiN"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "ICTAAToFDeve"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_ev_source",
+            "source_column": "CFLI (marker)",
+            "target_table": "miller2_vertical_50_ac2_ev_target",
+            "target_column": "CFLI"
+        }
+    ]
+}

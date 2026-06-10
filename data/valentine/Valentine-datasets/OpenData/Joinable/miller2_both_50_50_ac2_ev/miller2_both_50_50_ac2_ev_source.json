@@ -1,0 +1,116 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    }
+}

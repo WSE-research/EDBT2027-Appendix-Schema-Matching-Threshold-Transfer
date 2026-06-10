@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_NuCrCa"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_AddrL2"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_CreRat"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_Pho"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_A"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_MidIni"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_AddrL1"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_St"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_NuChi"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac4_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_50_50_ac4_ev_target",
+            "target_column": "prospect_PosCo"
+        }
+    ]
+}

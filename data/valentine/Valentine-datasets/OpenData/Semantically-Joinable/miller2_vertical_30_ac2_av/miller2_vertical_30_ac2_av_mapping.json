@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "FiYe"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "Biod"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "ContID"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "ParticDevAnGoGov"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "RegiProg"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "FCeNa"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "IndIss"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "CouRegPe"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "Deserti"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Amount spent",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "AmoSp"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "ContiN"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "BraNa"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "ProProc"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "OrganiCla"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac2_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_vertical_30_ac2_av_target",
+            "target_column": "KnowFDev"
+        }
+    ]
+}

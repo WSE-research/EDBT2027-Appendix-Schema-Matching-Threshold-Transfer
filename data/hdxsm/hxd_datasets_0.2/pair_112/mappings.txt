@@ -1,0 +1,6 @@
+<"Date_enquete phase 2", "1#1#a#1 _Site Assessment Date">
+<"Province", "1#1#e#1_Admin 1">
+<"Admin1_Code", "Admin 1 Pcode">
+<"Territoire", "1#1#e#2_Admin 2">
+<"Admin2_Code", "Admin 2 Pcode">
+<"TOTAL PDI A JOUR", "2#1#b#1_No# of Individuals">

@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_BFOR"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_Descri"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_TISI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_RELAT"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_SI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSCET"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_CHI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASTET"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_T"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_DI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSUBCEFR"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASTIS"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSTY"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSST"
+        },
+        {
+            "source_table": "assays_vertical_70_ac4_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_70_ac4_ev_target",
+            "target_column": "assays_ASSCAT"
+        }
+    ]
+}

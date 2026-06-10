@@ -1,0 +1,101 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    }
+}

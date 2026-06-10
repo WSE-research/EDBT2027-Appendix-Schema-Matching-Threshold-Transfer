@@ -1,0 +1,34 @@
+{
+    "matches": [
+        {
+            "source_table": "beeradvo_ratebeer_source",
+            "source_column": "id",
+            "target_table": "beeradvo_ratebeer_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "beeradvo_ratebeer_source",
+            "source_column": "Beer_Name",
+            "target_table": "beeradvo_ratebeer_target",
+            "target_column": "Beer_Name"
+        },
+        {
+            "source_table": "beeradvo_ratebeer_source",
+            "source_column": "Brew_Factory_Name",
+            "target_table": "beeradvo_ratebeer_target",
+            "target_column": "Brew_Factory_Name"
+        },
+        {
+            "source_table": "beeradvo_ratebeer_source",
+            "source_column": "Style",
+            "target_table": "beeradvo_ratebeer_target",
+            "target_column": "Style"
+        },
+        {
+            "source_table": "beeradvo_ratebeer_source",
+            "source_column": "ABV",
+            "target_table": "beeradvo_ratebeer_target",
+            "target_column": "ABV"
+        }
+    ]
+}

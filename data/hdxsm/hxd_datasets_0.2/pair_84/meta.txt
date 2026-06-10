@@ -1,0 +1,7 @@
+56503032-02a3-4e0a-bb3a-8db505ee762f,Health Indicators for Afghanistan
+7b6ebcc1-db23-4727-927f-d6366dd49447,Indicators_data_AF
+---hxl_tags---
+#country+name
+#date+year
+#indicator+name
+#indicator+value+num

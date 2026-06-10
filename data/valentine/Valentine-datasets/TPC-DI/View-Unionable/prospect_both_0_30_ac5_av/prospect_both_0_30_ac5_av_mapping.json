@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_gncd"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_nmbrchldrn"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_stt"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_g"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_gndr"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac5_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_30_ac5_av_target",
+            "target_column": "prospect_ct"
+        }
+    ]
+}

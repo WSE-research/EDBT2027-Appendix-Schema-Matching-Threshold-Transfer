@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "AgencyID"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "Gender"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "MaritalStatus"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "AddressLine1"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "PostalCode"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "City",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "City"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "Income"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "AddressLine2"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "NetWorth"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "CreditRating"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_50_50_ec_ev_target",
+            "target_column": "NumberChildren"
+        }
+    ]
+}

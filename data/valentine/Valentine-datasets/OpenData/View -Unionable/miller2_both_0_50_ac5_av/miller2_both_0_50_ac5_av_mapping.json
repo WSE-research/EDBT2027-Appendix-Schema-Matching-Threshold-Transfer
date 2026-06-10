@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_fsclr"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_ctstlfrdvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_cntnntd"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Branch ID",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_brnchd"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rgnstnsb-clss"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rtcprcnt"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_brnchnm"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rgnlprgrm(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_chldrnsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Youth issues (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_thsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "CFLI (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_cfl(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Organisation type",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rgnstntp"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_dsrtfctn(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_prgrmmngprcss(nw)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_fstcprcnt"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_sctnnm"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Amount spent",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_mntspnt"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rgnstnd"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_knwldgfrdvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Sector name",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_sctrnm"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Status",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_stts"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_dvsnnm"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_rgnstnnm"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_prtcptrdvlpmntndgdgvrnnc"
+        },
+        {
+            "source_table": "miller2_both_0_50_ac5_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_both_0_50_ac5_av_target",
+            "target_column": "miller2_clmtchngdpttn(mrkr)"
+        }
+    ]
+}

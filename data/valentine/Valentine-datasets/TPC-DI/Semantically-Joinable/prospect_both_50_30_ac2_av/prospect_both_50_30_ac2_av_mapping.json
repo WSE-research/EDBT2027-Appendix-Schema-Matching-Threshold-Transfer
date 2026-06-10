@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "AgID"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "LaN"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "C"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "Cou"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "Pho"
+        },
+        {
+            "source_table": "prospect_both_50_30_ac2_av_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_50_30_ac2_av_target",
+            "target_column": "Ag"
+        }
+    ]
+}

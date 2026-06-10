@@ -1,0 +1,44 @@
+{
+    "AgeID": {
+        "type": "varchar(30)"
+    },
+    "CreRat": {
+        "type": "numeric(4)"
+    },
+    "NuCreCa": {
+        "type": "numeric(2)"
+    },
+    "NumChi": {
+        "type": "numeric(2)"
+    },
+    "FiN": {
+        "type": "varchar(30)"
+    },
+    "MariSta": {
+        "type": "varchar(1)"
+    },
+    "Co": {
+        "type": "varchar(24)"
+    },
+    "Pho": {
+        "type": "varchar(30)"
+    },
+    "Inc": {
+        "type": "numeric(9)"
+    },
+    "NuC": {
+        "type": "numeric(2)"
+    },
+    "A": {
+        "type": "numeric(3)"
+    },
+    "OwORF": {
+        "type": "varchar(1)"
+    },
+    "Empl": {
+        "type": "varchar(30)"
+    },
+    "NWo": {
+        "type": "numeric(12)"
+    }
+}

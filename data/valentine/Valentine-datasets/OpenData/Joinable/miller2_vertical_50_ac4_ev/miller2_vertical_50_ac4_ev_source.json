@@ -1,0 +1,116 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_assay_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_src_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_tissue_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_confidence_score"
+        },
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_doc_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ac1_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_30_ac1_ev_target",
+            "target_column": "assays_assay_organism"
+        }
+    ]
+}

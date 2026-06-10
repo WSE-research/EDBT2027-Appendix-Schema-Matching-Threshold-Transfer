@@ -1,0 +1,101 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Participatory development and good governance": {
+        "type": "int"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Enviromental sustainability (marker)": {
+        "type": "int"
+    },
+    "Climate change adaptation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    }
+}

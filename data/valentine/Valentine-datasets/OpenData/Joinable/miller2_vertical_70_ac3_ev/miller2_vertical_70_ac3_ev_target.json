@@ -1,0 +1,131 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "bltrld(ntrntnlmrkr)": {
+        "type": "int"
+    },
+    "brnchd": {
+        "type": "text"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "dvsnd": {
+        "type": "text"
+    },
+    "rbnsss(mrkr)": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "fndcntrnm": {
+        "type": "text"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "clmtchngmtgtn(mrkr)": {
+        "type": "int"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "sctnd": {
+        "type": "text"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "mxmmcdcntrbtn(prjct-lvl)": {
+        "type": "real"
+    },
+    "dvsnnm": {
+        "type": "text"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "cdbsnssdlvrmdl(ld)": {
+        "type": "text"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "mntspnt": {
+        "type": "real"
+    },
+    "prjctnmbr": {
+        "type": "text"
+    },
+    "pbtp": {
+        "type": "text"
+    },
+    "ntdmnt(prjct-lvlbdgt)": {
+        "type": "real"
+    },
+    "clmtchngdpttn(mrkr)": {
+        "type": "int"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "cfl(mrkr)": {
+        "type": "int"
+    },
+    "brnchnm": {
+        "type": "text"
+    },
+    "rgnlprgrm(mrkr)": {
+        "type": "int"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "chldrnsss(mrkr)": {
+        "type": "int"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "sctrnm": {
+        "type": "text"
+    }
+}

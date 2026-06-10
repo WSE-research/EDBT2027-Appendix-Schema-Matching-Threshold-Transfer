@@ -1,0 +1,7 @@
+,country,country_pcode,region,region_pcode,cercle,cercle_pcode,population_2018,people_affected,people_in_need,people_targeted
+Country,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nutrition,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Affected 2017,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+In Need 2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Targeted 2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+% targeted,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

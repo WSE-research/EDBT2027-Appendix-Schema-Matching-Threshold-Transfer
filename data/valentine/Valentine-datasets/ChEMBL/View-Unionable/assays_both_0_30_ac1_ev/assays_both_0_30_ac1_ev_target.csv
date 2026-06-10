@@ -1,0 +1,101 @@
+assays_assay_id,assays_assay_tissue,assays_curated_by,assays_description,assays_src_id,assays_variant_id,assays_assay_subcellular_fraction,assays_tid,assays_relationship_type,assays_confidence_score,assays_src_assay_id,assays_chembl_id,assays_cell_id,assays_bao_format,assays_tissue_id
+7524,Kidney,Intermediate,Biodistribution in normal rat kidney in the presence of 0.005 M Gd/0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL618647,,BAO_0000218,2113.0
+7525,Kidney,Intermediate,Biodistribution in normal rat kidney in the presence of 0.01 M Gd/0.05 M lig,1,,,50597,N,1,,CHEMBL618648,,BAO_0000218,2113.0
+7526,Kidney,Intermediate,Biodistribution in normal rat kidney in the presence of NAC Gd 0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL618649,,BAO_0000218,2113.0
+7527,Liver,Intermediate,Biodistribution in normal rat liver in the presence of 0.005 M Gd/0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL618650,,BAO_0000218,2107.0
+7528,Liver,Intermediate,Biodistribution in normal rat liver in the presence of 0.01 M Gd/0.05 M lig,1,,,50597,N,1,,CHEMBL618651,,BAO_0000218,2107.0
+7529,Liver,Intermediate,Biodistribution in normal rat liver in the presence of NAC Gd 0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL876497,,BAO_0000218,2107.0
+7530,Lung,Intermediate,Biodistribution in normal rat lung in the presence of 0.005 M Gd/0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL618652,,BAO_0000218,2048.0
+7531,Lung,Intermediate,Biodistribution in normal rat lung in the presence of 0.01 M Gd/0.05 M lig,1,,,50597,N,1,,CHEMBL618653,,BAO_0000218,2048.0
+7532,Lung,Intermediate,Biodistribution in normal rat lung in the presence of NAC Gd 0.01 M lig at 2 hr,1,,,50597,N,1,,CHEMBL618654,,BAO_0000218,2048.0
+7533,,Intermediate,Recovery rate from urine and bile was determined after iv administration at 20 mg/kg in rats; Not tested,1,,,50597,N,1,,CHEMBL618655,,BAO_0000218,
+7534,,Intermediate,Compound was tested for solubility in water,1,,,50597,N,1,,CHEMBL618656,,BAO_0000218,
+7535,,Intermediate,Solubility in phosphate buffered saline (1% DMSO) at pH 6.5 (24 hr equilibration),1,,,22229,U,0,,CHEMBL618657,,BAO_0000100,
+7536,,Intermediate,Solubility was determined,1,,,50597,N,1,,CHEMBL618658,,BAO_0000218,
+7537,,Intermediate,solubility in water (ug/mL) at 37 degree C.,1,,,50597,N,1,,CHEMBL618659,,BAO_0000218,
+7538,,Intermediate,First pass metabolism and metabolic bioavailability using rat hepatic microsomes,1,,,50597,N,1,,CHEMBL618660,,BAO_0000218,
+7539,,Intermediate,In vitro stability relative to (+)-AJ76 in rat hepatocyte assay,1,,,50597,N,1,,CHEMBL618661,,BAO_0000218,
+7540,,Intermediate,Half life in rats,1,,,50597,N,1,,CHEMBL873807,,BAO_0000218,
+7541,,Intermediate,Half life in Dawley rat,1,,,50597,N,1,,CHEMBL618662,,BAO_0000218,
+7542,,Intermediate,Half life period after 3 mg/kg iv administration,1,,,50597,N,1,,CHEMBL618663,,BAO_0000218,
+7543,,Intermediate,Half life period after 3 mg/kg iv administration in rat,1,,,50597,N,1,,CHEMBL618664,,BAO_0000218,
+7544,,Intermediate,Half life period after 3 mg/kg iv administration in the rat,1,,,50597,N,1,,CHEMBL618665,,BAO_0000218,
+7545,,Intermediate,Half life period in female Sprague-Dawley rats,1,,,50597,N,1,,CHEMBL876498,,BAO_0000218,
+7546,,Intermediate,Half life period in rat,1,,,50597,N,1,,CHEMBL618666,,BAO_0000218,
+7547,,Intermediate,Half-life in rats was determined,1,,,50597,N,1,,CHEMBL620440,,BAO_0000218,
+7548,,Intermediate,Half-life in rats with metabolic oxidation,1,,,50597,N,1,,CHEMBL620441,,BAO_0000218,
+7549,,Intermediate,Half-life in rats,1,,,50597,N,1,,CHEMBL620442,,BAO_0000218,
+7550,,Intermediate,T 1/2 at a dose of 10 mg/Kg administered intravenously in female hanover-wistar rat,1,,,50597,N,1,,CHEMBL620443,,BAO_0000218,
+7551,,Intermediate,T 1/2 at a dose of 10 mg/Kg administered perorally in female hanover-wistar rat,1,,,50597,N,1,,CHEMBL620444,,BAO_0000218,
+7552,,Intermediate,T max at a dose of 10 mg/Kg administered intravenously in female hanover-wistar rat,1,,,50597,N,1,,CHEMBL620445,,BAO_0000218,
+7553,,Intermediate,T max at a dose of 10 mg/Kg administered perorally in female hanover-wistar rat,1,,,50597,N,1,,CHEMBL620446,,BAO_0000218,
+7554,Plasma,Intermediate,Biological half-life measured in plasma of rat,1,,,50597,N,1,,CHEMBL620447,,BAO_0000218,1969.0
+7555,Plasma,Intermediate,Biological half-life measured in plasma of rat; 22-25,1,,,50597,N,1,,CHEMBL621129,,BAO_0000218,1969.0
+7556,Plasma,Intermediate,Biological half-life measured in plasma of rat; 9-16,1,,,50597,N,1,,CHEMBL621130,,BAO_0000218,1969.0
+7557,,Intermediate,Compound was evaluated for its half life when administered intravenously in rat,1,,,50597,N,1,,CHEMBL873808,,BAO_0000218,
+7558,,Intermediate,Compound was evaluated for pharmacokinetic parameter percent bioavailability at 8 h,1,,,50597,N,1,,CHEMBL876598,,BAO_0000218,
+7559,,Intermediate,Evaluated for pharmacokinetic parameter half-life in rat at the dose 50 mg/kg,1,,,50597,N,1,,CHEMBL621131,,BAO_0000218,
+7560,,Intermediate,Half life (T1/2) after oral administration in rat,1,,,50597,N,1,,CHEMBL621132,,BAO_0000218,
+7561,,Intermediate,Half life of compound after iv administration of 20 mg/kg dose in rat,1,,,50597,N,1,,CHEMBL621133,,BAO_0000218,
+7562,,Expert,Half life of compound determined in rat after iv administration at a dose of 10 mg/kg,1,,,50597,N,1,,CHEMBL621312,,BAO_0000218,
+7563,,Intermediate,Half life of compound was determined in rat,1,,,50597,N,1,,CHEMBL621313,,BAO_0000218,
+7564,Blood,Intermediate,Half life of compound was determined in rat blood,1,,,50597,N,1,,CHEMBL621314,,BAO_0000218,178.0
+7565,,Intermediate,Half life at 1 mg/kg was determined in rat,1,,,50597,N,1,,CHEMBL621315,,BAO_0000218,
+7566,,Intermediate,Half life at 10 mg/kg was determined in rat,1,,,50597,N,1,,CHEMBL621316,,BAO_0000218,
+7567,,Intermediate,Half life in rats,1,,,50597,N,1,,CHEMBL621317,,BAO_0000218,
+7568,,Intermediate,Half life in rats in hours,1,,,50597,N,1,,CHEMBL621318,,BAO_0000218,
+7569,,Intermediate,Half life following 10 mg/kg intravenous or 50 mg/kg oral dosing in rats was determined,1,,,50597,N,1,,CHEMBL621319,,BAO_0000218,
+7570,,Intermediate,Half life was calculated at a single intravenous administration of 20 mg/kg in rat,1,,,50597,N,1,,CHEMBL621377,,BAO_0000218,
+7571,,Intermediate,Half life was determined,1,,,50597,N,1,,CHEMBL621378,,BAO_0000218,
+7572,,Intermediate,Half life after i.v. administration,1,,,50597,N,1,,CHEMBL876599,,BAO_0000218,
+7573,,Intermediate,Half life in rat after intravenous administration at a concentration 0.5 mg/kg,1,,,50597,N,1,,CHEMBL621379,,BAO_0000218,
+7574,Plasma,Intermediate,Half life in rat plasma,1,,,50597,N,1,,CHEMBL621380,,BAO_0000218,1969.0
+7575,Plasma,Intermediate,Half life in rat plasma; Not detected,1,,,50597,N,1,,CHEMBL621381,,BAO_0000218,1969.0
+7576,,Intermediate,Half life in rats,1,,,50597,N,1,,CHEMBL618515,,BAO_0000218,
+7577,,Intermediate,Half life period of compound was determined after peroral administration,1,,,50597,N,1,,CHEMBL618516,,BAO_0000218,
+7578,,Intermediate,Half life period of compound was determined at a dose of 3 mg/kg by intravenous administration,1,,,50597,N,1,,CHEMBL618517,,BAO_0000218,
+7579,,Intermediate,Half life period in rat,1,,,50597,N,1,,CHEMBL618518,,BAO_0000218,
+7580,,Intermediate,Half life period was evaluated against Sprague-Dawley rats at a dose of 15 mg/kg after iv administration,1,,,50597,N,1,,CHEMBL618519,,BAO_0000218,
+7581,,Intermediate,Half life period was evaluated in Sprague-Dawley rats at a dose of 15 mg/kg after po administration,1,,,50597,N,1,,CHEMBL618698,,BAO_0000218,
+7582,,Intermediate,Half life period was evaluated in Sprague-Dawley rats at a dose of 15 mg/kg after po administration; Not available,1,,,50597,N,1,,CHEMBL618862,,BAO_0000218,
+7583,,Intermediate,Half life period was determined after intravenous administration at a dose 5 mg/kg to male Sprague-Dawley rats,1,,,50597,N,1,,CHEMBL618863,,BAO_0000218,
+7584,,Intermediate,Half life period was determined for compound after intravenous administration in rats at 24 uM/kg,1,,,50597,N,1,,CHEMBL618864,,BAO_0000218,
+7585,,Intermediate,Half life time in rat the dose of 2 mg/kg,1,,,50597,N,1,,CHEMBL618865,,BAO_0000218,
+7586,,Intermediate,Half-life 24 hr after 10 mg/kg iv administration in rats,1,,,50597,N,1,,CHEMBL618866,,BAO_0000218,
+7587,,Intermediate,Half-life 24 hr after 2 mg/kg iv administration in rats,1,,,50597,N,1,,CHEMBL618867,,BAO_0000218,
+7588,,Intermediate,Half-life consistent with the observed metabolic steady state in rats,1,,,50597,N,1,,CHEMBL875828,,BAO_0000218,
+7589,,Intermediate,Half-life following 10 mg/kg intravenous or 50 mg/kg oral dosing in rats was determined,1,,,50597,N,1,,CHEMBL618868,,BAO_0000218,
+7590,,Intermediate,Half-life for oxidative metabolic stability was determined using male human,1,,,50597,N,1,,CHEMBL618869,,BAO_0000218,
+7591,,Intermediate,"Half-life in fischer rats at 5 mg/kg dose, administered intravenously",1,,,50597,N,1,,CHEMBL618870,,BAO_0000218,
+7592,Plasma,Intermediate,Half-life in rat plasma,1,,,50597,N,1,,CHEMBL618871,,BAO_0000218,1969.0
+7593,Plasma,Intermediate,Half-life in rat plasma was determined,1,,,50597,N,1,,CHEMBL618872,,BAO_0000218,1969.0
+7594,,Intermediate,Half-life in rats was determined,1,,,50597,N,1,,CHEMBL873816,,BAO_0000218,
+7595,,Autocuration,Area under curve of acid 2a was determined by HPLC at a dosage of 54.5 mg/kg administered intragastrically by gavage method in dog,1,,,22224,U,0,,CHEMBL618873,,BAO_0000218,
+7596,,Autocuration,Area under curve after oral dose of 0.1 mg//kg,1,,,22224,U,0,,CHEMBL621602,,BAO_0000019,
+7597,,Autocuration,Area under curve after oral dose of 0.3 mg/kg,1,,,22224,U,0,,CHEMBL621603,,BAO_0000218,
+7598,,Autocuration,Area under curve after oral dose of 1 mg/kg,1,,,22224,U,0,,CHEMBL621604,,BAO_0000218,
+7599,,Autocuration,Area under curve after oral dose of 10 mg/kg,1,,,22224,U,0,,CHEMBL621605,,BAO_0000218,
+7600,,Autocuration,Area under curve after oral dose of 23.4 mg/kg,1,,,22224,U,0,,CHEMBL621606,,BAO_0000218,
+7601,,Autocuration,Area under curve after oral dose of 3 mg/kg,1,,,22224,U,0,,CHEMBL621607,,BAO_0000218,
+7602,,Autocuration,Area under curve after oral dose of 3.87 mg/kg,1,,,22224,U,0,,CHEMBL621608,,BAO_0000218,
+7603,,Autocuration,Area under curve was determined,1,,,22224,U,0,,CHEMBL621609,,BAO_0000019,
+7604,,Autocuration,Area under curve at a dose of 10 mg/kg,1,,,22224,U,0,,CHEMBL621610,,BAO_0000218,
+7605,,Intermediate,Area under curve was determined; ND=No data,1,,,50597,N,1,,CHEMBL621611,,BAO_0000218,
+7606,,Intermediate,Area under curve was evaluated in rat brain when administered intraperitoneally at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL621612,,BAO_0000218,
+7607,,Intermediate,Area under curve was evaluated in rat brain when administered intraperitoneally at a dose of 10 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622308,,BAO_0000218,
+7608,,Intermediate,Area under curve was evaluated in rat brain when administered intravenously at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622309,,BAO_0000218,
+7609,,Intermediate,Area under curve was evaluated in rat brain when administered intravenously at a dose of 10 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622310,,BAO_0000218,
+7610,,Intermediate,Area under curve was evaluated in rat brain when administered perorally at a dose of 100 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622311,,BAO_0000218,
+7611,,Intermediate,Area under curve was evaluated in rat brain when administered perorally at a dose of 100 mg/kg for infinite hours; Not calculated,1,,,50597,N,1,,CHEMBL622312,,BAO_0000218,
+7612,,Intermediate,Area under curve was evaluated in rat brain when administered perorally at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622931,,BAO_0000218,
+7613,,Intermediate,Area under curve was evaluated in rat brain when administered perorally at a dose of 10 mg/kg for infinite hours; Not calculated,1,,,50597,N,1,,CHEMBL622932,,BAO_0000218,
+7614,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered intraperitoneally at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622736,,BAO_0000218,1969.0
+7615,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered intraperitoneally at a dose of 10 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622737,,BAO_0000218,1969.0
+7616,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered intravenously at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622738,,BAO_0000218,1969.0
+7617,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered intravenously at a dose of 10 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622739,,BAO_0000218,1969.0
+7618,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered perorally at a dose of 100 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622740,,BAO_0000218,1969.0
+7619,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered perorally at a dose of 100 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622741,,BAO_0000218,1969.0
+7620,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered perorally at a dose of 10 mg/kg for 4 or 6 hours,1,,,50597,N,1,,CHEMBL622742,,BAO_0000218,1969.0
+7621,Plasma,Intermediate,Area under curve was evaluated in rat plasma when administered perorally at a dose of 10 mg/kg for infinite hours,1,,,50597,N,1,,CHEMBL622743,,BAO_0000218,1969.0
+7622,Plasma,Intermediate,AUC in mice,1,,,50594,N,1,,CHEMBL622744,,BAO_0000218,1969.0
+7623,,Autocuration,Area under curve was measured from the graph obtained from concentration Vs time,1,,,22224,U,0,,CHEMBL624134,,BAO_0000019,

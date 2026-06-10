@@ -1,0 +1,16 @@
+390fe2e5-7fec-4311-bfe0-d806354883e9,DTM Chad Assessment Return Moyen Chari Jul-19
+3448ac80-6b39-4ccb-ad9b-387cc381ca94,DTM Chad Assessment Return Logone Oriental Apr-19
+---hxl_tags---
+#date+occurred
+#country+name
+#country+code
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#adm3+name
+#adm3+code
+#geo+lat
+#geo+lon
+#affected+returnees+hh
+#affected+returnees+ind

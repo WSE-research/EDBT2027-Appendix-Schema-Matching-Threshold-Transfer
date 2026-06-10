@@ -1,0 +1,101 @@
+AgencyID,NumberCars,AddressLine2,Income,Age,City,Country,NumberCreditCards,CreditRating,NetWorth,Phone,LastName,FirstName,MiddleInitial,Gender,AddressLine1
+PEL0,,,368776.0,20.0,Fairbanks,United States of America,,760.0,1058868.0,1-712-522-6088,PELLAND,Netti,,f,21847 olympia street
+LED1,5.0,APT. 624,177967.0,3.0,Quebec,United States of America,6.0,555.0,1988185.0,1-626-426-4298,LEDUC,TRUDY,,F,245 congress court
+lat2,2.0,,321772.0,,Henderson,United States of America,6.0,566.0,3673128.0,1-524-787-8784,latif,ireland,,,6517 frailing west
+RUD3,2.0,,25449.0,77.0,Salem,Canada,3.0,,2005895.0,1-741-997-1688,RUDDICK,Misti,,,11449 blalock park
+JAY4,0.0,Apt. 619,166567.0,21.0,Toledo,Canada,4.0,815.0,624736.0,1-002-194-1991,JAYAMANNE,sarena,M,f,18354 dodd court
+tod5,1.0,,43631.0,77.0,Corpus Christi,United States of America,10.0,333.0,3064615.0,1-441-371-7651,todo,Paulette,Z,M,14117 roxboro street
+Kan6,4.0,,466230.0,23.0,Salt Lake City,Canada,1.0,528.0,3489129.0,1-957-940-5980,Kanno,AMALITA,R,m,24697 FLORENCE WEST
+Din7,2.0,,420243.0,9.0,Brownsville,United States of America,7.0,680.0,3430744.0,1-768-633-4096,Dinkel,Ernesto,Z,,6488 applewood drive
+Thi8,3.0,,141862.0,63.0,Escondido,United States of America,10.0,761.0,1743614.0,1-107-689-2155,Thibodeaux,Toby,,,17404 gale court
+May9,0.0,,402011.0,32.0,Los Angeles,United States of America,,416.0,216299.0,1-173-594-6096,Mayo,evangelia,,,15913 alexis street
+mah10,2.0,,79928.0,96.0,West Covina,Canada,9.0,493.0,1528641.0,1-561-520-0611,mahendra,umakanth,U,,18313 5th lane
+Siz11,1.0,,109496.0,46.0,San Buenaventura,United States of America,0.0,564.0,3752907.0,1-730-406-9727,Sizto,terrie,,,13653 collier avenue
+cra12,1.0,,267901.0,6.0,Lexington,United States of America,0.0,817.0,582378.0,,crawley,Mary-pat,,,15306 pike park
+dac13,3.0,,487273.0,39.0,Hay River,United States of America,8.0,653.0,3458824.0,1-207-867-4589,dacal,Catherin,,m,1540 crestmere north
+HIV14,3.0,,34013.0,73.0,Toronto,United States of America,2.0,587.0,469408.0,1-478-629-9641,HIVELY,annissa,W,,10790 bonita crescent
+Pes15,0.0,Apt. 290,473462.0,26.0,Denver,United States of America,6.0,472.0,1504480.0,1-026-208-8595,Peschke,Amour,,,24679 AIRPORT CRESCENT
+CHI16,5.0,,499493.0,54.0,St. Paul,Canada,4.0,817.0,2763009.0,1-432-681-4853,CHILDERHOSE,jenica,,,7627 douglas road
+Din17,5.0,,266928.0,87.0,Bellevue,United States of America,0.0,441.0,2787199.0,,Dinnin,KATTIE,,,6106 ashland east
+De 18,2.0,,72444.0,85.0,Detroit,United States of America,6.0,848.0,2789368.0,1-357-207-6320,De witte,Roselle,M,,1111 norden street
+Mck19,3.0,,77290.0,86.0,Omaha,United States of America,8.0,843.0,2784776.0,1-462-774-1277,Mckeegan,arlyne,,m,2798 1st east
+WIN20,2.0,,395066.0,59.0,Costa Mesa,United States of America,,,288747.0,1-702-382-2898,WINTERS,Rong-chin,P,M,11358 elle lee street
+BIT21,5.0,,119283.0,94.0,Berkeley,United States of America,0.0,300.0,876575.0,1-909-554-7120,BITTMAN,Darlleen,,,21074 MALLORY LOWER
+luz22,1.0,,330991.0,,St. Louis,United States of America,8.0,795.0,2041224.0,1-752-296-7940,luzarraga,Radoslav,V,f,16124 weyland park
+don23,4.0,,,5.0,Colorado Springs,United States of America,5.0,367.0,2231509.0,1-995-554-5056,donovan,Aryn,S,,23822 marvin crescent
+Gia24,1.0,,252031.0,23.0,Fontana,United States of America,1.0,507.0,3206409.0,1-090-303-3807,Giallo,Allisan,T,,2203 valita boulevard
+SPR25,3.0,,101800.0,61.0,St. Catharines,United States of America,9.0,362.0,3850037.0,1-492-968-0932,SPRUELL,Ammamaria,,M,11538 COLLINWOOD AVENUE
+SKA26,0.0,,436977.0,,Hayward,United States of America,7.0,527.0,528440.0,1-960-227-2020,SKALSKI,Mari,,F,7818 EAST STREET
+Gar27,0.0,,495334.0,51.0,Palmdale,United States of America,0.0,354.0,597140.0,1-431-122-8597,Gargul,Anica,,m,10013 shaw road
+Dor28,1.0,,274685.0,97.0,Phoenix,United States of America,1.0,511.0,146931.0,1-822-836-7200,Dore,Melba,,,6802 AMES STREET
+DIO29,2.0,,320820.0,52.0,Gary,United States of America,7.0,412.0,353495.0,1-530-117-0497,DIOGO,Tracee,X,,22501 SUMMIT RUE
+Mer30,4.0,,195835.0,98.0,Beaumont,Canada,1.0,583.0,295647.0,1-051-257-2719,Merrick,CANADIAN,,m,291 frances rue
+Atc31,5.0,,108085.0,47.0,Nashua,United States of America,5.0,710.0,408941.0,1-171-989-1363,Atchison,Oue,R,,16264 sanders east
+Pla32,2.0,,260185.0,47.0,San Jose,United States of America,9.0,380.0,362523.0,1-042-705-3246,Plamondon,wallie,X,m,16068 cantey way
+SEL33,0.0,,258323.0,9.0,Nashua,United States of America,2.0,796.0,2102359.0,1-098-328-2026,SELCHOW,Andromache,E,F,21170 EDLOE BOULEVARD
+sha34,1.0,,79476.0,85.0,Fort Smith,United States of America,2.0,818.0,3480265.0,1-209-754-5635,shane,THOR,Z,f,885 CROSBY LANE
+MER35,5.0,,102156.0,81.0,Lancaster,United States of America,3.0,766.0,3648900.0,1-498-781-3456,MERWIN,SALAH,,,12235 jay street
+con36,2.0,,221481.0,0.0,Colorado Springs,United States of America,2.0,359.0,1161790.0,1-615-241-0440,conrad,HOR-LAM,,,20340 LOMBARD CRESCENT
+ons37,1.0,,41836.0,28.0,Washington,United States of America,2.0,401.0,2050587.0,1-995-449-5200,onsiteteam,Vania,,M,22074 dexter upper
+Sum38,1.0,,72389.0,65.0,Lowell,Canada,0.0,609.0,3579198.0,1-295-673-4452,Summerlin,Niel,,M,1540 MURIE RUE
+gro39,3.0,,66486.0,20.0,Frederick,United States of America,2.0,630.0,889494.0,1-914-675-2986,grooms,ziad,F,,7075 glen loch drive
+dil40,3.0,Apt. 382,200185.0,55.0,Mesa,United States of America,9.0,671.0,2205682.0,,dilkie,Claude,I,,11237 balmoral way
+DOL41,0.0,,289215.0,76.0,Lakewood,United States of America,10.0,715.0,1140117.0,1-825-739-0336,DOLSON,AVTAR,,,8316 GARDEN BROOK NORTH
+Pos42,4.0,,322484.0,1.0,Cleveland,United States of America,9.0,707.0,1421319.0,1-956-713-3802,Posthumus,Donny,,,2240 clifton lower
+Mac43,4.0,,83458.0,3.0,Grand Rapids,United States of America,0.0,329.0,3525204.0,1-814-932-1579,Machika,Cocos,,,20907 NOTINGHAM LOWER
+che44,0.0,,,100.0,Peoria,United States of America,8.0,601.0,468976.0,1-135-443-7282,chenoweth,ruud,,,601 carroll lower
+hol45,5.0,,492407.0,81.0,Inglewood,United States of America,2.0,623.0,1685443.0,1-720-975-0667,holbrooks,Belvia,,,18267 state drive
+pfi46,4.0,,346630.0,76.0,Akron,United States of America,2.0,376.0,337564.0,1-871-598-3505,pfieffer,ATHAR,,f,9270 LEAF SOUTH
+elk47,1.0,,9572.0,51.0,Charlottetown,Canada,0.0,560.0,84777.0,1-607-222-4809,elkington,Cherey,Y,,18582 PERIMETER BOULEVARD
+Lab48,1.0,,265369.0,,Bellevue,United States of America,4.0,693.0,3146477.0,1-965-046-0642,Labenek,RAZ,,F,9612 park stream upper
+laf49,1.0,,104172.0,58.0,Dover,United States of America,0.0,346.0,495277.0,1-155-441-3579,laferriere,kishore,Y,,2803 clearwater north
+Nor50,0.0,,65550.0,52.0,Fullerton,United States of America,0.0,342.0,746904.0,,Norment,Nelleke,I,,11103 BISSONNET WEST
+hag51,2.0,,,91.0,Denver,Canada,8.0,563.0,1219620.0,1-544-132-7237,hagar,sibby,,,4652 outervale lane
+Bet52,2.0,,,17.0,Dallas,United States of America,4.0,391.0,1718910.0,1-821-089-2089,Betcher,ericha,,m,341 dunbar west
+Van53,4.0,,66244.0,6.0,San Jose,United States of America,8.0,381.0,,1-135-391-9787,Van der,Janson,,m,16176 vernon drive
+O'L54,0.0,,426954.0,89.0,Bellevue,United States of America,9.0,539.0,2636424.0,1-776-182-6215,O'LEARY,Dorotea,,F,23131 clint way
+and55,5.0,,126891.0,99.0,San Buenaventura,United States of America,0.0,497.0,1326305.0,1-079-780-7761,anderson,Denice,,m,11640 baltic upper
+sta56,4.0,,454196.0,77.0,St. Louis,Canada,,661.0,2241997.0,1-504-346-4393,starks,Myron,,,20796 dolores drive
+CHA57,5.0,Apt. 275,163940.0,,Pueblo,United States of America,0.0,558.0,1542891.0,1-985-538-4351,CHASSE,Barby,,,14359 COMMERCE WEST
+ASI58,,,365213.0,90.0,Regina,Canada,,534.0,797918.0,1-254-097-9398,ASING,Ariella,,R,21448 hampton boulevard
+ask59,0.0,,428739.0,82.0,Saskatoon,United States of America,6.0,373.0,347654.0,1-545-924-9552,askins,ADEY,,f,7637 pershing way
+Kik60,4.0,,142444.0,,Jackson,United States of America,8.0,382.0,2456397.0,1-984-233-8818,Kikuta,GAYEL,K,,11529 arcana boulevard
+Cha61,3.0,,416168.0,15.0,St. Petersburg,United States of America,10.0,475.0,1284229.0,1-528-691-1642,Chane,Man,,F,2700 windwood north
+KIL62,2.0,,291420.0,,Scottsdale,United States of America,3.0,539.0,618787.0,,KILLEN,Klara,U,m,22279 gramercy road
+kin63,4.0,,413501.0,96.0,Charlotte,United States of America,6.0,711.0,1171606.0,1-171-807-8213,kinley,Abdalla,,f,9828 west east
+MAL64,4.0,,,38.0,Waterbury,United States of America,1.0,606.0,3983261.0,1-056-241-7009,MALAHER,bal,,,5935 mcafee park
+Odu65,3.0,,419143.0,10.0,Chesapeake,United States of America,0.0,494.0,2328568.0,1-389-414-0570,Odum,Romy,J,,12460 CLAYTON STREET
+DI 66,1.0,,155057.0,72.0,Hialeah,United States of America,3.0,309.0,2078600.0,1-583-542-1656,DI NINNO,KORAL,,,275 3rd drive
+STU67,2.0,,313859.0,97.0,Charleston,United States of America,3.0,630.0,2986155.0,1-269-712-0672,STUBBLEFIELD,YUKIHIKO,K,,6907 FERNCLIFF CRESCENT
+HAM68,4.0,,265907.0,48.0,Salem,United States of America,10.0,330.0,1864039.0,1-670-102-0463,HAMBALI,Khanh,,,885 crosby lane
+LIB69,,,283481.0,97.0,Sacramento,Canada,9.0,710.0,1293721.0,1-699-726-3895,LIBRARIAN,Darnell,,m,2344 kalani west
+ohs70,4.0,,200635.0,73.0,Santa Clarita,United States of America,7.0,475.0,3850114.0,1-640-666-2876,ohsone,feridoun,,M,22870 LA CIENEGA STREET
+HUM71,0.0,APT. 143,434519.0,71.0,Sherbrooke,United States of America,3.0,596.0,1618743.0,1-540-639-1311,HUMMEL,Magdy,O,,8478 green avenue
+BRA72,5.0,,392315.0,93.0,Colorado Springs,United States of America,9.0,670.0,3383487.0,1-285-874-8492,BRADD,jiri,,,23639 purdue rue
+Boa73,5.0,,493829.0,53.0,Berkeley,United States of America,,722.0,2981876.0,1-121-904-0040,Boarder,AILA,X,,19202 ansley park
+Mcn74,3.0,,97489.0,32.0,San Buenaventura,United States of America,7.0,587.0,2109339.0,1-017-842-3201,Mcnally,Vincenzo,,,11319 devonshire rue
+MAR75,4.0,,,1.0,New Haven,United States of America,4.0,609.0,791803.0,1-215-859-3206,MARKOVICH,Minnnie,,F,23665 deerwood park
+Wil76,0.0,,383046.0,39.0,Shreveport,United States of America,7.0,401.0,3523678.0,1-764-520-7470,Willekes,alfonzo,,f,4855 union north
+Dea77,4.0,,1190.0,77.0,Lansing,United States of America,0.0,335.0,1681902.0,1-414-130-0162,Deacetis,Swandi,S,m,9466 SHADOWBRIAR WEST
+Hou78,5.0,,85733.0,18.0,Pembroke Pines,United States of America,7.0,569.0,3851455.0,1-970-240-9990,Houk,Anya,,,3504 regency avenue
+Goy79,0.0,,387890.0,70.0,Palmdale,Canada,9.0,,2339382.0,1-408-684-6459,Goyette,Enrika,,,7281 northland lower
+Mok80,2.0,,16808.0,26.0,Savannah,United States of America,7.0,679.0,,1-330-353-5908,Mok-fung,SONJA,Z,f,12481 hayden lower
+Run81,,,304589.0,,Amarillo,United States of America,10.0,356.0,2065016.0,1-766-726-2675,Rundle,Liem,I,,2328 gracie avenue
+BEL82,2.0,,48506.0,58.0,Anchorage,United States of America,9.0,308.0,2454049.0,1-938-425-7509,BELLEY,COLLETTE,,o,4737 campbell street
+BAE83,0.0,,,43.0,Louisville,United States of America,4.0,412.0,2423395.0,1-527-308-8874,BAER,SIAMACK,Y,,2401 stratmore lower
+MAU84,2.0,,358862.0,65.0,Hilo,United States of America,4.0,618.0,1342045.0,1-810-590-0635,MAULDIN,Toshihiro,,f,21477 JUNIPER CRESCENT
+Koo85,5.0,,477614.0,24.0,Sudbury,United States of America,5.0,429.0,861756.0,1-274-548-2512,Koohgoli,Casey,,,19214 YAUPON BOULEVARD
+Lau86,3.0,,175414.0,79.0,Orlando,United States of America,3.0,819.0,1215349.0,1-649-754-4601,Lauriston,Daryn,,,7785 rusk boulevard
+Man87,0.0,,427598.0,48.0,Missoula,Canada,7.0,552.0,3981554.0,1-905-932-1785,Mangum,Adrianna,L,F,18002 cantrell upper
+PIE88,0.0,,368207.0,69.0,Abilene,United States of America,9.0,587.0,3865937.0,1-031-004-7697,PIERCY,Cortney,,,23341 brookside upper
+Bus89,3.0,,449944.0,91.0,Saskatoon,United States of America,6.0,304.0,2804700.0,1-994-812-4796,Buscaglia,Duane,,M,20494 ROSS WEST
+BAB90,5.0,,166247.0,75.0,Irvine,United States of America,4.0,795.0,3283558.0,1-176-513-4041,BABIONE,Tele,,,17552 SAVANNAH NORTH
+Bur91,1.0,APT. 373,391165.0,85.0,Reno,United States of America,2.0,830.0,450524.0,1-072-244-6337,Burkard,Ophelia,,M,4462 pace crescent
+Kin92,5.0,,165854.0,76.0,Sacramento,United States of America,3.0,709.0,,1-924-669-9328,Kinsella,lorine,,,7161 tallowood upper
+POM93,2.0,,326181.0,68.0,Topeka,United States of America,8.0,493.0,,1-598-488-3541,POMMAINVILLE,Viole,,,3489 silver sage west
+BOA94,3.0,,173387.0,95.0,Rancho Cucamonga,United States of America,,680.0,633760.0,1-295-539-3868,BOATWRIGHT,Nani,,M,12481 hayden lower
+Ron95,1.0,,301127.0,15.0,Hilo,United States of America,,800.0,3634954.0,1-554-020-0267,Ronald,cherey,R,,13210 3RD DRIVE
+wei96,1.0,,487230.0,17.0,Saint John,United States of America,4.0,614.0,799268.0,1-793-621-4566,weihs,Redgie,A,,8899 starling lane
+Hel97,4.0,,425747.0,94.0,Torrance,Canada,6.0,763.0,39093.0,1-787-267-4261,Helpb,Yousef,P,M,11480 fennel south
+mog98,4.0,,401946.0,70.0,Santa Clara,United States of America,3.0,561.0,2705353.0,1-668-247-1597,moghe,Damaris,,m,7266 cherry upper
+boz99,1.0,,425422.0,29.0,Torrance,United States of America,4.0,569.0,3565153.0,1-901-346-8890,bozicevich,Ilyssa,,,10678 ENGLEWOOD WEST

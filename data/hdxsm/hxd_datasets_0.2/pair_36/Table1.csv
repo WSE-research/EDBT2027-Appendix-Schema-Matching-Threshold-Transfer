@@ -1,0 +1,101 @@
+SvyDate,ADM0_NAME,ADM1_NAME,ADM2_NAME,AdminStrata,Variable,VariableDescription,Demographic,Mean
+2018-08-01T00:00:00,Nigeria,,,Adamawa North                                     ,FCG==2,prevalence-->food consumption group = borderline,N,0.33333
+2018-09-01T00:00:00,Nigeria,,,Nigeria,Fats,,,3.01169
+2017-08-01T00:00:00,Nigeria,,,YOBE SOUTH,RestrictConsumption,# of days household using this coping strategy per week,Y,1.57746
+2016-07-01T00:00:00,Nigeria,,,Potiskum,Fats,,,5.41475
+2017-02-01T00:00:00,Nigeria,,,Mubi South,localcowpeas_1bigmudu,,,636.2069
+2017-08-01T00:00:00,Nigeria,,,Bursari,rCSI,reduced coping strategy,,11.95522
+2016-02-01T00:00:00,Nigeria,,,,BorrowOrHelp,# of days household using this coping strategy per week,1.0,1.7362
+2016-07-01T00:00:00,Nigeria,,,Adamawa,Localsorgho_1bigmudu,,,273.28125
+2018-07-01T00:00:00,Nigeria,,,BORNO NORTH,Fats,,,3.49277
+2016-07-01T00:00:00,Nigeria,,,Askira/Uba,FCG==1,prevalence-->food consumption group = poor,,0.18072
+2016-07-01T00:00:00,Nigeria,,,Guyuk,FCG==3,prevalence-->food consumption group = acceptable,,0.67143
+2016-07-01T00:00:00,Nigeria,,,ADAMAWA NORTH,LimitPortionSize,# of days household using this coping strategy per week,N,0.0
+2017-08-01T00:00:00,Nigeria,,,Magumeri,Sugars,,,2.91935
+2016-01-01T00:00:00,Nigeria,,,Yobe,Sugars,,,4.072
+2017-02-01T00:00:00,Nigeria,,,YOBE EAST,Fats,,M,5.26471
+2017-08-01T00:00:00,Nigeria,,,YOBE NORTH,ManLbr,Daily wages for manual labor,Y,1125.0
+2018-09-01T00:00:00,Nigeria,,,Yobe South                                        ,FCS,food consumption score,N,32.85976
+2016-07-01T00:00:00,Nigeria,,,Konduga,Fats,,,5.04444
+2017-02-01T00:00:00,Nigeria,,,ADAMAWA CENTRAL,NotEnoughFood==Y,,M,0.40437
+2018-09-01T00:00:00,Nigeria,,,Borno North                                       ,ReduceNumMeals,# of days household using this coping strategy per week,N,1.8835
+2018-09-01T00:00:00,Nigeria,,,,LimitPortionSize,# of days household using this coping strategy per week,No,2.39658
+2016-07-01T00:00:00,Nigeria,,,YOBE SOUTH,Staples,,Y,5.43636
+2017-08-01T00:00:00,Nigeria,,,Maiha,Pulses,# of days household eating this food item per week,,2.0
+2016-03-01T00:00:00,Nigeria,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,Cement pit latrine,0.866
+2016-01-01T00:00:00,Nigeria,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.58036
+2016-07-01T00:00:00,Nigeria,,,Maiha,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.23636
+2017-08-01T00:00:00,Nigeria,,,Fufore,localcowpeas_1bigmudu,,,713.33333
+2017-08-01T00:00:00,Nigeria,,,Mafa,Dairy,# of days household eating this food item per week,,0.73333
+2018-08-01T00:00:00,Nigeria,,,Yobe East                                         ,NotEnoughFood==Y,,,0.74091
+2017-08-01T00:00:00,Nigeria,,,Mayo-Belwa,Fruits,# of days household eating this food item per week,,1.66
+2018-09-01T00:00:00,Nigeria,,,Adamawa South                                     ,Fruits,# of days household eating this food item per week,M,1.72648
+2018-08-01T00:00:00,Nigeria,,,Borno South                                       ,Fats,,N,2.78652
+2018-08-01T00:00:00,Nigeria,,,Borno North                                       ,Proteins,,,1.48601
+2018-07-01T00:00:00,Nigeria,,,,ReduceNumMeals,# of days household using this coping strategy per week,NoElectricity,2.51582
+2018-08-01T00:00:00,Nigeria,,,Adamawa Central                                   ,Pulses,# of days household eating this food item per week,,2.07423
+2018-07-01T00:00:00,Nigeria,,,YOBE NORTH,Pulses,# of days household eating this food item per week,,2.05567
+2016-07-01T00:00:00,Nigeria,,,Hong,Localmillet_1bigMudu,,,320.3125
+2018-09-01T00:00:00,Nigeria,,,Borno Central                                     ,Sugars,,Y,1.90667
+2016-07-01T00:00:00,Nigeria,,,Girei,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.29825
+2016-07-01T00:00:00,Nigeria,,,BORNO NORTH,Localsorgho_1bigmudu,,,305.68182
+2018-07-01T00:00:00,Nigeria,,,BORNO NORTH,Fats,,Y,3.64035
+2017-08-01T00:00:00,Nigeria,,,Yunusari,Fruits,# of days household eating this food item per week,,1.42857
+2017-08-01T00:00:00,Nigeria,,,ADAMAWA NORTH,Veg,# of days household eating this food item per week,M,4.07552
+2017-02-01T00:00:00,Nigeria,,,ADAMAWA SOUTH,RestrictConsumption,# of days household using this coping strategy per week,M,0.96646
+2017-02-01T00:00:00,Nigeria,,,Tarmuwa,Staples,,,6.06897
+2018-09-01T00:00:00,Nigeria,,,Borno South                                       ,FCG==1,prevalence-->food consumption group = poor,,0.15498
+2017-02-01T00:00:00,Nigeria,,,,havefoodmoney>=1,,"Yes, from power grid",0.44145
+2017-08-01T00:00:00,Nigeria,,,Girie,Localrice_1bigmudu,,,648.6129
+2016-07-01T00:00:00,Nigeria,,,YOBE NORTH,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Y,0.0
+2018-07-01T00:00:00,Nigeria,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,N,0.71089
+2017-08-01T00:00:00,Nigeria,,,Yunusari,Veg,# of days household eating this food item per week,,2.89286
+2016-07-01T00:00:00,Nigeria,,,Jere,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.0
+2017-08-01T00:00:00,Nigeria,,,Gombi,Localsorgho_1bigmudu,,,423.7931
+2017-02-01T00:00:00,Nigeria,,,YOBE EAST,BorrowOrHelp,# of days household using this coping strategy per week,N,0.96094
+2017-08-01T00:00:00,Nigeria,,,ADAMAWA NORTH,LessExpensiveFood,# of days household using this coping strategy per week,,1.52844
+2016-07-01T00:00:00,Nigeria,,,BORNO CENTRAL,LimitPortionSize,# of days household using this coping strategy per week,M,0.0
+2016-01-01T00:00:00,Nigeria,,,,FCG==1,prevalence-->food consumption group = poor,0.0,0.08102
+2017-02-01T00:00:00,Nigeria,,,Shelleng,Localrice_1bigmudu,,,545.85366
+2018-07-01T00:00:00,Nigeria,,,BORNO CENTRAL,FCS,food consumption score,N,33.68216
+2017-08-01T00:00:00,Nigeria,,,BORNO CENTRAL,rCSI,reduced coping strategy,Y,14.36723
+2017-02-01T00:00:00,Nigeria,,,Adamawa,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.33219
+2016-07-01T00:00:00,Nigeria,,,Hawul,FCS,food consumption score,,45.84921
+2018-07-01T00:00:00,Nigeria,,,ADAMAWA NORTH,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Y,0.61088
+2016-07-01T00:00:00,Nigeria,,,BORNO SOUTH,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,Y,0.0
+2018-08-01T00:00:00,Nigeria,,,Adamawa North                                     ,LessExpensiveFood,# of days household using this coping strategy per week,Y,2.525
+2018-07-01T00:00:00,Nigeria,,,BORNO CENTRAL,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.80752
+2018-09-01T00:00:00,Nigeria,,,,LimitPortionSize,# of days household using this coping strategy per week,F,2.5727
+2016-07-01T00:00:00,Nigeria,,,Potiskum,havefoodmoney>=1,,,0.62212
+2017-02-01T00:00:00,Nigeria,,,ADAMAWA NORTH,Localmillet_1bigMudu,,,473.37179
+2017-02-01T00:00:00,Nigeria,,,Biu,BorrowOrHelp,# of days household using this coping strategy per week,,0.97175
+2017-02-01T00:00:00,Nigeria,,,Potiskum,localmaize_1bigmudu,,,422.12476
+2016-07-01T00:00:00,Nigeria,,,BORNO SOUTH,FCS,food consumption score,F,44.60169
+2016-07-01T00:00:00,Nigeria,,,ADAMAWA CENTRAL,Dairy,# of days household eating this food item per week,,2.37071
+2016-02-01T00:00:00,Nigeria,,,Borno,Veg,# of days household eating this food item per week,,5.046
+2016-01-01T00:00:00,Nigeria,,,Yobe,ReduceNumMeals,# of days household using this coping strategy per week,1.0,2.4
+2017-02-01T00:00:00,Nigeria,,,Gwoza,Meat,# of days household eating this food item per week,,1.97297
+2018-07-01T00:00:00,Nigeria,,,YOBE SOUTH,Veg,# of days household eating this food item per week,M,2.78735
+2017-08-01T00:00:00,Nigeria,,,Shelleng,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.23077
+2018-09-01T00:00:00,Nigeria,,,Yobe East                                         ,Dairy,# of days household eating this food item per week,N,1.91429
+2017-08-01T00:00:00,Nigeria,,,BORNO CENTRAL,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,N,0.41393
+2016-07-01T00:00:00,Nigeria,,,BORNO SOUTH,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.34146
+2016-07-01T00:00:00,Nigeria,,,Hong,Vegoil_0#75l,,,305.94203
+2017-02-01T00:00:00,Nigeria,,,BORNO SOUTH,rCSI,reduced coping strategy,Y,11.95833
+2018-08-01T00:00:00,Nigeria,,,Borno North                                       ,Veg,# of days household eating this food item per week,N,2.29126
+2018-07-01T00:00:00,Nigeria,,,,RestrictConsumption,# of days household using this coping strategy per week,Yes,1.86852
+2018-07-01T00:00:00,Nigeria,,,ADAMAWA SOUTH,BorrowOrHelp,# of days household using this coping strategy per week,N,2.15714
+2017-02-01T00:00:00,Nigeria,,,ADAMAWA NORTH,FCG==3,prevalence-->food consumption group = acceptable,F,0.65517
+2018-07-01T00:00:00,Nigeria,,,,Dairy,# of days household eating this food item per week,NotApplicable,0.83114
+2016-07-01T00:00:00,Nigeria,,,Gujba,Dairy,# of days household eating this food item per week,,1.46429
+2017-08-01T00:00:00,Nigeria,,,Jada,Staples,,,5.03571
+2016-07-01T00:00:00,Nigeria,,,YOBE SOUTH,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.44589
+2016-07-01T00:00:00,Nigeria,,,ADAMAWA SOUTH,Staples,,F,4.225
+2017-08-01T00:00:00,Nigeria,,,ADAMAWA NORTH,Fats,,Y,3.84884
+2017-02-01T00:00:00,Nigeria,,,Gwoza,Proteins,,,1.97297
+2018-07-01T00:00:00,Nigeria,,,ADAMAWA NORTH,Fruits,# of days household eating this food item per week,M,1.83294
+2017-08-01T00:00:00,Nigeria,,,ADAMAWA SOUTH,Veg,# of days household eating this food item per week,N,4.15436
+2018-08-01T00:00:00,Nigeria,,,Borno South                                       ,ManLbr,Daily wages for manual labor,,925.37104
+2016-01-01T00:00:00,Nigeria,,,,LocRiceMudu,,M,329.89331
+2016-07-01T00:00:00,Nigeria,,,Nangere,FCG==3,prevalence-->food consumption group = acceptable,,0.48936
+2017-08-01T00:00:00,Nigeria,,,Bursari,Staples,,,5.65672

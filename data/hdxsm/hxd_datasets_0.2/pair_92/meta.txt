@@ -1,0 +1,9 @@
+ad0d3374-5885-4010-94ec-1b7f1649cd2a,DTM Indonesia Sulawesi Earthquake Round 1 Site Assessment.xlsx
+6af28f7c-6426-46ab-a3dd-72eb1bc43729,DTM Indonesia Lombok Earthquake Round 2 Site Assessment
+---hxl_tags---
+#adm2+name
+#adm3+name
+#geo+lat
+#geo+lon
+#affected+idps+hh
+#affected+idps+ind

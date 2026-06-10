@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "tss_d"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "crtd_b"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "ss_tss"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "td"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "dscrptn"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "chmbl_d"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "rltnshp_tp"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "cnfdnc_scr"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "cll_d"
+        },
+        {
+            "source_table": "assays_vertical_50_ac3_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_50_ac3_ev_target",
+            "target_column": "ss_cll_tp"
+        }
+    ]
+}

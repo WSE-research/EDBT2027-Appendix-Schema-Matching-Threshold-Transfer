@@ -1,0 +1,46 @@
+{
+    "matches": [
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "id",
+            "target_table": "fodors_zagats_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "name",
+            "target_table": "fodors_zagats_target",
+            "target_column": "name"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "addr",
+            "target_table": "fodors_zagats_target",
+            "target_column": "addr"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "city",
+            "target_table": "fodors_zagats_target",
+            "target_column": "city"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "phone",
+            "target_table": "fodors_zagats_target",
+            "target_column": "phone"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "type",
+            "target_table": "fodors_zagats_target",
+            "target_column": "type"
+        },
+        {
+            "source_table": "fodors_zagats_source",
+            "source_column": "class",
+            "target_table": "fodors_zagats_target",
+            "target_column": "class"
+        }
+    ]
+}

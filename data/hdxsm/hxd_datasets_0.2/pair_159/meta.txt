@@ -1,0 +1,16 @@
+11881061-ebc9-472f-b583-7a6bdce4eb2e,Tuberculosis Indicators for Eswatini
+ae39a6e0-7de9-4e57-a21c-5b35da42e381,Malaria Indicators for Kingdom of Eswatini
+---hxl_tags---
+#indicator+code
+#indicator+name
+#indicator+url
+#status+code
+#status+name
+#date+year
+#region+code
+#region+name
+#date+year+start
+#date+year+end
+#country+code
+#country+name
+#indicator+value+num

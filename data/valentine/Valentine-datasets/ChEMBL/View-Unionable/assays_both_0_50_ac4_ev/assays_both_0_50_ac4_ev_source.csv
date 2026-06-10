@@ -1,0 +1,101 @@
+assay_id,src_assay_id,description,assay_category,bao_format,chembl_id,doc_id,assay_tax_id,curated_by,src_id,cell_id,assay_type,assay_test_type,assay_organism,assay_strain,assay_tissue,assay_cell_type
+1,,The compound was tested for the in vitro inhibition of platelet 12-lipoxygenase at a concentration of 30 uM,,BAO_0000019,CHEMBL615117,11087,,Autocuration,1,,B,,,,,
+2,,Compound was evaluated for its ability to mobilize calcium in 1321NI cells,,BAO_0000219,CHEMBL615118,684,,Autocuration,1,,F,,,,,
+3,,,,BAO_0000019,CHEMBL615119,15453,,Autocuration,1,,B,,,,,
+4,,Binding affinity against A2 adenosine receptor in bovine striatal membranes using [3H]CGS-21680,,BAO_0000249,CHEMBL615120,17841,9913.0,Autocuration,1,,B,,Bos taurus,,,
+5,,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),,BAO_0000219,CHEMBL615121,17430,9606.0,Intermediate,1,163.0,F,,Homo sapiens,,,143B
+6,,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),,BAO_0000219,CHEMBL615122,17430,9606.0,Intermediate,1,163.0,F,,Homo sapiens,,,143B
+7,,Cytotoxic Activity was evaluated against 143B (TK-) tumor cells,,BAO_0000219,CHEMBL615123,13799,10090.0,Intermediate,1,163.0,F,,Mus musculus,,,143B
+8,,In vitro cell cytotoxicity was determined against 143B cell line,,BAO_0000219,CHEMBL615124,17774,9606.0,Expert,1,163.0,F,,Homo sapiens,,,143B
+9,,Inhibitory activity against tumor osteosarcoma cell line 143B after 72 hr continuous exposure to compound,,BAO_0000219,CHEMBL615125,3801,9606.0,Intermediate,1,163.0,F,,Homo sapiens,,,143B
+10,,In vitro cell cytotoxicity against 143B-LTK cell lines expressed in HSV-1 TK,,BAO_0000219,CHEMBL615126,17430,9606.0,Intermediate,1,163.0,F,,Homo sapiens,,,143B
+11,,In vitro cell cytotoxicity against 143B-LTK cell lines expressed in HSV-1 TK,,BAO_0000219,CHEMBL615127,17430,9606.0,Intermediate,1,163.0,F,,Homo sapiens,,,143B
+12,,In vitro cell cytotoxicity was determined against 143B-LTK cell line,,BAO_0000219,CHEMBL615128,17774,9606.0,Expert,1,163.0,F,,Homo sapiens,,,143B
+13,,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,BAO_0000218,CHEMBL857900,11324,1280.0,Intermediate,1,,F,,Staphylococcus aureus,,,
+14,,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,BAO_0000218,CHEMBL615129,11324,1280.0,Intermediate,1,,F,,Staphylococcus aureus,,,
+15,,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,BAO_0000218,CHEMBL615130,11324,1280.0,Intermediate,1,,F,,Staphylococcus aureus,,,
+16,,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,BAO_0000218,CHEMBL615131,11324,1280.0,Intermediate,1,,F,,Staphylococcus aureus,,,
+17,,Inhibition of cytochrome P450 progesterone 15-alpha hydroxylase,,BAO_0000357,CHEMBL884521,11347,10116.0,Expert,1,,A,,Rattus norvegicus,,,
+18,,Concentration that cause 50% activation of human reticulocyte 15-lipoxygenase (15-HLO),,BAO_0000357,CHEMBL615132,16474,,Autocuration,1,,B,,,,,
+19,,Inhibition of partially purified 15-lipoxygenase from human leukocytes,,BAO_0000019,CHEMBL615133,10091,,Autocuration,1,,B,,,,,
+20,,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO),,BAO_0000357,CHEMBL615134,16474,,Autocuration,1,,B,,,,,
+21,,Compound was evaluated for the percent increase in activation concentration of human reticulocyte 15-lipoxygenase (15-HLO),,BAO_0000357,CHEMBL615135,16474,,Autocuration,1,,B,,,,,
+22,,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO),,BAO_0000357,CHEMBL615136,16474,,Autocuration,1,,B,,,,,
+23,,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO); NI is no inhibition,,BAO_0000357,CHEMBL615137,16474,,Autocuration,1,,B,,,,,
+24,,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO); NI is no inhibition,,BAO_0000357,CHEMBL615138,16474,,Autocuration,1,,B,,,,,
+25,,"Inhibitory concentration against 15-lipoxygenase, by inhibiting 15-HETE production by human umbilical vein endothelial cells (HUVEC) stimulated by calcium ionophore A 23187 at concentration of 10e-5 M.",,BAO_0000219,CHEMBL836324,14352,,Autocuration,1,,B,,,,,
+26,,In vitro inhibitory activity of compound on rabbit reticulocyte 15-lipoxygenase,,BAO_0000357,CHEMBL615139,5646,9986.0,Autocuration,1,,B,,Oryctolagus cuniculus,,,
+27,,Inhibition of rabbit reticulocyte 15-lipoxygenase by compound (30 uM),,BAO_0000357,CHEMBL615140,5646,9986.0,Autocuration,1,,B,,Oryctolagus cuniculus,,,
+28,,Inhibitory activity against 15-lipoxygenase in rat polymorphonuclear leukocytes,,BAO_0000219,CHEMBL615141,10997,,Autocuration,1,,B,,,,,
+29,,Inhibitory activity against 15-lipoxygenase was determined obtained from soya bean,,BAO_0000357,CHEMBL615142,6309,3847.0,Autocuration,1,,B,,soya bean,,,
+30,,Inhibitory activity against soybean 15-lipoxygenase was evaluated,,BAO_0000357,CHEMBL615143,167,3847.0,Autocuration,1,,B,,Glycine max,,,
+31,,Inhibitory activity against soybean 15-lipoxygenase was evaluated at 100 uM,,BAO_0000357,CHEMBL615144,167,3847.0,Autocuration,1,,B,,Glycine max,,,
+32,,The compound was tested for the in vitro inhibition of 15-lipoxygenase of soybean at a concentration of 10 uM,,BAO_0000357,CHEMBL872867,11087,3847.0,Autocuration,1,,B,,Glycine max,,,
+33,,The compound was tested for the in vitro inhibition of 15-lipoxygenase of soybean at a concentration of 100 uM,,BAO_0000357,CHEMBL615145,11087,3847.0,Autocuration,1,,B,,Glycine max,,,
+34,,Compound was tested in vitro for inhibition of 15-lipoxygenase soybean,,BAO_0000357,CHEMBL615146,13622,3847.0,Autocuration,1,,B,,Glycine max,,,
+35,,Compound at 100 uM was tested in vitro for inhibition of 15-lipoxygenase soybean,,BAO_0000357,CHEMBL615147,13622,3847.0,Autocuration,1,,B,,Glycine max,,,
+36,,Inhibition of cytochrome P450 progesterone 16-alpha hydroxylase,,BAO_0000019,CHEMBL615148,11347,10116.0,Autocuration,1,,A,,Rattus norvegicus,,,
+37,,Binding affinity against bacterial 16S rRNA using mass spectrometry based assay,,BAO_0000019,CHEMBL615149,5926,562.0,Autocuration,1,,B,,Escherichia coli,,,
+38,,Dissociation constant with dimeric 16S rRNA RNA construct B,,BAO_0000019,CHEMBL615150,4567,,Autocuration,1,,B,,,,,
+39,,Dissociation constant towards 16S rRNA construct A,,BAO_0000225,CHEMBL615151,3782,,Intermediate,1,,B,,,,,
+40,,Dissociation constant towards 16S rRNA construct B,,BAO_0000225,CHEMBL615152,3782,,Intermediate,1,,B,,,,,
+41,,Binding affinity of aminoglycoside to 16S ribosomal RNA A-site in Escherichia coli,,BAO_0000225,CHEMBL615153,4466,562.0,Expert,1,,B,,Escherichia coli,,,
+42,,Binding affinity for the 16S ribosomal RNA A-site of Escherichia coli,,BAO_0000225,CHEMBL615154,6592,562.0,Expert,1,,B,,Escherichia coli,,,
+43,,Inhibitory activity against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,BAO_0000019,CHEMBL615155,898,,Autocuration,1,,B,,,,,
+44,,Inhibitory constant against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,BAO_0000019,CHEMBL615156,898,,Autocuration,1,,B,,,,,
+45,,The compound was tested at a concentration of 1 uM for inhibitory activity against 17 beta-hydroxysteroid dehydrogenase from human placental microsomes,,BAO_0000019,CHEMBL615157,13163,9606.0,Autocuration,1,,B,,Homo sapiens,,,
+46,,The compound was tested at a concentration of 1 uM for inhibitory activity against 17 beta-hydroxysteroid dehydrogenase from human placental microsomes,,BAO_0000019,CHEMBL615158,13163,9606.0,Autocuration,1,,B,,Homo sapiens,,,
+47,,"Inhibition of 17-alpha-hydroxylase/17,20 lyase from rat testes microsomal preparation",,BAO_0000019,CHEMBL615159,10691,10116.0,Expert,1,,B,,Rattus norvegicus,,,
+48,,"Inhibition of 17-alpha-hydroxylase/17,20 lyase from rat testes microsomal preparation",,BAO_0000019,CHEMBL615172,10691,10116.0,Expert,1,,B,,Rattus norvegicus,,,
+49,,"Percent inhibition of 17-alpha-hydroxylase/17,20 lyase of rat testes microsomes at 100 uM",,BAO_0000019,CHEMBL615173,10691,10116.0,Expert,1,,B,,Rattus norvegicus,,,
+50,,"Percent inhibition of Steroid 17-alpha-hydroxylase/17,20 lyase of rat testes microsomes at 100 uM",,BAO_0000019,CHEMBL615174,10691,10116.0,Expert,1,,B,,Rattus norvegicus,,,
+51,,Inhibitory activity against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,BAO_0000019,CHEMBL884518,898,,Autocuration,1,,B,,,,,
+52,,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1),,BAO_0000357,CHEMBL615175,912,,Autocuration,1,,B,,,,,
+53,,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1) at 1 uM concentration,,BAO_0000357,CHEMBL615176,912,,Autocuration,1,,B,,,,,
+54,,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1) at 10 uM concentration,,BAO_0000357,CHEMBL615177,912,,Autocuration,1,,B,,,,,
+55,,Selectivity ratio of binding affinity towards mu to delta receptors of rat brain membranes,,BAO_0000249,CHEMBL615178,15103,10116.0,Autocuration,1,,B,,Rattus norvegicus,,,
+56,,Cytotoxicity against ovarian cancer cell line (1A-9) of humans was determined,,BAO_0000219,CHEMBL615179,5116,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+57,,Functional antagonism by electrical assays in Xenopus oocytes expressing 1A/2A NMDA receptor subtype,,BAO_0000219,CHEMBL615180,14578,10116.0,Autocuration,1,,F,,Rattus norvegicus,,,Oocytes
+58,,Functional antagonism by electrical assays in Xenopus oocytes expressing the 1A/2B NMDA receptor,,BAO_0000219,CHEMBL615181,14578,10116.0,Autocuration,1,,F,,Rattus norvegicus,,,Oocytes
+59,,Functional antagonism by electrical assays in Xenopus oocytes expressing the 1A/2C NMDA receptor,,BAO_0000219,CHEMBL615182,14578,10116.0,Autocuration,1,,F,,Rattus norvegicus,,,Oocytes
+60,,In vitro effective concentration required to reduce the number of human ovarian cancer (1A9) after 3-day incubation,,BAO_0000219,CHEMBL615183,4787,9606.0,Expert,1,506.0,F,,Homo sapiens,,,1A9
+61,,In vitro effective concentration required to reduce the number of human ovarian cancer cells (1A9) after 3-day incubation,,BAO_0000219,CHEMBL615184,4787,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+62,,Cytotoxic activity against human ovarian cancer (1A9) cell line,,BAO_0000219,CHEMBL615185,3547,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+63,,Cytotoxic activity against human ovarian cancer (1A9) cell line; ND=Not determined,,BAO_0000219,CHEMBL615186,3547,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+64,,Effective dose of compound against replication of 1A9 cell line was evaluated,,BAO_0000219,CHEMBL615187,6726,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+65,,In vitro cytotoxic activity was determined against ovarian cancer (1A9) cell line,,BAO_0000219,CHEMBL885343,3455,9606.0,Expert,1,506.0,F,,Homo sapiens,,,1A9
+66,,In vitro cytotoxicity evaluated against human ovarian cancer (1A9 cell line),,BAO_0000219,CHEMBL615188,5726,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+67,,In vitro cytotoxicity evaluated against human ovarian cancer (1A9 cell line); NA is not active,,BAO_0000219,CHEMBL615189,5726,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+68,,In vitro percent inhibition evaluated against human ovarian cancer (1A9 cell line) at >20 ug/mL,,BAO_0000219,CHEMBL615190,5726,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+69,,Inhibitory activity against Taxol resistant 1A9 cell lines,,BAO_0000219,CHEMBL615191,3395,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+70,,Cytotoxicity against human ovarian cancer (1A9) cell lines.,,BAO_0000219,CHEMBL615192,3415,9606.0,Expert,1,506.0,F,,Homo sapiens,,,1A9
+71,,Percentage inhibition of human ovarian cancer (1A9) cell lines.,,BAO_0000219,CHEMBL827083,3415,9606.0,Expert,1,506.0,F,,Homo sapiens,,,1A9
+72,,Effective dose required for inhibitory activity against 1A9 human tumor cell line.,,BAO_0000219,CHEMBL615193,17099,9606.0,Expert,1,506.0,F,,Homo sapiens,,,1A9
+73,,Percent inhibition against 1A9 human tumor cell line at 0.10 ug/mL,,BAO_0000219,CHEMBL615194,17099,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+74,,Percent inhibition against 1A9 human tumor cell line at <0.00008 ug/mL,,BAO_0000219,CHEMBL615195,17099,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+75,,Percent inhibition against 1A9 human tumor cell line at >10 ug/mL,,BAO_0000219,CHEMBL615196,17099,9606.0,Intermediate,1,506.0,F,,Homo sapiens,,,1A9
+76,,Inhibitory concentration against Jurkat cells,,BAO_0000219,CHEMBL615197,17721,9606.0,Intermediate,1,503.0,F,,Homo sapiens,,,Jurkat
+77,,In vitro anticancer activity against 2 NCI SCLC cell lines; inactive,,BAO_0000019,CHEMBL615198,1229,,Intermediate,1,,F,,,,,
+78,,Inhibition of cytochrome P450 progesterone 2-alpha-hydroxylase,,BAO_0000357,CHEMBL615199,11347,10116.0,Expert,1,,A,,Rattus norvegicus,,,
+79,,"In vitro inhibition of human 2,3-oxidosqualene cyclase.",,BAO_0000357,CHEMBL615200,17117,,Expert,1,,B,,,,,
+80,,"In vitro inhibition of human 2,3-oxidosqualene cyclase.",,BAO_0000357,CHEMBL615201,17117,,Expert,1,,B,,,,,
+81,,"In vitro inhibition of human 2,3-oxidosqualene cyclase at 100 nM.",,BAO_0000357,CHEMBL615202,17117,,Expert,1,,B,,,,,
+82,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in Candida albicans microsomes",,BAO_0000251,CHEMBL615203,11375,5476.0,Autocuration,1,,B,,Candida albicans,,,
+83,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in Candida albicans microsomes",,BAO_0000251,CHEMBL615204,11375,5476.0,Autocuration,1,,B,,Candida albicans,,,
+84,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in Saccharomyces cerevisiae microsomes",,BAO_0000251,CHEMBL615205,11375,4932.0,Autocuration,1,,B,,Saccharomyces cerevisiae,,,
+85,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in Saccharomyces cerevisiae microsomes",,BAO_0000251,CHEMBL615206,11375,4932.0,Autocuration,1,,B,,Saccharomyces cerevisiae,,,
+86,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in pig liver microsomes",,BAO_0000251,CHEMBL615207,11375,9823.0,Autocuration,1,,B,,Sus scrofa,,Liver,
+87,,"Concentration required to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase",,BAO_0000019,CHEMBL827084,791,10116.0,Autocuration,1,,B,,Rattus norvegicus,,,
+88,,"Concentration required to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase (OSC)",,BAO_0000019,CHEMBL615208,791,10116.0,Autocuration,1,,B,,Rattus norvegicus,,,
+89,,"Evaluated for its activity to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase, activity expressed as Ki",,BAO_0000019,CHEMBL615209,791,10116.0,Autocuration,1,,B,,Rattus norvegicus,,,
+90,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in rat liver microsomes",,BAO_0000251,CHEMBL615210,11375,10116.0,Autocuration,1,,B,,Rattus norvegicus,,Liver,
+91,,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in rat liver microsomes",,BAO_0000251,CHEMBL615211,11375,10116.0,Autocuration,1,,B,,Rattus norvegicus,,Liver,
+92,,"Compound was evaluated for inhibitory activity against 2,3-oxidosqualene-lanosterol cyclase in rat liver microsomes",,BAO_0000251,CHEMBL615212,153,10116.0,Autocuration,1,,B,,Rattus norvegicus,,Liver,
+93,,Molar concentration needed to give 50% prevention of 2-5A (Adenosine dependent endoribonuclease),,BAO_0000357,CHEMBL615213,8269,,Expert,1,,B,,,,,
+94,,Molar concentration required to displace 50% of the radiolabeled probe from 2-5A (Adenosine dependent endoribonuclease) in endonuclease-nitrocellulose complex,,BAO_0000357,CHEMBL615273,8269,,Expert,1,,B,,,,,
+95,,In vitro cytotoxic concentration required to inhibit hepatitisB virus (HBV) replication in 2.2.15 cell line,,BAO_0000219,CHEMBL615274,17653,9606.0,Expert,1,726.0,F,,Homo sapiens,,,HepG2
+96,,50% Effective concentration of compound required for inhibiting intracellular viral replicative intermediate DNA in HBV-transfected 2.2.15 cell line.,,BAO_0000219,CHEMBL615275,14277,9606.0,Intermediate,1,726.0,F,,Homo sapiens,,,HepG2
+97,,Antiviral activity against Hepatitis B virus in 2.2.15 cell line,,BAO_0000219,CHEMBL615276,1717,9606.0,Intermediate,1,726.0,F,,Homo sapiens,,,HepG2
+98,,In vitro effective concentration against hepatitis B virus was determined in 2.2.15 cells,,BAO_0000219,CHEMBL615277,14091,9606.0,Intermediate,1,726.0,F,,Homo sapiens,,,HepG2
+99,,In vitro effective concentration against hepatitis B virus was determined in 2.2.15 cells; Not determined,,BAO_0000219,CHEMBL615326,14091,9606.0,Intermediate,1,726.0,F,,Homo sapiens,,,HepG2
+100,,In vitro effective concentration required to inhibit hepatitisB virus (HBV) replication in 2.2.15 cell line,,BAO_0000218,CHEMBL883130,17653,10407.0,Expert,1,,F,,Hepatitis B virus,,,

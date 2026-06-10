@@ -1,0 +1,9 @@
+<"Snapshot Date", "Reported_date">
+<"Country", "Country">
+<"Country Code", "Country_code">
+<"State Pcode", "State_Pcode">
+<"State of Displacement", "State">
+<"LGA Pcode", "LGA Pcode">
+<"LGA", "LGA">
+<"Estimated Household Number", "Number of Households">
+<"Estimated Number of IDP", "Number of Individuals">

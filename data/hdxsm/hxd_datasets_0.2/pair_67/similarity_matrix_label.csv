@@ -1,0 +1,11 @@
+,Country,Country_Code,Reported_Date,Date of Assessment,State ,State Code,LGA ,LGA Code,Number households,Number individuals
+Country,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Country_code,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reported_date,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Date,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+State,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+State_Pcode,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+LGA,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+LGA Pcode,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Number of Households,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Number of Individuals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0

@@ -1,0 +1,80 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "TraDevelo": {
+        "type": "int"
+    },
+    "Biodi": {
+        "type": "int"
+    },
+    "UrbIss": {
+        "type": "int"
+    },
+    "ChiIs": {
+        "type": "int"
+    },
+    "YoIs": {
+        "type": "int"
+    },
+    "IndigIs": {
+        "type": "int"
+    },
+    "DisaIss": {
+        "type": "int"
+    },
+    "ICTAAToFoDevelo": {
+        "type": "int"
+    },
+    "KnoFoDeve": {
+        "type": "int"
+    },
+    "GeEqua": {
+        "type": "int"
+    },
+    "OrgaID": {
+        "type": "text"
+    },
+    "OrgNa": {
+        "type": "text"
+    },
+    "OrgT": {
+        "type": "text"
+    },
+    "OrganCl": {
+        "type": "text"
+    },
+    "OrganS": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "ContiNa": {
+        "type": "text"
+    },
+    "PrBroCounID": {
+        "type": "text"
+    },
+    "CouReID": {
+        "type": "text"
+    },
+    "CouRegN": {
+        "type": "text"
+    },
+    "CoRegPerc": {
+        "type": "real"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "SeN": {
+        "type": "text"
+    },
+    "SePe": {
+        "type": "real"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

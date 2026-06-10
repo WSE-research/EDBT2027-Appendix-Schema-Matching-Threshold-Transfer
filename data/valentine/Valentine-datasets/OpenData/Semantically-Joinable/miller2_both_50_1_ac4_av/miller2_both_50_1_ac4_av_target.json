@@ -1,0 +1,80 @@
+{
+    "miller2_FisYe": {
+        "type": "text"
+    },
+    "miller2_TrDev": {
+        "type": "int"
+    },
+    "miller2_Bio": {
+        "type": "int"
+    },
+    "miller2_UrbIss": {
+        "type": "int"
+    },
+    "miller2_ChilIs": {
+        "type": "int"
+    },
+    "miller2_YouIss": {
+        "type": "int"
+    },
+    "miller2_IndiIs": {
+        "type": "int"
+    },
+    "miller2_DisabIs": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFoDeve": {
+        "type": "int"
+    },
+    "miller2_KnowlFDev": {
+        "type": "int"
+    },
+    "miller2_GenEqua": {
+        "type": "int"
+    },
+    "miller2_OrgaID": {
+        "type": "text"
+    },
+    "miller2_OrganiNa": {
+        "type": "text"
+    },
+    "miller2_OrgTy": {
+        "type": "text"
+    },
+    "miller2_OrganCl": {
+        "type": "text"
+    },
+    "miller2_OrgSu": {
+        "type": "text"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_ContiNa": {
+        "type": "text"
+    },
+    "miller2_PrBroCoID": {
+        "type": "text"
+    },
+    "miller2_CouRegID": {
+        "type": "text"
+    },
+    "miller2_CouRegN": {
+        "type": "text"
+    },
+    "miller2_CouRePe": {
+        "type": "real"
+    },
+    "miller2_SecID": {
+        "type": "int"
+    },
+    "miller2_SeN": {
+        "type": "text"
+    },
+    "miller2_SePer": {
+        "type": "real"
+    },
+    "miller2_AmSp": {
+        "type": "real"
+    }
+}

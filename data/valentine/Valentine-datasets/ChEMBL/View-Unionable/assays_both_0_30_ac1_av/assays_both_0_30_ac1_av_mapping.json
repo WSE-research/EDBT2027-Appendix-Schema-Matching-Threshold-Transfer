@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_assay_id"
+        },
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_cell_id"
+        },
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_curated_by"
+        },
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_assay_category"
+        },
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_variant_id"
+        },
+        {
+            "source_table": "assays_both_0_30_ac1_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_0_30_ac1_av_target",
+            "target_column": "assays_assay_tissue"
+        }
+    ]
+}

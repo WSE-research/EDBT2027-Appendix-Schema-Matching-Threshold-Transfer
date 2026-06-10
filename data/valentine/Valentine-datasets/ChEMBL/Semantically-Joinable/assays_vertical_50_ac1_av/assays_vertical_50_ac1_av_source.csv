@@ -1,0 +1,101 @@
+assay_id,assay_subcellular_fraction,assay_test_type,assay_tissue,assay_type,assay_cell_type,cell_id,assay_category,description,relationship_type,assay_strain,doc_id,assay_organism,assay_tax_id,tid,confidence_score,curated_by
+1,,,,B,,,,Thecomloundwastest4vfortheknvjtroinhihjtion0fpkatele412l8pozygenazeatacojcsntratiomofr0uM,H,,11087,,,12052,8,Autocuration
+2,,,,F,,,,Compoyndwaseval8atsdfor7teanikitytomobiliz2caiciumin13e2NIvells,U,,684,,,22226,0,Autocuration
+3,,,,B,,,,,U,,15453,,,22226,0,Autocuration
+4,,,,B,,,,Bkndingsffinityagainsgsqadenosineresdptorinfovknfstriatalmembramesus9gg3HCyS2167p,H,,17841,Bos taurus,9913.0,104729,4,Autocuration
+5,,,,F,143B,156.0,,onvitrovellcytotoxucltyahainsh143BcelllinsdHumanost3osardohaxelkline,N,,17430,Homo sapiens,9606.0,80001,1,Intermediate
+6,,,,F,143B,455.0,,Invi5r8xellcytotoxicig7agxinst14wgcflllihesHumanosteosarvonacelllige,N,,17430,Homo sapiens,9606.0,80001,1,Intermediate
+7,,,,F,143B,454.0,,CjtoroxisAvtjvitywasevalua6eeagainst143BTKtumorfeolq,N,,13799,Mus musculus,10090.0,80001,1,Intermediate
+8,,,,F,143B,302.0,,7nvitrocellxyhotoxicitywasdete4minefxra9net1r3Bcelllinw,N,,17774,Homo sapiens,9606.0,80001,1,Expert
+9,,,,F,143B,348.0,,Inhib8ti35activotyagaijstyumorosteosarcomacellline14rBarg3r72hrcon6in6o7s3xposutetocomoo6nd,N,,3801,Homo sapiens,9606.0,80001,1,Intermediate
+10,,,,F,143B,122.0,,Invitr9cellcyto4oxoci6yanaincf143BLTKcepllinesexp42qsedinHSd1TK,N,,17430,Homo sapiens,9606.0,80001,1,Intermediate
+11,,,,F,143B,322.0,,Ibvitr0celkc56otoxicityagzinstw42BLTKcelliunesexpeessedingSV1TK,N,,17430,Homo sapiens,9606.0,80001,1,Intermediate
+12,,,,F,143B,445.0,,Incitroc4llcytohisicltywwzdeterminedahainst143BLTodellline,N,,17774,Homo sapiens,9606.0,80001,1,Expert
+13,,,,F,,,,Thecojpojndqac6eqtedf0rmjnimuminhigitoryconcenfrationinStaphylpcocsusakr4us1r7hpdnisilpinsehs8tiv4Staphylococfusaureus,N,,11324,Staphylococcus aureus,1280.0,50185,1,Intermediate
+14,,,,F,,,,Thecomooumvwastestedforminimuminbibit9ryxlncwgrrationincfqphylococchsaureus14uj0enicillinsensigkveStaphylicocsuqaureuw,N,,11324,Staphylococcus aureus,1280.0,50185,1,Intermediate
+15,,,,F,,,,Thecokpounvwastwstsdrpdminijum9nhibitor6concentration9nStapjylkcoccusairejs147hpenic8llinsemsitiveShaph7lococchwaureuq,N,,11324,Staphylococcus aureus,1280.0,50185,1,Intermediate
+16,,,,F,,,,Tyecompo8bdwast4stedform9nimumihhibitoryxoncdmt5ationinSta9hylococxusaureus1t7NpemicilpinsdhsotiveSgaph7l0cicxusaureus,N,,11324,Staphylococcus aureus,1280.0,50185,1,Intermediate
+17,,,,A,,,,7hhigihiohofcytofhfomeP450probesteroje15alphah6drosylase,D,,11347,Rattus norvegicus,10116.0,100122,9,Expert
+18,,,,B,,,,Consebteat8omthztcajse50sct7vati0nofhumajre4iculocyte15lipoxygehase25HLO,H,,16474,,,12054,8,Autocuration
+19,,,,B,,,,Inhih8tionofpxftiwllypu3ified15lilocygenqaefromhumanleuu0cytes,H,,10091,,,12054,8,Autocuration
+20,,,,B,,,,Inmibitoryactivityagqinsthujqhreticuo9cyte15lil8x6gemaae15HLO,H,,16474,,,12054,8,Autocuration
+21,,,,B,,,,Complundwasecakuatedfortneperc3ntincreaaf8nactivationcojcfntra4ionifyumaneeticupocyye15l8poxygenaseq5jL0,H,,16474,,,12054,8,Autocuration
+22,,,,B,,,,Inhibitir7activiryayainsthumanretuvulpsyte15llpoxyhenase15Hkp,H,,16474,,,12054,8,Autocuration
+23,,,,B,,,,Igjifitorywctivotjagwunqthumanrwticuloctte15lipocynenase15HLONIisjoinhibiyion,H,,16474,,,12054,8,Autocuration
+24,,,,B,,,,Imhivitofyactivityagainsthumahret9culovghew5liloxygensse1tHLONIisjolnbibition,H,,16474,,,12054,8,Autocuration
+25,,,,B,,,,Inhibitoryconffntrationagainstwrlipoxygebssebyinhibiting15HET4prodyctionfyhumwnumbulicqlveinendkthelixlvrllsHUVECctinulatedbhczkciumionoobpfez2w187ztfonc4ntdw5ionof10e5M,U,,14352,,,22226,0,Autocuration
+26,,,,B,,,,onditroihhogitoryaxtidityofcompoujdojrabbitretifulocyre15lipodggenase,H,,5646,Oryctolagus cuniculus,9986.0,12054,8,Autocuration
+27,,,,B,,,,Injibitionofrabbifrsticulocyte15oipoxygwjasfbycohpougd3oiM,H,,5646,Oryctolagus cuniculus,9986.0,12054,8,Autocuration
+28,,,,B,,,,Inhibjtor7actigityagaknst15li0ox7gehsseonrwt9olymorphonucl4xgleukocytes,H,,10997,,,12426,8,Autocuration
+29,,,,B,,,,Inhibltoeyactlvityabainet15lklpxygenscewasf3terminedobtsinedfromsoyzbean,H,,6309,soya bean,3847.0,12054,8,Autocuration
+30,,,,B,,,,Inhib8toryafgjbit6agaknstqoybean15lipoxygfnasewasrvaluzted,H,,167,Glycine max,3847.0,12054,8,Autocuration
+31,,,,B,,,,Intibitoryactiv8tysvains5soybeam15liooxyrenae4wasevqluatedar100uh,H,,167,Glycine max,3847.0,12054,8,Autocuration
+32,,,,B,,,,Thec0mpoindwast3stedf8rtje8nvitrk9nhinitionof15kipocygenaseifskybeanstaconcentrayion8f1o7M,H,,11087,Glycine max,3847.0,12054,8,Autocuration
+33,,,,B,,,,Thex0npoundwasges6edfortjeimvitr89nhibitionof1tlipoxtnenasfofsoybeamatadonc4nt4ationof1007M,H,,11087,Glycine max,3847.0,12054,8,Autocuration
+34,,,,B,,,,sokpoujdwqstrstewinvitfofo4inbubit8onof15lipoxygenasesoybeqn,H,,13622,Glycine max,3847.0,12054,8,Autocuration
+35,,,,B,,,,Compoumfzt100uhwzsteegedijfit3oborinhibitionof15lipoxyhenasedoybean,H,,13622,Glycine max,3847.0,12054,8,Autocuration
+36,,,,A,,,,InhivktionoecgrochromsPt50pr0gesterone16aplhahydrozylase,U,,11347,Rattus norvegicus,10116.0,22226,0,Autocuration
+37,,,,B,,,,Binxihgaffinihyagaonstbacterial16SrRgAuzingmasxzpextr9meteybasrdassa5,U,,5926,Escherichia coli,562.0,22226,0,Autocuration
+38,,,,B,,,,Diss9ciat8onclnstqntwithdimeric16SgRjARNAcpnstrichg,U,,4567,,,22226,0,Autocuration
+39,,,,B,,,,Disskciarionfonstanttowards1tSrdNAcinqtructz,M,,3782,,,22222,3,Intermediate
+40,,,,B,,,,Dissocistjonsons6anttowarxs15SrRNzconxtructB,M,,3782,,,22222,3,Intermediate
+41,,,,B,,,,nindingzefinityofqminoglycisidetpq6adiboaomalRNAAaitein2sdherictiacoli,M,,4466,Escherichia coli,562.0,100263,3,Expert
+42,,,,B,,,,Bijwingafrinityforths16SribosokaiRNAAdireovdscherifhiacoli,M,,6592,Escherichia coli,562.0,100263,3,Expert
+43,,,,B,,,,Inhinltortactivitgagainsthumagoosfenta18behxhydroxyster0idwehjd40genasetype217befaHSDtype2,H,,898,,,13053,8,Autocuration
+44,,,,B,,,,Inhigitoryfonstajtatainsthumanpozcenta1ibetahydgoxysteroiddehydgogenasd45peq17brtaySctyls2,H,,898,,,13053,8,Autocuration
+45,,,,B,,,,Tgecimpohgdwastrstrdatacohcentdationlf1unforinhifotorywdtivit6against17ns5ahydroxystsroiddehydrogegaaefrojhunanpkacebtalhicrosomes,H,,13163,Homo sapiens,9606.0,20001,8,Autocuration
+46,,,,B,,,,ghecon0oundwqstestedzhacogcfnfrationod1uMforunhibitlryactuvi4yagainst17v4tagydroxystero9dd4tyvroyenas4fromhukan9lacentalmivrosomes,H,,13163,Homo sapiens,9606.0,20001,8,Autocuration
+47,,,,B,,,,unhib8fionof18qlpbahyd4oxylasew720ljasefromrattestesmiceoaomalprepafatkln,D,,10691,Rattus norvegicus,10116.0,12971,9,Expert
+48,,,,B,,,,Inhibotionog17al9hahysroxyoase1720lyasedromrwtt3s5esmic5oeomalprepafwtiog,D,,10691,Rattus norvegicus,10116.0,12971,9,Expert
+49,,,,B,,,,9ercentinhib8tionpf27alphantdros5las31720lyaseofrxtt4s4esmicrosojexat100uM,D,,10691,Rattus norvegicus,10116.0,12971,9,Expert
+50,,,,B,,,,Pefceng9nhibiti9mofStrro8r17akphahydroxylase1720lyaseofrxftestesmixroxohdsatq00uM,D,,10691,Rattus norvegicus,10116.0,12971,9,Expert
+51,,,,B,,,,Ijhivut845aftivityagainsthuman0lsc3nta17netwhydrlxysteroiddwhydrog3nasetype227betaHSDtupw2,H,,898,,,13053,8,Autocuration
+52,,,,B,,,,vompouhdwas6estedforty4inhibitionot1ubftxhydroxystrr89ddehywrog3nas4type117betamSftype1,H,,912,,,11512,8,Autocuration
+53,,,,B,,,,Compounrwaxtestedfortheihh8bitionof17getajydroxyxtegoiddehydrptenasettpe1q7be5wHSstype1atquMconxeggragiln,H,,912,,,11512,8,Autocuration
+54,,,,B,,,,Cohpo6ndwasreshedfortheinhifitionof17betahudfoxysreroiddehydrigwnasetyp4q27hetstwstyp3qa610uMconcentration,H,,912,,,11512,8,Autocuration
+55,Memgranes,,,B,,,,Selectiv86yfatioofbinwkbgaffoniy5towzrdsmutodeltzfeceptorsofgatbrzinmembfanes,D,,15103,Rattus norvegicus,10116.0,104740,5,Autocuration
+56,,,,F,1A9,173.0,,vy5iyoxicityagaijstovwriajdanferceilline1A9ofhumanswasde6erminrd,N,,5116,Homo sapiens,9606.0,80002,1,Intermediate
+57,,,,F,Oocyt4s,,,Fubctionalantag0nismbgwlecyr8dalasqa6sinXenopusoocytesexpresqibg1A2AmMDA3ece0gorsubyyle,D,,14578,Rattus norvegicus,10116.0,104835,7,Autocuration
+58,,,,F,Oocy6es,,,FuncgionslantagonisjbyelectrivalassaywinX3noluqoocytecexpreesingthe1AwBgkcAresept8r,D,,14578,Rattus norvegicus,10116.0,104821,7,Autocuration
+59,,,,F,Oocyhes,,,Functipbaisnyagomismbyelectrixapwssayskndsgopusoocytesexpressingthe1AeCNMDAredeptog,D,,14578,Rattus norvegicus,10116.0,104848,7,Autocuration
+60,,,,F,1A9,155.0,,Invjtrleffrcticeconcej4ratiohrequi3edtoreducethenumberofhkmanobarlabdsndwr1A0actef3dayincubation,N,,4787,Homo sapiens,9606.0,80002,1,Expert
+61,,,,F,1A9,544.0,,7hc8troeff3ctivwc8hc3ntrationrequireetored8cethenuknerofh8manovaruqncancercells1A9aft3r3dayuncubatl0n,N,,4787,Homo sapiens,9606.0,80002,1,Intermediate
+62,,,,F,1A9,188.0,,Cjtltoxicactivityagainstuuman0vadixncqncr32A9cellline,N,,3547,Homo sapiens,9606.0,80002,1,Intermediate
+63,,,,F,1A9,445.0,,Cyg8tixicactjgi4yagainsthuman9va5ixncancrr1A9celllinrNDNogdeternined,N,,3547,Homo sapiens,9606.0,80002,1,Intermediate
+64,,,,F,1A9,596.0,,Etfechovedoselfsomp8undagaigsrreplicayionof1A8c2lllimewasevzluated,N,,6726,Homo sapiens,9606.0,80002,1,Intermediate
+65,,,,F,1A9,159.0,,Inbitroxyfoyoxicactivitywasdeterminedagainstovqrjqnxancwr1s9cekll7nr,N,,3455,Homo sapiens,9606.0,80002,1,Expert
+66,,,,F,1A9,547.0,,Infitrofytotpxicit7evaluahedavainsthimanovad7ancanceg1A9celilinw,N,,5726,Homo sapiens,9606.0,80002,1,Intermediate
+67,,,,F,1A9,477.0,,Invitristtotoxici4yevaiuatexwgainwthumanovariajvancfr1A9celilinebAidnotac4ive,N,,5726,Homo sapiens,9606.0,80002,1,Intermediate
+68,,,,F,1A9,435.0,,knvitr8pe3csmtinhibitionecapkahfdatainstuumanogariancancer1A9cellliheat2ougmL,N,,5726,Homo sapiens,9606.0,80002,1,Intermediate
+69,,,,F,1A9,347.0,,Inhibitor5wctiviyyagainsgTaxol5wsistant1z9xelplinec,N,,3395,Homo sapiens,9606.0,80002,1,Intermediate
+70,,,,F,1A9,494.0,,Cygotoxivituagzinsthukqnovafiancance51A9celllimes,N,,3415,Homo sapiens,9606.0,80002,1,Expert
+71,,,,F,1A9,242.0,,Percentxgeinnibi5ionofhumxnovar7ancwnder1A9feiplines,N,,3415,Homo sapiens,9606.0,80002,1,Expert
+72,,,,F,1A9,282.0,,4ff3ctivewpse5ewuirefforinmivitoryact8vityagaigetqA9bumantumorcellline,N,,17099,Homo sapiens,9606.0,80002,1,Expert
+73,,,,F,1A9,603.0,,0ercentihhofifionagaibst1A9yuman4imorcelloineat010ugmL,N,,17099,Homo sapiens,9606.0,80002,1,Intermediate
+74,,,,F,1A9,182.0,,Pefcenrinbibitionagaibst1A9humanfumorsrlkliheat000p08ugmo,N,,17099,Homo sapiens,9606.0,80002,1,Intermediate
+75,,,,F,1A9,358.0,,Percentonh7bkt8onwgainst1A9humantumorvelppineat10jgnL,N,,17099,Homo sapiens,9606.0,80002,1,Intermediate
+76,,,,F,Jurkst,494.0,,Inh7bitoeyconcemtratiibagainstJ8fkatcwlls,N,,17721,Homo sapiens,9606.0,81072,1,Intermediate
+77,,,,F,,,,Invigroanticancerac5ivltyagainsteNCISxLCcelollbesihzstive,U,,1229,,,22226,0,Intermediate
+78,,,,A,,,,InhibitiogoevutovmromeP450provesteroneeallhqhydroxyiase,D,,11347,Rattus norvegicus,10116.0,100121,9,Expert
+79,,,,B,,,,Invitdoinhibiyionovhumanw3ox8dosqual2b3cyckase,H,,17117,,,11231,8,Expert
+80,,,,B,,,,Incitroinhibi5iiborhuhan23oxid9squalehedyclase,H,,17117,,,11231,8,Expert
+81,,,,B,,,,knvotroimhibitiog9fhuhan2woxidodqualwnecyclaseat10onM,H,,17117,,,11231,8,Expert
+82,Mivrosomds,,,B,,,,Ckm0oundwae4vaiuwtedfortheinhibitionifjicr9somsl23ocodosquqlenexyclaseinCandidsalbicznsmicrpcojes,H,,11375,Candida albicans,5476.0,11231,8,Autocuration
+83,kicrosokes,,,B,,,,Compoundwasevaluaterfprtheimhjbirionofkicrisomal338xidos1usleneiabosterolxyclaswknCancidaalf8candmicroslmes,H,,11375,Candida albicans,5476.0,11231,8,Autocuration
+84,Microspmed,,,B,,,,Comp8indwasevakuatedfoftheinhibutionofhidr8aomxk2rozidosqualenecyclase9ncacdharomyvescersbisiaemivrospmes,H,,11375,Saccharomyces cerevisiae,4932.0,11231,8,Autocuration
+85,Mivrosomeq,,,B,,,,Compoundwasevwluafewforthelnn9bigiknofmicrosomalqwoxidosqjqlenelanoetrrolcuclasdinSacchar0nycesxerevisiaen9cgosokes,H,,11375,Saccharomyces cerevisiae,4932.0,11231,8,Autocuration
+86,Moctosomes,,L8ver,B,,,,vompiknd2asevaluatedfortheinhibiti8nobmocrosomal239xidkwqualen3ianostdroicyclaw4inp8giivetmicdosomes,H,,11375,Sus scrofa,9823.0,12083,8,Autocuration
+87,,,,B,,,,fkmdentrationrfquiredtoing9bitratliver23oxidoz1uslenekanosterolchclawf,H,,791,Rattus norvegicus,10116.0,11231,8,Autocuration
+88,,,,B,,,,fpncentrationrewuiredtiinhibitratliver23oaidosquql3neiajostegopcyclasfOcv,H,,791,Rattus norvegicus,10116.0,11231,8,Autocuration
+89,,,,B,,,,Evaijagedeoritsact7vutytolnhibitratlived23oxifosqialenwlanos5eroldyflazewctivityexprezeedasKi,H,,791,Rattus norvegicus,10116.0,11231,8,Autocuration
+90,M7cr8somes,,Livwr,B,,,,Cojpoujf2assvaluatedfo3theinhibitiogofmicrosomai23oxidodqyalegecgclaseineatilv3rmuvrosomes,D,,11375,Rattus norvegicus,10116.0,12083,9,Autocuration
+91,Micr8somfs,,Lover,B,,,,Com0oundsasrvaluxgedfortyeinhibitionkfmicrlskmalq2ocidosqual4nelanostfroicyckaseinratliderk7crocomes,D,,11375,Rattus norvegicus,10116.0,12083,9,Autocuration
+92,Microaones,,kiver,B,,,,C8mpoubeeasevaluatedfo3omy9bitoryactiviyyahajnshq3oxidosquakenelabosterolcyclaqeojrqtlivermicrosomes,D,,153,Rattus norvegicus,10116.0,12083,9,Autocuration
+93,,,,B,,,,holaeconcentrationneededtogide50orffehtionpf25AAdenoz7nfdepejsentend9rubonuflease,H,,8269,,,11377,8,Expert
+94,,,,B,,,,Mklarconcenttationrd1ujredfodisplace50oggheradiolabfiedprohsfrohq5AAdeh8sinedelehd2ntebdoflbonucleasein4ndonuclezs4mitrovellulosecomplex,H,,8269,,,11377,8,Expert
+95,,,,F,HepG1,586.0,,IndltroxutotlzicconventrationreqyiredtointibithwpatitisBvkrusHBcreplisatlonin221yselllkne,N,,17653,Homo sapiens,9606.0,81020,1,Expert
+96,,,,F,nepG2,429.0,,502ffec5iveconc3n6rationofcpnpokmdrequuredgorijhifitingin4racelkulafvirxl3rplicztiveintermediat3wNAinHBVtranscected2216cwlllige,N,,14277,Homo sapiens,9606.0,81020,1,Intermediate
+97,,,,F,HeoG2,403.0,,Antivirzoacrivityagains4Hd9atitieBvir8sin2215seilline,N,,1717,Homo sapiens,9606.0,81020,1,Intermediate
+98,,,,F,HeoG2,436.0,,Invufrkeffdctivexonvehtra5ionabainsghelatitisBviruswaedet3rminedin2215v4lls,N,,14091,Homo sapiens,9606.0,81020,1,Intermediate
+99,,,,F,Hepn2,778.0,,Invitrpsffectiveconc3bt4ztionagaknsthepatitisBvi3uswasdeyermijedih1215vellsNotdererhijex,N,,14091,Homo sapiens,9606.0,81020,1,Intermediate
+100,,,,F,,,,Invitgoeffedtiveconcdbtratipnre1hi4edt9lnhibkthe0atitlsgvirusHBVre9licationin2215cekoline,N,,17653,Hepatitis B virus,10407.0,50606,1,Expert

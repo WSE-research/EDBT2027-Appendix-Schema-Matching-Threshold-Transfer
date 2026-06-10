@@ -1,0 +1,15 @@
+9745c447-6ce2-40f6-b0f6-d321a2d76a45,DTM DRC BA North Kivu Apr2021 R6
+11fbd83e-7977-45b1-88ca-cbf00454aaf0,DTM DRC BA Ituri Aug2021 R5
+---hxl_tags---
+#date+reported
+#country+name
+#country+code
+#adm1+code
+#adm1+name
+#adm2+code
+#adm2+name
+#date+occurred
+#affected+idps+hh
+#affected+idps+ind
+#affected+returnees+hh
+#affected+returnees+ind

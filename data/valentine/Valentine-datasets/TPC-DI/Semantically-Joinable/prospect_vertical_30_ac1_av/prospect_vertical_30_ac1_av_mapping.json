@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_AgencyID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "State",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_State"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_AddressLine2"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_Country"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "Employer",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_Employer"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac1_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_vertical_30_ac1_av_target",
+            "target_column": "prospect_CreditRating"
+        }
+    ]
+}

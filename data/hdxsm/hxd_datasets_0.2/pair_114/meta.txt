@@ -1,0 +1,15 @@
+1d17ed78-5d7d-41cd-8dac-f783ef4a84fb,DTM DRC BA Tanganyika Sep2021 R12
+11fbd83e-7977-45b1-88ca-cbf00454aaf0,DTM DRC BA Ituri Aug2021 R5
+---hxl_tags---
+#date+reported
+#country+name
+#country+code
+#adm1+code
+#adm1+name
+#adm2+code
+#adm2+name
+#date+occurred
+#affected+idps+hh
+#affected+idps+ind
+#affected+returnees+hh
+#affected+returnees+ind

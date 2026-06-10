@@ -1,0 +1,142 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_DI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "description",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_Descri"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASST"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASTTY"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASCA"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSOR"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSTI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSST"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASTIS"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSCTY"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_ASSUBFRA"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_T"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_RELTY"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_CONFISCO"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_CURB"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_SI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_SRASI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_CHI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_CEI"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_BAFO"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_TII"
+        },
+        {
+            "source_table": "assays_horizontal_50_ac4_ev_source",
+            "source_column": "variant_id",
+            "target_table": "assays_horizontal_50_ac4_ev_target",
+            "target_column": "assays_VARII"
+        }
+    ]
+}

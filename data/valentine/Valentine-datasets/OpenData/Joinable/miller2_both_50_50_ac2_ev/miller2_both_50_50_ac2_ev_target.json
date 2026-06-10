@@ -1,0 +1,116 @@
+{
+    "FisY": {
+        "type": "text"
+    },
+    "EnviSusta": {
+        "type": "int"
+    },
+    "OrganiS": {
+        "type": "text"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "CIDABusDeliMo": {
+        "type": "text"
+    },
+    "UnAmoProBu": {
+        "type": "real"
+    },
+    "ProgrPro": {
+        "type": "text"
+    },
+    "OrgaCla": {
+        "type": "text"
+    },
+    "FSTCPe": {
+        "type": "real"
+    },
+    "DiviID": {
+        "type": "text"
+    },
+    "FCenNa": {
+        "type": "text"
+    },
+    "ICTAATFDevelo": {
+        "type": "int"
+    },
+    "ProjNu": {
+        "type": "text"
+    },
+    "ConNa": {
+        "type": "text"
+    },
+    "ClimChaMiti": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "text"
+    },
+    "BilaAiMa": {
+        "type": "int"
+    },
+    "GenEqu": {
+        "type": "int"
+    },
+    "OrganID": {
+        "type": "text"
+    },
+    "BraID": {
+        "type": "text"
+    },
+    "CliChAdap": {
+        "type": "int"
+    },
+    "Dese": {
+        "type": "int"
+    },
+    "DivN": {
+        "type": "text"
+    },
+    "CouRegID": {
+        "type": "text"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "YouIs": {
+        "type": "int"
+    },
+    "IndigIss": {
+        "type": "int"
+    },
+    "DisIs": {
+        "type": "int"
+    },
+    "KnowlFDevelo": {
+        "type": "int"
+    },
+    "OrgNa": {
+        "type": "text"
+    },
+    "OrgaT": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "ProjBroCoID": {
+        "type": "text"
+    },
+    "CouReNa": {
+        "type": "text"
+    },
+    "CouRegPe": {
+        "type": "real"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "SecPer": {
+        "type": "real"
+    },
+    "AmoSpe": {
+        "type": "real"
+    }
+}

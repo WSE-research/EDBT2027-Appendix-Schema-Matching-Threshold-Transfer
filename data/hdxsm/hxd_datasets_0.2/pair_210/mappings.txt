@@ -1,0 +1,9 @@
+<"Date of Assessment", "Survey Date">
+<"1.1.e.2 Province (Admin 1)", "Province">
+<"Province P_Code (Admin 1 P_code)", "Province Pcodes">
+<"1.1.e.3 District (Admin 2)", "District">
+<"District P_code (Admin 2 P_code)", "District Pcodes">
+<"1.1.e.4 Post (Admin 3)", "Posto">
+<"Post P_code (Admin 3 P_Code)", "Posto Pcodes">
+<"1.1.e.5 Location", "Locality">
+<"1.2. Number of Households", " Number of families/households">

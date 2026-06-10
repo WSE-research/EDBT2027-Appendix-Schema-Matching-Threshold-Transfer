@@ -1,0 +1,13 @@
+<"Date de l'évaluation", "Date de l'évaluation">
+<"Pays", "Pays">
+<"Admin0 Pcode", "Pays Pcode">
+<"Region", "Region">
+<"Admin1 Pcode", "Region Pcode">
+<"Departement", "Departement">
+<"Admin2 Pcode", "Departement Pcode">
+<"Sous-prefecture", "Sous-prefecture">
+<"Admin3 Pcode", "Sous-prefecture Pcode">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<" Nombre de ménages Retourne", "Retourne Nombre de ménages">
+<" Nombre d'individus Retoune", "Retoune Nombre d'individus">

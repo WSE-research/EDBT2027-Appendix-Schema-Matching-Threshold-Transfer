@@ -1,0 +1,53 @@
+{
+    "ASSI": {
+        "type": "integer"
+    },
+    "T": {
+        "type": "integer"
+    },
+    "ASSTAI": {
+        "type": "bigint unsigned"
+    },
+    "VARII": {
+        "type": "integer unsigned"
+    },
+    "CONFISC": {
+        "type": "smallint unsigned"
+    },
+    "RELATT": {
+        "type": "varchar(1)"
+    },
+    "CHEI": {
+        "type": "varchar(20)"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "DOI": {
+        "type": "integer"
+    },
+    "ASSORGA": {
+        "type": "varchar(250)"
+    },
+    "ASTY": {
+        "type": "varchar(1)"
+    },
+    "ASSUBCELFRAC": {
+        "type": "varchar(100)"
+    },
+    "CURAB": {
+        "type": "varchar(32)"
+    },
+    "SASI": {
+        "type": "varchar(50)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BAFO": {
+        "type": "varchar(11)"
+    },
+    "TISI": {
+        "type": "integer"
+    }
+}

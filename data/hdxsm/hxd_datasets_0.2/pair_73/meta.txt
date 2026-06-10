@@ -1,0 +1,12 @@
+180183e8-d5fc-4e81-a8c3-29f80be2af6b,DTM Nigeria North Central & West Location Assessment R9
+8a598bff-d206-4c64-a7dc-b3cd351c1975,DTM Nigeria North Central & West Site Assessment R2
+---hxl_tags---
+#country+name
+#country+code
+#date+reported
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#affected+idps+hh
+#affected+idps+ind

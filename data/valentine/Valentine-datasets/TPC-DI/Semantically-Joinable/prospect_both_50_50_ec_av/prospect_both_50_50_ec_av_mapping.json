@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "AgencyID"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "Employer"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "LastName"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "CreditRating"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "Income"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "AddressLine1"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "NumberCreditCards"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "City"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "NetWorth"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_both_50_50_ec_av_source",
+            "source_column": "State",
+            "target_table": "prospect_both_50_50_ec_av_target",
+            "target_column": "State"
+        }
+    ]
+}

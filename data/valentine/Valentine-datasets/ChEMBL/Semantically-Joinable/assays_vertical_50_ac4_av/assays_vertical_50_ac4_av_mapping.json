@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_CEI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_ASORG"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_BFO"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_ASCT"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_SI"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_AST"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_CURAB"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_ASTET"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_CONSCO"
+        },
+        {
+            "source_table": "assays_vertical_50_ac4_av_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_50_ac4_av_target",
+            "target_column": "assays_Des"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "ASOR": {
+        "type": "varchar(250)"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "ASSCAT": {
+        "type": "varchar(20)"
+    },
+    "ASSTI": {
+        "type": "varchar(100)"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "ASSTY": {
+        "type": "varchar(1)"
+    },
+    "TII": {
+        "type": "integer"
+    },
+    "VARI": {
+        "type": "integer unsigned"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "CHI": {
+        "type": "varchar(20)"
+    },
+    "ASTI": {
+        "type": "bigint unsigned"
+    },
+    "SASSI": {
+        "type": "varchar(50)"
+    },
+    "DOI": {
+        "type": "integer"
+    },
+    "ASST": {
+        "type": "varchar(200)"
+    },
+    "ASSCTY": {
+        "type": "varchar(100)"
+    },
+    "RELATTY": {
+        "type": "varchar(1)"
+    },
+    "CONFISCO": {
+        "type": "smallint unsigned"
+    },
+    "CURAB": {
+        "type": "varchar(32)"
+    },
+    "BAFOR": {
+        "type": "varchar(11)"
+    }
+}

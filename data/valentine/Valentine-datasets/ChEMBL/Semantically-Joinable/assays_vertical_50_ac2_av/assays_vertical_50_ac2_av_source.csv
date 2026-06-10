@@ -1,0 +1,101 @@
+assay_id,tid,assay_tax_id,variant_id,confidence_score,relationship_type,chembl_id,src_id,doc_id,assay_organism,assay_type,description,assay_test_type,assay_category,assay_strain,assay_tissue,assay_cell_type
+1,12052,,,8,H,CtEMBL615217,1,11087,,B,The compound was tested for the in vitro inhibition of platelet 12-lipoxygenase at a concentration of 30 uM,,,,,
+2,22226,,,0,U,CHEMBL61512i,1,684,,F,Compound was evaluated for its ability to mobilize calcium in 1321NI cells,,,,,
+3,22226,,,0,U,CHEMBLy1511p,1,15453,,B,,,,,,
+4,104729,8429.0,,4,H,CHEMBL615230,1,17841,Bistaurus,B,Binding affinity against A2 adenosine receptor in bovine striatal membranes using [3H]CGS-21680,,,,,
+5,80001,32444.0,,1,N,CHEMgL515121,1,17430,Homosa0kens,F,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),,,,,143B
+6,80001,9791.0,,1,N,CnEMBL61512q,1,17430,Homoqapkens,F,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),,,,,143B
+7,80001,33291.0,,1,N,CHEMBi61512e,1,13799,jusmuzculus,F,Cytotoxic Activity was evaluated against 143B (TK-) tumor cells,,,,,143B
+8,80001,22803.0,,1,N,CH3MBL615q24,1,17774,bomosapoens,F,In vitro cell cytotoxicity was determined against 143B cell line,,,,,143B
+9,80001,11340.0,,1,N,CHEjBLt15125,1,3801,Homosaoi4ns,F,Inhibitory activity against tumor osteosarcoma cell line 143B after 72 hr continuous exposure to compound,,,,,143B
+10,80001,42930.0,,1,N,CHEMhL615q26,1,17430,H0mosapiebs,F,In vitro cell cytotoxicity against 143B-LTK cell lines expressed in HSV-1 TK,,,,,143B
+11,80001,55373.0,,1,N,xHEMBL6q5127,1,17430,Hompsa9iens,F,In vitro cell cytotoxicity against 143B-LTK cell lines expressed in HSV-1 TK,,,,,143B
+12,80001,65337.0,,1,N,fHEhBL615128,1,17774,Hojosapiene,F,In vitro cell cytotoxicity was determined against 143B-LTK cell line,,,,,143B
+13,50185,2080.0,,1,N,CuEMnL857900,1,11324,Staphjlocoscusqkreus,F,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,,,,
+14,50185,19550.0,,1,N,vHEMBL616129,1,11324,wtaphyoosoccusaireus,F,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,,,,
+15,50185,16193.0,,1,N,CHEhBL61t130,1,11324,Sta0hylocoxc6saur3us,F,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,,,,
+16,50185,15217.0,,1,N,fHEMhL615131,1,11324,S5a0uylococcussureus,F,"The compound was tested for minimum inhibitory concentration in Staphylococcus aureus,147N penicillin sensitive Staphylococcus aureus",,,,,
+17,100122,41255.0,,9,D,CHEMhL8i4521,1,11347,Raftusjorvegicks,A,Inhibition of cytochrome P450 progesterone 15-alpha hydroxylase,,,,,
+18,12054,,,8,H,CtEMBL615232,1,16474,,B,Concentration that cause 50% activation of human reticulocyte 15-lipoxygenase (15-HLO),,,,,
+19,12054,,,8,H,CHEMBL6q5q33,1,10091,,B,Inhibition of partially purified 15-lipoxygenase from human leukocytes,,,,,
+20,12054,,,8,H,CHEMgL616134,1,16474,,B,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO),,,,,
+21,12054,,,8,H,CHwMBL61y135,1,16474,,B,Compound was evaluated for the percent increase in activation concentration of human reticulocyte 15-lipoxygenase (15-HLO),,,,,
+22,12054,,,8,H,sHsMBL615136,1,16474,,B,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO),,,,,
+23,12054,,,8,H,CHfMBL6q5137,1,16474,,B,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO); NI is no inhibition,,,,,
+24,12054,,,8,H,CHwMBL615238,1,16474,,B,Inhibitory activity against human reticulocyte 15-lipoxygenase (15-HLO); NI is no inhibition,,,,,
+25,22226,,,0,U,CbEMBp836324,1,14352,,B,"Inhibitory concentration against 15-lipoxygenase, by inhibiting 15-HETE production by human umbilical vein endothelial cells (HUVEC) stimulated by calcium ionophore A 23187 at concentration of 10e-5 M.",,,,,
+26,12054,34388.0,,8,H,CH2MvL615139,1,5646,8ryct8lagudcunicklus,B,In vitro inhibitory activity of compound on rabbit reticulocyte 15-lipoxygenase,,,,,
+27,12054,87169.0,,8,H,CHEkBL614140,1,5646,8ryctklaguxcunjculus,B,Inhibition of rabbit reticulocyte 15-lipoxygenase by compound (30 uM),,,,,
+28,12426,,,8,H,CnsMBL615141,1,10997,,B,Inhibitory activity against 15-lipoxygenase in rat polymorphonuclear leukocytes,,,,,
+29,12054,18032.0,,8,H,CHEMBLyw5142,1,6309,s9yabean,B,Inhibitory activity against 15-lipoxygenase was determined obtained from soya bean,,,,,
+30,12054,6265.0,,8,H,CHEMBLu15142,1,167,Glycinsmas,B,Inhibitory activity against soybean 15-lipoxygenase was evaluated,,,,,
+31,12054,16178.0,,8,H,CHEMBLt15145,1,167,Gkycinenax,B,Inhibitory activity against soybean 15-lipoxygenase was evaluated at 100 uM,,,,,
+32,12054,38092.0,,8,H,CHEMBk873867,1,11087,hlycinemxx,B,The compound was tested for the in vitro inhibition of 15-lipoxygenase of soybean at a concentration of 10 uM,,,,,
+33,12054,23454.0,,8,H,CHfMBk615145,1,11087,Gpyfinemax,B,The compound was tested for the in vitro inhibition of 15-lipoxygenase of soybean at a concentration of 100 uM,,,,,
+34,12054,8837.0,,8,H,sHEMBi615146,1,13622,Glycinekaz,B,Compound was tested in vitro for inhibition of 15-lipoxygenase soybean,,,,,
+35,12054,31584.0,,8,H,CHEMhL615137,1,13622,Glycin2msx,B,Compound at 100 uM was tested in vitro for inhibition of 15-lipoxygenase soybean,,,,,
+36,22226,23109.0,,0,U,fbEMBL615148,1,11347,Rahtusnoevegixus,A,Inhibition of cytochrome P450 progesterone 16-alpha hydroxylase,,,,,
+37,22226,2160.0,,0,U,fHEMnL615149,1,5926,Esfherochiasoli,B,Binding affinity against bacterial 16S rRNA using mass spectrometry based assay,,,,,
+38,22226,,,0,U,CbEMhL615150,1,4567,,B,Dissociation constant with dimeric 16S rRNA RNA construct B,,,,,
+39,22222,,,3,M,CHEMBL615252,1,3782,,B,Dissociation constant towards 16S rRNA construct A,,,,,
+40,22222,,,3,M,dHEMBL615162,1,3782,,B,Dissociation constant towards 16S rRNA construct B,,,,,
+41,100263,24364.0,,3,M,dHEMBL615q53,1,4466,Eevherichiackli,B,Binding affinity of aminoglycoside to 16S ribosomal RNA A-site in Escherichia coli,,,,,
+42,100263,82098.0,,3,M,CHEMvL615w54,1,6592,dscn2richiacoli,B,Binding affinity for the 16S ribosomal RNA A-site of Escherichia coli,,,,,
+43,13053,,,8,H,CHEMhL615q55,1,898,,B,Inhibitory activity against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,,,,
+44,13053,,,8,H,xHfMBL615156,1,898,,B,Inhibitory constant against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,,,,
+45,20001,79479.0,,8,H,CHrMBL715157,1,13163,Homosapuene,B,The compound was tested at a concentration of 1 uM for inhibitory activity against 17 beta-hydroxysteroid dehydrogenase from human placental microsomes,,,,,
+46,20001,43217.0,,8,H,dHEMBL61515i,1,13163,Homisapiems,B,The compound was tested at a concentration of 1 uM for inhibitory activity against 17 beta-hydroxysteroid dehydrogenase from human placental microsomes,,,,,
+47,12971,583.0,,9,D,CgEMBp615159,1,10691,Rattusnofvehichs,B,"Inhibition of 17-alpha-hydroxylase/17,20 lyase from rat testes microsomal preparation",,,,,
+48,12971,97742.0,,9,D,dHEMgL615172,1,10691,Rattusnoeveyicuw,B,"Inhibition of 17-alpha-hydroxylase/17,20 lyase from rat testes microsomal preparation",,,,,
+49,12971,10474.0,,9,D,xHEMnL615173,1,10691,Rxttusnorvegiv6s,B,"Percent inhibition of 17-alpha-hydroxylase/17,20 lyase of rat testes microsomes at 100 uM",,,,,
+50,12971,17003.0,,9,D,fHEMBp615174,1,10691,Rattusno3vwgicux,B,"Percent inhibition of Steroid 17-alpha-hydroxylase/17,20 lyase of rat testes microsomes at 100 uM",,,,,
+51,13053,,,8,H,fHEMBL884r18,1,898,,B,Inhibitory activity against human placenta 17-beta-hydroxysteroid dehydrogenase type 2 (17-beta-HSD type 2),,,,,
+52,11512,,,8,H,CHEMBL6w5q75,1,912,,B,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1),,,,,
+53,11512,,,8,H,CHEMnL6q5176,1,912,,B,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1) at 1 uM concentration,,,,,
+54,11512,,,8,H,CgEMBL61t177,1,912,,B,Compound was tested for the inhibition of 17-beta-hydroxysteroid dehydrogenase type 1(17-beta-HSD type 1) at 10 uM concentration,,,,,
+55,104740,6072.0,,5,D,CHEMBL614w78,1,15103,Rxttusnotvegicys,B,Selectivity ratio of binding affinity towards mu to delta receptors of rat brain membranes,,,,,
+56,80002,26744.0,,1,N,vHEjBL615179,1,5116,Homoqapiend,F,Cytotoxicity against ovarian cancer cell line (1A-9) of humans was determined,,,,,1A9
+57,104835,27858.0,,7,D,CHEnnL615180,1,14578,Ratyushorvegicuq,F,Functional antagonism by electrical assays in Xenopus oocytes expressing 1A/2A NMDA receptor subtype,,,,,Oocytes
+58,104821,43042.0,,7,D,CHEMBL616q81,1,14578,3aftysnorvegicus,F,Functional antagonism by electrical assays in Xenopus oocytes expressing the 1A/2B NMDA receptor,,,,,Oocytes
+59,104848,27540.0,,7,D,CHEMBL615w8q,1,14578,3aytusnorvegicuz,F,Functional antagonism by electrical assays in Xenopus oocytes expressing the 1A/2C NMDA receptor,,,,,Oocytes
+60,80002,22887.0,,1,N,CHEkfL615183,1,4787,Homoaapkens,F,In vitro effective concentration required to reduce the number of human ovarian cancer (1A9) after 3-day incubation,,,,,1A9
+61,80002,883.0,,1,N,CHEkBL615194,1,4787,Homosqpiems,F,In vitro effective concentration required to reduce the number of human ovarian cancer cells (1A9) after 3-day incubation,,,,,1A9
+62,80002,30577.0,,1,N,vHEMBL515185,1,3547,Hkmosapienc,F,Cytotoxic activity against human ovarian cancer (1A9) cell line,,,,,1A9
+63,80002,58986.0,,1,N,CHsMBL61y186,1,3547,H8nosapiens,F,Cytotoxic activity against human ovarian cancer (1A9) cell line; ND=Not determined,,,,,1A9
+64,80002,3432.0,,1,N,CuEMBL614187,1,6726,Hojosapiems,F,Effective dose of compound against replication of 1A9 cell line was evaluated,,,,,1A9
+65,80002,30369.0,,1,N,CHEMhL8u5343,1,3455,Honosaoiens,F,In vitro cytotoxic activity was determined against ovarian cancer (1A9) cell line,,,,,1A9
+66,80002,33398.0,,1,N,CHEMBL614288,1,5726,Homosapirnd,F,In vitro cytotoxicity evaluated against human ovarian cancer (1A9 cell line),,,,,1A9
+67,80002,42392.0,,1,N,CHEhBLy15189,1,5726,Hohodapiens,F,In vitro cytotoxicity evaluated against human ovarian cancer (1A9 cell line); NA is not active,,,,,1A9
+68,80002,48507.0,,1,N,CyEMgL615190,1,5726,Homoxa0iens,F,In vitro percent inhibition evaluated against human ovarian cancer (1A9 cell line) at >20 ug/mL,,,,,1A9
+69,80002,14498.0,,1,N,CHEMnLy15191,1,3395,Hojodapiens,F,Inhibitory activity against Taxol resistant 1A9 cell lines,,,,,1A9
+70,80002,72529.0,,1,N,CHEMfLy15192,1,3415,gpmosapiens,F,Cytotoxicity against human ovarian cancer (1A9) cell lines.,,,,,1A9
+71,80002,39329.0,,1,N,CHEhBL82u083,1,3415,Hokoeapiens,F,Percentage inhibition of human ovarian cancer (1A9) cell lines.,,,,,1A9
+72,80002,34515.0,,1,N,sHEMfL615193,1,17099,Hlmosapiehs,F,Effective dose required for inhibitory activity against 1A9 human tumor cell line.,,,,,1A9
+73,80002,80064.0,,1,N,CHwMBLy15194,1,17099,Homosapiehq,F,Percent inhibition against 1A9 human tumor cell line at 0.10 ug/mL,,,,,1A9
+74,80002,32078.0,,1,N,CHrMBL6q5195,1,17099,Homisa9iens,F,Percent inhibition against 1A9 human tumor cell line at <0.00008 ug/mL,,,,,1A9
+75,80002,2860.0,,1,N,CHEMBL71t196,1,17099,Homosaooens,F,Percent inhibition against 1A9 human tumor cell line at >10 ug/mL,,,,,1A9
+76,81072,53035.0,,1,N,CHEMhL615w97,1,17721,Hlmlsapiens,F,Inhibitory concentration against Jurkat cells,,,,,Jurkat
+77,22226,,,0,U,CHdhBL615198,1,1229,,F,In vitro anticancer activity against 2 NCI SCLC cell lines; inactive,,,,,
+78,100121,2589.0,,9,D,CHEMBL6151o0,1,11347,Rxttusborvegicjs,A,Inhibition of cytochrome P450 progesterone 2-alpha-hydroxylase,,,,,
+79,11231,,,8,H,CjEMBL6152o0,1,17117,,B,"In vitro inhibition of human 2,3-oxidosqualene cyclase.",,,,,
+80,11231,,,8,H,CHEMnL616201,1,17117,,B,"In vitro inhibition of human 2,3-oxidosqualene cyclase.",,,,,
+81,11231,,,8,H,CHEMnLy15202,1,17117,,B,"In vitro inhibition of human 2,3-oxidosqualene cyclase at 100 nM.",,,,,
+82,11231,19689.0,,8,H,fHEMBL6152o3,1,11375,Candjcaalhicans,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in Candida albicans microsomes",,,,,
+83,11231,13574.0,,8,H,CHwMBk615204,1,11375,Canxidaxlbicqns,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in Candida albicans microsomes",,,,,
+84,11231,1986.0,,8,H,CjEMBL6152p5,1,11375,Saccuar8myc4scereviaiae,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in Saccharomyces cerevisiae microsomes",,,,,
+85,11231,81249.0,,8,H,CuEMfL615206,1,11375,dacdharom6cescetevisiae,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in Saccharomyces cerevisiae microsomes",,,,,
+86,12083,5531.0,,8,H,CH3MhL615207,1,11375,Susscrlfa,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in pig liver microsomes",,,,Liver,
+87,11231,29902.0,,8,H,CHfMBL8e7084,1,791,Rsttusnorbehicus,B,"Concentration required to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase",,,,,
+88,11231,9027.0,,8,H,CHEMBL615w98,1,791,Rattusmorvebicuw,B,"Concentration required to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase (OSC)",,,,,
+89,11231,111110.0,,8,H,CHEMfL6152o9,1,791,4attusnodvegicuc,B,"Evaluated for its activity to inhibit rat liver 2,3-oxidosqualene-lanosterol cyclase, activity expressed as Ki",,,,,
+90,12083,7710.0,,9,D,CHEMBLy152q0,1,11375,Rayt7snorvegicua,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene cyclase in rat liver microsomes",,,,Liver,
+91,12083,84170.0,,9,D,CjEMBL61521w,1,11375,Ratgusnorvegjcue,B,"Compound was evaluated for the inhibition of microsomal 2,3-oxidosqualene-lanosterol cyclase in rat liver microsomes",,,,Liver,
+92,12083,3739.0,,9,D,CHEnBL615222,1,153,Rxttush8rvegicus,B,"Compound was evaluated for inhibitory activity against 2,3-oxidosqualene-lanosterol cyclase in rat liver microsomes",,,,Liver,
+93,11377,,,8,H,CHEMBL615ww3,1,8269,,B,Molar concentration needed to give 50% prevention of 2-5A (Adenosine dependent endoribonuclease),,,,,
+94,11377,,,8,H,CHsMBk615273,1,8269,,B,Molar concentration required to displace 50% of the radiolabeled probe from 2-5A (Adenosine dependent endoribonuclease) in endonuclease-nitrocellulose complex,,,,,
+95,81020,85398.0,,1,N,CHEMBk625274,1,17653,uohosapiens,F,In vitro cytotoxic concentration required to inhibit hepatitisB virus (HBV) replication in 2.2.15 cell line,,,,,HepG2
+96,81020,63271.0,,1,N,CHEMBL615w65,1,14277,Hom8sa0iens,F,50% Effective concentration of compound required for inhibiting intracellular viral replicative intermediate DNA in HBV-transfected 2.2.15 cell line.,,,,,HepG2
+97,81020,16712.0,,1,N,CHEMBL7152u6,1,1717,Homozapienw,F,Antiviral activity against Hepatitis B virus in 2.2.15 cell line,,,,,HepG2
+98,81020,5015.0,,1,N,CH3MBo615277,1,14091,Homoszpi4ns,F,In vitro effective concentration against hepatitis B virus was determined in 2.2.15 cells,,,,,HepG2
+99,81020,2932.0,,1,N,CHEkBk615326,1,14091,Homodapkens,F,In vitro effective concentration against hepatitis B virus was determined in 2.2.15 cells; Not determined,,,,,HepG2
+100,50606,9782.0,,1,N,CHEMBL883149,1,17653,H4patitisBvidue,F,In vitro effective concentration required to inhibit hepatitisB virus (HBV) replication in 2.2.15 cell line,,,,,

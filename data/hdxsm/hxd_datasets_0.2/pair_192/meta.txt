@@ -1,0 +1,12 @@
+7b373ee7-af33-4140-92a0-83d2693eb74c,CERF Donor Contributions (HXLated).csv
+757f7dcb-6c59-4595-a16b-d820f0c77a38,CERF Allocations (HXLated).csv
+---hxl_tags---
+#country+code
+#country+name
+#value
+#value
+#value
+#value
+#date
+#date
+#region+name

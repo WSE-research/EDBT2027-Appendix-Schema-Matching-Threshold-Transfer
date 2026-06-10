@@ -1,0 +1,116 @@
+{
+    "miller2_FiYe": {
+        "type": "text"
+    },
+    "miller2_ICTAATFDeve": {
+        "type": "int"
+    },
+    "miller2_FCenID": {
+        "type": "int"
+    },
+    "miller2_Biodi": {
+        "type": "int"
+    },
+    "miller2_OrganiS": {
+        "type": "text"
+    },
+    "miller2_CouRePe": {
+        "type": "real"
+    },
+    "miller2_BrID": {
+        "type": "text"
+    },
+    "miller2_OrgNa": {
+        "type": "text"
+    },
+    "miller2_DiN": {
+        "type": "text"
+    },
+    "miller2_MaCIDAContr": {
+        "type": "real"
+    },
+    "miller2_St": {
+        "type": "text"
+    },
+    "miller2_SectNa": {
+        "type": "text"
+    },
+    "miller2_CliChMitig": {
+        "type": "int"
+    },
+    "miller2_OrganID": {
+        "type": "text"
+    },
+    "miller2_ContiID": {
+        "type": "int"
+    },
+    "miller2_CIDABusiDeMo": {
+        "type": "text"
+    },
+    "miller2_EnviSustain": {
+        "type": "int"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_CounRegID": {
+        "type": "text"
+    },
+    "miller2_TraDevelo": {
+        "type": "int"
+    },
+    "miller2_CouReN": {
+        "type": "text"
+    },
+    "miller2_Dese": {
+        "type": "int"
+    },
+    "miller2_RegPro": {
+        "type": "int"
+    },
+    "miller2_ProjNu": {
+        "type": "text"
+    },
+    "miller2_UnAmProjBu": {
+        "type": "real"
+    },
+    "miller2_YouIs": {
+        "type": "int"
+    },
+    "miller2_IndigIs": {
+        "type": "int"
+    },
+    "miller2_DisabIss": {
+        "type": "int"
+    },
+    "miller2_KnoFoDevelo": {
+        "type": "int"
+    },
+    "miller2_GeEqu": {
+        "type": "int"
+    },
+    "miller2_OrganT": {
+        "type": "text"
+    },
+    "miller2_OrganiCla": {
+        "type": "text"
+    },
+    "miller2_ContNa": {
+        "type": "text"
+    },
+    "miller2_PrBrowCoID": {
+        "type": "text"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_SePerc": {
+        "type": "real"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    }
+}

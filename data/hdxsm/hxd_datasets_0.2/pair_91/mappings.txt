@@ -1,0 +1,2 @@
+<"Country", "country">
+<"Affected 2017", "people_affected">

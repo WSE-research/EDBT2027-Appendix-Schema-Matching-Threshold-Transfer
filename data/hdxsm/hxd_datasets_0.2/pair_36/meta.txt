@@ -1,0 +1,7 @@
+57ab89c4-7d18-4d0a-96de-4581d2121129,pblStatsSum
+3a8cb9a4-46a1-45fa-a9ec-ad40e40fe928,Suite of Food Security Indicators for Nigeria
+---hxl_tags---
+#country+name
+#indicator+code
+#indicator+name
+#indicator+value+num

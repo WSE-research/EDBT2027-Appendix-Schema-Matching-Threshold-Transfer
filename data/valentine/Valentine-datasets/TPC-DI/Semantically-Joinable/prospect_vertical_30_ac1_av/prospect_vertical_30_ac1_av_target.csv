@@ -1,0 +1,101 @@
+prospect_AgencyID,prospect_State,prospect_AddressLine2,prospect_Country,prospect_Employer,prospect_CreditRating,prospect_Income,prospect_NumberCars,prospect_NumberChildren,prospect_MaritalStatus,prospect_Age,prospect_OwnOrRentFlag,prospect_NumberCreditCards,prospect_NetWorth
+PEL0,MA,,United States of America,Brink's,760.0,368776.0,,3.0,W,20.0,O,,1058868.0
+LED1,PA,APT. 624,United States of America,,555.0,177967.0,5.0,1.0,U,3.0,U,6.0,1988185.0
+lat2,Alberta,,United States of America,,566.0,321772.0,2.0,1.0,S,,O,6.0,3673128.0
+RUD3,AR,,Canada,Air Products & Chemicals,,25449.0,2.0,1.0,W,77.0,O,3.0,2005895.0
+JAY4,OR,Apt. 619,Canada,Oshkosh,815.0,166567.0,0.0,3.0,M,21.0,O,4.0,624736.0
+tod5,VA,,United States of America,,333.0,43631.0,1.0,4.0,M,77.0,R,10.0,3064615.0
+Kan6,OH,,Canada,VeraSun Energy,528.0,466230.0,4.0,0.0,,23.0,O,1.0,3489129.0
+Din7,Prince Edward Island,,United States of America,IDT,680.0,420243.0,2.0,2.0,M,9.0,U,7.0,3430744.0
+Thi8,NV,,United States of America,Adams Resources & Energy,761.0,141862.0,3.0,,U,63.0,O,10.0,1743614.0
+May9,Ontario,,United States of America,MGIC Investment,416.0,402011.0,0.0,2.0,M,32.0,O,,216299.0
+mah10,TX,,Canada,Iasis Healthcare,493.0,79928.0,2.0,2.0,M,96.0,O,9.0,1528641.0
+Siz11,NE,,United States of America,AMR,564.0,109496.0,1.0,0.0,M,46.0,R,0.0,3752907.0
+cra12,AR,,United States of America,Embarq,817.0,267901.0,1.0,4.0,U,6.0,U,0.0,582378.0
+dac13,MI,,United States of America,Advanced Micro Devices,653.0,487273.0,3.0,5.0,U,39.0,R,8.0,3458824.0
+HIV14,MA,,United States of America,Cenveo,587.0,34013.0,3.0,4.0,M,73.0,O,2.0,469408.0
+Pes15,TN,Apt. 290,United States of America,Kelly Services,472.0,473462.0,0.0,2.0,S,26.0,O,6.0,1504480.0
+CHI16,TN,,Canada,Viacom,817.0,499493.0,5.0,4.0,M,54.0,O,4.0,2763009.0
+Din17,OK,,United States of America,Macy's,441.0,266928.0,5.0,4.0,M,87.0,R,0.0,2787199.0
+De 18,Ontario,,United States of America,Gardner Denver,848.0,72444.0,2.0,3.0,M,85.0,O,6.0,2789368.0
+Mck19,KY,,United States of America,Family Dollar Stores,843.0,77290.0,3.0,3.0,U,86.0,R,8.0,2784776.0
+WIN20,PA,,United States of America,,,395066.0,2.0,0.0,U,59.0,R,,288747.0
+BIT21,MD,,United States of America,Sun Microsystems,300.0,119283.0,5.0,3.0,U,94.0,O,0.0,876575.0
+luz22,TX,,United States of America,Costco Wholesale,795.0,330991.0,1.0,1.0,U,,O,8.0,2041224.0
+don23,IN,,United States of America,Illinois Tool Works,367.0,,4.0,0.0,,5.0,U,5.0,2231509.0
+Gia24,MD,,United States of America,Southern Union,507.0,252031.0,1.0,5.0,M,23.0,O,1.0,3206409.0
+SPR25,KY,,United States of America,Moog,362.0,101800.0,3.0,1.0,M,61.0,O,9.0,3850037.0
+SKA26,CA,,United States of America,Old Republic International,527.0,436977.0,0.0,1.0,D,,O,7.0,528440.0
+Gar27,FL,,United States of America,,354.0,495334.0,0.0,,S,51.0,O,0.0,597140.0
+Dor28,Newfoundland,,United States of America,Great Plains Energy,511.0,274685.0,1.0,1.0,M,97.0,O,1.0,146931.0
+DIO29,TX,,United States of America,Broadcom,412.0,320820.0,2.0,2.0,,52.0,,7.0,353495.0
+Mer30,WA,,Canada,Discover Financial Services,583.0,195835.0,4.0,0.0,S,98.0,O,1.0,295647.0
+Atc31,MN,,United States of America,UAL,710.0,108085.0,5.0,3.0,U,47.0,O,5.0,408941.0
+Pla32,WY,,United States of America,Charles Schwab,380.0,260185.0,2.0,1.0,M,47.0,O,9.0,362523.0
+SEL33,NY,,United States of America,Coach,796.0,258323.0,0.0,0.0,M,9.0,R,2.0,2102359.0
+sha34,SC,,United States of America,DaVita,818.0,79476.0,1.0,3.0,M,85.0,U,2.0,3480265.0
+MER35,MS,,United States of America,Marshall & Ilsley Corp.,766.0,102156.0,5.0,3.0,M,81.0,U,3.0,3648900.0
+con36,UT,,United States of America,Cablevision Systems,359.0,221481.0,2.0,3.0,M,0.0,O,2.0,1161790.0
+ons37,PA,,United States of America,Barnes & Noble,401.0,41836.0,1.0,5.0,S,28.0,R,2.0,2050587.0
+Sum38,OK,,Canada,EMC,609.0,72389.0,1.0,1.0,U,65.0,O,0.0,3579198.0
+gro39,WY,,United States of America,Fluor,630.0,66486.0,3.0,0.0,S,20.0,O,2.0,889494.0
+dil40,RI,Apt. 382,United States of America,Dollar General,671.0,200185.0,3.0,1.0,M,55.0,O,9.0,2205682.0
+DOL41,HI,,United States of America,Lear,715.0,289215.0,0.0,2.0,U,76.0,O,10.0,1140117.0
+Pos42,VA,,United States of America,J.P. Morgan Chase & Co.,707.0,322484.0,4.0,1.0,M,1.0,O,9.0,1421319.0
+Mac43,OK,,United States of America,Affinia Group Intermediate,329.0,83458.0,4.0,2.0,M,3.0,O,0.0,3525204.0
+che44,Prince Edward Island,,United States of America,,601.0,,0.0,3.0,D,100.0,R,8.0,468976.0
+hol45,SD,,United States of America,Goldman Sachs Group,623.0,492407.0,5.0,1.0,W,81.0,O,2.0,1685443.0
+pfi46,OH,,United States of America,E*Trade Financial,376.0,346630.0,4.0,4.0,S,76.0,O,2.0,337564.0
+elk47,MA,,Canada,Pfizer,560.0,9572.0,1.0,3.0,W,51.0,O,0.0,84777.0
+Lab48,MD,,United States of America,Safeway,693.0,265369.0,1.0,5.0,,,O,4.0,3146477.0
+laf49,Saskatchewan,,United States of America,Simon Property Group,346.0,104172.0,1.0,2.0,S,58.0,U,0.0,495277.0
+Nor50,WA,,United States of America,Trinity Industries,342.0,65550.0,0.0,3.0,M,52.0,O,0.0,746904.0
+hag51,OH,,Canada,Solutia,563.0,,2.0,0.0,M,91.0,R,8.0,1219620.0
+Bet52,WY,,United States of America,,391.0,,2.0,3.0,M,17.0,O,4.0,1718910.0
+Van53,NJ,,United States of America,A.O. Smith,381.0,66244.0,4.0,4.0,S,6.0,O,8.0,
+O'L54,ND,,United States of America,AptarGroup,539.0,426954.0,0.0,3.0,S,89.0,U,9.0,2636424.0
+and55,NC,,United States of America,Coca-Cola,497.0,126891.0,5.0,4.0,M,99.0,O,0.0,1326305.0
+sta56,WV,,Canada,Kimberly-Clark,661.0,454196.0,4.0,2.0,M,77.0,O,,2241997.0
+CHA57,GA,Apt. 275,United States of America,Visteon,558.0,163940.0,5.0,3.0,S,,R,0.0,1542891.0
+ASI58,Ontario,,Canada,TECO Energy,534.0,365213.0,,1.0,W,90.0,O,,797918.0
+ask59,MA,,United States of America,Bemis,373.0,428739.0,0.0,0.0,M,82.0,U,6.0,347654.0
+Kik60,CA,,United States of America,Wyeth,382.0,142444.0,4.0,0.0,M,,O,8.0,2456397.0
+Cha61,SD,,United States of America,United Technologies,475.0,416168.0,3.0,3.0,S,15.0,O,10.0,1284229.0
+KIL62,Saskatchewan,,United States of America,Clorox,539.0,291420.0,2.0,0.0,D,,O,3.0,618787.0
+kin63,RI,,United States of America,Discovery Communications,711.0,413501.0,4.0,5.0,M,96.0,O,6.0,1171606.0
+MAL64,NC,,United States of America,Williams-Sonoma,606.0,,4.0,,M,38.0,O,1.0,3983261.0
+Odu65,SD,,United States of America,Manitowoc,494.0,419143.0,3.0,3.0,W,10.0,O,0.0,2328568.0
+DI 66,IL,,United States of America,Henry Schein,309.0,155057.0,1.0,5.0,M,72.0,O,3.0,2078600.0
+STU67,OR,,United States of America,Trinity Industries,630.0,313859.0,2.0,5.0,M,97.0,O,3.0,2986155.0
+HAM68,Ontario,,United States of America,Pepsi Bottling,330.0,265907.0,4.0,1.0,S,48.0,O,10.0,1864039.0
+LIB69,FL,,Canada,UGI,710.0,283481.0,,0.0,S,97.0,O,9.0,1293721.0
+ohs70,NM,,United States of America,Greif,475.0,200635.0,4.0,0.0,M,73.0,R,7.0,3850114.0
+HUM71,NE,APT. 143,United States of America,Equifax,596.0,434519.0,0.0,1.0,U,71.0,O,3.0,1618743.0
+BRA72,MI,,United States of America,,670.0,392315.0,5.0,1.0,W,93.0,O,9.0,3383487.0
+Boa73,New Brunswick,,United States of America,Freescale Semiconductor,722.0,493829.0,5.0,3.0,U,53.0,O,,2981876.0
+Mcn74,NJ,,United States of America,Aleris International,587.0,97489.0,3.0,2.0,U,32.0,O,7.0,2109339.0
+MAR75,ND,,United States of America,,609.0,,4.0,3.0,S,1.0,O,4.0,791803.0
+Wil76,Saskatchewan,,United States of America,World Fuel Services,401.0,383046.0,0.0,1.0,S,39.0,O,7.0,3523678.0
+Dea77,KS,,United States of America,R.R. Donnelley & Sons,335.0,1190.0,4.0,0.0,M,77.0,,0.0,1681902.0
+Hou78,SD,,United States of America,Brinker International,569.0,85733.0,5.0,5.0,U,18.0,O,7.0,3851455.0
+Goy79,FL,,Canada,Temple-Inland,,387890.0,0.0,2.0,M,70.0,R,9.0,2339382.0
+Mok80,Saskatchewan,,United States of America,Psychiatric Solutions,679.0,16808.0,2.0,0.0,S,26.0,O,7.0,
+Run81,FL,,United States of America,Nash-Finch,356.0,304589.0,,4.0,M,,,10.0,2065016.0
+BEL82,UT,,United States of America,AMR,308.0,48506.0,2.0,5.0,S,58.0,R,9.0,2454049.0
+BAE83,WY,,United States of America,Spartan Stores,412.0,,0.0,4.0,M,43.0,O,4.0,2423395.0
+MAU84,NH,,United States of America,Cigna,618.0,358862.0,2.0,3.0,D,65.0,O,4.0,1342045.0
+Koo85,AR,,United States of America,General Cable,429.0,477614.0,5.0,3.0,S,24.0,O,5.0,861756.0
+Lau86,CT,,United States of America,Dun & Bradstreet,819.0,175414.0,3.0,1.0,S,79.0,O,3.0,1215349.0
+Man87,VT,,Canada,Casey's General Stores,552.0,427598.0,0.0,1.0,M,48.0,O,7.0,3981554.0
+PIE88,Manitoba,,United States of America,Jack in the Box,587.0,368207.0,0.0,4.0,S,69.0,O,9.0,3865937.0
+Bus89,NJ,,United States of America,Assurant,304.0,449944.0,3.0,1.0,S,91.0,O,6.0,2804700.0
+BAB90,KY,,United States of America,Psychiatric Solutions,795.0,166247.0,5.0,5.0,,75.0,U,4.0,3283558.0
+Bur91,GA,APT. 373,United States of America,Danaher,830.0,391165.0,1.0,3.0,S,85.0,O,2.0,450524.0
+Kin92,NJ,,United States of America,Clorox,709.0,165854.0,5.0,3.0,M,76.0,R,3.0,
+POM93,SC,,United States of America,Boyd Gaming,493.0,326181.0,2.0,1.0,S,68.0,O,8.0,
+BOA94,TN,,United States of America,Eaton,680.0,173387.0,3.0,,M,95.0,O,,633760.0
+Ron95,WY,,United States of America,Dynegy,800.0,301127.0,1.0,5.0,M,15.0,R,,3634954.0
+wei96,Ontario,,United States of America,AmeriCredit,614.0,487230.0,1.0,5.0,M,17.0,R,4.0,799268.0
+Hel97,DC,,Canada,SLM,763.0,425747.0,4.0,0.0,,94.0,R,6.0,39093.0
+mog98,Alberta,,United States of America,NV Energy,561.0,401946.0,4.0,4.0,S,70.0,O,3.0,2705353.0
+boz99,ME,,United States of America,Landstar System,569.0,425422.0,1.0,2.0,S,29.0,O,4.0,3565153.0

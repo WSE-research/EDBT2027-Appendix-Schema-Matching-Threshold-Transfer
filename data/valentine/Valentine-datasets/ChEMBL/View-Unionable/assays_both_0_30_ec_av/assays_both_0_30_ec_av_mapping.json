@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "assay_strain"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "assay_test_type"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "curated_by"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "assay_subcellular_fraction"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_30_ec_av_target",
+            "target_column": "chembl_id"
+        }
+    ]
+}

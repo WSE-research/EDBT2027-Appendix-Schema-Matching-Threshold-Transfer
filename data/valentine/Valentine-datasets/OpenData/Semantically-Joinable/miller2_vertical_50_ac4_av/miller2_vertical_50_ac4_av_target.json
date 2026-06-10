@@ -1,0 +1,116 @@
+{
+    "miller2_FiY": {
+        "type": "text"
+    },
+    "miller2_ProgrProc": {
+        "type": "text"
+    },
+    "miller2_ChiIss": {
+        "type": "int"
+    },
+    "miller2_CounReID": {
+        "type": "text"
+    },
+    "miller2_IndigIss": {
+        "type": "int"
+    },
+    "miller2_TrDevelo": {
+        "type": "int"
+    },
+    "miller2_BrNa": {
+        "type": "text"
+    },
+    "miller2_BilatAiMa": {
+        "type": "int"
+    },
+    "miller2_OrganTy": {
+        "type": "text"
+    },
+    "miller2_ConN": {
+        "type": "text"
+    },
+    "miller2_EnvirSustai": {
+        "type": "int"
+    },
+    "miller2_SectID": {
+        "type": "text"
+    },
+    "miller2_AmSp": {
+        "type": "real"
+    },
+    "miller2_DivN": {
+        "type": "text"
+    },
+    "miller2_FSTCPe": {
+        "type": "real"
+    },
+    "miller2_CounRegNa": {
+        "type": "text"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_OrgNa": {
+        "type": "text"
+    },
+    "miller2_DiID": {
+        "type": "text"
+    },
+    "miller2_ClChaMitig": {
+        "type": "int"
+    },
+    "miller2_Biodi": {
+        "type": "int"
+    },
+    "miller2_SectNa": {
+        "type": "text"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_CIDABusDeMo": {
+        "type": "text"
+    },
+    "miller2_SecPer": {
+        "type": "real"
+    },
+    "miller2_UrIss": {
+        "type": "int"
+    },
+    "miller2_YoIs": {
+        "type": "int"
+    },
+    "miller2_DisaIss": {
+        "type": "int"
+    },
+    "miller2_ICTAATFDev": {
+        "type": "int"
+    },
+    "miller2_KnoFoDevelo": {
+        "type": "int"
+    },
+    "miller2_GeEqu": {
+        "type": "int"
+    },
+    "miller2_OrgID": {
+        "type": "text"
+    },
+    "miller2_OrganCl": {
+        "type": "text"
+    },
+    "miller2_OrgaSu": {
+        "type": "text"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_ProjBrowCouID": {
+        "type": "text"
+    },
+    "miller2_CouRegPerc": {
+        "type": "real"
+    },
+    "miller2_SecID": {
+        "type": "int"
+    }
+}

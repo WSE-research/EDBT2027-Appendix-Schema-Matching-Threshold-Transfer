@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "src_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_tst_tp"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "cll_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_tp"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "dc_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "b_frmt"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "crtd_b"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_strn"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_0_50_ac3_av_target",
+            "target_column": "ss_tss"
+        }
+    ]
+}

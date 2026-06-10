@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Fiscal year"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "CountryRegion percent"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Regional program (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Climate change adaptation (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "CFLI (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "CFLI (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Fund centre name"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Indigenous issues (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Desertification (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Programming process (new)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Organisation ID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Branch ID",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Branch ID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Knowledge for development (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Section name"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "FSTC percent"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Children issues (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "PBA type"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Untied amount(Project-level budget)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Division name"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "IRTC percent"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "CountryRegion ID"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "ICT as a tool for development (marker)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Maximum CIDA contribution (project-level)"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Continent name"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Project number"
+        },
+        {
+            "source_table": "miller2_both_50_50_ec_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_both_50_50_ec_av_target",
+            "target_column": "Participatory development and good governance"
+        }
+    ]
+}

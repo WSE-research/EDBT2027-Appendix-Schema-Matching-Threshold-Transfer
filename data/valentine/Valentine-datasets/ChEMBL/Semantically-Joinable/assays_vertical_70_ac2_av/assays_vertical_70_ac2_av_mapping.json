@@ -1,0 +1,100 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "SI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASSTY"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "CONFSCO"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASSCETY"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "SRASSI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASTET"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "tid",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "T"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "Descr"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "TII"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASSORG"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASSSTR"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "CEI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASCATE"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "ASSTAI"
+        },
+        {
+            "source_table": "assays_vertical_70_ac2_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_70_ac2_av_target",
+            "target_column": "RELATY"
+        }
+    ]
+}

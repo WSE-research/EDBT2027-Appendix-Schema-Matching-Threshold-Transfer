@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_ASSI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_CEI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_BFO"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_ASTI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_SRASI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_ASSTR"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_CHEI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_ASSSUBCELFRA"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_AST"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_VAI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_50_50_ac4_av_target",
+            "target_column": "assays_Ti"
+        }
+    ]
+}

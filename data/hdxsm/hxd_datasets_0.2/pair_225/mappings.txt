@@ -1,0 +1,12 @@
+<"date reported", "Date Reported">
+<"Date of Assessment", "Date of Current Survey">
+<"Round Number:", "Survey Round">
+<"Province (Admin 1)", "Site location (Province)">
+<"Province P_Code", "Province PCODE">
+<"District (Admin 2)", "Site location (District)">
+<"District P_Code", "District PCODE">
+<"Post (Admin 3)", "Site location (Posto)">
+<"Post P_Code", "Posto PCODE">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"Locality", "Locality:">

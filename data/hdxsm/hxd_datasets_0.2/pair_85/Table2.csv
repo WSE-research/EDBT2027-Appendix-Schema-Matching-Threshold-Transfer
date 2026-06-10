@@ -1,0 +1,101 @@
+COUNTRY_OF_ASYLUM,RETURN_DATE,ORIG_PROV_NAME,ORIG_DIST_NAME,DESTINATION_PROV_NAME,DESTINATION_DIST_NAME,INDIVIDUALS,MALE,FEMALE
+Pakistan,2019-06-23 00:00:00,Sar-e-Pul,Sayad,Sar-e-Pul,Sar-e-Pul,6,1,5
+Pakistan,2019-10-06 00:00:00,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,5,3,2
+Iran,2019-09-12 00:00:00,Bamyan,Bamyan,Herat,Herat,2,1,1
+Iran,2019-02-04 00:00:00,Ghazni,Ghazni,Ghazni,Ghazni,2,2,0
+Pakistan,2019-04-11 00:00:00,Paktya,Gardez,Paktya,Gardez,5,4,1
+Pakistan,2019-11-27 00:00:00,Kunar,Dara-e-Pech,Nangarhar,Jalalabad,8,5,3
+Pakistan,2019-03-28 00:00:00,Balkh,Mazar-e-Sharif,Hilmand,Nad-e-Ali,3,2,1
+Pakistan,2019-09-12 00:00:00,Takhar,Yangi Qala,Takhar,Yangi Qala,4,2,2
+Pakistan,2019-08-22 00:00:00,Takhar,Khwajaghar,Takhar,Khwajaghar,6,3,3
+Iran,2019-06-11 00:00:00,Ghazni,Ghazni,Kabul,Kabul,1,0,1
+Iran,2019-09-29 00:00:00,Bamyan,Bamyan,Bamyan,Bamyan,2,0,2
+Iran,2019-04-25 00:00:00,Herat,Herat,Herat,Herat,2,1,1
+Pakistan,2019-06-18 00:00:00,Nuristan,Waygal,Nangarhar,Behsud,2,1,1
+Pakistan,2019-09-17 00:00:00,Logar,Mohammadagha,Nangarhar,Kama,5,2,3
+Iran,2019-10-08 00:00:00,Daykundi,Khadir,Herat,Herat,4,0,4
+Pakistan,2019-07-23 00:00:00,Logar,Barakibarak,Logar,Barakibarak,1,1,0
+Pakistan,2019-08-28 00:00:00,Laghman,Qarghayi,Laghman,Qarghayi,1,0,1
+Pakistan,2019-11-28 00:00:00,Khost,Khost(Matun),Khost,Khost(Matun),1,0,1
+Iran,2019-09-23 00:00:00,Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,2019-03-26 00:00:00,Daykundi,Nili,Balkh,Mazar-e-Sharif,1,0,1
+Pakistan,2019-04-23 00:00:00,Ghazni,Ajrestan,Ghazni,Ajrestan,1,0,1
+Iran,2019-11-26 00:00:00,Kunduz,Kunduz,Kunduz,Kunduz,4,2,2
+Pakistan,2019-10-29 00:00:00,Balkh,Charbulak,Kandahar,Spinboldak,6,2,4
+Pakistan,2019-04-24 00:00:00,Nangarhar,Hesarak,Nangarhar,Kama,7,3,4
+Pakistan,2019-08-27 00:00:00,Hilmand,Nawzad,Hilmand,Nawzad,5,4,1
+Iran,2019-08-08 00:00:00,Kunduz,Kunduz,Herat,Herat,2,0,2
+Pakistan,2019-05-05 00:00:00,Kunar,Dara-e-Pech,Nangarhar,Jalalabad,2,0,2
+Pakistan,2019-05-11 00:00:00,Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,6,2,4
+Other Country ,2019-11-12 00:00:00,Wardak,Hesa-e- Awal-e- Behsud,Kabul,Kabul,2,1,1
+Iran,2019-08-22 00:00:00,Bamyan,Bamyan,Herat,Herat,1,1,0
+Pakistan,2019-05-01 00:00:00,Nangarhar,Surkhrod,Kabul,Kabul,1,1,0
+Iran,2019-09-05 00:00:00,Bamyan,Waras,Kabul,Kabul,1,0,1
+Pakistan,2019-06-26 00:00:00,Kabul,Guldara,Kabul,Guldara,18,7,11
+Iran,2019-08-27 00:00:00,Wardak,Markaz-e-Behsud,Kabul,Kabul,5,3,2
+Pakistan,2019-07-27 00:00:00,Kandahar,Zheray,Sar-e-Pul,Sar-e-Pul,1,1,0
+Iran,2019-05-02 00:00:00,Kabul,Kabul,Kabul,Kabul,7,4,3
+Pakistan,2019-10-31 00:00:00,Baghlan,Pul-e- khumri,Kabul,Bagrami,3,1,2
+Pakistan,2019-10-15 00:00:00,Paktika,Sharan,Paktika,Yahyakhel,1,0,1
+Iran,2019-03-19 00:00:00,Herat,Herat,Herat,Herat,1,0,1
+Iran,2019-10-02 00:00:00,Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,2019-03-11 00:00:00,Bamyan,Bamyan,Herat,Herat,1,1,0
+Pakistan,2019-10-19 00:00:00,Kunar,Shigal Wa sheltan,Kabul,Kabul,4,1,3
+Iran,2019-04-23 00:00:00,Bamyan,Panjab,Herat,Herat,1,0,1
+Pakistan,2019-03-17 00:00:00,Takhar,Eshkashem,Kunduz,Kunduz,6,3,3
+Iran,2019-08-07 00:00:00,Ghazni,Ghazni,Ghazni,Ghazni,5,4,1
+Pakistan,2019-10-26 00:00:00,Balkh,Charbulak,Balkh,Charbulak,4,2,2
+Iran,2019-08-08 00:00:00,Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Pakistan,2019-09-19 00:00:00,Laghman,Dawlatshah,Laghman,Dawlatshah,5,2,3
+Iran,2019-07-31 00:00:00,Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,2019-10-13 00:00:00,Wardak,Markaz-e-Behsud,Kabul,Kabul,1,0,1
+Iran,2019-03-01 00:00:00,Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,0,1
+Pakistan,2019-06-30 00:00:00,Nangarhar,Surkhrod,Nangarhar,Jalalabad,8,2,6
+Pakistan,2019-03-30 00:00:00,Paktya,Lija Ahmad Khel,Paktya,Lija Ahmad Khel,2,1,1
+Pakistan,2019-11-13 00:00:00,Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,9,4,5
+Pakistan,2019-10-06 00:00:00,Jawzjan,Shiberghan,Sar-e-Pul,Sar-e-Pul,8,6,2
+Iran,2019-11-04 00:00:00,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,0,1
+Pakistan,2019-07-04 00:00:00,Kabul,Khak-e- Jabbar,Nangarhar,Rodat,3,1,2
+Iran,2019-01-27 00:00:00,Daykundi,Nili,Kabul,Kabul,1,0,1
+Pakistan,2019-08-03 00:00:00,Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,7,2,5
+Iran,2019-02-04 00:00:00,Bamyan,Panjab,Bamyan,Panjab,1,0,1
+Pakistan,2019-04-16 00:00:00,Parwan,Ghorband,Parwan,Ghorband,1,1,0
+Pakistan,2019-11-10 00:00:00,Zabul,Qalat,Zabul,Qalat,3,0,3
+Pakistan,2019-07-27 00:00:00,Kandahar,Kandahar,Sar-e-Pul,Sar-e-Pul,1,0,1
+Iran,2019-10-06 00:00:00,Baghlan,Pul-e- khumri,Herat,Herat,1,0,1
+Iran,2019-08-18 00:00:00,Wardak,Markaz-e-Behsud,Herat,Herat,4,0,4
+Iran,2019-03-11 00:00:00,Ghor,Lal Wa Sarjangal,Ghor,Lal Wa Sarjangal,1,0,1
+Pakistan,2019-08-27 00:00:00,Paktya,Zadran,Kabul,Kabul,6,3,3
+Pakistan,2019-03-26 00:00:00,Laghman,Alishang,Kabul,Kabul,1,1,0
+Iran,2019-03-31 00:00:00,Kapisa,Tagab,Herat,Herat,1,1,0
+Pakistan,2019-05-14 00:00:00,Kunduz,Kunduz,Sar-e-Pul,Sar-e-Pul,1,1,0
+Iran,2019-05-06 00:00:00,Ghazni,Jaghuri,Ghazni,Jaghuri,1,1,0
+Pakistan,2019-05-15 00:00:00,Balkh,Mazar-e-Sharif,Kabul,Kabul,3,2,1
+Pakistan,2019-08-23 00:00:00,Logar,Khoshi,Kabul,Kabul,1,1,0
+Pakistan,2019-10-17 00:00:00,Jawzjan,Shiberghan,Faryab,Maymana,4,2,2
+Pakistan,2019-09-26 00:00:00,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,17,5,12
+Iran,2019-10-23 00:00:00,Daykundi,Shahrestan,Daykundi,Shahrestan,1,1,0
+Pakistan,2019-04-10 00:00:00,Zabul,Nawbahar,Zabul,Qalat,6,1,5
+Iran,2019-07-29 00:00:00,Kabul,Kabul,Herat,Herat,1,1,0
+Iran,2019-02-14 00:00:00,Herat,Herat,Herat,Herat,1,0,1
+Iran,2019-07-04 00:00:00,Samangan,Dara-e- Suf-e- Payin,Samangan,Dara-e- Suf-e- Payin,4,2,2
+Iran,2019-10-28 00:00:00,Bamyan,Waras,Herat,Herat,1,1,0
+Pakistan,2019-05-03 00:00:00,Paktya,Gardez,Ghazni,Ghazni,5,4,1
+Iran,2019-08-18 00:00:00,Wardak,Markaz-e-Behsud,Kabul,Kabul,2,2,0
+Pakistan,2019-07-16 00:00:00,Logar,Mohammadagha,Logar,Mohammadagha,1,0,1
+Pakistan,2019-07-06 00:00:00,Faryab,Almar,Faryab,Almar,4,1,3
+Iran,2019-03-14 00:00:00,Parwan,Shekhali,Kabul,Kabul,1,0,1
+Iran,2019-11-10 00:00:00,Laghman,Mehtarlam,Laghman,Mehtarlam,1,1,0
+Iran,2019-08-20 00:00:00,Farah,Farah,Farah,Farah,1,1,0
+Iran,2019-12-09 00:00:00,Wardak,Markaz-e-Behsud,Wardak,Markaz-e-Behsud,1,0,1
+Pakistan,2019-11-10 00:00:00,Farah,Farah,Kandahar,Daman,5,2,3
+Iran,2019-06-03 00:00:00,Herat,Herat,Herat,Herat,2,1,1
+Iran,2019-04-08 00:00:00,Faryab,Maymana,Herat,Herat,1,1,0
+Iran,2019-09-11 00:00:00,Panjsher,Dara,Herat,Herat,1,0,1
+Pakistan,2019-09-03 00:00:00,Kabul,Kabul,Kabul,Kabul,2,1,1
+Iran,2019-01-08 00:00:00,Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,2019-05-30 00:00:00,Ghazni,Nawur,Ghazni,Ghazni,1,1,0
+Iran,2019-08-14 00:00:00,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,1,0
+Iran,2019-08-07 00:00:00,Bamyan,Waras,Herat,Herat,1,1,0
+Iran,2019-04-07 00:00:00,Panjsher,Khenj (Hes-e- Awal),Kabul,Kabul,1,1,0
+Pakistan,2019-06-25 00:00:00,Balkh,Mazar-e-Sharif,Balkh,Sholgareh,5,2,3

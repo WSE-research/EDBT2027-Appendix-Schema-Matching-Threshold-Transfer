@@ -1,0 +1,214 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "fsclr"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rgnstnnm"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "pbtp"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "mxmmcdcntrbtn(prjct-lvl)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rgnstnd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Bilateral aid (international marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "bltrld(ntrntnlmrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "cdbsnssdlvrmdl(ld)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rtcprcnt"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "clmtchngmtgtn(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "ctstlfrdvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "cntrrgnd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Sector percent",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "sctrprcnt"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Knowledge for development (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "knwldgfrdvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "dvsnd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Disability issues (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "dsbltsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "brnchnm"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "prgrmmngprcss(nw)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "fndcntrnm"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "FSTC percent",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "fstcprcnt"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Project Browser country ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "prjctbrwsrcntrd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "dsrtfctn(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "clmtchngdpttn(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Division name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "dvsnnm"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Fund centre ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "fndcntrd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rgnstnclss"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "trddvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "cntrrgnnm"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rgnstnsb-clss"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Urban issues (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "rbnsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Branch ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "brnchd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Gender equality (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "gndrqlt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Amount spent",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "mntspnt"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Children issues (marker)",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "chldrnsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "sctnd"
+        },
+        {
+            "source_table": "miller2_vertical_70_ac3_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_vertical_70_ac3_av_target",
+            "target_column": "cntnntnm"
+        }
+    ]
+}

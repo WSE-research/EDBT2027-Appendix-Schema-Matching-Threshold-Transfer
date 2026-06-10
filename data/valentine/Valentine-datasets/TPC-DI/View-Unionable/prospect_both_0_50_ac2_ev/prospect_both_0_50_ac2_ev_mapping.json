@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "AgeID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "CreRa"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "AdLi1"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "MarSt"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "NeWor"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "LNa"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "MidIni"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "A"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "FiNa"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "PosCo"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac2_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac2_ev_target",
+            "target_column": "OwORFl"
+        }
+    ]
+}

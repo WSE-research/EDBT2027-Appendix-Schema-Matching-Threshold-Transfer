@@ -1,0 +1,18 @@
+920df0fe-411d-47ee-8004-11b2302fbe1c,160909_5W 2.0_HDX.xlsx
+12e99d1f-8dc7-422a-9336-91c515e3c866,160614_ECUADOR_5W_HDX.xlsx
+---hxl_tags---
+#org
+#sector
+#activity
+#adm1+name
+#adm1
+#adm1
+#adm2+name
+#adm2
+#adm2
+#adm3+name
+#adm3
+#adm3
+#loc
+#loc+type
+#status

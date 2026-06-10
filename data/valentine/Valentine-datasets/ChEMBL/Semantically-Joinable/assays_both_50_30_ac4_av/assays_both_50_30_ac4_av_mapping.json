@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_ASI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_CHEI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_ASORGA"
+        },
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_ASSTIS"
+        },
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_ASSTY"
+        },
+        {
+            "source_table": "assays_both_50_30_ac4_av_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_30_ac4_av_target",
+            "target_column": "assays_CURB"
+        }
+    ]
+}

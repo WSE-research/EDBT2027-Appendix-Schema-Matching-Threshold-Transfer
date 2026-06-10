@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "wnrrntflg"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "phn"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "mplr"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "mddlntl"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "pstlcd"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "gndr"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "nmbrcrs"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "stt"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "ncm"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac3_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_0_50_ac3_ev_target",
+            "target_column": "mrtlstts"
+        }
+    ]
+}

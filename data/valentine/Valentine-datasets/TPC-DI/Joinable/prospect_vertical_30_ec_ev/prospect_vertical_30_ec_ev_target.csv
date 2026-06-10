@@ -1,0 +1,101 @@
+AgencyID,Employer,City,NumberCreditCards,Gender,MiddleInitial,Income,NumberCars,NumberChildren,MaritalStatus,Age,CreditRating,OwnOrRentFlag,NetWorth
+PEL0,Brink's,Fairbanks,,f,,368776.0,,3.0,W,20.0,760.0,O,1058868.0
+LED1,,Quebec,6.0,F,,177967.0,5.0,1.0,U,3.0,555.0,U,1988185.0
+lat2,,Henderson,6.0,,,321772.0,2.0,1.0,S,,566.0,O,3673128.0
+RUD3,Air Products & Chemicals,Salem,3.0,,,25449.0,2.0,1.0,W,77.0,,O,2005895.0
+JAY4,Oshkosh,Toledo,4.0,f,M,166567.0,0.0,3.0,M,21.0,815.0,O,624736.0
+tod5,,Corpus Christi,10.0,M,Z,43631.0,1.0,4.0,M,77.0,333.0,R,3064615.0
+Kan6,VeraSun Energy,Salt Lake City,1.0,m,R,466230.0,4.0,0.0,,23.0,528.0,O,3489129.0
+Din7,IDT,Brownsville,7.0,,Z,420243.0,2.0,2.0,M,9.0,680.0,U,3430744.0
+Thi8,Adams Resources & Energy,Escondido,10.0,,,141862.0,3.0,,U,63.0,761.0,O,1743614.0
+May9,MGIC Investment,Los Angeles,,,,402011.0,0.0,2.0,M,32.0,416.0,O,216299.0
+mah10,Iasis Healthcare,West Covina,9.0,,U,79928.0,2.0,2.0,M,96.0,493.0,O,1528641.0
+Siz11,AMR,San Buenaventura,0.0,,,109496.0,1.0,0.0,M,46.0,564.0,R,3752907.0
+cra12,Embarq,Lexington,0.0,,,267901.0,1.0,4.0,U,6.0,817.0,U,582378.0
+dac13,Advanced Micro Devices,Hay River,8.0,m,,487273.0,3.0,5.0,U,39.0,653.0,R,3458824.0
+HIV14,Cenveo,Toronto,2.0,,W,34013.0,3.0,4.0,M,73.0,587.0,O,469408.0
+Pes15,Kelly Services,Denver,6.0,,,473462.0,0.0,2.0,S,26.0,472.0,O,1504480.0
+CHI16,Viacom,St. Paul,4.0,,,499493.0,5.0,4.0,M,54.0,817.0,O,2763009.0
+Din17,Macy's,Bellevue,0.0,,,266928.0,5.0,4.0,M,87.0,441.0,R,2787199.0
+De 18,Gardner Denver,Detroit,6.0,,M,72444.0,2.0,3.0,M,85.0,848.0,O,2789368.0
+Mck19,Family Dollar Stores,Omaha,8.0,m,,77290.0,3.0,3.0,U,86.0,843.0,R,2784776.0
+WIN20,,Costa Mesa,,M,P,395066.0,2.0,0.0,U,59.0,,R,288747.0
+BIT21,Sun Microsystems,Berkeley,0.0,,,119283.0,5.0,3.0,U,94.0,300.0,O,876575.0
+luz22,Costco Wholesale,St. Louis,8.0,f,V,330991.0,1.0,1.0,U,,795.0,O,2041224.0
+don23,Illinois Tool Works,Colorado Springs,5.0,,S,,4.0,0.0,,5.0,367.0,U,2231509.0
+Gia24,Southern Union,Fontana,1.0,,T,252031.0,1.0,5.0,M,23.0,507.0,O,3206409.0
+SPR25,Moog,St. Catharines,9.0,M,,101800.0,3.0,1.0,M,61.0,362.0,O,3850037.0
+SKA26,Old Republic International,Hayward,7.0,F,,436977.0,0.0,1.0,D,,527.0,O,528440.0
+Gar27,,Palmdale,0.0,m,,495334.0,0.0,,S,51.0,354.0,O,597140.0
+Dor28,Great Plains Energy,Phoenix,1.0,,,274685.0,1.0,1.0,M,97.0,511.0,O,146931.0
+DIO29,Broadcom,Gary,7.0,,X,320820.0,2.0,2.0,,52.0,412.0,,353495.0
+Mer30,Discover Financial Services,Beaumont,1.0,m,,195835.0,4.0,0.0,S,98.0,583.0,O,295647.0
+Atc31,UAL,Nashua,5.0,,R,108085.0,5.0,3.0,U,47.0,710.0,O,408941.0
+Pla32,Charles Schwab,San Jose,9.0,m,X,260185.0,2.0,1.0,M,47.0,380.0,O,362523.0
+SEL33,Coach,Nashua,2.0,F,E,258323.0,0.0,0.0,M,9.0,796.0,R,2102359.0
+sha34,DaVita,Fort Smith,2.0,f,Z,79476.0,1.0,3.0,M,85.0,818.0,U,3480265.0
+MER35,Marshall & Ilsley Corp.,Lancaster,3.0,,,102156.0,5.0,3.0,M,81.0,766.0,U,3648900.0
+con36,Cablevision Systems,Colorado Springs,2.0,,,221481.0,2.0,3.0,M,0.0,359.0,O,1161790.0
+ons37,Barnes & Noble,Washington,2.0,M,,41836.0,1.0,5.0,S,28.0,401.0,R,2050587.0
+Sum38,EMC,Lowell,0.0,M,,72389.0,1.0,1.0,U,65.0,609.0,O,3579198.0
+gro39,Fluor,Frederick,2.0,,F,66486.0,3.0,0.0,S,20.0,630.0,O,889494.0
+dil40,Dollar General,Mesa,9.0,,I,200185.0,3.0,1.0,M,55.0,671.0,O,2205682.0
+DOL41,Lear,Lakewood,10.0,,,289215.0,0.0,2.0,U,76.0,715.0,O,1140117.0
+Pos42,J.P. Morgan Chase & Co.,Cleveland,9.0,,,322484.0,4.0,1.0,M,1.0,707.0,O,1421319.0
+Mac43,Affinia Group Intermediate,Grand Rapids,0.0,,,83458.0,4.0,2.0,M,3.0,329.0,O,3525204.0
+che44,,Peoria,8.0,,,,0.0,3.0,D,100.0,601.0,R,468976.0
+hol45,Goldman Sachs Group,Inglewood,2.0,,,492407.0,5.0,1.0,W,81.0,623.0,O,1685443.0
+pfi46,E*Trade Financial,Akron,2.0,f,,346630.0,4.0,4.0,S,76.0,376.0,O,337564.0
+elk47,Pfizer,Charlottetown,0.0,,Y,9572.0,1.0,3.0,W,51.0,560.0,O,84777.0
+Lab48,Safeway,Bellevue,4.0,F,,265369.0,1.0,5.0,,,693.0,O,3146477.0
+laf49,Simon Property Group,Dover,0.0,,Y,104172.0,1.0,2.0,S,58.0,346.0,U,495277.0
+Nor50,Trinity Industries,Fullerton,0.0,,I,65550.0,0.0,3.0,M,52.0,342.0,O,746904.0
+hag51,Solutia,Denver,8.0,,,,2.0,0.0,M,91.0,563.0,R,1219620.0
+Bet52,,Dallas,4.0,m,,,2.0,3.0,M,17.0,391.0,O,1718910.0
+Van53,A.O. Smith,San Jose,8.0,m,,66244.0,4.0,4.0,S,6.0,381.0,O,
+O'L54,AptarGroup,Bellevue,9.0,F,,426954.0,0.0,3.0,S,89.0,539.0,U,2636424.0
+and55,Coca-Cola,San Buenaventura,0.0,m,,126891.0,5.0,4.0,M,99.0,497.0,O,1326305.0
+sta56,Kimberly-Clark,St. Louis,,,,454196.0,4.0,2.0,M,77.0,661.0,O,2241997.0
+CHA57,Visteon,Pueblo,0.0,,,163940.0,5.0,3.0,S,,558.0,R,1542891.0
+ASI58,TECO Energy,Regina,,R,,365213.0,,1.0,W,90.0,534.0,O,797918.0
+ask59,Bemis,Saskatoon,6.0,f,,428739.0,0.0,0.0,M,82.0,373.0,U,347654.0
+Kik60,Wyeth,Jackson,8.0,,K,142444.0,4.0,0.0,M,,382.0,O,2456397.0
+Cha61,United Technologies,St. Petersburg,10.0,F,,416168.0,3.0,3.0,S,15.0,475.0,O,1284229.0
+KIL62,Clorox,Scottsdale,3.0,m,U,291420.0,2.0,0.0,D,,539.0,O,618787.0
+kin63,Discovery Communications,Charlotte,6.0,f,,413501.0,4.0,5.0,M,96.0,711.0,O,1171606.0
+MAL64,Williams-Sonoma,Waterbury,1.0,,,,4.0,,M,38.0,606.0,O,3983261.0
+Odu65,Manitowoc,Chesapeake,0.0,,J,419143.0,3.0,3.0,W,10.0,494.0,O,2328568.0
+DI 66,Henry Schein,Hialeah,3.0,,,155057.0,1.0,5.0,M,72.0,309.0,O,2078600.0
+STU67,Trinity Industries,Charleston,3.0,,K,313859.0,2.0,5.0,M,97.0,630.0,O,2986155.0
+HAM68,Pepsi Bottling,Salem,10.0,,,265907.0,4.0,1.0,S,48.0,330.0,O,1864039.0
+LIB69,UGI,Sacramento,9.0,m,,283481.0,,0.0,S,97.0,710.0,O,1293721.0
+ohs70,Greif,Santa Clarita,7.0,M,,200635.0,4.0,0.0,M,73.0,475.0,R,3850114.0
+HUM71,Equifax,Sherbrooke,3.0,,O,434519.0,0.0,1.0,U,71.0,596.0,O,1618743.0
+BRA72,,Colorado Springs,9.0,,,392315.0,5.0,1.0,W,93.0,670.0,O,3383487.0
+Boa73,Freescale Semiconductor,Berkeley,,,X,493829.0,5.0,3.0,U,53.0,722.0,O,2981876.0
+Mcn74,Aleris International,San Buenaventura,7.0,,,97489.0,3.0,2.0,U,32.0,587.0,O,2109339.0
+MAR75,,New Haven,4.0,F,,,4.0,3.0,S,1.0,609.0,O,791803.0
+Wil76,World Fuel Services,Shreveport,7.0,f,,383046.0,0.0,1.0,S,39.0,401.0,O,3523678.0
+Dea77,R.R. Donnelley & Sons,Lansing,0.0,m,S,1190.0,4.0,0.0,M,77.0,335.0,,1681902.0
+Hou78,Brinker International,Pembroke Pines,7.0,,,85733.0,5.0,5.0,U,18.0,569.0,O,3851455.0
+Goy79,Temple-Inland,Palmdale,9.0,,,387890.0,0.0,2.0,M,70.0,,R,2339382.0
+Mok80,Psychiatric Solutions,Savannah,7.0,f,Z,16808.0,2.0,0.0,S,26.0,679.0,O,
+Run81,Nash-Finch,Amarillo,10.0,,I,304589.0,,4.0,M,,356.0,,2065016.0
+BEL82,AMR,Anchorage,9.0,o,,48506.0,2.0,5.0,S,58.0,308.0,R,2454049.0
+BAE83,Spartan Stores,Louisville,4.0,,Y,,0.0,4.0,M,43.0,412.0,O,2423395.0
+MAU84,Cigna,Hilo,4.0,f,,358862.0,2.0,3.0,D,65.0,618.0,O,1342045.0
+Koo85,General Cable,Sudbury,5.0,,,477614.0,5.0,3.0,S,24.0,429.0,O,861756.0
+Lau86,Dun & Bradstreet,Orlando,3.0,,,175414.0,3.0,1.0,S,79.0,819.0,O,1215349.0
+Man87,Casey's General Stores,Missoula,7.0,F,L,427598.0,0.0,1.0,M,48.0,552.0,O,3981554.0
+PIE88,Jack in the Box,Abilene,9.0,,,368207.0,0.0,4.0,S,69.0,587.0,O,3865937.0
+Bus89,Assurant,Saskatoon,6.0,M,,449944.0,3.0,1.0,S,91.0,304.0,O,2804700.0
+BAB90,Psychiatric Solutions,Irvine,4.0,,,166247.0,5.0,5.0,,75.0,795.0,U,3283558.0
+Bur91,Danaher,Reno,2.0,M,,391165.0,1.0,3.0,S,85.0,830.0,O,450524.0
+Kin92,Clorox,Sacramento,3.0,,,165854.0,5.0,3.0,M,76.0,709.0,R,
+POM93,Boyd Gaming,Topeka,8.0,,,326181.0,2.0,1.0,S,68.0,493.0,O,
+BOA94,Eaton,Rancho Cucamonga,,M,,173387.0,3.0,,M,95.0,680.0,O,633760.0
+Ron95,Dynegy,Hilo,,,R,301127.0,1.0,5.0,M,15.0,800.0,R,3634954.0
+wei96,AmeriCredit,Saint John,4.0,,A,487230.0,1.0,5.0,M,17.0,614.0,R,799268.0
+Hel97,SLM,Torrance,6.0,M,P,425747.0,4.0,0.0,,94.0,763.0,R,39093.0
+mog98,NV Energy,Santa Clara,3.0,m,,401946.0,4.0,4.0,S,70.0,561.0,O,2705353.0
+boz99,Landstar System,Torrance,4.0,,,425422.0,1.0,2.0,S,29.0,569.0,O,3565153.0

@@ -1,0 +1,131 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "CFLI (marker)": {
+        "type": "int"
+    },
+    "Maximum CIDA contribution (project-level)": {
+        "type": "real"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Fund centre name": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Status": {
+        "type": "text"
+    },
+    "PBA type": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Desertification (marker)": {
+        "type": "int"
+    },
+    "Regional program (marker)": {
+        "type": "int"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "Section ID": {
+        "type": "text"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Programming process (new)": {
+        "type": "text"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Trade development (marker)": {
+        "type": "int"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    }
+}

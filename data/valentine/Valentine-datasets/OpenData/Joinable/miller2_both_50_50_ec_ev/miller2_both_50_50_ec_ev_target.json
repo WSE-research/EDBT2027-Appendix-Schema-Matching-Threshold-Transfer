@@ -1,0 +1,116 @@
+{
+    "Fiscal year": {
+        "type": "text"
+    },
+    "Branch name": {
+        "type": "text"
+    },
+    "Gender equality (marker)": {
+        "type": "int"
+    },
+    "Organisation type": {
+        "type": "text"
+    },
+    "ICT as a tool for development (marker)": {
+        "type": "int"
+    },
+    "Urban issues (marker)": {
+        "type": "int"
+    },
+    "Bilateral aid (international marker)": {
+        "type": "int"
+    },
+    "Section name": {
+        "type": "text"
+    },
+    "Division ID": {
+        "type": "text"
+    },
+    "Division name": {
+        "type": "text"
+    },
+    "Organisation name": {
+        "type": "text"
+    },
+    "Climate change mitigation (marker)": {
+        "type": "int"
+    },
+    "Organisation ID": {
+        "type": "text"
+    },
+    "IRTC percent": {
+        "type": "real"
+    },
+    "Project number": {
+        "type": "text"
+    },
+    "CountryRegion percent": {
+        "type": "real"
+    },
+    "FSTC percent": {
+        "type": "real"
+    },
+    "Fund centre ID": {
+        "type": "int"
+    },
+    "Amount spent": {
+        "type": "real"
+    },
+    "Untied amount(Project-level budget)": {
+        "type": "real"
+    },
+    "Branch ID": {
+        "type": "text"
+    },
+    "Continent name": {
+        "type": "text"
+    },
+    "Indigenous issues (marker)": {
+        "type": "int"
+    },
+    "CIDA business delivery model (old)": {
+        "type": "text"
+    },
+    "Children issues (marker)": {
+        "type": "int"
+    },
+    "Biodiversity (marker)": {
+        "type": "int"
+    },
+    "Youth issues (marker)": {
+        "type": "int"
+    },
+    "Disability issues (marker)": {
+        "type": "int"
+    },
+    "Knowledge for development (marker)": {
+        "type": "int"
+    },
+    "Organisation class": {
+        "type": "text"
+    },
+    "Organisation sub-class": {
+        "type": "text"
+    },
+    "Continent ID": {
+        "type": "int"
+    },
+    "Project Browser country ID": {
+        "type": "text"
+    },
+    "CountryRegion ID": {
+        "type": "text"
+    },
+    "CountryRegion name": {
+        "type": "text"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "Sector percent": {
+        "type": "real"
+    }
+}

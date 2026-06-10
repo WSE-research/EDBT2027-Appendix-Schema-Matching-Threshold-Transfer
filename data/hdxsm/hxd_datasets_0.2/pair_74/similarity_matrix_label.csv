@@ -1,0 +1,10 @@
+,Country,Country Code,Reported Date,Site Location (State),State Code,Site Location (LGA),LGA Code,Number of Households,Number of Individuals
+Country,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Country Code,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reported Date,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Site Location (State),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+State Code,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Site Location (LGA),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+LGA Code,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Number of Households,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Number of Individuals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,38 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "RELATIT": {
+        "type": "varchar(1)"
+    },
+    "CONSCO": {
+        "type": "smallint unsigned"
+    },
+    "CURAB": {
+        "type": "varchar(32)"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "SRASI": {
+        "type": "varchar(50)"
+    },
+    "CHEI": {
+        "type": "varchar(20)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BFOR": {
+        "type": "varchar(11)"
+    },
+    "TII": {
+        "type": "integer"
+    },
+    "VAI": {
+        "type": "integer unsigned"
+    }
+}

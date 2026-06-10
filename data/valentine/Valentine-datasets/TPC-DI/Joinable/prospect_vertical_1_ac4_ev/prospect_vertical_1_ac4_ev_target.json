@@ -1,0 +1,38 @@
+{
+    "prospect_AgID": {
+        "type": "varchar(30)"
+    },
+    "prospect_Ph": {
+        "type": "varchar(30)"
+    },
+    "prospect_In": {
+        "type": "numeric(9)"
+    },
+    "prospect_NuCa": {
+        "type": "numeric(2)"
+    },
+    "prospect_NuCh": {
+        "type": "numeric(2)"
+    },
+    "prospect_MariSta": {
+        "type": "varchar(1)"
+    },
+    "prospect_Ag": {
+        "type": "numeric(3)"
+    },
+    "prospect_CreRa": {
+        "type": "numeric(4)"
+    },
+    "prospect_OwOReFl": {
+        "type": "varchar(1)"
+    },
+    "prospect_Empl": {
+        "type": "varchar(30)"
+    },
+    "prospect_NuCreCar": {
+        "type": "numeric(2)"
+    },
+    "prospect_NWor": {
+        "type": "numeric(12)"
+    }
+}

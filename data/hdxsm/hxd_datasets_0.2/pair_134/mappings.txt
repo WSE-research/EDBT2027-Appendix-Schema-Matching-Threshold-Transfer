@@ -1,0 +1,12 @@
+<"County", "Country">
+<"Country Code", "Country Code">
+<"Reported Date", "Reported Date">
+<"admin_1_code", "admin_1_code">
+<"admin_1_label", "admin_1_label">
+<"admin_2_code", "admin_2_code">
+<"admin_2_label", "admin_2_label">
+<"date_enquete", "date_enquete">
+<"hh_IDP_presents_36_mois", "hh_IDP_presents_36_mois">
+<"ind_IDP_presents_36_mois", "ind_IDP_presents_36_mois">
+<"hh_RETs_presents_36mo", "hh_RETs_presents_36mo">
+<"ind_RETs_presents_36mo", "ind_RETs_presents_36mo">

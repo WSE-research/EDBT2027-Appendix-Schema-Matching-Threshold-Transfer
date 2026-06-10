@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_ss_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_cll_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_td"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_cnfdnc_scr"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_src_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_src_ss_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_ss_strn"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_ss_rgnsm"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_dc_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac5_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_50_ac5_av_target",
+            "target_column": "assays_chmbl_d"
+        }
+    ]
+}

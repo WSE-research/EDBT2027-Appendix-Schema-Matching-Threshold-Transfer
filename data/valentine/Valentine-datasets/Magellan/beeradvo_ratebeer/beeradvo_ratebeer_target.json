@@ -1,0 +1,17 @@
+{
+    "id": {
+        "type": " int"
+    },
+    "Beer_Name": {
+        "type": " text"
+    },
+    "Brew_Factory_Name": {
+        "type": " text"
+    },
+    "Style": {
+        "type": " text"
+    },
+    "ABV": {
+        "type": " real"
+    }
+}

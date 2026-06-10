@@ -1,0 +1,101 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Turkey,TUR,2004,Population receiving 3 programs (%),per_numprog3_pop_tot,0.397099733352661
+Turkey,TUR,2019,Average per capita transfer held by 2nd quintile - All Social Assistance (preT),per_sa_allsa.avt_q2_preT_tot,0.81906396150589
+Turkey,TUR,2005,Coverage in extreme poor (<$1.9 a day) (%) - All Social Insurance  (preT),per_si_allsi.cov_ep_preT_tot,31.9023666381836
+Turkey,TUR,2006,Average per capita transfer held by 1st quintile (poorest) - All Social Insurance,per_si_allsi.avt_q1_tot,2.65847158432007
+Turkey,TUR,2004,Average per capita transfer held by 3rd quintile - International Private Transfers -urban,per_pr_ip.avt_q3_urb,2.85824537277222
+Turkey,TUR,2008,Adequacy of benefits in 5th quintile (richest) (%) -All Social Protection and Labor -rural,per_allsp.adq_q5_rur,33.8285675048828
+Turkey,TUR,2008,Average per capita transfer held by 5th quintile (richest) - Social Pensions -urban,per_sa_sp.avt_q5_urb,1.70697724819183
+Turkey,TUR,2005,Average per capita transfer held by 5th quintile (richest) - Cash Transfer -rural,per_sa_ct.avt_q5_rur,0.299682676792145
+Turkey,TUR,2004,Coverage in 4th quintile (%) - Social Pensions -urban,per_sa_sp.cov_q4_urb,0.483951032161713
+Turkey,TUR,2005,Poverty Headcount reduction (%) -  Social Pension - 1st quintile (poorest) -urban,per_sa_sp_p0_urb,0.607773005962372
+Turkey,TUR,2014,Coverage in 2nd quintile (%) - All Labor Market (preT),per_lm_alllm.cov_q2_preT_tot,1.48632109165192
+Turkey,TUR,2019,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,63.0900001525879
+Turkey,TUR,2006,Population in the 1st quintile (poorest) only receiving All Social Assistance (%) -urban,per_saonl.overlap_q1_urb,29.4380474090576
+Turkey,TUR,2014,Average per capita transfer held by 5th quintile (richest) - Social Pensions,per_sa_sp.avt_q5_tot,0.747738718986511
+Turkey,TUR,2018,Adequacy of benefits in 1st quintile (poorest) (%) - All Social Assistance (preT),per_sa_allsa.adq_q1_preT_tot,11.7518243789673
+Turkey,TUR,2012,Beneficiary incidence in 1st quintile (poorest) (%) - Cash Transfer -urban,per_sa_ct.bry_q1_urb,74.0106048583984
+Turkey,TUR,2015,Benefits incidence in 3rd quintile (%) - All Social Insurance (preT),per_si_allsi.ben_q3_preT_tot,17.727855682373
+Turkey,TUR,2009,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,22.7800006866455
+Turkey,TUR,2005,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,41.5
+Turkey,TUR,2000,"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS,24.7600002288818
+Turkey,TUR,2006,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,2.6
+Turkey,TUR,2008,Adequacy of benefits in 1st quintile (poorest) (%) - Cash Transfer -urban,per_sa_ct.adq_q1_urb,5.76083469390869
+Turkey,TUR,2004,Beneficiary incidence in 1st quintile (poorest) (%) - Cash Transfer,per_sa_ct.bry_q1_tot,30.7855682373047
+Turkey,TUR,2000,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,31.7999992370605
+Turkey,TUR,2004,Adequacy of benefits in 4th quintile (%) - Cash Transfer,per_sa_ct.adq_q4_tot,7.12680530548096
+Turkey,TUR,2013,Beneficiary incidence in 4th quintile (%) - All Social Assistance (preT),per_sa_allsa.bry_q4_preT_tot,7.01934719085693
+Turkey,TUR,2019,Adequacy of benefits in 3rd quintile (%) - All Labor Market,per_lm_alllm.adq_q3_tot,13.572642326355
+Turkey,TUR,2007,Adequacy of benefits in 2nd quintile (%) - Domestic Private Transfers,per_pr_dp.adq_q2_tot,17.8230686187744
+Turkey,TUR,2018,Average per capita transfer held by 1st quintile (poorest) - All Social Assistance,per_sa_allsa.avt_q1_tot,0.477637887001038
+Turkey,TUR,2005,Average per capita transfer held by 3rd quintile - Cash Transfer (preT),per_sa_ct.avt_q3_preT_tot,0.230851262807846
+Turkey,TUR,2010,Average per capita transfer held by 5th quintile (richest) -All Social Protection and Labor -rural,per_allsp.avt_q5_rur,8.53720855712891
+Turkey,TUR,2010,Population receiving Social Assistance and Other (%) -rural,per_saoth.overlap_pop_rur,5.30817222595215
+Turkey,TUR,2010,Adequacy of benefits in 1st quintile (poorest) (%) - Social Pensions,per_sa_sp.adq_q1_tot,16.3021183013916
+Turkey,TUR,2013,Adequacy of benefits in 5th quintile (richest) (%) - International Private Transfers -rural,per_pr_ip.adq_q5_rur,44.9265975952148
+Turkey,TUR,2008,Average per capita transfer held by 2nd quintile - All Social Insurance,per_si_allsi.avt_q2_tot,4.25153350830078
+Turkey,TUR,2010,Coverage in 4th quintile (%) - Domestic Private Transfers (preT),per_pr_dp.cov_q4_preT_tot,20.6988754272461
+Turkey,TUR,2013,Beneficiary incidence in 5th quintile (richest) (%) - Domestic Private Transfers -rural,per_pr_dp.bry_q5_rur,14.5443305969238
+Turkey,TUR,2005,Poverty Headcount reduction (%) -  School-feeding -extreme poor (<$1.9 a day),per_sa_sf_p0_ep_tot,0
+Turkey,TUR,2005,Gini inequality index reduction (%) -  School-feeding -rural,per_sa_sf_gini_rur,0
+Turkey,TUR,2007,Poverty Headcount reduction (%) - All Social Protection and Labor -1st quintile (poorest) -rural,per_allsp_p0_rur,25.4731407165527
+Turkey,TUR,2006,Beneficiary incidence in 1st quintile (poorest) (%) -All Social Protection and Labor,per_allsp.bry_q1_tot,16.8758239746094
+Turkey,TUR,2010,Poverty Gap reduction (%) -  Other Social Insurance - 1st quintile (poorest) -urban,per_si_ss_p1_urb,0
+Turkey,TUR,2007,Adequacy of benefits (%) - Social Pensions -urban,per_sa_sp.adq_pop_urb,9.2624683380127
+Turkey,TUR,2011,Average per capita transfer held by 3rd quintile - International Private Transfers -rural,per_pr_ip.avt_q3_rur,1.05333852767944
+Turkey,TUR,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,48.5209999084473
+Turkey,TUR,2010,Beneficiary incidence in 3rd quintile (%) - All Labor Market -rural,per_lm_alllm.bry_q3_rur,14.7449626922607
+Turkey,TUR,1991,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,30.6200008392334
+Turkey,TUR,2019,Adequacy of benefits in extreme poor (<$1.9 a day) (%) - In-Kind (preT),per_sa_ik.adq_ep_preT_tot,9.236985206604
+Turkey,TUR,1991,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,9.8100004196167
+Turkey,TUR,1994,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,29.0699996948242
+Turkey,TUR,2011,Adequacy of benefits in 3rd quintile (%) - All Labor Market (preT),per_lm_alllm.adq_q3_preT_tot,19.6422119140625
+Turkey,TUR,2012,Coverage (%) - Domestic Private Transfers,per_pr_dp.cov_pop_tot,21.7960033416748
+Turkey,TUR,2009,Poverty Gap reduction (%) -  Public Works - 1st quintile (poorest) -urban,per_sa_pw_p1_urb,0
+Turkey,TUR,2016,Benefits incidence in 3rd quintile (%) - International Private Transfers,per_pr_ip.ben_q3_tot,15.6147756576538
+Turkey,TUR,2016,Beneficiary incidence in 3rd quintile (%) - Other Social Insurance (preT),per_si_ss.bry_q3_preT_tot,13.5361175537109
+Turkey,TUR,2014,Poverty Headcount reduction (%) -  Other Social Insurance -1st quintile (poorest),per_si_ss_p0_tot,1.50137329101563
+Turkey,TUR,2005,Coverage in 5th quintile (richest) (%) -All Social Protection and Labor -rural,per_allsp.cov_q5_rur,62.6887550354004
+Turkey,TUR,2011,Coverage in 4th quintile (%) - In-Kind,per_sa_ik.cov_q4_tot,2.8031210899353
+Turkey,TUR,2015,Beneficiary incidence in 1st quintile (poorest) (%) - All Social Insurance (preT),per_si_allsi.bry_q1_preT_tot,23.0468330383301
+Turkey,TUR,2015,Poverty Gap reduction (%) -  All Labor Market  -1st quintile (poorest),per_lm_alllm_p1_tot,0.52310585975647
+Turkey,TUR,2011,Adequacy of benefits in 5th quintile (richest) (%) - In-Kind,per_sa_ik.adq_q5_tot,1.51727628707886
+Turkey,TUR,2010,Benefits incidence in 5th quintile (richest) (%) - All Labor Market (preT),per_lm_alllm.ben_q5_preT_tot,13.9129657745361
+Turkey,TUR,2004,"Labor force, total",SL.TLF.TOTL.IN,22041260
+Turkey,TUR,1999,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,6.32000017166138
+Turkey,TUR,2010,Coverage in 4th quintile (%) - All Labor Market -urban,per_lm_alllm.cov_q4_urb,1.27545738220215
+Turkey,TUR,2010,Population receiving All Social Insurance and Labor Market (%) -urban,per_silm.overlap_pop_urb,0.287043660879135
+Turkey,TUR,2009,Adequacy of benefits in 3rd quintile (%) - All Labor Market (preT),per_lm_alllm.adq_q3_preT_tot,8.20403671264648
+Turkey,TUR,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.9000015258789
+Turkey,TUR,2005,Beneficiary incidence in 3rd quintile (%) - All Social Insurance -urban,per_si_allsi.bry_q3_urb,21.7624225616455
+Turkey,TUR,2013,Population in the 1st quintile (poorest) receiving 4 or more programs (%) -urban,per_numprog4_q1_urb,0.244043454527855
+Turkey,TUR,2012,Benefits incidence in 1st quintile (poorest) (%) - All Social Insurance -urban,per_si_allsi.ben_q1_urb,5.67037916183472
+Turkey,TUR,2006,Poverty Gap reduction (%) -  All Social Assistance -1st quintile (poorest),per_sa_allsa_p1_tot,5.1528115272522
+Turkey,TUR,2014,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,33.939998626709
+Turkey,TUR,2013,Benefits incidence in 4th quintile (%) - All Labor Market (preT),per_lm_alllm.ben_q4_preT_tot,19.2111988067627
+Turkey,TUR,2018,Beneficiary incidence in 3rd quintile (%) - All Social Insurance,per_si_allsi.bry_q3_tot,19.6447849273682
+Turkey,TUR,2004,Beneficiary incidence in 5th quintile (richest) (%) -All Social Protection and Labor -urban,per_allsp.bry_q5_urb,22.5485439300537
+Turkey,TUR,2007,Coverage in 2nd quintile (%) - School Feeding -urban,per_sa_sf.cov_q2_urb,0
+Turkey,TUR,2015,Average per capita transfer held by 1st quintile (poorest) - All Social Insurance,per_si_allsi.avt_q1_tot,2.75761461257935
+Turkey,TUR,2007,Gini inequality index reduction (%) -  Cash Transfer,per_sa_ct_gini_tot,0.157594934105873
+Turkey,TUR,2015,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,51.2400016784668
+Turkey,TUR,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,32.9679985046387
+Turkey,TUR,2015,Adequacy of benefits in 4th quintile (%) - All Social Insurance,per_si_allsi.adq_q4_tot,50.8870086669922
+Turkey,TUR,2011,Poverty Headcount reduction (%) -  All Labor Market  -1st quintile (poorest),per_lm_alllm_p0_tot,0.529600739479065
+Turkey,TUR,2007,Adequacy of benefits in 2nd quintile (%) - Social Pensions (preT),per_sa_sp.adq_q2_preT_tot,10.3061904907227
+Turkey,TUR,2007,Poverty Headcount reduction (%) -  All Social Insurance -1st quintile (poorest) -rural,per_si_allsi_p0_rur,24.1660804748535
+Turkey,TUR,2016,Benefits incidence in 4th quintile (%) - All Labor Market,per_lm_alllm.ben_q4_tot,21.4060344696045
+Turkey,TUR,2012,Benefits incidence in 2nd quintile (%) - Domestic Private Transfers -urban,per_pr_dp.ben_q2_urb,14.5832138061523
+Turkey,TUR,2000,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,39.6500015258789
+Turkey,TUR,2013,Adequacy of benefits in 4th quintile (%) - All Labor Market -rural,per_lm_alllm.adq_q4_rur,6.05935382843018
+Turkey,TUR,2014,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot,5.59748178596904
+Turkey,TUR,2004,Poverty Headcount reduction (%) -  Cash Transfer - 1st quintile (poorest) -urban,per_sa_ct_p0_urb,0.411081284284592
+Turkey,TUR,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,19.3199996948242
+Turkey,TUR,2005,Coverage in 3rd quintile (%) - Public Works -rural,per_sa_pw.cov_q3_rur,0
+Turkey,TUR,2005,Adequacy of benefits in 1st quintile (poorest) (%) - All Social Insurance -urban,per_si_allsi.adq_q1_urb,69.5063934326172
+Turkey,TUR,2008,Benefits incidence in 1st quintile (poorest) (%) - Domestic Private Transfers -rural,per_pr_dp.ben_q1_rur,21.1547718048096
+Turkey,TUR,2007,Coverage in 1st quintile (poorest) (%) - Active Labor Market -urban,per_lm_ac.cov_q1_urb,0
+Turkey,TUR,2009,Adequacy of benefits in 5th quintile (richest) (%) - All Social Insurance -urban,per_si_allsi.adq_q5_urb,34.031364440918
+Turkey,TUR,2012,Average per capita transfer held by 2nd quintile -All Social Protection and Labor -rural,per_allsp.avt_q2_rur,2.71172189712524
+Turkey,TUR,2011,Beneficiary incidence in 5th quintile (richest) (%) - All Social Insurance (preT),per_si_allsi.bry_q5_preT_tot,19.205358505249
+Turkey,TUR,2013,Benefits incidence in 3rd quintile (%) - All Social Insurance -urban,per_si_allsi.ben_q3_urb,18.2877311706543

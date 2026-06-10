@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_id"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_subcellular_fraction"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_test_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_tissue"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_cell_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_cell_id"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_category",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_category"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "description",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_description"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_relationship_type"
+        },
+        {
+            "source_table": "assays_vertical_50_ac1_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_50_ac1_av_target",
+            "target_column": "assays_assay_strain"
+        }
+    ]
+}

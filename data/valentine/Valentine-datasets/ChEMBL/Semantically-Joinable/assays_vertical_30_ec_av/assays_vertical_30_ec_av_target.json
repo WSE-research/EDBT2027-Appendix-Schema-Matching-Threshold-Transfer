@@ -1,0 +1,47 @@
+{
+    "assay_id": {
+        "type": "integer"
+    },
+    "tissue_id": {
+        "type": "integer"
+    },
+    "cell_id": {
+        "type": "integer"
+    },
+    "chembl_id": {
+        "type": "varchar(20)"
+    },
+    "curated_by": {
+        "type": "varchar(32)"
+    },
+    "src_assay_id": {
+        "type": "varchar(50)"
+    },
+    "assay_tissue": {
+        "type": "varchar(100)"
+    },
+    "assay_cell_type": {
+        "type": "varchar(100)"
+    },
+    "assay_subcellular_fraction": {
+        "type": "varchar(100)"
+    },
+    "tid": {
+        "type": "integer"
+    },
+    "relationship_type": {
+        "type": "varchar(1)"
+    },
+    "confidence_score": {
+        "type": "smallint unsigned"
+    },
+    "src_id": {
+        "type": "smallint"
+    },
+    "bao_format": {
+        "type": "varchar(11)"
+    },
+    "variant_id": {
+        "type": "integer unsigned"
+    }
+}

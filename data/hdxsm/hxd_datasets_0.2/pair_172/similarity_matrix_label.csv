@@ -1,0 +1,7 @@
+,Date Reported,Date de l'évaluation,Country Name,Country Code,Province,Admin1 Pcode,Commune,Admin2 Pcode,Colline,Nombre total de ménages,Nombre total d'individus,TotalMenages_pdi_ret,TotalIndividus_pdi_ret,TotalMenages_pdi_ret_ext,TotalIndividus_pdi_ret_ext
+Snapshot date (MMM-yyyy),0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.1.c.1 SSID,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.5.e.1 Reason for displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 0 iso3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 1 Pcode,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 2 Pcode,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

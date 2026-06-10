@@ -1,0 +1,101 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "OrganiT": {
+        "type": "text"
+    },
+    "OrganID": {
+        "type": "text"
+    },
+    "OrgaN": {
+        "type": "text"
+    },
+    "CoRePerc": {
+        "type": "real"
+    },
+    "CIDABusiDeliMo": {
+        "type": "text"
+    },
+    "EnvSustai": {
+        "type": "int"
+    },
+    "St": {
+        "type": "text"
+    },
+    "AmSp": {
+        "type": "real"
+    },
+    "PrBrowCoID": {
+        "type": "text"
+    },
+    "BilaAMa": {
+        "type": "int"
+    },
+    "MaxiCIDAContri": {
+        "type": "real"
+    },
+    "TraDeve": {
+        "type": "int"
+    },
+    "BrN": {
+        "type": "text"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "PartiDevAnGGove": {
+        "type": "int"
+    },
+    "Biodiv": {
+        "type": "int"
+    },
+    "UrIss": {
+        "type": "int"
+    },
+    "ChilIs": {
+        "type": "int"
+    },
+    "YouIs": {
+        "type": "int"
+    },
+    "IndIss": {
+        "type": "int"
+    },
+    "DisabIss": {
+        "type": "int"
+    },
+    "ICTAATFoDeve": {
+        "type": "int"
+    },
+    "KnowFDeve": {
+        "type": "int"
+    },
+    "GenEq": {
+        "type": "int"
+    },
+    "OrganCl": {
+        "type": "text"
+    },
+    "OrganiSu": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "ContiNa": {
+        "type": "text"
+    },
+    "CounReID": {
+        "type": "text"
+    },
+    "CounRegN": {
+        "type": "text"
+    },
+    "SecN": {
+        "type": "text"
+    },
+    "SecPe": {
+        "type": "real"
+    }
+}

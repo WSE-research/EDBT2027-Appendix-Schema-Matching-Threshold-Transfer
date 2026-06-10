@@ -1,0 +1,59 @@
+{
+    "AgID": {
+        "type": "varchar(30)"
+    },
+    "OwORFl": {
+        "type": "varchar(1)"
+    },
+    "LaNa": {
+        "type": "varchar(30)"
+    },
+    "Ci": {
+        "type": "varchar(25)"
+    },
+    "CreRa": {
+        "type": "numeric(4)"
+    },
+    "Inc": {
+        "type": "numeric(9)"
+    },
+    "MiInit": {
+        "type": "varchar(1)"
+    },
+    "Empl": {
+        "type": "varchar(30)"
+    },
+    "Ph": {
+        "type": "varchar(30)"
+    },
+    "A": {
+        "type": "numeric(3)"
+    },
+    "Cou": {
+        "type": "varchar(24)"
+    },
+    "AddLi1": {
+        "type": "varchar(80)"
+    },
+    "NumChi": {
+        "type": "numeric(2)"
+    },
+    "PosC": {
+        "type": "varchar(12)"
+    },
+    "NumCreCar": {
+        "type": "numeric(2)"
+    },
+    "Sta": {
+        "type": "varchar(20)"
+    },
+    "NuC": {
+        "type": "numeric(2)"
+    },
+    "MaSt": {
+        "type": "varchar(1)"
+    },
+    "NeWor": {
+        "type": "numeric(12)"
+    }
+}

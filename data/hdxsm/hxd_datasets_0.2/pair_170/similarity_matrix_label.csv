@@ -1,0 +1,7 @@
+,Snapshot Date,Date de l'enquête,Country,Country Code,Admin1,Admin1 Pcode,Admin2,Admin2 Pcode,Nombre de ménages,Nombre de PDI,Nourrissons (< 1 an)-H,Enfants (1-5 ans)-H,Jeunes (6-17 ans)-H,Adultes (18-59 ans)-H,Personnes âgées (60 ans et +)-H,Nourrissons (< 1 an)-F,Enfants (1-5 ans)-F,Jeunes (6-17 ans)-F,Adultes (18-59 ans)-F,Personnes âgées (60 ans et +)-F
+Snapshot date (MMM-yyyy),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.1.c.1 SSID,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.5.e.1 Reason for displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 0 iso3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 1 Pcode,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 2 Pcode,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

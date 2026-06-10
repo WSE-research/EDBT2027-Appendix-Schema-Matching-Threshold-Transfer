@@ -1,0 +1,4 @@
+<"Country", "country">
+<"Affected 2017", "people_affected">
+<"In Need 2017", "people_in_need">
+<"Targeted 2017", "people_targeted">

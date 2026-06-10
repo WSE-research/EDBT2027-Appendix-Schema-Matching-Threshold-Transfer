@@ -1,0 +1,131 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "ParticDevelAnGGover": {
+        "type": "int"
+    },
+    "ClimChaAda": {
+        "type": "int"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "ProNu": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "DiviID": {
+        "type": "text"
+    },
+    "OrganiSu": {
+        "type": "text"
+    },
+    "BrID": {
+        "type": "text"
+    },
+    "St": {
+        "type": "text"
+    },
+    "ContiN": {
+        "type": "text"
+    },
+    "ProBrCounID": {
+        "type": "text"
+    },
+    "OrgT": {
+        "type": "text"
+    },
+    "ChiIs": {
+        "type": "int"
+    },
+    "KnoFoDevelo": {
+        "type": "int"
+    },
+    "MaCIDACon": {
+        "type": "real"
+    },
+    "GeEqu": {
+        "type": "int"
+    },
+    "FSTCPer": {
+        "type": "real"
+    },
+    "ICTAAToFDeve": {
+        "type": "int"
+    },
+    "BilatAiMa": {
+        "type": "int"
+    },
+    "EnvirSustai": {
+        "type": "int"
+    },
+    "IRTCPe": {
+        "type": "real"
+    },
+    "SecPer": {
+        "type": "real"
+    },
+    "SeNa": {
+        "type": "text"
+    },
+    "FuCeNa": {
+        "type": "text"
+    },
+    "RePro": {
+        "type": "int"
+    },
+    "SectID": {
+        "type": "text"
+    },
+    "PBATy": {
+        "type": "text"
+    },
+    "CIDABusiDelMo": {
+        "type": "text"
+    },
+    "BraN": {
+        "type": "text"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "OrganiID": {
+        "type": "text"
+    },
+    "Biodiv": {
+        "type": "int"
+    },
+    "IndIs": {
+        "type": "int"
+    },
+    "CounReID": {
+        "type": "text"
+    },
+    "YoIss": {
+        "type": "int"
+    },
+    "DisIss": {
+        "type": "int"
+    },
+    "OrganiNa": {
+        "type": "text"
+    },
+    "OrganCl": {
+        "type": "text"
+    },
+    "CouReNa": {
+        "type": "text"
+    },
+    "CouRegPerc": {
+        "type": "real"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

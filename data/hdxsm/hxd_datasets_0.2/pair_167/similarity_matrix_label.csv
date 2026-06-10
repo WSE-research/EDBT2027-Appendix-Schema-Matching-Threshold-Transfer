@@ -1,0 +1,7 @@
+,Date de l'incident,Country,Country Code,Reported Date,Admin_1,Admin1 code,Admin_2,Admin2 code,Quel est le nombre de ménages affectés?,Quel est le nombre de personnes affectées?,totalmenagesdeplacees,totalindividusdeplacees
+Snapshot date (MMM-yyyy),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.1.c.1 SSID,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.5.e.1 Reason for displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 0 iso3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 1 Pcode,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 2 Pcode,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

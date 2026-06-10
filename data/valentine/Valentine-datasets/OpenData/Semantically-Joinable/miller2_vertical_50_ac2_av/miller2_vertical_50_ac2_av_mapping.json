@@ -1,0 +1,154 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "FisYe"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Climate change adaptation (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "ClChAdapt"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "Desertif"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Organisation ID",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "OrganiID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Bilateral aid (international marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "BilAMa"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "BraNa"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "CoRegID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Project Browser country ID",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "PrBroCoID"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Project number",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "PrNu"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "SeN"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Maximum CIDA contribution (project-level)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "MaCIDACon"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "ProgProc"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "PBAT"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "CIDABusiDeliMo"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Amount spent",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "AmoSpe"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "ICTAATFoDeve"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "TrDevelo"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "OrgaN"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Climate change mitigation (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "ClimChMitig"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Participatory development and good governance",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "PartDevAGGover"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Organisation sub-class",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "OrgaSu"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "CoReN"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "ContN"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "Bio"
+        },
+        {
+            "source_table": "miller2_vertical_50_ac2_av_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_vertical_50_ac2_av_target",
+            "target_column": "SecID"
+        }
+    ]
+}

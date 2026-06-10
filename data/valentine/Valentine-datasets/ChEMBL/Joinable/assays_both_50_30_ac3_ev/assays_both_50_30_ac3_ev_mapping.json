@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "chmbl_d"
+        },
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "cnfdnc_scr"
+        },
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "dc_d"
+        },
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "crtd_b"
+        },
+        {
+            "source_table": "assays_both_50_30_ac3_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_30_ac3_ev_target",
+            "target_column": "ss_ctgr"
+        }
+    ]
+}

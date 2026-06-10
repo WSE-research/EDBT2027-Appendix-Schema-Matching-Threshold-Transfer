@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_1_ec_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_1_ec_av_target",
+            "target_column": "Fiscal year"
+        }
+    ]
+}

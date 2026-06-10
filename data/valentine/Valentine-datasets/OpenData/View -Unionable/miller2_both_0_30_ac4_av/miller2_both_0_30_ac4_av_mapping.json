@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_FiY"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_PBATy"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_CounRePe"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Desertification (marker)",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_Deser"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_OrgNa"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_UnAmProjBud"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_ICTAATFoDeve"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Section name",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_SectNa"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_DiviID"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Status",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_Sta"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_IndiIs"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Sector name",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_SeN"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_CouReNa"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_RegiProg"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac4_av_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_0_30_ac4_av_target",
+            "target_column": "miller2_CouRegID"
+        }
+    ]
+}

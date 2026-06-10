@@ -1,0 +1,101 @@
+assays_ASSI,assays_CI,assays_CURAB,assays_TII,assays_ASSSUBCEFRAC,assays_ASSTY,assays_SASSI,assays_ASSTI,assays_ASORG,assays_VARI,assays_CONFSCO,assays_DOI,assays_SRI,assays_BFO,assays_CHI,assays_ASST,assays_ASTI,assays_ASCET,assays_T,assays_RELATITY
+7524,,Intermediate,2113.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618647,,Kidney,,50597,N
+7525,,Intermediate,2113.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618648,,Kidney,,50597,N
+7526,,Intermediate,2113.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618649,,Kidney,,50597,N
+7527,,Intermediate,2107.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618650,,Liver,,50597,N
+7528,,Intermediate,2107.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618651,,Liver,,50597,N
+7529,,Intermediate,2107.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL876497,,Liver,,50597,N
+7530,,Intermediate,2048.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618652,,Lung,,50597,N
+7531,,Intermediate,2048.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618653,,Lung,,50597,N
+7532,,Intermediate,2048.0,,A,,10116.0,Rattus norvegicus,,1,9866,1,BAO_0000218,CHEMBL618654,,Lung,,50597,N
+7533,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6351,1,BAO_0000218,CHEMBL618655,,,,50597,N
+7534,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,1465,1,BAO_0000218,CHEMBL618656,,,,50597,N
+7535,,Intermediate,,,P,,,,,0,5182,1,BAO_0000100,CHEMBL618657,,,,22229,U
+7536,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17847,1,BAO_0000218,CHEMBL618658,,,,50597,N
+7537,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,15339,1,BAO_0000218,CHEMBL618659,,,,50597,N
+7538,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5202,1,BAO_0000218,CHEMBL618660,,,,50597,N
+7539,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,1088,1,BAO_0000218,CHEMBL618661,,,,50597,N
+7540,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,3169,1,BAO_0000218,CHEMBL873807,,,,50597,N
+7541,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5353,1,BAO_0000218,CHEMBL618662,,,,50597,N
+7542,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,2864,1,BAO_0000218,CHEMBL618663,,,,50597,N
+7543,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,2864,1,BAO_0000218,CHEMBL618664,,,,50597,N
+7544,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,2864,1,BAO_0000218,CHEMBL618665,,,,50597,N
+7545,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6362,1,BAO_0000218,CHEMBL876498,,,,50597,N
+7546,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6249,1,BAO_0000218,CHEMBL618666,,,,50597,N
+7547,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,3169,1,BAO_0000218,CHEMBL620440,,,,50597,N
+7548,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,3169,1,BAO_0000218,CHEMBL620441,,,,50597,N
+7549,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,3169,1,BAO_0000218,CHEMBL620442,,,,50597,N
+7550,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17260,1,BAO_0000218,CHEMBL620443,,,,50597,N
+7551,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17260,1,BAO_0000218,CHEMBL620444,,,,50597,N
+7552,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17260,1,BAO_0000218,CHEMBL620445,,,,50597,N
+7553,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17260,1,BAO_0000218,CHEMBL620446,,,,50597,N
+7554,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,2879,1,BAO_0000218,CHEMBL620447,,Plasma,,50597,N
+7555,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,2879,1,BAO_0000218,CHEMBL621129,,Plasma,,50597,N
+7556,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,2879,1,BAO_0000218,CHEMBL621130,,Plasma,,50597,N
+7557,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,3184,1,BAO_0000218,CHEMBL873808,,,,50597,N
+7558,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,4891,1,BAO_0000218,CHEMBL876598,,,,50597,N
+7559,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,429,1,BAO_0000218,CHEMBL621131,,,,50597,N
+7560,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5656,1,BAO_0000218,CHEMBL621132,,,,50597,N
+7561,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,4413,1,BAO_0000218,CHEMBL621133,,,,50597,N
+7562,,Expert,,,A,,10116.0,Rattus norvegicus,,1,3598,1,BAO_0000218,CHEMBL621312,,,,50597,N
+7563,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17267,1,BAO_0000218,CHEMBL621313,,,,50597,N
+7564,,Intermediate,178.0,,A,,10116.0,Rattus norvegicus,,1,4727,1,BAO_0000218,CHEMBL621314,,Blood,,50597,N
+7565,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17651,1,BAO_0000218,CHEMBL621315,,,,50597,N
+7566,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17651,1,BAO_0000218,CHEMBL621316,,,,50597,N
+7567,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,401,1,BAO_0000218,CHEMBL621317,,,,50597,N
+7568,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,4942,1,BAO_0000218,CHEMBL621318,,,,50597,N
+7569,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17735,1,BAO_0000218,CHEMBL621319,,,,50597,N
+7570,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6056,1,BAO_0000218,CHEMBL621377,,,,50597,N
+7571,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5213,1,BAO_0000218,CHEMBL621378,,,,50597,N
+7572,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6616,1,BAO_0000218,CHEMBL876599,,,,50597,N
+7573,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5937,1,BAO_0000218,CHEMBL621379,,,,50597,N
+7574,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,5819,1,BAO_0000218,CHEMBL621380,,Plasma,,50597,N
+7575,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,5819,1,BAO_0000218,CHEMBL621381,,Plasma,,50597,N
+7576,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6803,1,BAO_0000218,CHEMBL618515,,,,50597,N
+7577,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17804,1,BAO_0000218,CHEMBL618516,,,,50597,N
+7578,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17804,1,BAO_0000218,CHEMBL618517,,,,50597,N
+7579,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5948,1,BAO_0000218,CHEMBL618518,,,,50597,N
+7580,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,1916,1,BAO_0000218,CHEMBL618519,,,,50597,N
+7581,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,1916,1,BAO_0000218,CHEMBL618698,,,,50597,N
+7582,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,1916,1,BAO_0000218,CHEMBL618862,,,,50597,N
+7583,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,4890,1,BAO_0000218,CHEMBL618863,,,,50597,N
+7584,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17764,1,BAO_0000218,CHEMBL618864,,,,50597,N
+7585,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,4727,1,BAO_0000218,CHEMBL618865,,,,50597,N
+7586,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17509,1,BAO_0000218,CHEMBL618866,,,,50597,N
+7587,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17509,1,BAO_0000218,CHEMBL618867,,,,50597,N
+7588,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6597,1,BAO_0000218,CHEMBL875828,,,,50597,N
+7589,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17735,1,BAO_0000218,CHEMBL618868,,,,50597,N
+7590,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,6597,1,BAO_0000218,CHEMBL618869,,,,50597,N
+7591,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17670,1,BAO_0000218,CHEMBL618870,,,,50597,N
+7592,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,1696,1,BAO_0000218,CHEMBL618871,,Plasma,,50597,N
+7593,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,1742,1,BAO_0000218,CHEMBL618872,,Plasma,,50597,N
+7594,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,17800,1,BAO_0000218,CHEMBL873816,,,,50597,N
+7595,,Autocuration,,,A,,,,,0,12923,1,BAO_0000218,CHEMBL618873,,,,22224,U
+7596,,Autocuration,,,A,,,,,0,11954,1,BAO_0000019,CHEMBL621602,,,,22224,U
+7597,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621603,,,,22224,U
+7598,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621604,,,,22224,U
+7599,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621605,,,,22224,U
+7600,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621606,,,,22224,U
+7601,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621607,,,,22224,U
+7602,,Autocuration,,,A,,,,,0,11954,1,BAO_0000218,CHEMBL621608,,,,22224,U
+7603,,Autocuration,,,A,,,,,0,5237,1,BAO_0000019,CHEMBL621609,,,,22224,U
+7604,,Autocuration,,,A,,,,,0,4026,1,BAO_0000218,CHEMBL621610,,,,22224,U
+7605,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,5237,1,BAO_0000218,CHEMBL621611,,,,50597,N
+7606,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL621612,,,,50597,N
+7607,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622308,,,,50597,N
+7608,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622309,,,,50597,N
+7609,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622310,,,,50597,N
+7610,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622311,,,,50597,N
+7611,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622312,,,,50597,N
+7612,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622931,,,,50597,N
+7613,,Intermediate,,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622932,,,,50597,N
+7614,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622736,,Plasma,,50597,N
+7615,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622737,,Plasma,,50597,N
+7616,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622738,,Plasma,,50597,N
+7617,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622739,,Plasma,,50597,N
+7618,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622740,,Plasma,,50597,N
+7619,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622741,,Plasma,,50597,N
+7620,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622742,,Plasma,,50597,N
+7621,,Intermediate,1969.0,,A,,10116.0,Rattus norvegicus,,1,14793,1,BAO_0000218,CHEMBL622743,,Plasma,,50597,N
+7622,,Intermediate,1969.0,,A,,10090.0,Mus musculus,,1,11637,1,BAO_0000218,CHEMBL622744,,Plasma,,50594,N
+7623,,Autocuration,,,A,,,,,0,11149,1,BAO_0000019,CHEMBL624134,,,,22224,U

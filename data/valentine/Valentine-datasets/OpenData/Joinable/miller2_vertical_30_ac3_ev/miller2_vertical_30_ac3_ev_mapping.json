@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "fsclr"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "sctnd"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Indigenous issues (marker)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "ndgnssss(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "trddvlpmnt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "cntrrgnprcnt"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "CountryRegion name",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "cntrrgnnm"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Branch ID",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "brnchd"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "rgnstnclss"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Gender equality (marker)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "gndrqlt(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Organisation type",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "rgnstntp"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Youth issues (marker)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "thsss(mrkr)"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "cdbsnssdlvrmdl(ld)"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Status",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "stts"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Project number",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "prjctnmbr"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac3_ev_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_vertical_30_ac3_ev_target",
+            "target_column": "ntdmnt(prjct-lvlbdgt)"
+        }
+    ]
+}

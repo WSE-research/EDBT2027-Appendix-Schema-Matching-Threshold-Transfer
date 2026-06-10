@@ -1,0 +1,9 @@
+<"Reported Date", "Snapshot date">
+<"Country Name", "1#1#a#3_Admin 0">
+<"Country Code", "Admin 0 Pcode">
+<"Nom Province", "1#1#e#1_Admin 1">
+<"Admin1_Code", "Admin 1 Pcode">
+<"Nom Territoire", "1#1#e#2_Admin 2">
+<"Admin2_Code", "Admin 2 Pcode">
+<"Date_R2", "1#1#a#1 _Site Assessment Date">
+<"Individus deplace", "2#1#b#1_No# of Individuals">

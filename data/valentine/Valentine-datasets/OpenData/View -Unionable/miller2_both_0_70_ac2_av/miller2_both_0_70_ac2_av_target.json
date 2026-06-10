@@ -1,0 +1,131 @@
+{
+    "FisY": {
+        "type": "text"
+    },
+    "Sta": {
+        "type": "text"
+    },
+    "KnoFDevelo": {
+        "type": "int"
+    },
+    "PrNu": {
+        "type": "text"
+    },
+    "CliChaMiti": {
+        "type": "int"
+    },
+    "OrgN": {
+        "type": "text"
+    },
+    "GeEqu": {
+        "type": "int"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "DiID": {
+        "type": "text"
+    },
+    "RegProg": {
+        "type": "int"
+    },
+    "CouRegPe": {
+        "type": "real"
+    },
+    "EnvSust": {
+        "type": "int"
+    },
+    "SectID": {
+        "type": "text"
+    },
+    "FSTCPer": {
+        "type": "real"
+    },
+    "OrgCl": {
+        "type": "text"
+    },
+    "OrganiTy": {
+        "type": "text"
+    },
+    "CouRegID": {
+        "type": "text"
+    },
+    "ICTAATFDev": {
+        "type": "int"
+    },
+    "BrN": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "BilatAiMar": {
+        "type": "int"
+    },
+    "AmoSp": {
+        "type": "real"
+    },
+    "ContNa": {
+        "type": "text"
+    },
+    "YoIs": {
+        "type": "int"
+    },
+    "ProgrPro": {
+        "type": "text"
+    },
+    "SectNa": {
+        "type": "text"
+    },
+    "SecPer": {
+        "type": "real"
+    },
+    "BrID": {
+        "type": "text"
+    },
+    "CouRegNa": {
+        "type": "text"
+    },
+    "PartDevAnGoGov": {
+        "type": "int"
+    },
+    "CliChAdap": {
+        "type": "int"
+    },
+    "IndiIs": {
+        "type": "int"
+    },
+    "DisaIs": {
+        "type": "int"
+    },
+    "OrganiS": {
+        "type": "text"
+    },
+    "Deser": {
+        "type": "int"
+    },
+    "TraDevel": {
+        "type": "int"
+    },
+    "Biod": {
+        "type": "int"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "ChiIss": {
+        "type": "int"
+    },
+    "OrganiID": {
+        "type": "text"
+    },
+    "ProBroCounID": {
+        "type": "text"
+    },
+    "SecN": {
+        "type": "text"
+    }
+}

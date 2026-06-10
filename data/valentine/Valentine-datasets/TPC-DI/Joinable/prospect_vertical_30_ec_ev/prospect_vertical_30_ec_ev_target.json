@@ -1,0 +1,44 @@
+{
+    "AgencyID": {
+        "type": "varchar(30)"
+    },
+    "Employer": {
+        "type": "varchar(30)"
+    },
+    "City": {
+        "type": "varchar(25)"
+    },
+    "NumberCreditCards": {
+        "type": "numeric(2)"
+    },
+    "Gender": {
+        "type": "varchar(1)"
+    },
+    "MiddleInitial": {
+        "type": "varchar(1)"
+    },
+    "Income": {
+        "type": "numeric(9)"
+    },
+    "NumberCars": {
+        "type": "numeric(2)"
+    },
+    "NumberChildren": {
+        "type": "numeric(2)"
+    },
+    "MaritalStatus": {
+        "type": "varchar(1)"
+    },
+    "Age": {
+        "type": "numeric(3)"
+    },
+    "CreditRating": {
+        "type": "numeric(4)"
+    },
+    "OwnOrRentFlag": {
+        "type": "varchar(1)"
+    },
+    "NetWorth": {
+        "type": "numeric(12)"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "T": {
+        "type": "integer"
+    },
+    "RELT": {
+        "type": "varchar(1)"
+    },
+    "CONFSC": {
+        "type": "smallint unsigned"
+    },
+    "CUB": {
+        "type": "varchar(32)"
+    },
+    "SRI": {
+        "type": "smallint"
+    },
+    "SRASI": {
+        "type": "varchar(50)"
+    },
+    "CHEI": {
+        "type": "varchar(20)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "BAFOR": {
+        "type": "varchar(11)"
+    },
+    "TII": {
+        "type": "integer"
+    },
+    "VAI": {
+        "type": "integer unsigned"
+    }
+}

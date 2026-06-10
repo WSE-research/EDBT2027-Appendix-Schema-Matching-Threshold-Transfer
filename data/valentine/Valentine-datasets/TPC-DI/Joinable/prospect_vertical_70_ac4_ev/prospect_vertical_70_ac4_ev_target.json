@@ -1,0 +1,59 @@
+{
+    "prospect_AgID": {
+        "type": "varchar(30)"
+    },
+    "prospect_Ge": {
+        "type": "varchar(1)"
+    },
+    "prospect_MidInit": {
+        "type": "varchar(1)"
+    },
+    "prospect_Emp": {
+        "type": "varchar(30)"
+    },
+    "prospect_St": {
+        "type": "varchar(20)"
+    },
+    "prospect_A": {
+        "type": "numeric(3)"
+    },
+    "prospect_AddL2": {
+        "type": "varchar(80)"
+    },
+    "prospect_OORFl": {
+        "type": "varchar(1)"
+    },
+    "prospect_In": {
+        "type": "numeric(9)"
+    },
+    "prospect_Ci": {
+        "type": "varchar(25)"
+    },
+    "prospect_NuCa": {
+        "type": "numeric(2)"
+    },
+    "prospect_NumCreCar": {
+        "type": "numeric(2)"
+    },
+    "prospect_NWor": {
+        "type": "numeric(12)"
+    },
+    "prospect_MaSta": {
+        "type": "varchar(1)"
+    },
+    "prospect_FirN": {
+        "type": "varchar(30)"
+    },
+    "prospect_Coun": {
+        "type": "varchar(24)"
+    },
+    "prospect_Ph": {
+        "type": "varchar(30)"
+    },
+    "prospect_NumChil": {
+        "type": "numeric(2)"
+    },
+    "prospect_CrRat": {
+        "type": "numeric(4)"
+    }
+}

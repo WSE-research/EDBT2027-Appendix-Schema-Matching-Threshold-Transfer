@@ -1,0 +1,14 @@
+9745c447-6ce2-40f6-b0f6-d321a2d76a45,DTM DRC BA North Kivu Apr2021 R6
+c387ce97-8f82-4a0d-9cb0-e1009f14a896,DTM DRC Site Assessment North Kivu Jul2019 R37
+---hxl_tags---
+#date+reported
+#country+name
+#country+code
+#adm1+code
+#adm1+name
+#adm2+code
+#adm2+name
+#adm3+code
+#adm3+name
+#date+occurred
+#affected+idps+ind

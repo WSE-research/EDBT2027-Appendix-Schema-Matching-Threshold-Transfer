@@ -1,0 +1,33 @@
+<"DTM Round", "DTM Round">
+<"State", "State">
+<"State_Pcode", "State_Pcode">
+<"LGA", "LGA">
+<"LGA Pcode", "LGA_Pcode">
+<"Ward", "Ward">
+<"CODs_Ward_Pcode", "Ward_Pcode">
+<"Longitude", "Longitude">
+<"Latitude", "Latitude">
+<"Site Management Agency", "Site Management Agency">
+<"Registration Activity", "Registration activity">
+<"WASH Support", "WASH support">
+<"HEALTH Support", "HEALTH support">
+<"SHELTER Support", "SHELTER-NFI support">
+<"FOOD Support", "FOOD support">
+<"PROTECTION Support", "PROTECTION support">
+<"EDUCATION Support", "EDUCATION support">
+<"LIVELIHOOD Support", "LIVELIHOOD support">
+<"Most Common Type of Shelter", "Most common type shelter">
+<"SiteID", "SiteID">
+<"Site Name", "Site name">
+<"SMA type", "SMA type">
+<"Land Ownership", "Land ownership">
+<"Number of Households", "Number households">
+<"Number of Individuals", "Number individuals">
+<"Boys (<1)", "Boys (<1)">
+<"Girls (<1)", "Girls (<1)">
+<"Boys (1 - 5 y)", "Boys (1 - 5 y)">
+<"Girls (1 - 5 y)", "Girls (1 - 5 y)">
+<"Men (18 - 59 y)", "Men (18 - 59 y)">
+<"Women (18 - 59 y)", "Women (18 - 59 y)">
+<"(Elderly men 60+ y)", "(Elderly men 60+ y)">
+<"(Elderly women 60+ y)", "(Elderly women 60+ y)">

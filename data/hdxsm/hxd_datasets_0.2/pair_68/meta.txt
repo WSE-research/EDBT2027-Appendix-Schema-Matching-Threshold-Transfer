@@ -1,0 +1,16 @@
+b9f4b162-3ae3-496b-8dac-019767bc2e9e,MICS indicators Data for Nigeria
+92e37847-8ca0-4ad1-a9b1-74593048a766,Sexual Intercourse Data for Nigeria
+---hxl_tags---
+#country+code
+#meta+id
+#indicator+name
+#indicator+name
+#indicator+value+num
+#indicator+precision
+#country+name
+#date+year
+#survey+id
+#indicator+code
+#indicator+code
+#indicator+label+code
+#indicator+label

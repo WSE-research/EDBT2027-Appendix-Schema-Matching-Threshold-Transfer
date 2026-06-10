@@ -1,0 +1,44 @@
+{
+    "AgencyID": {
+        "type": "varchar(30)"
+    },
+    "MiddleInitial": {
+        "type": "varchar(1)"
+    },
+    "Employer": {
+        "type": "varchar(30)"
+    },
+    "LastName": {
+        "type": "varchar(30)"
+    },
+    "OwnOrRentFlag": {
+        "type": "varchar(1)"
+    },
+    "Country": {
+        "type": "varchar(24)"
+    },
+    "FirstName": {
+        "type": "varchar(30)"
+    },
+    "Gender": {
+        "type": "varchar(1)"
+    },
+    "AddressLine1": {
+        "type": "varchar(80)"
+    },
+    "AddressLine2": {
+        "type": "varchar(80)"
+    },
+    "PostalCode": {
+        "type": "varchar(12)"
+    },
+    "City": {
+        "type": "varchar(25)"
+    },
+    "State": {
+        "type": "varchar(20)"
+    },
+    "Phone": {
+        "type": "varchar(30)"
+    }
+}

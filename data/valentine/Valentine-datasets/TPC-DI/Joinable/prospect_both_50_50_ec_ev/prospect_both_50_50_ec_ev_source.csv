@@ -1,0 +1,101 @@
+AgencyID,Gender,MaritalStatus,AddressLine1,PostalCode,City,Income,AddressLine2,NetWorth,CreditRating,NumberChildren,LastName,FirstName,MiddleInitial,State,Country
+PEL0,f,W,21847 olympia street,T6b 1i1,Fairbanks,368776.0,,1058868.0,760.0,3.0,PELLAND,Netti,,MA,United States of America
+LED1,F,U,245 congress court,77281,Quebec,177967.0,APT. 624,1988185.0,555.0,1.0,LEDUC,TRUDY,,PA,United States of America
+lat2,,S,6517 frailing west,91355,Henderson,321772.0,,3673128.0,566.0,1.0,latif,ireland,,Alberta,United States of America
+RUD3,,W,11449 blalock park,36615,Salem,25449.0,,2005895.0,,1.0,RUDDICK,Misti,,AR,Canada
+JAY4,f,M,18354 dodd court,t6a 1i3,Toledo,166567.0,Apt. 619,624736.0,815.0,3.0,JAYAMANNE,sarena,M,OR,Canada
+tod5,M,M,14117 roxboro street,A2b 1v3,Corpus Christi,43631.0,,3064615.0,333.0,4.0,todo,Paulette,Z,VA,United States of America
+Kan6,m,,24697 FLORENCE WEST,49513,Salt Lake City,466230.0,,3489129.0,528.0,0.0,Kanno,AMALITA,R,OH,Canada
+Din7,,M,6488 applewood drive,M5d 1v6,Brownsville,420243.0,,3430744.0,680.0,2.0,Dinkel,Ernesto,Z,Prince Edward Island,United States of America
+Thi8,,U,17404 gale court,V6c 1q1,Escondido,141862.0,,1743614.0,761.0,,Thibodeaux,Toby,,NV,United States of America
+May9,,M,15913 alexis street,99716,Los Angeles,402011.0,,216299.0,416.0,2.0,Mayo,evangelia,,Ontario,United States of America
+mah10,,M,18313 5th lane,A2b 1w1,West Covina,79928.0,,1528641.0,493.0,2.0,mahendra,umakanth,U,TX,Canada
+Siz11,,M,13653 collier avenue,M5F 1W1,San Buenaventura,109496.0,,3752907.0,564.0,0.0,Sizto,terrie,,NE,United States of America
+cra12,,U,15306 pike park,95118,Lexington,267901.0,,582378.0,817.0,4.0,crawley,Mary-pat,,AR,United States of America
+dac13,m,U,1540 crestmere north,H2f 1v7,Hay River,487273.0,,3458824.0,653.0,5.0,dacal,Catherin,,MI,United States of America
+HIV14,,M,10790 bonita crescent,19217,Toronto,34013.0,,469408.0,587.0,4.0,HIVELY,annissa,W,MA,United States of America
+Pes15,,S,24679 AIRPORT CRESCENT,21228,Denver,473462.0,Apt. 290,1504480.0,472.0,2.0,Peschke,Amour,,TN,United States of America
+CHI16,,M,7627 douglas road,85097,St. Paul,499493.0,,2763009.0,817.0,4.0,CHILDERHOSE,jenica,,TN,Canada
+Din17,,M,6106 ashland east,V6j 1q8,Bellevue,266928.0,,2787199.0,441.0,4.0,Dinnin,KATTIE,,OK,United States of America
+De 18,,M,1111 norden street,43207,Detroit,72444.0,,2789368.0,848.0,3.0,De witte,Roselle,M,Ontario,United States of America
+Mck19,m,U,2798 1st east,V6t 1q8,Omaha,77290.0,,2784776.0,843.0,3.0,Mckeegan,arlyne,,KY,United States of America
+WIN20,M,U,11358 elle lee street,94467,Costa Mesa,395066.0,,288747.0,,0.0,WINTERS,Rong-chin,P,PA,United States of America
+BIT21,,U,21074 MALLORY LOWER,94321,Berkeley,119283.0,,876575.0,300.0,3.0,BITTMAN,Darlleen,,MD,United States of America
+luz22,f,U,16124 weyland park,C2a 4w7,St. Louis,330991.0,,2041224.0,795.0,1.0,luzarraga,Radoslav,V,TX,United States of America
+don23,,,23822 marvin crescent,35808,Colorado Springs,,,2231509.0,367.0,0.0,donovan,Aryn,S,IN,United States of America
+Gia24,,M,2203 valita boulevard,M5f 1v6,Fontana,252031.0,,3206409.0,507.0,5.0,Giallo,Allisan,T,MD,United States of America
+SPR25,M,M,11538 COLLINWOOD AVENUE,99539,St. Catharines,101800.0,,3850037.0,362.0,1.0,SPRUELL,Ammamaria,,KY,United States of America
+SKA26,F,D,7818 EAST STREET,95055,Hayward,436977.0,,528440.0,527.0,1.0,SKALSKI,Mari,,CA,United States of America
+Gar27,m,S,10013 shaw road,93686,Palmdale,495334.0,,597140.0,354.0,,Gargul,Anica,,FL,United States of America
+Dor28,,M,6802 AMES STREET,75218,Phoenix,274685.0,,146931.0,511.0,1.0,Dore,Melba,,Newfoundland,United States of America
+DIO29,,,22501 SUMMIT RUE,91174,Gary,320820.0,,353495.0,412.0,2.0,DIOGO,Tracee,X,TX,United States of America
+Mer30,m,S,291 frances rue,49515,Beaumont,195835.0,,295647.0,583.0,0.0,Merrick,CANADIAN,,WA,Canada
+Atc31,,U,16264 sanders east,16506,Nashua,108085.0,,408941.0,710.0,3.0,Atchison,Oue,R,MN,United States of America
+Pla32,m,M,16068 cantey way,94383,San Jose,260185.0,,362523.0,380.0,1.0,Plamondon,wallie,X,WY,United States of America
+SEL33,F,M,21170 EDLOE BOULEVARD,T6d 1b3,Nashua,258323.0,,2102359.0,796.0,0.0,SELCHOW,Andromache,E,NY,United States of America
+sha34,f,M,885 CROSBY LANE,25339,Fort Smith,79476.0,,3480265.0,818.0,3.0,shane,THOR,Z,SC,United States of America
+MER35,,M,12235 jay street,V6o 1v4,Lancaster,102156.0,,3648900.0,766.0,3.0,MERWIN,SALAH,,MS,United States of America
+con36,,M,20340 LOMBARD CRESCENT,01852,Colorado Springs,221481.0,,1161790.0,359.0,3.0,conrad,HOR-LAM,,UT,United States of America
+ons37,M,S,22074 dexter upper,78230,Washington,41836.0,,2050587.0,401.0,5.0,onsiteteam,Vania,,PA,United States of America
+Sum38,M,U,1540 MURIE RUE,93770,Lowell,72389.0,,3579198.0,609.0,1.0,Summerlin,Niel,,OK,Canada
+gro39,,S,7075 glen loch drive,m4l 1n4,Frederick,66486.0,,889494.0,630.0,0.0,grooms,ziad,F,WY,United States of America
+dil40,,M,11237 balmoral way,22335,Mesa,200185.0,Apt. 382,2205682.0,671.0,1.0,dilkie,Claude,I,RI,United States of America
+DOL41,,U,8316 GARDEN BROOK NORTH,V6C 1T4,Lakewood,289215.0,,1140117.0,715.0,2.0,DOLSON,AVTAR,,HI,United States of America
+Pos42,,M,2240 clifton lower,M6t 1h3,Cleveland,322484.0,,1421319.0,707.0,1.0,Posthumus,Donny,,VA,United States of America
+Mac43,,M,20907 NOTINGHAM LOWER,95263,Grand Rapids,83458.0,,3525204.0,329.0,2.0,Machika,Cocos,,OK,United States of America
+che44,,D,601 carroll lower,v5b 1p5,Peoria,,,468976.0,601.0,3.0,chenoweth,ruud,,Prince Edward Island,United States of America
+hol45,,W,18267 state drive,32318,Inglewood,492407.0,,1685443.0,623.0,1.0,holbrooks,Belvia,,SD,United States of America
+pfi46,f,S,9270 LEAF SOUTH,93872,Akron,346630.0,,337564.0,376.0,4.0,pfieffer,ATHAR,,OH,United States of America
+elk47,,W,18582 PERIMETER BOULEVARD,92824,Charlottetown,9572.0,,84777.0,560.0,3.0,elkington,Cherey,Y,MA,Canada
+Lab48,F,,9612 park stream upper,e4a 1r2,Bellevue,265369.0,,3146477.0,693.0,5.0,Labenek,RAZ,,MD,United States of America
+laf49,,S,2803 clearwater north,H7G 1V4,Dover,104172.0,,495277.0,346.0,2.0,laferriere,kishore,Y,Saskatchewan,United States of America
+Nor50,,M,11103 BISSONNET WEST,85039,Fullerton,65550.0,,746904.0,342.0,3.0,Norment,Nelleke,I,WA,United States of America
+hag51,,M,4652 outervale lane,v6m 1q3,Denver,,,1219620.0,563.0,0.0,hagar,sibby,,OH,Canada
+Bet52,m,M,341 dunbar west,X7j 1r1,Dallas,,,1718910.0,391.0,3.0,Betcher,ericha,,WY,United States of America
+Van53,m,S,16176 vernon drive,B8b 1z5,San Jose,66244.0,,,381.0,4.0,Van der,Janson,,NJ,United States of America
+O'L54,F,S,23131 clint way,t5d 1v4,Bellevue,426954.0,,2636424.0,539.0,3.0,O'LEARY,Dorotea,,ND,United States of America
+and55,m,M,11640 baltic upper,V6t 1r2,San Buenaventura,126891.0,,1326305.0,497.0,4.0,anderson,Denice,,NC,United States of America
+sta56,,M,20796 dolores drive,91177,St. Louis,454196.0,,2241997.0,661.0,2.0,starks,Myron,,WV,Canada
+CHA57,,S,14359 COMMERCE WEST,T5c 1t1,Pueblo,163940.0,Apt. 275,1542891.0,558.0,3.0,CHASSE,Barby,,GA,United States of America
+ASI58,R,W,21448 hampton boulevard,35862,Regina,365213.0,,797918.0,534.0,1.0,ASING,Ariella,,Ontario,Canada
+ask59,f,M,7637 pershing way,96820,Saskatoon,428739.0,,347654.0,373.0,0.0,askins,ADEY,,MA,United States of America
+Kik60,,M,11529 arcana boulevard,75238,Jackson,142444.0,,2456397.0,382.0,0.0,Kikuta,GAYEL,K,CA,United States of America
+Cha61,F,S,2700 windwood north,85769,St. Petersburg,416168.0,,1284229.0,475.0,3.0,Chane,Man,,SD,United States of America
+KIL62,m,D,22279 gramercy road,H5i 1o9,Scottsdale,291420.0,,618787.0,539.0,0.0,KILLEN,Klara,U,Saskatchewan,United States of America
+kin63,f,M,9828 west east,90849,Charlotte,413501.0,,1171606.0,711.0,5.0,kinley,Abdalla,,RI,United States of America
+MAL64,,M,5935 mcafee park,43644,Waterbury,,,3983261.0,606.0,,MALAHER,bal,,NC,United States of America
+Odu65,,W,12460 CLAYTON STREET,99213,Chesapeake,419143.0,,2328568.0,494.0,3.0,Odum,Romy,J,SD,United States of America
+DI 66,,M,275 3rd drive,72226,Hialeah,155057.0,,2078600.0,309.0,5.0,DI NINNO,KORAL,,IL,United States of America
+STU67,,M,6907 FERNCLIFF CRESCENT,V6Z 1Q9,Charleston,313859.0,,2986155.0,630.0,5.0,STUBBLEFIELD,YUKIHIKO,K,OR,United States of America
+HAM68,,S,885 crosby lane,20082,Salem,265907.0,,1864039.0,330.0,1.0,HAMBALI,Khanh,,Ontario,United States of America
+LIB69,m,S,2344 kalani west,35827,Sacramento,283481.0,,1293721.0,710.0,0.0,LIBRARIAN,Darnell,,FL,Canada
+ohs70,M,M,22870 LA CIENEGA STREET,99692,Santa Clarita,200635.0,,3850114.0,475.0,0.0,ohsone,feridoun,,NM,United States of America
+HUM71,,U,8478 green avenue,V6c 1q5,Sherbrooke,434519.0,APT. 143,1618743.0,596.0,1.0,HUMMEL,Magdy,O,NE,United States of America
+BRA72,,W,23639 purdue rue,80158,Colorado Springs,392315.0,,3383487.0,670.0,1.0,BRADD,jiri,,MI,United States of America
+Boa73,,U,19202 ansley park,t6d 1b6,Berkeley,493829.0,,2981876.0,722.0,3.0,Boarder,AILA,X,New Brunswick,United States of America
+Mcn74,,U,11319 devonshire rue,33120,San Buenaventura,97489.0,,2109339.0,587.0,2.0,Mcnally,Vincenzo,,NJ,United States of America
+MAR75,F,S,23665 deerwood park,99742,New Haven,,,791803.0,609.0,3.0,MARKOVICH,Minnnie,,ND,United States of America
+Wil76,f,S,4855 union north,V6N 1T1,Shreveport,383046.0,,3523678.0,401.0,1.0,Willekes,alfonzo,,Saskatchewan,United States of America
+Dea77,m,M,9466 SHADOWBRIAR WEST,44104,Lansing,1190.0,,1681902.0,335.0,0.0,Deacetis,Swandi,S,KS,United States of America
+Hou78,,U,3504 regency avenue,14605,Pembroke Pines,85733.0,,3851455.0,569.0,5.0,Houk,Anya,,SD,United States of America
+Goy79,,M,7281 northland lower,80076,Palmdale,387890.0,,2339382.0,,2.0,Goyette,Enrika,,FL,Canada
+Mok80,f,S,12481 hayden lower,V6I 1V6,Savannah,16808.0,,,679.0,0.0,Mok-fung,SONJA,Z,Saskatchewan,United States of America
+Run81,,M,2328 gracie avenue,97307,Amarillo,304589.0,,2065016.0,356.0,4.0,Rundle,Liem,I,FL,United States of America
+BEL82,o,S,4737 campbell street,46237,Anchorage,48506.0,,2454049.0,308.0,5.0,BELLEY,COLLETTE,,UT,United States of America
+BAE83,,M,2401 stratmore lower,V6B 1S6,Louisville,,,2423395.0,412.0,4.0,BAER,SIAMACK,Y,WY,United States of America
+MAU84,f,D,21477 JUNIPER CRESCENT,H2d 1x1,Hilo,358862.0,,1342045.0,618.0,3.0,MAULDIN,Toshihiro,,NH,United States of America
+Koo85,,S,19214 YAUPON BOULEVARD,95108,Sudbury,477614.0,,861756.0,429.0,3.0,Koohgoli,Casey,,AR,United States of America
+Lau86,,S,7785 rusk boulevard,80050,Orlando,175414.0,,1215349.0,819.0,1.0,Lauriston,Daryn,,CT,United States of America
+Man87,F,M,18002 cantrell upper,90122,Missoula,427598.0,,3981554.0,552.0,1.0,Mangum,Adrianna,L,VT,Canada
+PIE88,,S,23341 brookside upper,43614,Abilene,368207.0,,3865937.0,587.0,4.0,PIERCY,Cortney,,Manitoba,United States of America
+Bus89,M,S,20494 ROSS WEST,61110,Saskatoon,449944.0,,2804700.0,304.0,1.0,Buscaglia,Duane,,NJ,United States of America
+BAB90,,,17552 SAVANNAH NORTH,70174,Irvine,166247.0,,3283558.0,795.0,5.0,BABIONE,Tele,,KY,United States of America
+Bur91,M,S,4462 pace crescent,90324,Reno,391165.0,APT. 373,450524.0,830.0,3.0,Burkard,Ophelia,,GA,United States of America
+Kin92,,M,7161 tallowood upper,s7d 1n1,Sacramento,165854.0,,,709.0,3.0,Kinsella,lorine,,NJ,United States of America
+POM93,,S,3489 silver sage west,93829,Topeka,326181.0,,,493.0,1.0,POMMAINVILLE,Viole,,SC,United States of America
+BOA94,M,M,12481 hayden lower,89116,Rancho Cucamonga,173387.0,,633760.0,680.0,,BOATWRIGHT,Nani,,TN,United States of America
+Ron95,,M,13210 3RD DRIVE,94315,Hilo,301127.0,,3634954.0,800.0,5.0,Ronald,cherey,R,WY,United States of America
+wei96,,M,8899 starling lane,T5b 1u9,Saint John,487230.0,,799268.0,614.0,5.0,weihs,Redgie,A,Ontario,United States of America
+Hel97,M,,11480 fennel south,T6b 1a5,Torrance,425747.0,,39093.0,763.0,0.0,Helpb,Yousef,P,DC,Canada
+mog98,m,S,7266 cherry upper,60699,Santa Clara,401946.0,,2705353.0,561.0,4.0,moghe,Damaris,,Alberta,United States of America
+boz99,,S,10678 ENGLEWOOD WEST,V6p 1s8,Torrance,425422.0,,3565153.0,569.0,2.0,bozicevich,Ilyssa,,ME,United States of America

@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "FiYe"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "CIDABusDeliMod"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "CoReID"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Biodiversity (marker)",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "Bio"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "OrganN"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Division ID",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "DivID"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Programming process (new)",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "ProPr"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Division name",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "DiviN"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Continent ID",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "ContiID"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "SecID"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Project number",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "PrNum"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Trade development (marker)",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "TrDev"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "BraN"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "Continent name",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "ContiN"
+        },
+        {
+            "source_table": "miller2_both_0_30_ac2_ev_source",
+            "source_column": "CountryRegion percent",
+            "target_table": "miller2_both_0_30_ac2_ev_target",
+            "target_column": "CounRegPer"
+        }
+    ]
+}

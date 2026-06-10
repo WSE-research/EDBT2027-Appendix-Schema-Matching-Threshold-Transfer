@@ -1,0 +1,101 @@
+prospect_AgencyID,prospect_Country,prospect_AddressLine1,prospect_OwnOrRentFlag,prospect_MaritalStatus,prospect_Gender,prospect_Income,prospect_NumberCars,prospect_NumberChildren,prospect_Age,prospect_CreditRating,prospect_Employer,prospect_NumberCreditCards,prospect_NetWorth
+PEL0,United States of America,21847 olympia street,O,W,f,368776.0,,3.0,20.0,760.0,Brink's,,1058868.0
+LED1,United States of America,245 congress court,U,U,F,177967.0,5.0,1.0,3.0,555.0,,6.0,1988185.0
+lat2,United States of America,6517 frailing west,O,S,,321772.0,2.0,1.0,,566.0,,6.0,3673128.0
+RUD3,Canada,11449 blalock park,O,W,,25449.0,2.0,1.0,77.0,,Air Products & Chemicals,3.0,2005895.0
+JAY4,Canada,18354 dodd court,O,M,f,166567.0,0.0,3.0,21.0,815.0,Oshkosh,4.0,624736.0
+tod5,United States of America,14117 roxboro street,R,M,M,43631.0,1.0,4.0,77.0,333.0,,10.0,3064615.0
+Kan6,Canada,24697 FLORENCE WEST,O,,m,466230.0,4.0,0.0,23.0,528.0,VeraSun Energy,1.0,3489129.0
+Din7,United States of America,6488 applewood drive,U,M,,420243.0,2.0,2.0,9.0,680.0,IDT,7.0,3430744.0
+Thi8,United States of America,17404 gale court,O,U,,141862.0,3.0,,63.0,761.0,Adams Resources & Energy,10.0,1743614.0
+May9,United States of America,15913 alexis street,O,M,,402011.0,0.0,2.0,32.0,416.0,MGIC Investment,,216299.0
+mah10,Canada,18313 5th lane,O,M,,79928.0,2.0,2.0,96.0,493.0,Iasis Healthcare,9.0,1528641.0
+Siz11,United States of America,13653 collier avenue,R,M,,109496.0,1.0,0.0,46.0,564.0,AMR,0.0,3752907.0
+cra12,United States of America,15306 pike park,U,U,,267901.0,1.0,4.0,6.0,817.0,Embarq,0.0,582378.0
+dac13,United States of America,1540 crestmere north,R,U,m,487273.0,3.0,5.0,39.0,653.0,Advanced Micro Devices,8.0,3458824.0
+HIV14,United States of America,10790 bonita crescent,O,M,,34013.0,3.0,4.0,73.0,587.0,Cenveo,2.0,469408.0
+Pes15,United States of America,24679 AIRPORT CRESCENT,O,S,,473462.0,0.0,2.0,26.0,472.0,Kelly Services,6.0,1504480.0
+CHI16,Canada,7627 douglas road,O,M,,499493.0,5.0,4.0,54.0,817.0,Viacom,4.0,2763009.0
+Din17,United States of America,6106 ashland east,R,M,,266928.0,5.0,4.0,87.0,441.0,Macy's,0.0,2787199.0
+De 18,United States of America,1111 norden street,O,M,,72444.0,2.0,3.0,85.0,848.0,Gardner Denver,6.0,2789368.0
+Mck19,United States of America,2798 1st east,R,U,m,77290.0,3.0,3.0,86.0,843.0,Family Dollar Stores,8.0,2784776.0
+WIN20,United States of America,11358 elle lee street,R,U,M,395066.0,2.0,0.0,59.0,,,,288747.0
+BIT21,United States of America,21074 MALLORY LOWER,O,U,,119283.0,5.0,3.0,94.0,300.0,Sun Microsystems,0.0,876575.0
+luz22,United States of America,16124 weyland park,O,U,f,330991.0,1.0,1.0,,795.0,Costco Wholesale,8.0,2041224.0
+don23,United States of America,23822 marvin crescent,U,,,,4.0,0.0,5.0,367.0,Illinois Tool Works,5.0,2231509.0
+Gia24,United States of America,2203 valita boulevard,O,M,,252031.0,1.0,5.0,23.0,507.0,Southern Union,1.0,3206409.0
+SPR25,United States of America,11538 COLLINWOOD AVENUE,O,M,M,101800.0,3.0,1.0,61.0,362.0,Moog,9.0,3850037.0
+SKA26,United States of America,7818 EAST STREET,O,D,F,436977.0,0.0,1.0,,527.0,Old Republic International,7.0,528440.0
+Gar27,United States of America,10013 shaw road,O,S,m,495334.0,0.0,,51.0,354.0,,0.0,597140.0
+Dor28,United States of America,6802 AMES STREET,O,M,,274685.0,1.0,1.0,97.0,511.0,Great Plains Energy,1.0,146931.0
+DIO29,United States of America,22501 SUMMIT RUE,,,,320820.0,2.0,2.0,52.0,412.0,Broadcom,7.0,353495.0
+Mer30,Canada,291 frances rue,O,S,m,195835.0,4.0,0.0,98.0,583.0,Discover Financial Services,1.0,295647.0
+Atc31,United States of America,16264 sanders east,O,U,,108085.0,5.0,3.0,47.0,710.0,UAL,5.0,408941.0
+Pla32,United States of America,16068 cantey way,O,M,m,260185.0,2.0,1.0,47.0,380.0,Charles Schwab,9.0,362523.0
+SEL33,United States of America,21170 EDLOE BOULEVARD,R,M,F,258323.0,0.0,0.0,9.0,796.0,Coach,2.0,2102359.0
+sha34,United States of America,885 CROSBY LANE,U,M,f,79476.0,1.0,3.0,85.0,818.0,DaVita,2.0,3480265.0
+MER35,United States of America,12235 jay street,U,M,,102156.0,5.0,3.0,81.0,766.0,Marshall & Ilsley Corp.,3.0,3648900.0
+con36,United States of America,20340 LOMBARD CRESCENT,O,M,,221481.0,2.0,3.0,0.0,359.0,Cablevision Systems,2.0,1161790.0
+ons37,United States of America,22074 dexter upper,R,S,M,41836.0,1.0,5.0,28.0,401.0,Barnes & Noble,2.0,2050587.0
+Sum38,Canada,1540 MURIE RUE,O,U,M,72389.0,1.0,1.0,65.0,609.0,EMC,0.0,3579198.0
+gro39,United States of America,7075 glen loch drive,O,S,,66486.0,3.0,0.0,20.0,630.0,Fluor,2.0,889494.0
+dil40,United States of America,11237 balmoral way,O,M,,200185.0,3.0,1.0,55.0,671.0,Dollar General,9.0,2205682.0
+DOL41,United States of America,8316 GARDEN BROOK NORTH,O,U,,289215.0,0.0,2.0,76.0,715.0,Lear,10.0,1140117.0
+Pos42,United States of America,2240 clifton lower,O,M,,322484.0,4.0,1.0,1.0,707.0,J.P. Morgan Chase & Co.,9.0,1421319.0
+Mac43,United States of America,20907 NOTINGHAM LOWER,O,M,,83458.0,4.0,2.0,3.0,329.0,Affinia Group Intermediate,0.0,3525204.0
+che44,United States of America,601 carroll lower,R,D,,,0.0,3.0,100.0,601.0,,8.0,468976.0
+hol45,United States of America,18267 state drive,O,W,,492407.0,5.0,1.0,81.0,623.0,Goldman Sachs Group,2.0,1685443.0
+pfi46,United States of America,9270 LEAF SOUTH,O,S,f,346630.0,4.0,4.0,76.0,376.0,E*Trade Financial,2.0,337564.0
+elk47,Canada,18582 PERIMETER BOULEVARD,O,W,,9572.0,1.0,3.0,51.0,560.0,Pfizer,0.0,84777.0
+Lab48,United States of America,9612 park stream upper,O,,F,265369.0,1.0,5.0,,693.0,Safeway,4.0,3146477.0
+laf49,United States of America,2803 clearwater north,U,S,,104172.0,1.0,2.0,58.0,346.0,Simon Property Group,0.0,495277.0
+Nor50,United States of America,11103 BISSONNET WEST,O,M,,65550.0,0.0,3.0,52.0,342.0,Trinity Industries,0.0,746904.0
+hag51,Canada,4652 outervale lane,R,M,,,2.0,0.0,91.0,563.0,Solutia,8.0,1219620.0
+Bet52,United States of America,341 dunbar west,O,M,m,,2.0,3.0,17.0,391.0,,4.0,1718910.0
+Van53,United States of America,16176 vernon drive,O,S,m,66244.0,4.0,4.0,6.0,381.0,A.O. Smith,8.0,
+O'L54,United States of America,23131 clint way,U,S,F,426954.0,0.0,3.0,89.0,539.0,AptarGroup,9.0,2636424.0
+and55,United States of America,11640 baltic upper,O,M,m,126891.0,5.0,4.0,99.0,497.0,Coca-Cola,0.0,1326305.0
+sta56,Canada,20796 dolores drive,O,M,,454196.0,4.0,2.0,77.0,661.0,Kimberly-Clark,,2241997.0
+CHA57,United States of America,14359 COMMERCE WEST,R,S,,163940.0,5.0,3.0,,558.0,Visteon,0.0,1542891.0
+ASI58,Canada,21448 hampton boulevard,O,W,R,365213.0,,1.0,90.0,534.0,TECO Energy,,797918.0
+ask59,United States of America,7637 pershing way,U,M,f,428739.0,0.0,0.0,82.0,373.0,Bemis,6.0,347654.0
+Kik60,United States of America,11529 arcana boulevard,O,M,,142444.0,4.0,0.0,,382.0,Wyeth,8.0,2456397.0
+Cha61,United States of America,2700 windwood north,O,S,F,416168.0,3.0,3.0,15.0,475.0,United Technologies,10.0,1284229.0
+KIL62,United States of America,22279 gramercy road,O,D,m,291420.0,2.0,0.0,,539.0,Clorox,3.0,618787.0
+kin63,United States of America,9828 west east,O,M,f,413501.0,4.0,5.0,96.0,711.0,Discovery Communications,6.0,1171606.0
+MAL64,United States of America,5935 mcafee park,O,M,,,4.0,,38.0,606.0,Williams-Sonoma,1.0,3983261.0
+Odu65,United States of America,12460 CLAYTON STREET,O,W,,419143.0,3.0,3.0,10.0,494.0,Manitowoc,0.0,2328568.0
+DI 66,United States of America,275 3rd drive,O,M,,155057.0,1.0,5.0,72.0,309.0,Henry Schein,3.0,2078600.0
+STU67,United States of America,6907 FERNCLIFF CRESCENT,O,M,,313859.0,2.0,5.0,97.0,630.0,Trinity Industries,3.0,2986155.0
+HAM68,United States of America,885 crosby lane,O,S,,265907.0,4.0,1.0,48.0,330.0,Pepsi Bottling,10.0,1864039.0
+LIB69,Canada,2344 kalani west,O,S,m,283481.0,,0.0,97.0,710.0,UGI,9.0,1293721.0
+ohs70,United States of America,22870 LA CIENEGA STREET,R,M,M,200635.0,4.0,0.0,73.0,475.0,Greif,7.0,3850114.0
+HUM71,United States of America,8478 green avenue,O,U,,434519.0,0.0,1.0,71.0,596.0,Equifax,3.0,1618743.0
+BRA72,United States of America,23639 purdue rue,O,W,,392315.0,5.0,1.0,93.0,670.0,,9.0,3383487.0
+Boa73,United States of America,19202 ansley park,O,U,,493829.0,5.0,3.0,53.0,722.0,Freescale Semiconductor,,2981876.0
+Mcn74,United States of America,11319 devonshire rue,O,U,,97489.0,3.0,2.0,32.0,587.0,Aleris International,7.0,2109339.0
+MAR75,United States of America,23665 deerwood park,O,S,F,,4.0,3.0,1.0,609.0,,4.0,791803.0
+Wil76,United States of America,4855 union north,O,S,f,383046.0,0.0,1.0,39.0,401.0,World Fuel Services,7.0,3523678.0
+Dea77,United States of America,9466 SHADOWBRIAR WEST,,M,m,1190.0,4.0,0.0,77.0,335.0,R.R. Donnelley & Sons,0.0,1681902.0
+Hou78,United States of America,3504 regency avenue,O,U,,85733.0,5.0,5.0,18.0,569.0,Brinker International,7.0,3851455.0
+Goy79,Canada,7281 northland lower,R,M,,387890.0,0.0,2.0,70.0,,Temple-Inland,9.0,2339382.0
+Mok80,United States of America,12481 hayden lower,O,S,f,16808.0,2.0,0.0,26.0,679.0,Psychiatric Solutions,7.0,
+Run81,United States of America,2328 gracie avenue,,M,,304589.0,,4.0,,356.0,Nash-Finch,10.0,2065016.0
+BEL82,United States of America,4737 campbell street,R,S,o,48506.0,2.0,5.0,58.0,308.0,AMR,9.0,2454049.0
+BAE83,United States of America,2401 stratmore lower,O,M,,,0.0,4.0,43.0,412.0,Spartan Stores,4.0,2423395.0
+MAU84,United States of America,21477 JUNIPER CRESCENT,O,D,f,358862.0,2.0,3.0,65.0,618.0,Cigna,4.0,1342045.0
+Koo85,United States of America,19214 YAUPON BOULEVARD,O,S,,477614.0,5.0,3.0,24.0,429.0,General Cable,5.0,861756.0
+Lau86,United States of America,7785 rusk boulevard,O,S,,175414.0,3.0,1.0,79.0,819.0,Dun & Bradstreet,3.0,1215349.0
+Man87,Canada,18002 cantrell upper,O,M,F,427598.0,0.0,1.0,48.0,552.0,Casey's General Stores,7.0,3981554.0
+PIE88,United States of America,23341 brookside upper,O,S,,368207.0,0.0,4.0,69.0,587.0,Jack in the Box,9.0,3865937.0
+Bus89,United States of America,20494 ROSS WEST,O,S,M,449944.0,3.0,1.0,91.0,304.0,Assurant,6.0,2804700.0
+BAB90,United States of America,17552 SAVANNAH NORTH,U,,,166247.0,5.0,5.0,75.0,795.0,Psychiatric Solutions,4.0,3283558.0
+Bur91,United States of America,4462 pace crescent,O,S,M,391165.0,1.0,3.0,85.0,830.0,Danaher,2.0,450524.0
+Kin92,United States of America,7161 tallowood upper,R,M,,165854.0,5.0,3.0,76.0,709.0,Clorox,3.0,
+POM93,United States of America,3489 silver sage west,O,S,,326181.0,2.0,1.0,68.0,493.0,Boyd Gaming,8.0,
+BOA94,United States of America,12481 hayden lower,O,M,M,173387.0,3.0,,95.0,680.0,Eaton,,633760.0
+Ron95,United States of America,13210 3RD DRIVE,R,M,,301127.0,1.0,5.0,15.0,800.0,Dynegy,,3634954.0
+wei96,United States of America,8899 starling lane,R,M,,487230.0,1.0,5.0,17.0,614.0,AmeriCredit,4.0,799268.0
+Hel97,Canada,11480 fennel south,R,,M,425747.0,4.0,0.0,94.0,763.0,SLM,6.0,39093.0
+mog98,United States of America,7266 cherry upper,O,S,m,401946.0,4.0,4.0,70.0,561.0,NV Energy,3.0,2705353.0
+boz99,United States of America,10678 ENGLEWOOD WEST,O,S,,425422.0,1.0,2.0,29.0,569.0,Landstar System,4.0,3565153.0

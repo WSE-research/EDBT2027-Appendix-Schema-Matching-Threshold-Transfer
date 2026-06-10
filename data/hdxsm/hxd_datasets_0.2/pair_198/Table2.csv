@@ -1,0 +1,101 @@
+SSID,Site Name,Site Status,Province,Province Pcode,District,District Pcode,Post,Location,Longitude (Manugal GPS),Latitude (Manual GPS),IDP Origin Province (Admin 1),IDP Origin District (Admin 2),IDP Origin Traditional Area (Admin 3),Number of families/households,Total number of IDP individuals
+MOZ_S132,ECMED Sede,Open,Manica,MZ04,Sussundenga,MZ0410,Sussundenga,,33.103006,-19.454344,Manica,Sussundenga,Sussundenga,4,10
+MOZ_S066,Jhon segredo,Open,Sofala,MZ09,Nhamatanda,MZ0913,Tica,Tica,34.42966,-19.39683,Sofala,Nhamatanda,Tica,826,4130
+MOZ_S086,Canhuengue,Open,Tete,MZ10,Mutarara,MZ1013,,Doa canhengue,37.3979,-17.6063,Tete,Mutarara,,97,490
+MOZ_S119,Muocochiguedere,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.396114,-19.975811,Manica,Sussundenga,Dombe,84,527
+MOZ_S032,EPC Palmeira,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Beira,34.863,-19.8189,Sofala,Cidade da Beira,Cidade da Beira,93,115
+MOZ_S037,Sao Pedro Claver,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga loforte,34.824,-19.733,Sofala,Cidade da Beira,Cidade da Beira,470,814
+MOZ_S001,ES Mutemba,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Chiveve Esturro,34.8511254,-19.8340938,Sofala,Cidade da Beira,Cidade da Beira,91,456
+MOZ_S024,EOC Amilcar Cabral,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Munhava,34.86638888888889,-19.814722222222223,Sofala,Cidade da Beira,Cidade da Beira,208,646
+MOZ_S070,EPC inharongue,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Inharongue,34.545,-19.9618,Sofala,Buzi,Buzi,41,205
+MOZ_S121,Macocoe,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.39679,-19.975217,Manica,Manica,Sussundenga,119,595
+MOZ_S082,EPC de. Bandua,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Buzi sede,34.4163,-19.9679,Sofala,Buzi,Buzi,125,622
+MOZ_S056,Epc chipinde,Open,Sofala,MZ09,Dondo,MZ0907,Mafambisse,Mafambisse,34.63558,-19.5406,Sofala,Dondo,Mafambisse,190,950
+MOZ_S129,Assikubatana mussenembe,Open,Manica,MZ04,Sussundenga,MZ0410,Rotanda,Rotanda,32.917147,-19.536036,Manica,Sussundenga,Rotanda,4,14
+MOZ_S092,Panducani,Open,Tete,MZ10,Mutarara,MZ1013,Nhamayabue,Nhamayabue,35.003149,-17.054337,Tete,Mutarara,Nhamayabue,103,508
+MOZ_S025,EPC Chota,Closed,Sofala,MZ09,Beira,MZ0901,Esturo,,34.88194444444444,-19.815833333333334,Sofala,Beira,Esturo,62,131
+MOZ_S094,Goonda  Modjaca,Closed,Sofala,MZ09,Chibabava,MZ0905,Goonda,,33.962466,-19.8322,Sofala,Chibabava,Goonda,72,360
+MOZ_S115,Nhanhemba,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.39719,-19.976571,Manica,Sussundenga,Dombe,430,2150
+MOZ_S016,EA EMissora,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Inhamizua,34.82805555555556,-19.73638888888889,Sofala,Cidade da Beira,Cidade da Beira,42,77
+MOZ_S017,E Esturo,Closed,Sofala,MZ09,Beira,MZ0901,Esturo,,34.855,-19.826,Sofala,Beira,Esturo,84,430
+MOZ_S127,Minas Gerais ,Open,Manica,MZ04,Sussundenga,MZ0410,Muoha,Muoha,33.292322,-19.412518,Manica,Sussundenga,Muoha,101,505
+MOZ_S124,Gudza,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.395513,-19.974541,Manica,Sussundenga,Dombe,144,867
+MOZ_S107,Maquina Dárué,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.395449,-19.973986,Manica,Sussundenga,Dombe,157,785
+MOZ_S105,Manhandure,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dembe,33.395309,-19.97437,Manica,Sussundenga,Dombe,104,524
+MOZ_S062,Vila sede,Open,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,Tica,34.43738,-19.40629,Sofala,Nhamatanda,Nhamatanda,2697,13779
+MOZ_S064,Otcha_Otcha,Open,Sofala,MZ09,Nhamatanda,MZ0913,Tica,Nhamatanda,34.440496,-19.411268,Sofala,Nhamatanda,Tica,786,2380
+MOZ_S054,Salao do reino das testemunhas de jeova,Open,Sofala,MZ09,Dondo,MZ0907,Mafambisse,,34.598545,-19.501132,Sofala,Dondo,Mafambisse,98,332
+MOZ_S080,Degaja,Open,Sofala,MZ09,Buzi,MZ0901,Estaquinha,Buzi,34.2915,-19.9573,Sofala,Buzi,Estaquinha,164,820
+MOZ_S069,E.P.C zimpinga 2,Open,Manica,MZ04,Gondola,MZ0403,Amatongas,Gôndola,33.850084,-19.100714,Manica,Gondola,Amatongas,26,116
+MOZ_S078,Escola industrial de matundo,Open,Tete,MZ10,Cidade De Tete,MZ0906,Cidade De Tete,Sede,33.602263,-16.137393,Tete,Cidade De Tete,Cidade De Tete,109,593
+MOZ_S014,EPC Especial # 3,Closed,Sofala,MZ09,Beira,MZ0901,Nacurrungo,,34.84583333333334,-19.841666666666665,Sofala,Beira,Macurrungo,85,434
+MOZ_S090,Igreja catolica,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Guara_guara,34.47,-19.871389,Sofala,Buzi,Buzi,31,109
+MOZ_S085,Vila valdez peirerao,Open,Zambezia,MZ11,Maganja Da Costa,MZ1111,Nante,Nante,37.3465,-17.4119,Zambezia,Maganja Da Costa,Nante,754,3790
+MOZ_S079,Inhanjou,Open,Sofala,MZ09,Buzi,MZ0901,Estaquinha,Buzi,34.499,-19.9613,Sofala,Buzi,Estaquinha,275,1235
+MOZ_S043,ES Samora Machel,Open,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,Matacuane,34.855798,-19.831292,Sofala,Cidade Da Beira,Cidade Da Beira,138,408
+MOZ_S012,Posto de Ndunda,Closed,Sofala,MZ09,Beira,MZ0901,Nduda  1,,34.95027777777778,-19.798055555555557,Sofala,Beira,Nduda 1,230,1173
+MOZ_S113,Mucombe,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.395449,-19.973986,Manica,Sussundenga,Dombe,34,264
+MOZ_S019,Manga Loforte,Closed,Sofala,MZ09,Beira,MZ0901,Manga Loforte,,34.882222222222225,-19.746944444444445,Sofala,Beira,Manga Loforte,47,790
+MOZ_S013,Predio Mungassa Reis dos Reis,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,,34.872,-19.741,Sofala,Cidade da Beira,Cidade da Beira,162,814
+MOZ_S133,Mutarara ,Open,Manica,MZ04,Sussundenga,MZ0410,,Mutarara,33.248465,-19.281267,Manica,Sussundenga,Dombe,257,1287
+MOZ_S077,Nkganzo,Open,Tete,MZ10,Mutarara,MZ0912,Nhamayabue,Tete,35.003149,-17.054337,Tete,Mutarara,Nhamayabue,82,417
+MOZ_S059,Igreja metodista monte siluvo,Open,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,Monte siluve,34.029868,-19.236807,Sofala,Nhamatanda,Nhamatanda,20,102
+MOZ_S068,Inchope Sede,Open,Manica,MZ04,Gondola,MZ0403,Inchope,Inchope,33.914002,-19.204392,Manica,Gondola,Inchope,33,134
+MOZ_S011,EPC Eduardo Mondlane ,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Chiveve,34.8419,-19.84008,Sofala,Cidade da Beira,Cidade da Beira,137,688
+MOZ_S004,ES Estoril,Closed,Sofala,MZ09,Beira,MZ0901,Estoril,,34.89527777777778,-19.84,Sofala,Beira,Estoril,30,125
+MOZ_S120,Tossene Choma,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.39724,-19.975418,Manica,Sussundenga,Dombe,392,1510
+MOZ_S003,ES Azem,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Inhamizua,34.863055555555555,-19.75888888888889,Sofala,Cidade da Beira,Cidade da Beira,6,30
+MOZ_S110,Pambanissa,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,dombe,33.395116,-19.974299,Manica,Sussundenga,Dombe,62,314
+MOZ_S057,Escola primaria completa 12 de Outubro,Open,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,Sede nhamatanda,34.211142,-19.176622,Sofala,Nhamatanda,Nhamatanda,17,104
+MOZ_S089,EPC Guara_Guara,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Guara_guara,34.0344,-19.5746,Sofala,Buzi,Buzi,37,131
+MOZ_S083,Tribuna guara_guara,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Buzi sede guara_guara,34.41752,-19.61966,Sofala,Buzi,Buzi,139,666
+MOZ_S009,EP Mungassa,Closed,Sofala,MZ09,Beira,MZ0901,Nhamizua,,34.86,-19.75027777777778,Sofala,Beira,Nhamizua,7,38
+MOZ_S006,E Ind 25 de Junho,Closed,Sofala,MZ09,Beira,MZ0901,Muchatazina,,34.8575,-19.828888888888887,Sofala,Beira,Estoril,101,515
+MOZ_S101,Gerone ,Closed,Sofala,MZ09,Chibabava,MZ0905,Chibabava,Gerone,33.797665,-20.337853,Sofala,Chibabava,Goonda,311,1555
+MOZ_S050,Igreja metodista Dondo Moflor,Open,Sofala,MZ09,Dondo,MZ0907,Dondo,Nhamayabwe,34.738123,-19.606698,Sofala,Dondo,Dondo,30,162
+MOZ_S067,Centro de acomodação Muda Nunes,Open,Sofala,MZ09,Nhamatanda,MZ0913,Tica,,34.395327,-19.372997,Sofala,Nhamatanda,Tica,2250,11250
+MOZ_S122,Chiruca,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.39833,-19.97139,Manica,Sussundenga,Dombe,21,128
+MOZ_S040,Antiga Emissora Radio,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga Loforte,34.867267,-19.733019,Sofala,Cidade da Beira,Cidade da Beira,57,572
+MOZ_S031,EPC 25 de junho,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Munhava mananga,34.852625,-19.810117,Sofala,Cidade da Beira,Cidade da Beira,58,284
+MOZ_S112,Zibua,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.394901,-19.974349,Manica,Sussundenga,Dombe,75,346
+MOZ_S002,ES Matadouro,Closed,Sofala,MZ09,Beira,MZ0901,Inhamizua,,34.85694444,-19.74444444,Sofala,Beira,Inhamizua,594,2512
+MOZ_S015,H 24 de Julho,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Beira,34.855027,-19.842795,Sofala,Cidade da Beira,Cidade da Beira,200,1304
+MOZ_S075,Dugudiua,Open,Zambezia,MZ11,Nicoadala,MZ0410,Nicoadala,Nocoadala-sede,36.8242,-17.5018,Zambezia,Nicoadala,Nicoadala,203,1035
+MOZ_S076,Namitangurini,Open,Zambezia,MZ11,Nicoadala,MZ0410,Nicoadala,Sede munhonha,36.5744,-17.5735,Zambezia,Nicoadala,Nicoadala,470,2247
+MOZ_S055,Epc samora machel mafambisse,Open,Sofala,MZ09,Dondo,MZ0907,Mafambisse,Mafambisse,34.62788,-19.53904,Sofala,Dondo,Mafambisse,168,873
+MOZ_S125,Ngurue,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.394558,-19.975035,Manica,Manica,Sussundenga,155,774
+MOZ_S030,EPC Inhamizua,Closed,Sofala,MZ09,Beira,MZ0901,Inhamizua,,34.856944444444444,-19.74416666666667,Sofala,Beira,Inhamizua,45,215
+MOZ_S005,ES 25 Setembro,Closed,Sofala,MZ09,Beira,MZ0901,Chomba,,34.82805555555556,-19.736666666666668,Sofala,Beira,Chomba,42,244
+MOZ_S071,Munamicua,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Buzi sede,34.54251,-19.44933,Sofala,Buzi,Buzi,39,196
+MOZ_S021,EPC Josina Machel,Closed,Sofala,MZ09,Beira,MZ0901,Manga Loforte,,34.872794,-19.766905,Sofala,Beira,Manga Loforte,367,1874
+MOZ_S093,Centro De Gerome,Closed,Sofala,MZ09,Chibabava,MZ0905,Goonda,Gonda,33.963049,-19.832162,Sofala,Chibabava,Goonda,393,1554
+MOZ_S106,Machacuale,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.394901,-19.974349,Manica,Sussundenga,Dombe,38,190
+MOZ_S108,Magaro,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.39606,-19.973684,Manica,Sussundenga,Dombe,273,1365
+MOZ_S103,Goonda Madjaca,Closed,Sofala,MZ09,Chibabava,MZ0905,Goonda,Goonda,34.01056,-19.84083,Sofala,Chibabava,Goonda,72,360
+MOZ_S053,Samora machel,Open,Sofala,MZ09,Dondo,MZ0907,Dondo,Bairro samora machel,34.722026,-19.576157,Sofala,Dondo,Dondo,371,1866
+MOZ_S116,Madibunhana ,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Madibunhana,33.395116,-19.974299,Manica,Sussundenga,Dombe,322,1610
+MOZ_S008,EPC Nunda 1,Closed,Sofala,MZ09,Beira,MZ0901,Manga loforte,,34.88228,-19.78052,Sofala,Beira,Manga loforte,366,555
+MOZ_S020,EPC Muavi 1,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga loforde,34.93611111111111,-19.798055555555557,Sofala,Cidade da Beira,Cidade da Beira,268,760
+MOZ_S088,Matchemetche,Open,Sofala,MZ09,Buzi,MZ0901,Estaquinha,Estaquinha,34.6021,-19.8864,Sofala,Buzi,Estaquinha,182,910
+MOZ_S081,Escola secundaria geral de bandua,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,Buzi sede,34.855807,-19.832013,Sofala,Buzi,Buzi,94,466
+MOZ_S072,Círculo de interesse guara-guara,Open,Sofala,MZ09,Buzi,MZ0901,Buzi,,34.465,-19.869444,Sofala,Buzi,Buzi,57,192
+MOZ_S034,IFP Inhamizua,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Inhamizua,34.81,-19.725,Sofala,Cidade da Beira,Cidade da Beira,93,374
+MOZ_S035,Picoco,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Estoril,34.824,-19.733,Sofala,Cidade da Beira,Cidade da Beira,704,3160
+MOZ_S010,EPC Muavi 2,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga lo forte,34.92222222222222,-19.80611111111111,Sofala,Cidade da Beira,Cidade da Beira,91,374
+MOZ_S061,EPC 12 de Outubro,Closed,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,,34.217474,-19.177973,Sofala,Nhamatanda,Nhamatanda,59,334
+MOZ_S131,Mutassa,Open,Manica,MZ04,Sussundenga,MZ0410,Sussundenga,Sussundenga,33.234821,-19.355993,Manica,Sussundenga,Dombe,40,255
+MOZ_S027,EPC Agostino Neto,Closed,Sofala,MZ09,Beira,MZ0901,Chiveve,,34.845338,-19.836605,Sofala,Beira,Chiveve,450,2297
+MOZ_S111,Javera,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.395309,-19.97437,Manica,Sussundenga,Dombe,58,281
+MOZ_S007,EPC Macurongo,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Central,34.88,-19.836388888888887,Sofala,Cidade da Beira,Cidade da Beira,16,52
+MOZ_S126,Muoha sede ,Open,Manica,MZ04,Sussundenga,MZ0410,Muoha,Muaha,33.292848,-19.413196,Manica,Sussundenga,Muoha,63,312
+MOZ_S052,Samora machel 2,Closed,Sofala,MZ09,Dondo,MZ0907,Dondo,Eduardo mondlane,34.626146,-19.538155,Sofala,Dondo,Dondo,103,409
+MOZ_S023,EPC M Central,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Munhava,34.86407,-19.81405,Sofala,Cidade da Beira,Cidade da Beira,17,90
+MOZ_S039,Terra Prometida,Closed,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga loforte,34.93658,-19.79813,Sofala,Cidade da Beira,Cidade da Beira,30,176
+MOZ_S109,Chau,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Dombe,33.39719,-19.976571,Manica,Sussundenga,Dombe,137,737
+MOZ_S038,IFAPA 1,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga aeroporto,34.903,-19.806,Sofala,Cidade da Beira,Cidade da Beira,340,1708
+MOZ_S117,Magueba ,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Magueba,33.56972,-20.85059,Manica,Sussundenga,Dombe,42,210
+MOZ_S063,Escola secundária geral de Metuchira,Open,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,,34.209925,-19.174427,Sofala,Nhamatanda,Nhamatanda,60,230
+MOZ_S104,Sambanzo,Open,Sofala,MZ09,Muanza,MZ0912,Muanza,Sambanzo,34.788465,-18.90253,Sofala,Muanza,Muanza,815,4077
+MOZ_S084,Mussaia,Open,Zambezia,MZ11,Maganja Da Costa,MZ1111,Nante,Nante,37.346567,-17.4119,Zambezia,Maganja Da Costa,Nante,360,1936
+MOZ_S123,Bairro Da Unidade,Open,Manica,MZ04,Sussundenga,MZ0410,Dombe,Sussundenga,33.394848,-19.975771,Manica,Sussundenga,Dombe,71,134
+MOZ_S041,Igreja Adventista,Open,Sofala,MZ09,Cidade da Beira,MZ0906,Cidade da Beira,Manga loforte,34.880915,-19.834841,Sofala,Cidade da Beira,Cidade da Beira,28,104

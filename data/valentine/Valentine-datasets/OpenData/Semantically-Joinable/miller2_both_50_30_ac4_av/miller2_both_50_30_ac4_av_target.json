@@ -1,0 +1,101 @@
+{
+    "miller2_FisY": {
+        "type": "text"
+    },
+    "miller2_KnoFoDevelo": {
+        "type": "int"
+    },
+    "miller2_FuCeID": {
+        "type": "int"
+    },
+    "miller2_OrgaCla": {
+        "type": "text"
+    },
+    "miller2_DivNa": {
+        "type": "text"
+    },
+    "miller2_ClimChaAdap": {
+        "type": "int"
+    },
+    "miller2_ProjNum": {
+        "type": "text"
+    },
+    "miller2_CouRePe": {
+        "type": "real"
+    },
+    "miller2_RegPr": {
+        "type": "int"
+    },
+    "miller2_OrgaID": {
+        "type": "text"
+    },
+    "miller2_ProgrPro": {
+        "type": "text"
+    },
+    "miller2_DisIs": {
+        "type": "int"
+    },
+    "miller2_UrbIss": {
+        "type": "int"
+    },
+    "miller2_SectID": {
+        "type": "text"
+    },
+    "miller2_PBATy": {
+        "type": "text"
+    },
+    "miller2_Bio": {
+        "type": "int"
+    },
+    "miller2_ChilIss": {
+        "type": "int"
+    },
+    "miller2_YouIss": {
+        "type": "int"
+    },
+    "miller2_IndigIs": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFDeve": {
+        "type": "int"
+    },
+    "miller2_GeEqua": {
+        "type": "int"
+    },
+    "miller2_OrgaNa": {
+        "type": "text"
+    },
+    "miller2_OrgTy": {
+        "type": "text"
+    },
+    "miller2_OrganiSu": {
+        "type": "text"
+    },
+    "miller2_ContID": {
+        "type": "int"
+    },
+    "miller2_ContiNa": {
+        "type": "text"
+    },
+    "miller2_ProBroCouID": {
+        "type": "text"
+    },
+    "miller2_CoReID": {
+        "type": "text"
+    },
+    "miller2_CoReNa": {
+        "type": "text"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SecNa": {
+        "type": "text"
+    },
+    "miller2_SecPerc": {
+        "type": "real"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    }
+}

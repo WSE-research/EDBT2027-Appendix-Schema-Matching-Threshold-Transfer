@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "ASI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "ASSSUBCELFR"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "description",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "Descri"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "TISI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "VAI"
+        },
+        {
+            "source_table": "assays_both_50_30_ac2_av_source",
+            "source_column": "tid",
+            "target_table": "assays_both_50_30_ac2_av_target",
+            "target_column": "Ti"
+        }
+    ]
+}

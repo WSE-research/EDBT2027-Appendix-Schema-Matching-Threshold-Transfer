@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "assay_subcellular_fraction"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "assay_organism"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "description",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "description"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "relationship_type"
+        },
+        {
+            "source_table": "assays_both_0_30_ec_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_0_30_ec_ev_target",
+            "target_column": "assay_type"
+        }
+    ]
+}

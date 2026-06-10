@@ -1,0 +1,3 @@
+<"countryCode", "country_code">
+<"startDate", "day_start">
+<"endDate", "day_end">

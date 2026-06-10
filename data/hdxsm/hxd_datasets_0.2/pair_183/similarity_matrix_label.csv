@@ -1,0 +1,7 @@
+,Snapshot Date,Date de l'enquête,Country,Country Pcode,Province,Province Pcode,Commune,Commune Pcode,Ménages PDI,Nombre de PDI
+Snapshot date (MMM-yyyy),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.1.c.1 SSID,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1.5.e.1 Reason for displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 0 iso3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Admin 1 Pcode,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Admin 2 Pcode,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0

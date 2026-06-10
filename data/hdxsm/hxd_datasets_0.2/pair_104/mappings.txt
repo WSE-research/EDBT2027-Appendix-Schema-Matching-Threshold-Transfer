@@ -1,0 +1,7 @@
+<"Date_enquete phase 2", "date_enquete">
+<"Province", "admin_1_label">
+<"Admin1_Code", "admin_1_code">
+<"Territoire", "admin_2_label">
+<"Admin2_Code", "admin_2_code">
+<"TOTAL PDI A JOUR", "ind_IDP_presents_36_mois">
+<"TOTAL IND RET A JOUR", "ind_RETs_presents_36mo">

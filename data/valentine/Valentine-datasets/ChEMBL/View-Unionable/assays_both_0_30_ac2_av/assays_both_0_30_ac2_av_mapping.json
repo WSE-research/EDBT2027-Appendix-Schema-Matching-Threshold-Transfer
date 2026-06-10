@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "assay_test_type",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "ASTETY"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "CHEI"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "ASSTR"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "ASCETY"
+        },
+        {
+            "source_table": "assays_both_0_30_ac2_av_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_0_30_ac2_av_target",
+            "target_column": "DOI"
+        }
+    ]
+}

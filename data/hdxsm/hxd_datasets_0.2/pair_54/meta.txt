@@ -1,0 +1,16 @@
+230fb62d-80ad-49db-8420-2504a81860e7,DTM Nigeria Location Assessment Round 34
+4108ba3d-03db-43a3-b889-9361887624b5,DTM Nigeria Site Assessment Round 29
+---hxl_tags---
+#meta+round
+#adm1+code
+#adm1+Name
+#adm2+code
+#adm2+name
+#adm3+code
+#adm3+name
+#meta+site+id
+#meta+site+name
+#geo+lon
+#geo+lat
+#affected+idps+hh
+#affected+idps+ind

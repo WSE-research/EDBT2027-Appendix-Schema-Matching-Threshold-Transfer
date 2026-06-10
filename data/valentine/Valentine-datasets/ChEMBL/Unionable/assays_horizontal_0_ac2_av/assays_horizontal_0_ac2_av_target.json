@@ -1,0 +1,71 @@
+{
+    "ASI": {
+        "type": "integer"
+    },
+    "DOI": {
+        "type": "integer"
+    },
+    "Descri": {
+        "type": "varchar(400)"
+    },
+    "ASTY": {
+        "type": "varchar(1)"
+    },
+    "ASSTETY": {
+        "type": "varchar(20)"
+    },
+    "ASSCAT": {
+        "type": "varchar(20)"
+    },
+    "ASORGA": {
+        "type": "varchar(250)"
+    },
+    "ASSTI": {
+        "type": "bigint unsigned"
+    },
+    "ASST": {
+        "type": "varchar(200)"
+    },
+    "ASTIS": {
+        "type": "varchar(100)"
+    },
+    "ASCETY": {
+        "type": "varchar(100)"
+    },
+    "ASSSUBCFR": {
+        "type": "varchar(100)"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "RELATTY": {
+        "type": "varchar(1)"
+    },
+    "CONFSCO": {
+        "type": "smallint unsigned"
+    },
+    "CUB": {
+        "type": "varchar(32)"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "SRASSI": {
+        "type": "varchar(50)"
+    },
+    "CHI": {
+        "type": "varchar(20)"
+    },
+    "CEI": {
+        "type": "integer"
+    },
+    "BAFOR": {
+        "type": "varchar(11)"
+    },
+    "TII": {
+        "type": "integer"
+    },
+    "VAI": {
+        "type": "integer unsigned"
+    }
+}

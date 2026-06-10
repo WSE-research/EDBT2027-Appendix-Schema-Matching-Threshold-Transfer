@@ -1,0 +1,101 @@
+prospect_AgencyID,prospect_OwnOrRentFlag,prospect_MaritalStatus,prospect_CreditRating,prospect_Country,prospect_MiddleInitial,prospect_Phone,prospect_Income,prospect_NumberCars,prospect_NumberChildren,prospect_Age,prospect_Employer,prospect_NumberCreditCards,prospect_NetWorth
+Iok7501,U,U,580.0,United States of America,n,1-637-119-9996,94490.0,3.0,,7.0,FM Global,,321776.0
+tia7502,R,S,683.0,Canada,,1-560-405-0048,7037.0,4.0,4.0,48.0,MGIC Investment,2.0,2292324.0
+AOI7503,O,M,411.0,,u,1-261-306-5079,419269.0,1.0,5.0,14.0,Ross Stores,2.0,969707.0
+PJQ7504,U,W,818.0,United States of America,,1-642-299-6655,76681.0,4.0,5.0,29.0,,9.0,3899461.0
+SDV7505,R,U,370.0,United States of America,,,209116.0,2.0,4.0,69.0,Alliance One International,7.0,3749223.0
+Hga7506,O,U,833.0,,F,1-388-257-4273,212203.0,0.0,0.0,47.0,Sally Beauty Holdings,6.0,3658531.0
+Beo7507,U,M,536.0,Canada,D,,42018.0,5.0,5.0,0.0,Wisconsin Energy,2.0,1738460.0
+Qum7508,R,S,775.0,United States of America,,1-632-118-1891,90446.0,0.0,0.0,46.0,Carpenter Technology,0.0,3307296.0
+Hud7509,R,M,765.0,United States of America,v,1-853-806-4986,16274.0,1.0,1.0,6.0,Liberty Mutual Insurance Group,3.0,1816419.0
+jba7510,O,M,555.0,Canada,,1-220-687-2027,22215.0,5.0,2.0,22.0,Black & Decker,6.0,2599250.0
+dgc7511,O,M,,United States of America,,,210038.0,5.0,1.0,72.0,Interstate Bakeries,3.0,490443.0
+lql7512,O,M,318.0,Canada,,1-268-630-3843,307402.0,4.0,5.0,40.0,eBay,9.0,3348923.0
+Wsk7513,R,D,613.0,United States of America,,1-915-548-9541,,4.0,1.0,8.0,Boise,4.0,331799.0
+Ffs7514,R,U,786.0,,v,1-536-880-0961,432425.0,4.0,1.0,10.0,MDU Resources Group,4.0,1167013.0
+Kvv7515,O,U,,United States of America,F,1-494-335-6022,122041.0,0.0,3.0,24.0,Freescale Semiconductor,10.0,3960216.0
+mpz7516,O,M,623.0,United States of America,G,1-814-158-3550,302205.0,1.0,4.0,18.0,Superior Energy Services,5.0,242246.0
+Jhc7517,O,S,845.0,United States of America,s,1-420-580-0795,367555.0,1.0,1.0,79.0,Monsanto,1.0,1217660.0
+dbq7518,U,M,645.0,United States of America,l,1-924-305-1666,106025.0,4.0,5.0,36.0,Newfield Exploration,7.0,1229655.0
+Xch7519,O,W,495.0,Canada,,1-450-082-2122,106690.0,2.0,2.0,21.0,Loews,1.0,1157831.0
+oir7520,O,M,371.0,Canada,Z,1-573-009-1404,29373.0,2.0,2.0,4.0,Apache,8.0,
+Fqb7521,R,S,462.0,United States of America,O,1-603-897-9894,168189.0,2.0,3.0,72.0,Robert Half International,1.0,
+qex7522,U,S,375.0,United States of America,,1-947-161-6502,264756.0,,,1.0,Viacom,7.0,3467922.0
+Hpi7523,U,S,516.0,Canada,,1-586-826-9847,44480.0,1.0,2.0,98.0,Robert Half International,10.0,46859.0
+Fjd7524,R,,703.0,Canada,,1-217-243-2668,87207.0,1.0,5.0,35.0,CSX,,2937668.0
+Cgt7525,O,W,734.0,United States of America,,1-857-211-5728,238434.0,4.0,2.0,99.0,Country Financial Services,7.0,2388613.0
+Lwx7526,U,M,469.0,United States of America,,1-089-966-6281,,0.0,2.0,49.0,Procter & Gamble,4.0,3116283.0
+epy7527,O,S,595.0,United States of America,,,391354.0,3.0,0.0,72.0,Ingles Markets,2.0,2671950.0
+Aff7528,O,U,410.0,United States of America,M,1-231-342-6874,419165.0,3.0,0.0,41.0,Forest Laboratories,1.0,3899593.0
+mfc7529,O,W,475.0,Canada,S,,396509.0,3.0,2.0,54.0,Dentsply International,10.0,2537332.0
+Slf7530,R,,,United States of America,S,1-602-637-1838,145161.0,0.0,2.0,11.0,RadioShack,2.0,733236.0
+Cxu7531,O,W,519.0,United States of America,,1-003-982-8627,263206.0,2.0,5.0,0.0,Century Aluminum,3.0,
+GZO7532,U,D,841.0,United States of America,F,1-136-358-6852,190371.0,3.0,3.0,27.0,,5.0,3397276.0
+DRW7533,O,U,540.0,United States of America,A,1-123-528-2965,203968.0,3.0,1.0,95.0,FPL Group,6.0,2444257.0
+set7534,R,U,540.0,United States of America,N,1-136-565-2501,428323.0,1.0,3.0,35.0,Lockheed Martin,10.0,71520.0
+Pyo7535,O,M,,United States of America,,1-317-986-1984,159980.0,4.0,1.0,96.0,Sanmina-SCI,6.0,1911091.0
+FSH7536,O,W,424.0,Canada,,1-265-603-1262,266852.0,0.0,0.0,96.0,Iron Mountain,6.0,988775.0
+Tdx7537,R,M,623.0,United States of America,,,206973.0,5.0,5.0,49.0,OfficeMax,2.0,3919363.0
+Sbn7538,O,S,792.0,Canada,O,1-156-668-6882,258221.0,5.0,1.0,,AMR,4.0,428918.0
+Piq7539,O,S,718.0,United States of America,C,1-164-648-3203,428508.0,4.0,4.0,27.0,Kohl's,6.0,58134.0
+IXD7540,O,M,401.0,,,1-839-795-1027,,4.0,0.0,98.0,Cigna,6.0,3703767.0
+wsn7541,R,M,557.0,United States of America,,1-958-412-4252,58953.0,4.0,5.0,,West,2.0,433859.0
+Jkp7542,O,W,393.0,United States of America,A,1-392-335-1020,409682.0,5.0,5.0,56.0,Monsanto,7.0,3002044.0
+CCF7543,,M,557.0,United States of America,,1-912-050-7605,340191.0,2.0,4.0,94.0,Reliant Energy,10.0,1124168.0
+ylj7544,O,U,465.0,United States of America,,1-075-551-9919,238216.0,4.0,5.0,98.0,Idearc,5.0,2081541.0
+ZBB7545,O,M,,Canada,V,1-013-611-2674,113171.0,0.0,1.0,8.0,Neiman Marcus,6.0,1897076.0
+fqe7546,,W,485.0,United States of America,,1-656-865-7544,234797.0,5.0,,90.0,O'Reilly Automotive,10.0,235172.0
+Wpw7547,,M,303.0,United States of America,,1-879-870-7379,225322.0,4.0,2.0,34.0,Cliffs Natural Resources,2.0,639573.0
+vpz7548,O,W,846.0,Canada,,1-366-625-9813,192689.0,1.0,2.0,25.0,Health Management Associates,4.0,2667082.0
+Yfz7549,O,,621.0,Canada,,1-359-462-7089,348685.0,5.0,4.0,50.0,Chevron,1.0,2598634.0
+dou7550,O,D,331.0,United States of America,,,401229.0,3.0,4.0,85.0,Exide Technologies,,1074671.0
+FDJ7551,R,M,401.0,United States of America,,1-153-396-8333,38597.0,5.0,4.0,60.0,Convergys,9.0,2272997.0
+ufu7552,R,S,644.0,United States of America,,1-144-623-1308,,2.0,2.0,95.0,Dominion Resources,0.0,702000.0
+bbg7553,R,M,769.0,United States of America,H,1-269-220-8046,161204.0,4.0,1.0,8.0,Sentry Insurance Group,5.0,1289800.0
+Znk7554,O,M,481.0,,v,1-052-524-0130,202650.0,3.0,4.0,31.0,Cintas,2.0,1007390.0
+CGQ7555,O,U,732.0,Canada,T,1-335-871-6660,,1.0,2.0,51.0,Medtronic,7.0,124290.0
+add7556,O,M,802.0,United States of America,,1-637-394-8083,492433.0,4.0,4.0,24.0,Pride International,2.0,1820002.0
+Anw7557,O,M,329.0,Canada,J,1-706-795-4208,344858.0,2.0,4.0,78.0,A. Schulman,5.0,2200347.0
+Hvt7558,R,W,839.0,United States of America,,1-622-347-5699,197290.0,5.0,0.0,56.0,Oneok,0.0,3669569.0
+Yqj7559,,U,539.0,United States of America,d,1-042-017-9368,283654.0,2.0,,50.0,Danaher,,2140537.0
+Ztn7560,R,M,561.0,United States of America,,1-829-935-5979,317423.0,4.0,5.0,52.0,Del Monte Foods,4.0,3258909.0
+bni7561,O,W,814.0,United States of America,,1-076-726-5283,399126.0,4.0,5.0,14.0,American Electric Power,2.0,1825422.0
+swx7562,R,M,305.0,United States of America,,,398180.0,5.0,0.0,29.0,TJX,7.0,1845263.0
+DSA7563,O,S,457.0,United States of America,P,1-284-129-5920,,2.0,4.0,50.0,Philip Morris International,4.0,1463114.0
+BXZ7564,O,U,349.0,United States of America,,1-128-308-8886,485429.0,4.0,1.0,67.0,Cincinnati Financial,8.0,2354683.0
+pcz7565,O,M,590.0,United States of America,,1-145-469-5971,118018.0,2.0,0.0,22.0,Stryker,0.0,436677.0
+Zqa7566,O,U,533.0,United States of America,,1-727-684-7767,309693.0,5.0,4.0,20.0,Kansas City Southern,0.0,2383335.0
+Htl7567,O,W,686.0,Canada,z,1-776-201-2472,90718.0,4.0,0.0,75.0,IDT,9.0,2574739.0
+afw7568,O,U,582.0,United States of America,L,1-767-942-1278,280645.0,2.0,0.0,60.0,Vornado Realty Trust,10.0,1596838.0
+Wna7569,O,S,807.0,United States of America,,1-723-062-7266,231559.0,,4.0,,Dollar General,0.0,591965.0
+Mlh7570,O,S,819.0,United States of America,,,36898.0,3.0,5.0,48.0,Safeway,3.0,3071440.0
+Gor7571,R,M,311.0,United States of America,,1-145-314-0862,396786.0,2.0,0.0,91.0,Apache,5.0,2683081.0
+ENX7572,O,U,734.0,United States of America,,1-735-104-7772,344365.0,2.0,5.0,98.0,Lowe's,3.0,3850483.0
+fgr7573,O,W,432.0,United States of America,,,1205.0,4.0,1.0,51.0,Lithia Motors,1.0,1870617.0
+Ysh7574,O,S,394.0,United States of America,a,1-518-116-1411,276666.0,5.0,0.0,22.0,CH2M Hill,3.0,1249534.0
+Mos7575,O,U,658.0,United States of America,I,1-696-359-4829,497953.0,0.0,0.0,57.0,Tellabs,1.0,3789880.0
+czu7576,O,M,348.0,Canada,,1-352-678-5471,156048.0,1.0,2.0,38.0,Phillips-Van Heusen,3.0,3874445.0
+Ghr7577,O,M,598.0,United States of America,Z,1-906-600-9749,63617.0,1.0,5.0,68.0,Wells Fargo,8.0,437353.0
+Rwk7578,O,U,505.0,United States of America,,1-093-018-2851,244849.0,2.0,2.0,93.0,Vornado Realty Trust,9.0,2669917.0
+Uwi7579,R,S,839.0,United States of America,,1-302-096-9321,123585.0,4.0,3.0,48.0,New York Times,7.0,1466537.0
+VXZ7580,U,S,672.0,United States of America,,1-915-044-3154,391134.0,1.0,1.0,96.0,Adobe Systems,2.0,991860.0
+Ayk7581,O,M,696.0,United States of America,p,1-040-274-3474,426759.0,5.0,5.0,58.0,Valmont Industries,3.0,
+lho7582,O,W,448.0,United States of America,,1-678-397-2739,451737.0,5.0,3.0,63.0,UAL,5.0,1816368.0
+rzi7583,O,S,549.0,United States of America,,1-679-345-9939,180822.0,2.0,1.0,18.0,AFLAC,9.0,565246.0
+Wds7584,O,W,705.0,United States of America,,1-093-616-0613,205843.0,4.0,2.0,40.0,VeraSun Energy,0.0,1899339.0
+Xsj7585,O,M,387.0,United States of America,f,1-546-131-8988,470985.0,4.0,3.0,29.0,Magellan Health Services,6.0,3873239.0
+Lux7586,,U,359.0,United States of America,v,1-477-186-7432,318225.0,2.0,1.0,21.0,Emcor Group,7.0,767547.0
+wxw7587,O,M,494.0,Canada,,1-965-848-6954,326044.0,2.0,2.0,41.0,Peabody Energy,9.0,1027999.0
+pfz7588,,M,345.0,United States of America,e,1-622-866-0937,,1.0,1.0,56.0,State Farm Insurance Cos.,10.0,3428495.0
+hlx7589,O,M,402.0,United States of America,,1-040-217-2014,187282.0,2.0,0.0,33.0,Humana,10.0,1827180.0
+nyb7590,O,M,579.0,United States of America,,1-101-684-2373,,2.0,0.0,96.0,News Corp.,3.0,2070007.0
+Ltt7591,O,,569.0,United States of America,O,1-386-426-5849,,2.0,0.0,35.0,Torchmark,2.0,
+gsz7592,O,W,745.0,United States of America,,1-598-816-0126,306946.0,0.0,4.0,40.0,Rock-Tenn,9.0,3596263.0
+Kwp7593,U,D,320.0,,,1-770-379-7700,99663.0,0.0,,10.0,AGCO,1.0,3719999.0
+AGM7594,R,M,591.0,United States of America,D,,482013.0,2.0,4.0,59.0,,4.0,3058439.0
+Ocn7595,U,M,,United States of America,u,1-628-245-6238,180476.0,1.0,0.0,70.0,United Stationers,10.0,2592932.0
+Cmw7596,,M,417.0,United States of America,,1-813-787-2611,285682.0,4.0,5.0,69.0,McCormick,5.0,1471273.0
+Dit7597,R,M,338.0,United States of America,V,1-362-897-1162,455032.0,0.0,5.0,96.0,National Life Group,8.0,
+Rmm7598,O,S,340.0,United States of America,S,1-952-919-4878,356141.0,3.0,,9.0,Hasbro,9.0,2410816.0
+ekj7599,U,U,738.0,Canada,,1-145-214-8009,165667.0,3.0,3.0,39.0,Tupperware Brands,5.0,1059543.0
+wcq7600,O,S,597.0,United States of America,A,1-328-944-9786,459767.0,0.0,2.0,31.0,Covance,7.0,379282.0

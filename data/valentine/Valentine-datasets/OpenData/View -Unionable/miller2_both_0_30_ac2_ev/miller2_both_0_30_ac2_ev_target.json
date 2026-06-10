@@ -1,0 +1,101 @@
+{
+    "FiYe": {
+        "type": "text"
+    },
+    "CIDABusDeliMod": {
+        "type": "text"
+    },
+    "CoReID": {
+        "type": "text"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "OrganN": {
+        "type": "text"
+    },
+    "DivID": {
+        "type": "text"
+    },
+    "ProPr": {
+        "type": "text"
+    },
+    "DiviN": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "text"
+    },
+    "PrNum": {
+        "type": "text"
+    },
+    "TrDev": {
+        "type": "int"
+    },
+    "BraN": {
+        "type": "text"
+    },
+    "ContiN": {
+        "type": "text"
+    },
+    "CounRegPer": {
+        "type": "real"
+    },
+    "UrIs": {
+        "type": "int"
+    },
+    "ChIss": {
+        "type": "int"
+    },
+    "YoIss": {
+        "type": "int"
+    },
+    "IndiIss": {
+        "type": "int"
+    },
+    "DisIs": {
+        "type": "int"
+    },
+    "ICTAAToFoDev": {
+        "type": "int"
+    },
+    "KnoFoDevelo": {
+        "type": "int"
+    },
+    "GeEq": {
+        "type": "int"
+    },
+    "OrgaID": {
+        "type": "text"
+    },
+    "OrgTy": {
+        "type": "text"
+    },
+    "OrgCl": {
+        "type": "text"
+    },
+    "OrgS": {
+        "type": "text"
+    },
+    "ProjBrCoID": {
+        "type": "text"
+    },
+    "CoReNa": {
+        "type": "text"
+    },
+    "SeID": {
+        "type": "int"
+    },
+    "SecN": {
+        "type": "text"
+    },
+    "SePerc": {
+        "type": "real"
+    },
+    "AmoSpe": {
+        "type": "real"
+    }
+}

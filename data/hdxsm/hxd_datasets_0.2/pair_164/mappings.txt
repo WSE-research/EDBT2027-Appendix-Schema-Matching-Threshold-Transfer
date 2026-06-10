@@ -1,0 +1,16 @@
+<"Date de l'évaluation", "Date de l'évaluation">
+<"Région", "Région">
+<"Région p_code", "Région p_code">
+<"A1. Département", "A1. Département">
+<"Département p_code", "Département p_code">
+<"A2. Sous-préfecture", "A2. Sous-préfecture">
+<"A.8. Nom du Village / localité / site", "A.8. Nom du Village / localité / site">
+<"_A4. Coordonnées GPS du Lieu_latitude", "_A4. Coordonnées GPS du Lieu_latitude">
+<"_A4. Coordonnées GPS du Lieu_latitude", "_A4. Coordonnées GPS du Lieu_longitude">
+<"_A4. Coordonnées GPS du Lieu_longitude", "_A4. Coordonnées GPS du Lieu_latitude">
+<"_A4. Coordonnées GPS du Lieu_longitude", "_A4. Coordonnées GPS du Lieu_longitude">
+<"B2a Nombre de ménages retournés", "B2a Nombre de ménages retournés">
+<"B2b Nombre d'individus retournés", "B2b Nombre d'individus retournés">
+<"Pays de provenance de la majorité des retournés", "Pays de provenance de la majorité des retournés">
+<"Préfecture de provenance de la majorité des retournés", "Préfecture de provenance de la majorité des retournés">
+<"Préfecture de provenance p_code", "Préfecture de provenance p_code">

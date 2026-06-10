@@ -1,0 +1,7 @@
+7b6ebcc1-db23-4727-927f-d6366dd49447,Indicators_data_AF
+b5c6281f-1854-4410-8803-5046b1d26ab7,Education Indicators for Afghanistan
+---hxl_tags---
+#indicator+name
+#country+name
+#date+year
+#indicator+value

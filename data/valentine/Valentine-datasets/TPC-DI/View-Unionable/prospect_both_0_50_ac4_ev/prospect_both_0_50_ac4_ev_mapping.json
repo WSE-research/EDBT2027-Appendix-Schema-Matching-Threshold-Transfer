@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_Co"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_C"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_Ag"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_St"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_NeWor"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_NumCreCar"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_Em"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_In"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_Ph"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac4_ev_target",
+            "target_column": "prospect_OwORF"
+        }
+    ]
+}

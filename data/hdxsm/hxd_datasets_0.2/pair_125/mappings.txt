@@ -1,0 +1,14 @@
+<"Date fin", "fin_projet">
+<"ID Province", "pcode_province">
+<"Province", "Province">
+<"ID Territoire", "pcode_admin2">
+<"Territoire", "Territoire">
+<"Description", "Description_act">
+<"Type organisation", "Type organistion">
+<"ID acteur", "Sigle">
+<"Nom ateur", "Agence/Organisaton">
+<"Dénomination", "Dénomination du projet">
+<"Date début", "Début_act">
+<"ID ZS", "pcode zone de santé">
+<"ZS", "Zone de santé">
+<"Nom cluster", "Cluster_new">

@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "ASSI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "confidence_score",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "CONSC"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "SRASI"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "BAFO"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "CUB"
+        },
+        {
+            "source_table": "assays_vertical_30_ac2_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_vertical_30_ac2_ev_target",
+            "target_column": "TISI"
+        }
+    ]
+}

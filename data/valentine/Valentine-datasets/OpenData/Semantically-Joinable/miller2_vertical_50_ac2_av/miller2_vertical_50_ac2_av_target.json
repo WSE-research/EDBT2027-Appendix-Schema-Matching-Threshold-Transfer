@@ -1,0 +1,116 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "ClChAdapt": {
+        "type": "int"
+    },
+    "Desertif": {
+        "type": "int"
+    },
+    "OrganiID": {
+        "type": "text"
+    },
+    "BilAMa": {
+        "type": "int"
+    },
+    "BraNa": {
+        "type": "text"
+    },
+    "CoRegID": {
+        "type": "text"
+    },
+    "PrBroCoID": {
+        "type": "text"
+    },
+    "PrNu": {
+        "type": "text"
+    },
+    "SeN": {
+        "type": "text"
+    },
+    "MaCIDACon": {
+        "type": "real"
+    },
+    "ProgProc": {
+        "type": "text"
+    },
+    "PBAT": {
+        "type": "text"
+    },
+    "CIDABusiDeliMo": {
+        "type": "text"
+    },
+    "AmoSpe": {
+        "type": "real"
+    },
+    "ICTAATFoDeve": {
+        "type": "int"
+    },
+    "TrDevelo": {
+        "type": "int"
+    },
+    "OrgaN": {
+        "type": "text"
+    },
+    "ClimChMitig": {
+        "type": "int"
+    },
+    "PartDevAGGover": {
+        "type": "int"
+    },
+    "OrgaSu": {
+        "type": "text"
+    },
+    "CoReN": {
+        "type": "text"
+    },
+    "ContN": {
+        "type": "text"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "text"
+    },
+    "ChIss": {
+        "type": "int"
+    },
+    "YouIss": {
+        "type": "int"
+    },
+    "IndIs": {
+        "type": "int"
+    },
+    "DisaIs": {
+        "type": "int"
+    },
+    "KnoFoDeve": {
+        "type": "int"
+    },
+    "GenEq": {
+        "type": "int"
+    },
+    "OrganTy": {
+        "type": "text"
+    },
+    "OrganCla": {
+        "type": "text"
+    },
+    "ContID": {
+        "type": "int"
+    },
+    "CouRegPerc": {
+        "type": "real"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "SecNa": {
+        "type": "text"
+    },
+    "SePer": {
+        "type": "real"
+    }
+}

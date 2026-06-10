@@ -1,0 +1,101 @@
+REGION,PROVINCE,PROV_CODE,DISTRICT,DIST_CODE,ORG_ACRONYM,ORG_NAME,ORG_TYPE,CLUSTER_SECTOR_CODE,CLUSTER_SECTOR_NAME
+Western,Hirat,AF32,Injil,AF3202,ARAA,Ansari Rehabilitation Association for Afghanistan,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Nuristan,AF16,Mandol,AF1607,AHEAD,Assitant for Health Education and Development,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+Southern,Kandahar,AF27,Kandahar,AF2701,UNICEF,United Nations Children's Fund,United Nations,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Nimroz,AF34,Khashrod,AF3405,RI,Relief International,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+North Eastern,Kunduz,AF19,Dasht-e-Archi,AF1906,ADA,Afghan Development Association,National NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+North Eastern,Takhar,AF18,Eshkmesh,AF1811,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Kandahar,AF27,Zheray,AF2705,HAPA,Humanitarian Action for People of Afghanistan,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Western,Hirat,AF32,Guzara,AF3203,CRDSA,Coordination Of Rehabilitation Services For Afghanistan,National NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Kandahar,AF27,Panjwayi,AF2704,HRDA,Human Resource Development Agency,National NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+North Eastern,Takhar,AF18,Kalafgan,AF1807,AKF,Aga Khan Foundation,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Baghlan,AF09,Khinjan,AF0906,DCA,Dutch Committee for Afghanistan,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Southern,Kandahar,AF27,Kandahar,AF2701,DRC,Danish Refugee Council,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Nuristan,AF16,Parun,AF1601,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+Eastern,Laghman,AF07,Mehtarlam,AF0701,APA,Afghan Planning Agency,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Kunar,AF15,Sar Kani,AF1505,PU-AMI,Première Urgence-Aide Medicale Internationale,International NGO,HEALTH_OP,Operational Presence: Health
+Eastern,Nangarhar,AF06,Jalalabad,AF0601,APA,Afghan Planning Agency,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Takhar,AF18,Khwaja Ghar,AF1809,ACTED,Agency For Technical Cooperation & Development,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Western,Hirat,AF32,Hirat,AF3201,CHRISTIANAID,Christian Aid,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Western,Hirat,AF32,Karukh,AF3204,CRS,Catholic Relief Services,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Baghlan,AF09,Baghlan-e-Jadid,AF0905,NEI,Nutrition & Education International ,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Badakhshan,AF17,Yamgan,AF1718,AKHS,Aga Khan Health Service,International NGO,NUTRITION_OP,Operational Presence: Nutrition
+North Eastern,Badakhshan,AF17,Arghanj Khwah,AF1703,AKHS,Aga Khan Health Service,International NGO,HEALTH_OP,Operational Presence: Health
+Southern,Kandahar,AF27,Kandahar,AF2701,HI,Handicap International,International NGO,HEALTH_OP,Operational Presence: Health
+Central Highland,Daykundi,AF24,Ashtarlay,AF2403,MEDAIR,MEDAIR,International NGO,NUTRITION_OP,Operational Presence: Nutrition
+Eastern,Nangarhar,AF06,Goshta,AF0614,AADA,Agency for Assistance and Development of Afghanistan,National NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Baghlan,AF09,Dahana-e-Ghori,AF0902,ACTED,Agency for Technical Cooperation & Development,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+North Eastern,Takhar,AF18,Bangi,AF1804,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Hilmand,AF30,Garmser,AF3006,EMERGENCY,EMERGENCY,International NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Takhar,AF18,Eshkmesh,AF1811,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+North Eastern,Baghlan,AF09,Doshi,AF0903,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Eastern,Nangarhar,AF06,Jalalabad,AF0601,SCI,Save the Children Federation International,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Eastern,Kunar,AF15,Nari,AF1515,ORCD,Organization for Research and Community Development,National NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Baghlan,AF09,Pul-e-Khumri,AF0901,ORCD,Organization for Research and Community Development,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Hilmand,AF30,Nad-e-Ali,AF3002,OHW,Organization of Human Welfare,National NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Eastern,Laghman,AF07,Mehtarlam,AF0701,NCRO,New Constancy and Relief Organization,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Northern,Samangan,AF20,Feroz Nakhchir,AF2004,AHEAD,Assitant for Health Education and Development,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+Southern,Kandahar,AF27,Daman,AF2703,NRC,Norwegian Refugee Council,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Western,Hirat,AF32,Guzara,AF3203,ARAA,Ansari Rehabilitation Association for Afghanistan,National NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Eastern,Nangarhar,AF06,Khogyani,AF0608,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Kandahar,AF27,Kandahar,AF2701,UNICEF,United Nations Children's Fund,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+North Eastern,Baghlan,AF09,Burka,AF0910,HIA,Hungarian InterChurch Aid - Hungary,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Laghman,AF07,Mehtarlam,AF0701,IMC,International Medical Corps,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Western,Hirat,AF32,Kohsan,AF3213,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Northern,Sar-e-Pul,AF22,Sayad,AF2202,SCI,Save the Children Federation International,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Baghlan,AF09,Tala Wa Barfak,AF0911,BDN,Bakhtar Development Network,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+North Eastern,Kunduz,AF19,Qala-e-Zal,AF1907,ACTED,Agency for Technical Cooperation & Development,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Northern,Jawzjan,AF28,Mardyan,AF2809,SAF,Solidarity for Afghan Families,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+North Eastern,Baghlan,AF09,Pul-e-Hisar,AF0912,AKF,Aga Khan Foundation,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Kunar,AF15,Shigal,AF1506,IMC,International Medical Corps,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Northern,Jawzjan,AF28,Aqcha,AF2807,ACTED,Agency For Technical Cooperation & Development,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+South Eastern,Paktya,AF13,Gardez,AF1301,UNICEF,United Nations Children's Fund,United Nations,NUTRITION_OP,Operational Presence: Nutrition
+Western,Ghor,AF23,Feroz Koh,AF2301,CHA,Coordination of Humanitarian Assistance,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Badakhshan,AF17,Yawan,AF1709,CONCERN,CONCERN,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Northern,Sar-e-Pul,AF22,Sar-e-Pul,AF2201,ZOA,ZOA Refugee Care,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Western,Hirat,AF32,Injil,AF3202,IOM,International Organization for Migration,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Eastern,Kunar,AF15,Dara-e-Pech,AF1507,AADA,Agency for Assistance and Development of Afghanistan,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Hilmand,AF30,Deh-e-Shu,AF3013,AYSO,Afghan  Youth Service Organization,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+North Eastern,Takhar,AF18,Chahab,AF1816,ACTED,Agency For Technical Cooperation & Development,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Zabul,AF26,Tarnak Wa Jaldak,AF2602,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Western,Ghor,AF23,Lal Wa Sarjangal,AF2307,ACF,Action contre la Faim,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+North Eastern,Takhar,AF18,Taloqan,AF1801,ADA,Afghan Development Association,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Takhar,AF18,Chahab,AF1816,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+Western,Hirat,AF32,Kushk-e-Kuhna,AF3210,HN-TPO,Health Net - Trans cultural Psychosocial Organization,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Baghlan,AF09,Pul-e-Khumri,AF0901,BDN,Bakhtar Development Network,National NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Baghlan,AF09,Fereng Wa Gharu,AF0915,BDN,Bakhtar Development Network,National NGO,HEALTH_OP,Operational Presence: Health
+Eastern,Nuristan,AF16,Waygal,AF1602,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Zabul,AF26,Arghandab,AF2605,HADAF,Humanitarian Assistance for Development of Afghanistan,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Hilmand,AF30,Nad-e-Ali,AF3002,IOM,International Organization for Migration,International Organization,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Kandahar,AF27,Kandahar,AF2701,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Kandahar,AF27,Ghorak,AF2709,YHDO,Youth Health and Development Organization,National NGO,HEALTH_OP,Operational Presence: Health
+Northern,Jawzjan,AF28,Khwaja Dukoh,AF2802,SAF,Solidarity for Afghan Families,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Nimroz,AF34,Zaranj,AF3401,WHO,World Health Organization,United Nations,HEALTH_OP,Operational Presence: Health
+Eastern,Nangarhar,AF06,Kama,AF0605,IRC,International Rescue Committee,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Northern,Jawzjan,AF28,Qush Tepa,AF2805,SAF,Solidarity for Afghan Families,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+Northern,Faryab,AF29,Pashtun Kot,AF2902,IOM,International Organization for Migration,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+North Eastern,Takhar,AF18,Farkhar,AF1808,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+Southern,Hilmand,AF30,Deh-e-Shu,AF3013,IOM,International Organization for Migration,International Organization,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Zabul,AF26,Qalat,AF2601,ANCC,Afghanistan National re-construction Co-ordination,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Nangarhar,AF06,Kuz Kunar,AF0606,SCI,Save the Children Federation International,International NGO,NUTRITION_OP,Operational Presence: Nutrition
+Southern,Hilmand,AF30,Reg-i-Khan Nishin,AF3011,IOM,International Organization for Migration,International Organization,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Hilmand,AF30,Lashkargah,AF3001,MSF,Medecins Sans Frontieres (Doctors Without Borders),International NGO,NUTRITION_OP,Operational Presence: Nutrition
+Western,Badghis,AF31,Muqur,AF3103,IRC,International Rescue Committee,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+North Eastern,Kunduz,AF19,Kunduz,AF1901,AKF,Aga Khan Foundation,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Laghman,AF07,Mehtarlam,AF0701,NRC,Norwegian Refugee Council,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Southern,Kandahar,AF27,Daman,AF2703,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+South Eastern,Ghazni,AF11,Malistan,AF1116,DRC,Danish Refugee Council,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Eastern,Nangarhar,AF06,Bati Kot,AF0609,NRC,Norwegian Refugee Council,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Hilmand,AF30,Nad-e-Ali,AF3002,COAR,Coordination of Afghan Relief,National NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Southern,Kandahar,AF27,Zheray,AF2705,NRC,Norwegian Refugee Council,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Nangarhar,AF06,Lalpur,AF0618,PU-AMI,Première Urgence-Aide Medicale Internationale,International NGO,HEALTH_OP,Operational Presence: Health
+Northern,Faryab,AF29,Maymana,AF2901,NPO/RRAA,Rural Rehabilitation Association for Afghanistan,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+Eastern,Nangarhar,AF06,Lalpur,AF0618,AADA,Agency for Assistance and Development of Afghanistan,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+Western,Hirat,AF32,Obe,AF3212,ARAA,Ansari Rehabilitation Association for Afghanistan,National NGO,FSAC_OP,Operational Presence: Food Security & Agriculture
+North Eastern,Baghlan,AF09,Baghlan-e-Jadid,AF0905,BDN,Bakhtar Development Network,National NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Badakhshan,AF17,Keshem,AF1715,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Eastern,Nangarhar,AF06,Jalalabad,AF0601,IMC,International Medical Corps,International NGO,ESNFI_OP,Operational Presence: Emergency Shelter & Non-Food Items
+Eastern,Nangarhar,AF06,Jalalabad,AF0601,AADA,Agency for Assistance and Development of Afghanistan,National NGO,NUTRITION_OP,Operational Presence: Nutrition
+North Eastern,Takhar,AF18,Yangi Qala,AF1817,AHEAD,Assitant for Health Education and Development,National NGO,HEALTH_OP,Operational Presence: Health
+North Eastern,Kunduz,AF19,Dasht-e-Archi,AF1906,ACTED,Agency For Technical Cooperation & Development,International NGO,WASH_OP,"Operatioanl Presence: Water, Sanitation & Hygiene"
+Western,Ghor,AF23,Dawlatyar,AF2303,ACF,Action contre la Faim,International NGO,FSAC_OP,Operational Presence: Food Security & Agriculture

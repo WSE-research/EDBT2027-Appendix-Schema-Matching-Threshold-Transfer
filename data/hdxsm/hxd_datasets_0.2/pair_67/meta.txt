@@ -1,0 +1,13 @@
+fdc5071b-412e-4e79-b12f-2c8f426dbfe3,DTM Nigeria Location Assessment Round 39
+cab49db3-ccb0-4456-becd-196d49ecc3ab,DTM Nigeria Site Assessment Round 40
+---hxl_tags---
+#country+name
+#country+code
+#date+reported
+#date+occurred
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#affected+idps+hh
+#affected+idps+ind

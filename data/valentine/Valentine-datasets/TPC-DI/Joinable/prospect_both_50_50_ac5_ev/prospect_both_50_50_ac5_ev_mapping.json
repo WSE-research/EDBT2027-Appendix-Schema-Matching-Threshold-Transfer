@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_gncd"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_ntwrth"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "Age",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_g"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_ddrssln1"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_crdtrtng"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_stt"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_mplr"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_mrtlstts"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_ncm"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_pstlcd"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac5_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_50_50_ac5_ev_target",
+            "target_column": "prospect_nmbrcrs"
+        }
+    ]
+}

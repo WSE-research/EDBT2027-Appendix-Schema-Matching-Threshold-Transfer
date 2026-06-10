@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "gncd"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "cntr"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "lstnm"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "nmbrchldrn"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "mddlntl"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac3_av_source",
+            "source_column": "Gender",
+            "target_table": "prospect_vertical_30_ac3_av_target",
+            "target_column": "gndr"
+        }
+    ]
+}

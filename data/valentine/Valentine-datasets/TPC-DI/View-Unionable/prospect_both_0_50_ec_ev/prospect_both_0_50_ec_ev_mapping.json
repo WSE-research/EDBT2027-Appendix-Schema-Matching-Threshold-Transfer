@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "AgencyID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "AddressLine1"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "FirstName"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "MaritalStatus",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "MaritalStatus"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "NetWorth"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "State"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "NumberChildren"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "Country"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "PostalCode"
+        },
+        {
+            "source_table": "prospect_both_0_50_ec_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_0_50_ec_ev_target",
+            "target_column": "NumberCreditCards"
+        }
+    ]
+}

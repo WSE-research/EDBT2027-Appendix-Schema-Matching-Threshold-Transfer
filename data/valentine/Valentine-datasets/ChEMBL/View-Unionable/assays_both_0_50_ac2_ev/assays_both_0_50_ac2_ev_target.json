@@ -1,0 +1,53 @@
+{
+    "ASSI": {
+        "type": "integer"
+    },
+    "CUB": {
+        "type": "varchar(32)"
+    },
+    "ASSUBCELFRAC": {
+        "type": "varchar(100)"
+    },
+    "ASTI": {
+        "type": "varchar(100)"
+    },
+    "TISI": {
+        "type": "integer"
+    },
+    "Desc": {
+        "type": "varchar(400)"
+    },
+    "Ti": {
+        "type": "integer"
+    },
+    "ASORG": {
+        "type": "varchar(250)"
+    },
+    "DI": {
+        "type": "integer"
+    },
+    "BAFO": {
+        "type": "varchar(11)"
+    },
+    "ASSST": {
+        "type": "varchar(200)"
+    },
+    "CONFISC": {
+        "type": "smallint unsigned"
+    },
+    "SI": {
+        "type": "smallint"
+    },
+    "SASI": {
+        "type": "varchar(50)"
+    },
+    "CHEI": {
+        "type": "varchar(20)"
+    },
+    "CI": {
+        "type": "integer"
+    },
+    "VARI": {
+        "type": "integer unsigned"
+    }
+}

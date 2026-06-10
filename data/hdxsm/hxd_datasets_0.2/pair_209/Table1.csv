@@ -1,0 +1,59 @@
+Round Number,Date of Assessment,1.1.e.2 Province (Admin 1),Province P_Code (Admin 1 P_code),1.1.e.3 District (Admin 2),District P_code (Admin 2 P_code),1.1.e.4 Post (Admin 3),Post P_code (Admin 3 P_Code),1.1.e.5 Location,1.1. Number of Individuals,1.2. Number of Households,3.1. Number of Individuals (Population that FLED and returned),3.2. Number of Households (Population that FLED and returned),1. Has the majority of population have access to an open market?,2. Has the majority of the population access to a functioning health facility?,3. Has the majority of the population access to a functioning school?
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Tchonja,,,,,Yes,No,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Inhamizua,31780,6356,186,38,Yes,Yes,Yes
+1,2019-05-13 00:00:00,Sofala,MZ09,Dondo,MZ0907,Mafambisse,MZ090702,Mafambisse,56000,11200,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Matenga,15967,4156,,,No,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Esturro,24098,4819,196,98,Yes,No,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Mafarinha,,,,,Yes,Yes,Yes
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Chipangara,25688,6850,,,Yes,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Mandruzi,7122,1846,90,35,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Macuti,2779,450,16,5,Yes,Yes,Yes
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Matadouro,27316,5467,,,Yes,Yes,No
+1,2019-05-02 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Mananga,,,,,Yes,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Buzi,MZ0901,Sofala,MZ090103,Nova Sofala,16265,3473,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Canhandula,5050,1010,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Nhamichindo,14480,2896,4667,932,Yes,Yes,Yes
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Pioneiro,350,70,350,70,No,No,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Metuchira,,,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Buzi,MZ0901,Estaquinha,MZ090102,Estaquinha,25722,5144,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Nhangoma,,,,,No,No,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Ponta-gêa,21037,3000,200,20,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Consito,12309,2450,,,Yes,Yes,Yes
+1,2019-05-13 00:00:00,Sofala,MZ09,Dondo,MZ0907,Mafambisse,MZ090702,Mutua,3017,603,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Ndunda,20889,4178,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Nhamainga,780,195,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Central,84,12,70,14,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Chirassicua,3352,1625,,,No,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Chinamacondo,2466,732,,,No,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Guara guara,21586,4317,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Tica,MZ091302,Tcheadeia,13333,2719,,,No,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Thundani,1226,336,2,2,No,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Samora Machel,7110,4448,2000,400,Yes,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Grudja,17059,3412,25,5,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Bandua,,,,,No,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Chaimite,2808,468,,,Yes,Yes,Yes
+1,2019-05-11 00:00:00,Sofala,MZ09,Buzi,MZ0901,Sofala,MZ090103,Ampara,15939,3187,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Macharote,9717,1620,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Vila do Buzi,15006,3108,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Mungassa,17130,3426,,,No,No,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Macurrungo,110,30,,,Yes,Yes,Yes
+1,2019-05-02 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Chota,,,,,No,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Mascarenhas,500,125,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Tica,MZ091302,Lamego,29849,8014,100,20,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Buzi,MZ0901,Estaquinha,MZ090102,Chissinguana,,,,,Yes,Yes,Yes
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Alto da Manga,3421,996,,,Yes,Yes,Yes
+1,2019-05-10 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Tica,MZ091302,Nhampoca,28250,5650,583,120,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Siluvo,40209,7895,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Vila Massane,37200,7440,,,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Vila de Nhamatanda,50693,10138,,,Yes,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Buzi,MZ0901,Buzi,MZ090101,Nharongue,18419,3684,,,Yes,Yes,Yes
+1,2019-05-06 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Marraza,,,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Inhaconjo,13230,1690,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Nhangau-Sede,9325,303,,,Yes,Yes,Yes
+1,2019-05-02 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Matacuane,2147,430,,,Yes,Yes,Yes
+1,2019-05-07 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Chingussura,17666,7323,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Vaz,,,,,Yes,Yes,Yes
+1,2019-05-09 00:00:00,Sofala,MZ09,Dondo,MZ0907,Dondo,MZ090701,Nhamaiabue,24327,1624,,,Yes,Yes,Yes
+1,2019-05-03 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Muavi,,,1860,480,Yes,Yes,Yes
+1,2019-05-08 00:00:00,Sofala,MZ09,Nhamatanda,MZ0913,Nhamatanda,MZ091301,Bebedo,17669,4717,,,Yes,Yes,Yes
+1,2019-05-06 00:00:00,Sofala,MZ09,Cidade Da Beira,MZ0906,Cidade Da Beira,MZ090601,Munhava central,,,,,Yes,Yes,Yes

@@ -1,0 +1,62 @@
+{
+    "ss_d": {
+        "type": "integer"
+    },
+    "ss_tx_d": {
+        "type": "bigint unsigned"
+    },
+    "chmbl_d": {
+        "type": "varchar(20)"
+    },
+    "vrnt_d": {
+        "type": "integer unsigned"
+    },
+    "td": {
+        "type": "integer"
+    },
+    "ss_tp": {
+        "type": "varchar(1)"
+    },
+    "ss_rgnsm": {
+        "type": "varchar(250)"
+    },
+    "crtd_b": {
+        "type": "varchar(32)"
+    },
+    "ss_sbclllr_frctn": {
+        "type": "varchar(100)"
+    },
+    "ss_cll_tp": {
+        "type": "varchar(100)"
+    },
+    "dscrptn": {
+        "type": "varchar(400)"
+    },
+    "ss_ctgr": {
+        "type": "varchar(20)"
+    },
+    "rltnshp_tp": {
+        "type": "varchar(1)"
+    },
+    "cnfdnc_scr": {
+        "type": "smallint unsigned"
+    },
+    "dc_d": {
+        "type": "integer"
+    },
+    "tss_d": {
+        "type": "integer"
+    },
+    "src_d": {
+        "type": "smallint"
+    },
+    "src_ss_d": {
+        "type": "varchar(50)"
+    },
+    "cll_d": {
+        "type": "integer"
+    },
+    "b_frmt": {
+        "type": "varchar(11)"
+    }
+}

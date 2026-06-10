@@ -1,0 +1,11 @@
+<"category", "category">
+<"indicator", "indicator">
+<"indicator_friendly", "indicator_friendly">
+<"type_data", "type_data">
+<"latitude", "latitude">
+<"longitude", "longitude">
+<"region_id", "region_id">
+<"country_id", "country_id">
+<"name", "name">
+<"year", "year">
+<"value", "value">

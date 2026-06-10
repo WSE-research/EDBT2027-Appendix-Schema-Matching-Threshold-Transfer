@@ -1,0 +1,101 @@
+Date,Country,Country ISO,Reported Perpetrator,Reported Perpetrator Name,Weapon Carried/Used,Number of Attacks on Health Facilities Reporting Destruction,Number of Attacks on Health Facilities Reporting Damaged,Forceful Entry into Health Facility,Occupation of Health Facility,Health Transportation Destroyed,Health Transportation Damaged,Health Transportation Stolen/Highjacked,Looting/Theft/Robbery/Burglary of Health Supplies,Obstruction to health care,Access Denied,Health Workers Killed,Health Workers Injured,Health Workers Kidnapped,Health Workers Arrested,Known Kidnapping or Arrest Outcome,Health Workers Threatened,Health Workers Assaulted,Health Workers Sexually Assaulted
+2022-05-24 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-01 00:00:00,Nigeria,NGA,Armed Forces of Government or Self-Declared Government,Nigerian Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NoInformation,0,0,0
+2022-10-20 00:00:00,Syria,SYR,Employee,Employee,Not Applicable - no direct violence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-27 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-07-26 00:00:00,Ethiopia,ETH,Police,Government of Ethiopia,Not Applicable - no direct violence,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0
+2022-03-01 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,0,0,0
+2022-02-25 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-11-21 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,No information on the weapon used,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-08-30 00:00:00,Ukraine,UKR,Criminal,Criminal,Unarmed perpetrator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-20 00:00:00,Sudan,SDN,Armed Forces of Government or Self-Declared Government,Sudanese Armed Forces,Firearms,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-26 00:00:00,Cameroon,CMR,NSA,Islamic State West Africa Province,Firearms,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-04-03 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,0,0
+2022-03-06 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-02 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-06-07 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-07-05 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Not Applicable - no direct violence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-18 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-18 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-15 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,No information on the weapon used,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-11-23 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-12 00:00:00,OPT,PSE,Armed Forces of Government or Self-Declared Government,Israeli Defence Forces,Combination,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-30 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,1,0,0
+2022-02-24 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-04-05 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-12 00:00:00,DRC,COD,Criminal,Criminal,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0
+2022-02-16 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-27 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,0,0,0
+2022-03-16 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Air-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-05-02 00:00:00,CAR,CAF,NSA,Anti-Balaka,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-01 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,2,0,0
+2022-05-09 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,No information on the weapon used,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-06-05 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-07 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-02 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Arson,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-13 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-08-15 00:00:00,Burkina Faso,BFA,NSA,Jama'at Nasr al-Islam wal Muslimin,Firearms,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-30 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Air-launched explosive weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-06 00:00:00,Mozambique,MOZ,NSA,Unidentified Armed Actor,Arson,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-05-24 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,0,0,0
+2022-08-16 00:00:00,Pakistan,PAK,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-12 00:00:00,Nigeria,NGA,NSA,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-09-25 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-15 00:00:00,OPT,PSE,NSA,Unidentified Armed Actor,No information on the weapon used,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,0,0,0
+2022-01-10 00:00:00,Iraq,IRQ,NSA,Unidentified Armed Actor,IED,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,0,0
+2022-10-09 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0
+2022-04-04 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-03 00:00:00,Ghana,GHA,Protestors,Local population,Fist and foot,0,0,0,0,0,0,0,0,0,0,2,2,0,0,,0,2,0
+2022-03-08 00:00:00,DRC,COD,No Information,Unidentified Armed Actor,Unarmed perpetrator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-19 00:00:00,South Sudan,SSD,No Information,Unidentified Armed Actor,Firearms,0,0,1,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-09-25 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-16 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,No information on the weapon used,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-08-23 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-17 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-03-03 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,0,0,0
+2022-09-29 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NoInformation,0,0,0
+2022-05-09 00:00:00,USA,USA,Civilian,Demonstrators,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-17 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Not Applicable - no direct violence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-08 00:00:00,DRC,COD,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-04 00:00:00,DRC,COD,Criminal,Criminal,Knife,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,1
+2022-09-07 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,No information on the weapon used,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-31 00:00:00,Burkina Faso,BFA,NSA,Jama'at Nasr al-Islam wal Muslimin,Firearms,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Freed,0,0,0
+2022-06-25 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Air-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-11-18 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-18 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-11 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-21 00:00:00,Iran,IRN,Police,Law Enforcement Forces of Islamic Republic of Iran,Firearms,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0
+2022-03-17 00:00:00,Burkina Faso,BFA,Civilian,Demonstrators,Firearms,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-01 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Air-launched explosive weapon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-18 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-25 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Arson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-09-07 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-25 00:00:00,CAR,CAF,NSA,Anti-Balaka,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-29 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-07-15 00:00:00,Cameroon,CMR,Police,Cameroon National Police Department,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-14 00:00:00,OPT,PSE,Armed Forces of Government or Self-Declared Government,Israeli Defence Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-02-04 00:00:00,Burkina Faso,BFA,NSA,Jama'at Nasr al-Islam wal Muslimin,Firearms,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,0,1
+2022-03-31 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-06-28 00:00:00,Pakistan,PAK,Criminal,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,0,0,0
+2022-03-15 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-18 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-01 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0
+2022-07-04 00:00:00,Myanmar,MMR,NSA,Unidentified Armed Actor,IED,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-08-19 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Combination,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-08-24 00:00:00,OPT,PSE,Armed Forces of Government or Self-Declared Government,Israeli Defence Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-06 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-04-20 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-13 00:00:00,Canada,CAN,Protestors,Local population,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0
+2022-11-20 00:00:00,Mozambique,MOZ,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-03-02 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-05 00:00:00,India,IND,Criminal,Criminal,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-10 00:00:00,OPT,PSE,No Information,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,2,0,0
+2022-04-15 00:00:00,OPT,PSE,NSA,Unidentified Armed Actor,Combination,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,0,0
+2022-11-12 00:00:00,Pakistan,PAK,NSA,Unidentified Armed Actor,Firearms,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0,0
+2022-01-27 00:00:00,DRC,COD,Foreign Forces - military,Force de dÃ©fense nationale Burundi,Combination,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-03-01 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-10-27 00:00:00,Myanmar,MMR,Police,Government of Myanmar,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-07 00:00:00,India,IND,Employee,Health worker,Unarmed perpetrator,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,1,0
+2022-06-22 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Ground-launched explosive weapon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+2022-01-09 00:00:00,Myanmar,MMR,Armed Forces of Government or Self-Declared Government,Myanmar Armed Forces,Firearms,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NoInformation,0,0,0
+2022-11-08 00:00:00,Ukraine,UKR,Foreign Forces - military,Armed Forces of the Russian Federation,Combination,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0

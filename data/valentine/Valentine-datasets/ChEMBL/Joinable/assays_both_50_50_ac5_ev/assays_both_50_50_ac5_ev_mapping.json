@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_d"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_tss"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_dc_d"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_tss_d"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_rgnsm"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_category",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_ctgr"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_cll_d"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_tx_d"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_subcellular_fraction",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_sbclllr_frctn"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_crtd_b"
+        },
+        {
+            "source_table": "assays_both_50_50_ac5_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_both_50_50_ac5_ev_target",
+            "target_column": "assays_ss_strn"
+        }
+    ]
+}

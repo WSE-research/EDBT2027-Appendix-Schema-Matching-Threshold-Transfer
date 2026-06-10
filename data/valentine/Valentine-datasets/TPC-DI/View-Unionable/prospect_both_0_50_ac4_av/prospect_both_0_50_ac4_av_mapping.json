@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_AdL1"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_Ge"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_MidIn"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_Pho"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_In"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_NWo"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_C"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_FiN"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_PosC"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac4_av_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_50_ac4_av_target",
+            "target_column": "prospect_Empl"
+        }
+    ]
+}

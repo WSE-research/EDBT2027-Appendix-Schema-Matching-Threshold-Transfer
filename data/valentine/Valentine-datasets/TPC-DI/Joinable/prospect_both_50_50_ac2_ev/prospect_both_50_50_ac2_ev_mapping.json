@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "AgeID"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "Coun"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "NumC"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "LN"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "NumCreCa"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "AddLi1"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "FirN"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "Ge"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "CreRa"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "OwORFl"
+        },
+        {
+            "source_table": "prospect_both_50_50_ac2_ev_source",
+            "source_column": "Income",
+            "target_table": "prospect_both_50_50_ac2_ev_target",
+            "target_column": "Inc"
+        }
+    ]
+}

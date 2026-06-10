@@ -1,0 +1,10 @@
+,Place ID,Governorate,District,Location_name,Arabic_name,Latitude,Longitude,Families,Individuals
+Place ID,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Governorate,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+District,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Location Name,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Arabic Name,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Latitude,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Longitude,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Families,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Individuals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

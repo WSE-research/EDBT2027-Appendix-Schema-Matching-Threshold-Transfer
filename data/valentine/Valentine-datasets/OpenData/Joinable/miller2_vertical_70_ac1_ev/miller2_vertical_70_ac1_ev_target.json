@@ -1,0 +1,131 @@
+{
+    "miller2_FiscalYear": {
+        "type": "text"
+    },
+    "miller2_CountryRegionPercent": {
+        "type": "real"
+    },
+    "miller2_SectionName": {
+        "type": "text"
+    },
+    "miller2_ClimateChangeAdaptation(marker)": {
+        "type": "int"
+    },
+    "miller2_BranchName": {
+        "type": "text"
+    },
+    "miller2_ProgrammingProcess(new)": {
+        "type": "text"
+    },
+    "miller2_GenderEquality(marker)": {
+        "type": "int"
+    },
+    "miller2_Status": {
+        "type": "text"
+    },
+    "miller2_DivisionID": {
+        "type": "text"
+    },
+    "miller2_OrganisationType": {
+        "type": "text"
+    },
+    "miller2_IndigenousIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_KnowledgeForDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_ChildrenIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_OrganisationName": {
+        "type": "text"
+    },
+    "miller2_ClimateChangeMitigation(marker)": {
+        "type": "int"
+    },
+    "miller2_ContinentID": {
+        "type": "int"
+    },
+    "miller2_PBAType": {
+        "type": "text"
+    },
+    "miller2_TradeDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_FundCentreName": {
+        "type": "text"
+    },
+    "miller2_DivisionName": {
+        "type": "text"
+    },
+    "miller2_Biodiversity(marker)": {
+        "type": "int"
+    },
+    "miller2_UrbanIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_CFLI(marker)": {
+        "type": "int"
+    },
+    "miller2_OrganisationSub-class": {
+        "type": "text"
+    },
+    "miller2_OrganisationID": {
+        "type": "text"
+    },
+    "miller2_ProjectBrowserCountryID": {
+        "type": "text"
+    },
+    "miller2_FSTCPercent": {
+        "type": "real"
+    },
+    "miller2_BilateralAid(internationalMarker)": {
+        "type": "int"
+    },
+    "miller2_RegionalProgram(marker)": {
+        "type": "int"
+    },
+    "miller2_OrganisationClass": {
+        "type": "text"
+    },
+    "miller2_UntiedAmount(Project-levelBudget)": {
+        "type": "real"
+    },
+    "miller2_CIDABusinessDeliveryModel(old)": {
+        "type": "text"
+    },
+    "miller2_IRTCPercent": {
+        "type": "real"
+    },
+    "miller2_SectorName": {
+        "type": "text"
+    },
+    "miller2_CountryRegionName": {
+        "type": "text"
+    },
+    "miller2_YouthIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_DisabilityIssues(marker)": {
+        "type": "int"
+    },
+    "miller2_ICTAsAToolForDevelopment(marker)": {
+        "type": "int"
+    },
+    "miller2_ContinentName": {
+        "type": "text"
+    },
+    "miller2_CountryRegionID": {
+        "type": "text"
+    },
+    "miller2_SectorID": {
+        "type": "int"
+    },
+    "miller2_SectorPercent": {
+        "type": "real"
+    },
+    "miller2_AmountSpent": {
+        "type": "real"
+    }
+}

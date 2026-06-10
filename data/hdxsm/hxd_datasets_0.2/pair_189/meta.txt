@@ -1,0 +1,6 @@
+5fab74e4-e541-4008-ac76-3e44f828539a,fts_requirements_funding_glp.csv
+eb8850ab-8eb0-4344-bad7-d2749422c3c6,IATI activities in Guadeloupe
+---hxl_tags---
+#country+code
+#date+start
+#date+end

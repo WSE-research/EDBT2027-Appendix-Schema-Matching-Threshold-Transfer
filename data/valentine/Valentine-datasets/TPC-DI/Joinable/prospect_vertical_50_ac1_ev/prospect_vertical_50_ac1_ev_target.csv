@@ -1,0 +1,101 @@
+prospect_AgencyID,prospect_NumberCreditCards,prospect_MiddleInitial,prospect_Phone,prospect_OwnOrRentFlag,prospect_NumberCars,prospect_AddressLine2,prospect_LastName,prospect_City,prospect_NetWorth,prospect_State,prospect_Income,prospect_NumberChildren,prospect_MaritalStatus,prospect_Age,prospect_CreditRating,prospect_Employer
+PEL0,,,1-712-522-6088,O,,,PELLAND,Fairbanks,1058868.0,MA,368776.0,3.0,W,20.0,760.0,Brink's
+LED1,6.0,,1-626-426-4298,U,5.0,APT. 624,LEDUC,Quebec,1988185.0,PA,177967.0,1.0,U,3.0,555.0,
+lat2,6.0,,1-524-787-8784,O,2.0,,latif,Henderson,3673128.0,Alberta,321772.0,1.0,S,,566.0,
+RUD3,3.0,,1-741-997-1688,O,2.0,,RUDDICK,Salem,2005895.0,AR,25449.0,1.0,W,77.0,,Air Products & Chemicals
+JAY4,4.0,M,1-002-194-1991,O,0.0,Apt. 619,JAYAMANNE,Toledo,624736.0,OR,166567.0,3.0,M,21.0,815.0,Oshkosh
+tod5,10.0,Z,1-441-371-7651,R,1.0,,todo,Corpus Christi,3064615.0,VA,43631.0,4.0,M,77.0,333.0,
+Kan6,1.0,R,1-957-940-5980,O,4.0,,Kanno,Salt Lake City,3489129.0,OH,466230.0,0.0,,23.0,528.0,VeraSun Energy
+Din7,7.0,Z,1-768-633-4096,U,2.0,,Dinkel,Brownsville,3430744.0,Prince Edward Island,420243.0,2.0,M,9.0,680.0,IDT
+Thi8,10.0,,1-107-689-2155,O,3.0,,Thibodeaux,Escondido,1743614.0,NV,141862.0,,U,63.0,761.0,Adams Resources & Energy
+May9,,,1-173-594-6096,O,0.0,,Mayo,Los Angeles,216299.0,Ontario,402011.0,2.0,M,32.0,416.0,MGIC Investment
+mah10,9.0,U,1-561-520-0611,O,2.0,,mahendra,West Covina,1528641.0,TX,79928.0,2.0,M,96.0,493.0,Iasis Healthcare
+Siz11,0.0,,1-730-406-9727,R,1.0,,Sizto,San Buenaventura,3752907.0,NE,109496.0,0.0,M,46.0,564.0,AMR
+cra12,0.0,,,U,1.0,,crawley,Lexington,582378.0,AR,267901.0,4.0,U,6.0,817.0,Embarq
+dac13,8.0,,1-207-867-4589,R,3.0,,dacal,Hay River,3458824.0,MI,487273.0,5.0,U,39.0,653.0,Advanced Micro Devices
+HIV14,2.0,W,1-478-629-9641,O,3.0,,HIVELY,Toronto,469408.0,MA,34013.0,4.0,M,73.0,587.0,Cenveo
+Pes15,6.0,,1-026-208-8595,O,0.0,Apt. 290,Peschke,Denver,1504480.0,TN,473462.0,2.0,S,26.0,472.0,Kelly Services
+CHI16,4.0,,1-432-681-4853,O,5.0,,CHILDERHOSE,St. Paul,2763009.0,TN,499493.0,4.0,M,54.0,817.0,Viacom
+Din17,0.0,,,R,5.0,,Dinnin,Bellevue,2787199.0,OK,266928.0,4.0,M,87.0,441.0,Macy's
+De 18,6.0,M,1-357-207-6320,O,2.0,,De witte,Detroit,2789368.0,Ontario,72444.0,3.0,M,85.0,848.0,Gardner Denver
+Mck19,8.0,,1-462-774-1277,R,3.0,,Mckeegan,Omaha,2784776.0,KY,77290.0,3.0,U,86.0,843.0,Family Dollar Stores
+WIN20,,P,1-702-382-2898,R,2.0,,WINTERS,Costa Mesa,288747.0,PA,395066.0,0.0,U,59.0,,
+BIT21,0.0,,1-909-554-7120,O,5.0,,BITTMAN,Berkeley,876575.0,MD,119283.0,3.0,U,94.0,300.0,Sun Microsystems
+luz22,8.0,V,1-752-296-7940,O,1.0,,luzarraga,St. Louis,2041224.0,TX,330991.0,1.0,U,,795.0,Costco Wholesale
+don23,5.0,S,1-995-554-5056,U,4.0,,donovan,Colorado Springs,2231509.0,IN,,0.0,,5.0,367.0,Illinois Tool Works
+Gia24,1.0,T,1-090-303-3807,O,1.0,,Giallo,Fontana,3206409.0,MD,252031.0,5.0,M,23.0,507.0,Southern Union
+SPR25,9.0,,1-492-968-0932,O,3.0,,SPRUELL,St. Catharines,3850037.0,KY,101800.0,1.0,M,61.0,362.0,Moog
+SKA26,7.0,,1-960-227-2020,O,0.0,,SKALSKI,Hayward,528440.0,CA,436977.0,1.0,D,,527.0,Old Republic International
+Gar27,0.0,,1-431-122-8597,O,0.0,,Gargul,Palmdale,597140.0,FL,495334.0,,S,51.0,354.0,
+Dor28,1.0,,1-822-836-7200,O,1.0,,Dore,Phoenix,146931.0,Newfoundland,274685.0,1.0,M,97.0,511.0,Great Plains Energy
+DIO29,7.0,X,1-530-117-0497,,2.0,,DIOGO,Gary,353495.0,TX,320820.0,2.0,,52.0,412.0,Broadcom
+Mer30,1.0,,1-051-257-2719,O,4.0,,Merrick,Beaumont,295647.0,WA,195835.0,0.0,S,98.0,583.0,Discover Financial Services
+Atc31,5.0,R,1-171-989-1363,O,5.0,,Atchison,Nashua,408941.0,MN,108085.0,3.0,U,47.0,710.0,UAL
+Pla32,9.0,X,1-042-705-3246,O,2.0,,Plamondon,San Jose,362523.0,WY,260185.0,1.0,M,47.0,380.0,Charles Schwab
+SEL33,2.0,E,1-098-328-2026,R,0.0,,SELCHOW,Nashua,2102359.0,NY,258323.0,0.0,M,9.0,796.0,Coach
+sha34,2.0,Z,1-209-754-5635,U,1.0,,shane,Fort Smith,3480265.0,SC,79476.0,3.0,M,85.0,818.0,DaVita
+MER35,3.0,,1-498-781-3456,U,5.0,,MERWIN,Lancaster,3648900.0,MS,102156.0,3.0,M,81.0,766.0,Marshall & Ilsley Corp.
+con36,2.0,,1-615-241-0440,O,2.0,,conrad,Colorado Springs,1161790.0,UT,221481.0,3.0,M,0.0,359.0,Cablevision Systems
+ons37,2.0,,1-995-449-5200,R,1.0,,onsiteteam,Washington,2050587.0,PA,41836.0,5.0,S,28.0,401.0,Barnes & Noble
+Sum38,0.0,,1-295-673-4452,O,1.0,,Summerlin,Lowell,3579198.0,OK,72389.0,1.0,U,65.0,609.0,EMC
+gro39,2.0,F,1-914-675-2986,O,3.0,,grooms,Frederick,889494.0,WY,66486.0,0.0,S,20.0,630.0,Fluor
+dil40,9.0,I,,O,3.0,Apt. 382,dilkie,Mesa,2205682.0,RI,200185.0,1.0,M,55.0,671.0,Dollar General
+DOL41,10.0,,1-825-739-0336,O,0.0,,DOLSON,Lakewood,1140117.0,HI,289215.0,2.0,U,76.0,715.0,Lear
+Pos42,9.0,,1-956-713-3802,O,4.0,,Posthumus,Cleveland,1421319.0,VA,322484.0,1.0,M,1.0,707.0,J.P. Morgan Chase & Co.
+Mac43,0.0,,1-814-932-1579,O,4.0,,Machika,Grand Rapids,3525204.0,OK,83458.0,2.0,M,3.0,329.0,Affinia Group Intermediate
+che44,8.0,,1-135-443-7282,R,0.0,,chenoweth,Peoria,468976.0,Prince Edward Island,,3.0,D,100.0,601.0,
+hol45,2.0,,1-720-975-0667,O,5.0,,holbrooks,Inglewood,1685443.0,SD,492407.0,1.0,W,81.0,623.0,Goldman Sachs Group
+pfi46,2.0,,1-871-598-3505,O,4.0,,pfieffer,Akron,337564.0,OH,346630.0,4.0,S,76.0,376.0,E*Trade Financial
+elk47,0.0,Y,1-607-222-4809,O,1.0,,elkington,Charlottetown,84777.0,MA,9572.0,3.0,W,51.0,560.0,Pfizer
+Lab48,4.0,,1-965-046-0642,O,1.0,,Labenek,Bellevue,3146477.0,MD,265369.0,5.0,,,693.0,Safeway
+laf49,0.0,Y,1-155-441-3579,U,1.0,,laferriere,Dover,495277.0,Saskatchewan,104172.0,2.0,S,58.0,346.0,Simon Property Group
+Nor50,0.0,I,,O,0.0,,Norment,Fullerton,746904.0,WA,65550.0,3.0,M,52.0,342.0,Trinity Industries
+hag51,8.0,,1-544-132-7237,R,2.0,,hagar,Denver,1219620.0,OH,,0.0,M,91.0,563.0,Solutia
+Bet52,4.0,,1-821-089-2089,O,2.0,,Betcher,Dallas,1718910.0,WY,,3.0,M,17.0,391.0,
+Van53,8.0,,1-135-391-9787,O,4.0,,Van der,San Jose,,NJ,66244.0,4.0,S,6.0,381.0,A.O. Smith
+O'L54,9.0,,1-776-182-6215,U,0.0,,O'LEARY,Bellevue,2636424.0,ND,426954.0,3.0,S,89.0,539.0,AptarGroup
+and55,0.0,,1-079-780-7761,O,5.0,,anderson,San Buenaventura,1326305.0,NC,126891.0,4.0,M,99.0,497.0,Coca-Cola
+sta56,,,1-504-346-4393,O,4.0,,starks,St. Louis,2241997.0,WV,454196.0,2.0,M,77.0,661.0,Kimberly-Clark
+CHA57,0.0,,1-985-538-4351,R,5.0,Apt. 275,CHASSE,Pueblo,1542891.0,GA,163940.0,3.0,S,,558.0,Visteon
+ASI58,,,1-254-097-9398,O,,,ASING,Regina,797918.0,Ontario,365213.0,1.0,W,90.0,534.0,TECO Energy
+ask59,6.0,,1-545-924-9552,U,0.0,,askins,Saskatoon,347654.0,MA,428739.0,0.0,M,82.0,373.0,Bemis
+Kik60,8.0,K,1-984-233-8818,O,4.0,,Kikuta,Jackson,2456397.0,CA,142444.0,0.0,M,,382.0,Wyeth
+Cha61,10.0,,1-528-691-1642,O,3.0,,Chane,St. Petersburg,1284229.0,SD,416168.0,3.0,S,15.0,475.0,United Technologies
+KIL62,3.0,U,,O,2.0,,KILLEN,Scottsdale,618787.0,Saskatchewan,291420.0,0.0,D,,539.0,Clorox
+kin63,6.0,,1-171-807-8213,O,4.0,,kinley,Charlotte,1171606.0,RI,413501.0,5.0,M,96.0,711.0,Discovery Communications
+MAL64,1.0,,1-056-241-7009,O,4.0,,MALAHER,Waterbury,3983261.0,NC,,,M,38.0,606.0,Williams-Sonoma
+Odu65,0.0,J,1-389-414-0570,O,3.0,,Odum,Chesapeake,2328568.0,SD,419143.0,3.0,W,10.0,494.0,Manitowoc
+DI 66,3.0,,1-583-542-1656,O,1.0,,DI NINNO,Hialeah,2078600.0,IL,155057.0,5.0,M,72.0,309.0,Henry Schein
+STU67,3.0,K,1-269-712-0672,O,2.0,,STUBBLEFIELD,Charleston,2986155.0,OR,313859.0,5.0,M,97.0,630.0,Trinity Industries
+HAM68,10.0,,1-670-102-0463,O,4.0,,HAMBALI,Salem,1864039.0,Ontario,265907.0,1.0,S,48.0,330.0,Pepsi Bottling
+LIB69,9.0,,1-699-726-3895,O,,,LIBRARIAN,Sacramento,1293721.0,FL,283481.0,0.0,S,97.0,710.0,UGI
+ohs70,7.0,,1-640-666-2876,R,4.0,,ohsone,Santa Clarita,3850114.0,NM,200635.0,0.0,M,73.0,475.0,Greif
+HUM71,3.0,O,1-540-639-1311,O,0.0,APT. 143,HUMMEL,Sherbrooke,1618743.0,NE,434519.0,1.0,U,71.0,596.0,Equifax
+BRA72,9.0,,1-285-874-8492,O,5.0,,BRADD,Colorado Springs,3383487.0,MI,392315.0,1.0,W,93.0,670.0,
+Boa73,,X,1-121-904-0040,O,5.0,,Boarder,Berkeley,2981876.0,New Brunswick,493829.0,3.0,U,53.0,722.0,Freescale Semiconductor
+Mcn74,7.0,,1-017-842-3201,O,3.0,,Mcnally,San Buenaventura,2109339.0,NJ,97489.0,2.0,U,32.0,587.0,Aleris International
+MAR75,4.0,,1-215-859-3206,O,4.0,,MARKOVICH,New Haven,791803.0,ND,,3.0,S,1.0,609.0,
+Wil76,7.0,,1-764-520-7470,O,0.0,,Willekes,Shreveport,3523678.0,Saskatchewan,383046.0,1.0,S,39.0,401.0,World Fuel Services
+Dea77,0.0,S,1-414-130-0162,,4.0,,Deacetis,Lansing,1681902.0,KS,1190.0,0.0,M,77.0,335.0,R.R. Donnelley & Sons
+Hou78,7.0,,1-970-240-9990,O,5.0,,Houk,Pembroke Pines,3851455.0,SD,85733.0,5.0,U,18.0,569.0,Brinker International
+Goy79,9.0,,1-408-684-6459,R,0.0,,Goyette,Palmdale,2339382.0,FL,387890.0,2.0,M,70.0,,Temple-Inland
+Mok80,7.0,Z,1-330-353-5908,O,2.0,,Mok-fung,Savannah,,Saskatchewan,16808.0,0.0,S,26.0,679.0,Psychiatric Solutions
+Run81,10.0,I,1-766-726-2675,,,,Rundle,Amarillo,2065016.0,FL,304589.0,4.0,M,,356.0,Nash-Finch
+BEL82,9.0,,1-938-425-7509,R,2.0,,BELLEY,Anchorage,2454049.0,UT,48506.0,5.0,S,58.0,308.0,AMR
+BAE83,4.0,Y,1-527-308-8874,O,0.0,,BAER,Louisville,2423395.0,WY,,4.0,M,43.0,412.0,Spartan Stores
+MAU84,4.0,,1-810-590-0635,O,2.0,,MAULDIN,Hilo,1342045.0,NH,358862.0,3.0,D,65.0,618.0,Cigna
+Koo85,5.0,,1-274-548-2512,O,5.0,,Koohgoli,Sudbury,861756.0,AR,477614.0,3.0,S,24.0,429.0,General Cable
+Lau86,3.0,,1-649-754-4601,O,3.0,,Lauriston,Orlando,1215349.0,CT,175414.0,1.0,S,79.0,819.0,Dun & Bradstreet
+Man87,7.0,L,1-905-932-1785,O,0.0,,Mangum,Missoula,3981554.0,VT,427598.0,1.0,M,48.0,552.0,Casey's General Stores
+PIE88,9.0,,1-031-004-7697,O,0.0,,PIERCY,Abilene,3865937.0,Manitoba,368207.0,4.0,S,69.0,587.0,Jack in the Box
+Bus89,6.0,,1-994-812-4796,O,3.0,,Buscaglia,Saskatoon,2804700.0,NJ,449944.0,1.0,S,91.0,304.0,Assurant
+BAB90,4.0,,1-176-513-4041,U,5.0,,BABIONE,Irvine,3283558.0,KY,166247.0,5.0,,75.0,795.0,Psychiatric Solutions
+Bur91,2.0,,1-072-244-6337,O,1.0,APT. 373,Burkard,Reno,450524.0,GA,391165.0,3.0,S,85.0,830.0,Danaher
+Kin92,3.0,,1-924-669-9328,R,5.0,,Kinsella,Sacramento,,NJ,165854.0,3.0,M,76.0,709.0,Clorox
+POM93,8.0,,1-598-488-3541,O,2.0,,POMMAINVILLE,Topeka,,SC,326181.0,1.0,S,68.0,493.0,Boyd Gaming
+BOA94,,,1-295-539-3868,O,3.0,,BOATWRIGHT,Rancho Cucamonga,633760.0,TN,173387.0,,M,95.0,680.0,Eaton
+Ron95,,R,1-554-020-0267,R,1.0,,Ronald,Hilo,3634954.0,WY,301127.0,5.0,M,15.0,800.0,Dynegy
+wei96,4.0,A,1-793-621-4566,R,1.0,,weihs,Saint John,799268.0,Ontario,487230.0,5.0,M,17.0,614.0,AmeriCredit
+Hel97,6.0,P,1-787-267-4261,R,4.0,,Helpb,Torrance,39093.0,DC,425747.0,0.0,,94.0,763.0,SLM
+mog98,3.0,,1-668-247-1597,O,4.0,,moghe,Santa Clara,2705353.0,Alberta,401946.0,4.0,S,70.0,561.0,NV Energy
+boz99,4.0,,1-901-346-8890,O,1.0,,bozicevich,Torrance,3565153.0,ME,425422.0,2.0,S,29.0,569.0,Landstar System

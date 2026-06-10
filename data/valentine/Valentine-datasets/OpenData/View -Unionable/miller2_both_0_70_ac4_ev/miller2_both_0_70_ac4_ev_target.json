@@ -1,0 +1,131 @@
+{
+    "miller2_FiY": {
+        "type": "text"
+    },
+    "miller2_ProjNu": {
+        "type": "text"
+    },
+    "miller2_OrganiT": {
+        "type": "text"
+    },
+    "miller2_MaxiCIDACont": {
+        "type": "real"
+    },
+    "miller2_ParticiDeveloAnGGov": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFoDeve": {
+        "type": "int"
+    },
+    "miller2_ReProg": {
+        "type": "int"
+    },
+    "miller2_OrganiS": {
+        "type": "text"
+    },
+    "miller2_GenEq": {
+        "type": "int"
+    },
+    "miller2_CounReID": {
+        "type": "text"
+    },
+    "miller2_SecPe": {
+        "type": "real"
+    },
+    "miller2_OrgCla": {
+        "type": "text"
+    },
+    "miller2_IndiIs": {
+        "type": "int"
+    },
+    "miller2_ContID": {
+        "type": "int"
+    },
+    "miller2_DisabIs": {
+        "type": "int"
+    },
+    "miller2_IRTCPe": {
+        "type": "real"
+    },
+    "miller2_BraID": {
+        "type": "text"
+    },
+    "miller2_FSTCPe": {
+        "type": "real"
+    },
+    "miller2_OrgaID": {
+        "type": "text"
+    },
+    "miller2_ClimChMiti": {
+        "type": "int"
+    },
+    "miller2_Desert": {
+        "type": "int"
+    },
+    "miller2_YoIss": {
+        "type": "int"
+    },
+    "miller2_AmSp": {
+        "type": "real"
+    },
+    "miller2_CounRegN": {
+        "type": "text"
+    },
+    "miller2_OrgNa": {
+        "type": "text"
+    },
+    "miller2_ClChaAda": {
+        "type": "int"
+    },
+    "miller2_FuCeN": {
+        "type": "text"
+    },
+    "miller2_KnowFDevel": {
+        "type": "int"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_DiN": {
+        "type": "text"
+    },
+    "miller2_DiID": {
+        "type": "text"
+    },
+    "miller2_TraDevelo": {
+        "type": "int"
+    },
+    "miller2_UntAmProBud": {
+        "type": "real"
+    },
+    "miller2_ProjBrowCoID": {
+        "type": "text"
+    },
+    "miller2_ChiIs": {
+        "type": "int"
+    },
+    "miller2_PBATy": {
+        "type": "text"
+    },
+    "miller2_EnviSust": {
+        "type": "int"
+    },
+    "miller2_Biod": {
+        "type": "int"
+    },
+    "miller2_UrbIs": {
+        "type": "int"
+    },
+    "miller2_ContiN": {
+        "type": "text"
+    },
+    "miller2_CoRePerc": {
+        "type": "real"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    }
+}

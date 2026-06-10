@@ -1,0 +1,116 @@
+{
+    "miller2_FiYe": {
+        "type": "text"
+    },
+    "miller2_OrgCl": {
+        "type": "text"
+    },
+    "miller2_OrganT": {
+        "type": "text"
+    },
+    "miller2_TrDev": {
+        "type": "int"
+    },
+    "miller2_Biodiv": {
+        "type": "int"
+    },
+    "miller2_ContiID": {
+        "type": "int"
+    },
+    "miller2_FCeID": {
+        "type": "int"
+    },
+    "miller2_OrgaSu": {
+        "type": "text"
+    },
+    "miller2_KnowFoDev": {
+        "type": "int"
+    },
+    "miller2_BilaAiMar": {
+        "type": "int"
+    },
+    "miller2_IndIss": {
+        "type": "int"
+    },
+    "miller2_AmoSp": {
+        "type": "real"
+    },
+    "miller2_ICTAATFDev": {
+        "type": "int"
+    },
+    "miller2_SeN": {
+        "type": "text"
+    },
+    "miller2_ContiNa": {
+        "type": "text"
+    },
+    "miller2_OrgID": {
+        "type": "text"
+    },
+    "miller2_ClimChaMiti": {
+        "type": "int"
+    },
+    "miller2_ChiIss": {
+        "type": "int"
+    },
+    "miller2_CoRePe": {
+        "type": "real"
+    },
+    "miller2_SecPer": {
+        "type": "real"
+    },
+    "miller2_MaxCIDAContr": {
+        "type": "real"
+    },
+    "miller2_IRTCPe": {
+        "type": "real"
+    },
+    "miller2_CliChAdap": {
+        "type": "int"
+    },
+    "miller2_CouReNa": {
+        "type": "text"
+    },
+    "miller2_UrIs": {
+        "type": "int"
+    },
+    "miller2_ProPr": {
+        "type": "text"
+    },
+    "miller2_PBATy": {
+        "type": "text"
+    },
+    "miller2_EnviSustain": {
+        "type": "int"
+    },
+    "miller2_Dese": {
+        "type": "int"
+    },
+    "miller2_PartDeveAGoGove": {
+        "type": "int"
+    },
+    "miller2_YoIs": {
+        "type": "int"
+    },
+    "miller2_DisIss": {
+        "type": "int"
+    },
+    "miller2_GenEqu": {
+        "type": "int"
+    },
+    "miller2_OrganiN": {
+        "type": "text"
+    },
+    "miller2_PrBroCoID": {
+        "type": "text"
+    },
+    "miller2_CounRegID": {
+        "type": "text"
+    },
+    "miller2_SecID": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    }
+}

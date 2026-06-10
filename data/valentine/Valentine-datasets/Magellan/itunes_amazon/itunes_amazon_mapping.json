@@ -1,0 +1,58 @@
+{
+    "matches": [
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "id",
+            "target_table": "itunes_amazon_target",
+            "target_column": "id"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Song_Name",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Song_Name"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Artist_Name",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Artist_Name"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Album_Name",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Album_Name"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Genre",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Genre"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Price",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Price"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "CopyRight",
+            "target_table": "itunes_amazon_target",
+            "target_column": "CopyRight"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Time",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Time"
+        },
+        {
+            "source_table": "itunes_amazon_source",
+            "source_column": "Released",
+            "target_table": "itunes_amazon_target",
+            "target_column": "Released"
+        }
+    ]
+}

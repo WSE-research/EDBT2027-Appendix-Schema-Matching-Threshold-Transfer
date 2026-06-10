@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_gncd"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_nmbrchldrn"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_nmbrcrs"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_ct"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "CreditRating",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_crdtrtng"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_ntwrth"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "Gender",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_gndr"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_wnrrntflg"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_nmbrcrdtcrds"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_pstlcd"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac5_ev_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ac5_ev_target",
+            "target_column": "prospect_frstnm"
+        }
+    ]
+}

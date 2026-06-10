@@ -1,0 +1,11 @@
+<"Province (Admin 1)", "ADM1_NAME">
+<"Province P_Code", "ADM1_CODE">
+<"District (Admin 2)", "ADM2_NAME">
+<"District (Admin 2)", "ORIGIN_ADM2">
+<"District P_Code", "ADM2_CODE">
+<"Post (Admin 3)", "ADM3_NAME">
+<"Latitude", "LAT_Y">
+<"Longitude", "LONG_X">
+<"Total Households Affected", "IDP_HH">
+<"Total Individuals Affected", "IDP_IND">
+<"Date of Assessment", "SURVEY_DATE">

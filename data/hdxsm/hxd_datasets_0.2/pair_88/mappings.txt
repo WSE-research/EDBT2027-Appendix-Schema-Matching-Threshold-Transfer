@@ -1,0 +1,9 @@
+<"ISO3", "ISO">
+<"Country", "Country">
+<"Sospechoso", "Suspected">
+<"Deaths", "Deaths">
+<"Confirmed ", "Confirmed ">
+<"Guillai_Barre_Syndrome", "Guillain-Barré Syndrome">
+<"Pregnants", "Pregnants">
+<"Congenital_Syndrome", "Congenital Syndrome">
+<"Imported", "Imported">

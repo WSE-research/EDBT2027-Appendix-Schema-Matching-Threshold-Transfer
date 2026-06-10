@@ -1,0 +1,6 @@
+<"State ", "State">
+<"Admin 1 Code ", "State_Pcode">
+<"LGA ", "LGA">
+<"Admin 2 Code", "LGA Pcode">
+<"Number households", "Number of Households">
+<"Number individuals", "Number of Individuals">

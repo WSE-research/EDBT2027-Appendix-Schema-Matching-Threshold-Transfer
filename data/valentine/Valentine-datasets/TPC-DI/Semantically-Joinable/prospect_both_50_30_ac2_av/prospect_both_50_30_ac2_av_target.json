@@ -1,0 +1,44 @@
+{
+    "AgID": {
+        "type": "varchar(30)"
+    },
+    "LaN": {
+        "type": "varchar(30)"
+    },
+    "C": {
+        "type": "varchar(25)"
+    },
+    "Cou": {
+        "type": "varchar(24)"
+    },
+    "Pho": {
+        "type": "varchar(30)"
+    },
+    "Ag": {
+        "type": "numeric(3)"
+    },
+    "NuCa": {
+        "type": "numeric(2)"
+    },
+    "NuChil": {
+        "type": "numeric(2)"
+    },
+    "MarSta": {
+        "type": "varchar(1)"
+    },
+    "CrRat": {
+        "type": "numeric(4)"
+    },
+    "OORF": {
+        "type": "varchar(1)"
+    },
+    "Empl": {
+        "type": "varchar(30)"
+    },
+    "NumCreCa": {
+        "type": "numeric(2)"
+    },
+    "NWor": {
+        "type": "numeric(12)"
+    }
+}

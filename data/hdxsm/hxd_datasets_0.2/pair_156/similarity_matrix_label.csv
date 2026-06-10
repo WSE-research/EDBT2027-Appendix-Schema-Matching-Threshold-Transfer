@@ -1,0 +1,7 @@
+,Governorate,District,Latitude,Longitude,Households,Individuals
+Governorate,1.0,0.0,0.0,0.0,0.0,0.0
+District,0.0,1.0,0.0,0.0,0.0,0.0
+Latitude,0.0,0.0,1.0,0.0,0.0,0.0
+Longitude,0.0,0.0,0.0,1.0,0.0,0.0
+Households,0.0,0.0,0.0,0.0,1.0,0.0
+Individuals,0.0,0.0,0.0,0.0,0.0,1.0

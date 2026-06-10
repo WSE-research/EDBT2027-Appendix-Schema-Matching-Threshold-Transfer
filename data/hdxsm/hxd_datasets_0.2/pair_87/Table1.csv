@@ -1,0 +1,101 @@
+REGION,PROVINCE,PROV_CODE,DISTRICT,DIST_CODE,ORG_ACRONYM,ORG_NAME,ORG_TYPE,CLUSTER_SECTOR_CODE,CLUSTER_SECTOR_NAME
+South Eastern,Ghazni,AF11,Malistan,AF1116,DRC,Danish Refugee Council,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Kabul,AF01,Shakar Dara,AF0106,UNICEF,United Nations Children's Fund,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Kabul,AF01,Chahar Asyab,AF0103,MOVE,MOVE Welfare Organization,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Northern,Balkh,AF21,Keshendeh,AF2114,CARE,Care International in Afghanistan,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Hilmand,AF30,Deh-e-Shu,AF3013,BRAC,Bangladesh Rural Advancement Committee Afghanistan,International NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Eastern,Nangarhar,AF06,Kot,AF0613,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Khost,AF14,Mandozayi,AF1402,OHD,Organization for Humanitarian and Development,National NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Northern,Jawzjan,AF28,Khanaqa,AF2803,CARE,Care International in Afghanistan,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Western,Hirat,AF32,Injil,AF3202,CRDSA,Coordination Of Rehabilitation Services For Afghanistan,National NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Western,Hirat,AF32,Pashtun Zarghun,AF3206,AHDAA,Agency for Humanitarian Development Assistance for Afghanistan,National NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Central Highland,Daykundi,AF24,Patoo,AF2409,NPO/RRAA,Norwegian Project Office / Rural Rehabilitation Association for Afghanistan,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Northern,Balkh,AF21,Chemtal,AF2108,BDN,Bakhtar Development Network,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Maidan Wardak,AF04,Chak-e-Wardak,AF0404,SCA,Swedish Committee for Afghanistan,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Southern,Hilmand,AF30,Sangin,AF3008,IRC,International Rescue Committee,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Northern,Jawzjan,AF28,Fayzabad,AF2808,WHO,World Health Organization,United Nations,HEALTH_OC,Opeartional Capacity: Health
+Southern,Hilmand,AF30,Reg-i-Khan Nishin,AF3011,BRAC,Bangladesh Rural Advancement Committee Afghanistan,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Northern,Faryab,AF29,Qaysar,AF2907,SCI,Save the Children Federation International,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Hilmand,AF30,Nawa-e-Barakzaiy,AF3003,APA,Afghan Planning Agency,National NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Zabul,AF26,Mizan,AF2604,SDO,Sanayee Development Organization,National NGO,HEALTH_OC,Opeartional Capacity: Health
+Eastern,Nangarhar,AF06,Deh Bala,AF0610,IRC,International Rescue Committee,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Northern,Sar-e-Pul,AF22,Sayad,AF2202,UNICEF,United Nations Children's Fund,United Nations,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Capital,Maidan Wardak,AF04,Chak-e-Wardak,AF0404,DRC,Danish Refugee Council,International NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Parwan,AF03,Jabal Saraj,AF0305,WFP,World Food Program,United Nations,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Panjsher,AF08,Khenj,AF0804,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Northern,Balkh,AF21,Dehdadi,AF2103,WFP,World Food Program,United Nations,NUTRITION_OC,Operational Capacity: Nutrition
+North Eastern,Badakhshan,AF17,WAKAHn,AF1728,ACTED,Agency for Technical Cooperation & Development,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Ghazni,AF11,Rashidan,AF1109,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Paktya,AF13,Chamkani,AF1310,MRCA,Medical Refresher Courses for Afghans,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Northern,Balkh,AF21,Zari,AF2115,WFP,World Food Program,United Nations,NUTRITION_OC,Operational Capacity: Nutrition
+Northern,Jawzjan,AF28,Aqcha,AF2807,WHO,World Health Organization,United Nations,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Kapisa,AF02,Mahmood-e-Raqi,AF0201,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Eastern,Nangarhar,AF06,Bati Kot,AF0609,SHPOUL,Sound Humanitarian Participatory and Organization Uplift,National NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Eastern,Kunar,AF15,Bar Kunar,AF1508,UNICEF,United Nations Children's Fund,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Eastern,Laghman,AF07,Alingar,AF0704,UNFPA,United Nations Population Fund,United Nations,HEALTH_OC,Opeartional Capacity: Health
+Eastern,Nangarhar,AF06,Kot,AF0613,UNICEF,United Nations Children's Fund,United Nations,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Northern,Samangan,AF20,Khuram Wa Sarbagh,AF2003,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Northern,Jawzjan,AF28,Qush Tepa,AF2805,ZOA,ZOA Refugee Care,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Western,Badghis,AF31,Ab Kamari,AF3102,NPO/RRAA,Rural Rehabilitation Association for Afghanistan,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Ghazni,AF11,ZanAKAHn,AF1108,AADA,Agency for Assistance and Development of Afghanistan,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Kabul,AF01,Shakar Dara,AF0106,UNICEF,United Nations Children's Fund,United Nations,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Paktya,AF13,Lija Ahmad Khel,AF1308,MRCA,Medical Refresher Courses for Afghans,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Northern,Samangan,AF20,Aybak,AF2001,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Northern,Balkh,AF21,Char Bolak,AF2111,SCI,Save the Children Federation International,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Central Highland,Bamyan,AF10,Shibar,AF1002,AKAH,Aga Khan Agency for Habitat,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Kabul,AF01,Surobi,AF0115,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Ghazni,AF11,Deh Yak,AF1105,RI,Relief International,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Panjsher,AF08,Ab Shar,AF0808,DRC,Danish Refugee Council,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Maidan Wardak,AF04,Daymirdad,AF0406,SCA,Swedish Committee for Afghanistan,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Central Highland,Bamyan,AF10,Bamyan,AF1001,AKF,Aga Khan Foundation,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Southern,Kandahar,AF27,Kandahar,AF2701,ADA,Afghan Development Association,National NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Capital,Maidan Wardak,AF04,Saydabad,AF0405,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Ghazni,AF11,Jaghuri,AF1114,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+North Eastern,Takhar,AF18,Baharak,AF1803,CONCERN,CONCERN,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Panjsher,AF08,Rukha,AF0802,IDSH,IDS-Hamkar,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Panjsher,AF08,Khenj,AF0804,UNICEF,United Nations Children's Fund,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Parwan,AF03,Surkh-e-Parsa,AF0309,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Kandahar,AF27,Arghandab,AF2702,OHW,Organization of Human Welfare,National NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Northern,Sar-e-Pul,AF22,Sayad,AF2202,ZOA,ZOA Refugee Care,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Capital,Kabul,AF01,Shakar Dara,AF0106,MI,Micronutrient Initiative,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Capital,Logar,AF05,Baraki Barak,AF0502,UNHCR,United Nations High Commissioner for Refugees,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Kabul,AF01,Musahi,AF0107,CORDAID,Catholic Organization for Relief and Development Aid,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Western,Badghis,AF31,Qala-e-Naw,AF3101,NPO/RRAA,Rural Rehabilitation Association for Afghanistan,International NGO,NUTRITION_OC,Operational Capacity: Nutrition
+North Eastern,Takhar,AF18,Baharak,AF1803,ME,Mission East,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Eastern,Kunar,AF15,Dara-e-Pech,AF1507,HADAF,Humanitarian Assistance for Development of Afghanistan,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Southern,Hilmand,AF30,Sangin,AF3008,ACF,Action contre la Faim,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Eastern,Nuristan,AF16,Duab,AF1605,PU-AMI,Premire Urgence-Aide Medicale Internationale,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Central Highland,Bamyan,AF10,Bamyan,AF1001,MEDAIR,MEDAIR,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+South Eastern,Paktya,AF13,Gardez,AF1301,MRCA,Medical Refresher Courses for Afghans,International NGO,HEALTH_OC,Opeartional Capacity: Health
+Capital,Kabul,AF01,Estalef,AF0113,MSF,Medecins Sans Frontieres (Doctors Without Borders),International NGO,HEALTH_OC,Opeartional Capacity: Health
+Western,Hirat,AF32,Kohsan,AF3213,WVI,World Vision International,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Northern,Jawzjan,AF28,Aqcha,AF2807,UNICEF,United Nations Children's Fund,United Nations,NUTRITION_OC,Operational Capacity: Nutrition
+Central Highland,Daykundi,AF24,Ashtarlay,AF2403,GRSP,Ghazni Rural Support Program,National NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+South Eastern,Ghazni,AF11,Wal-e-Muhammad-e-Shahid,AF1102,DRC,Danish Refugee Council,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Kapisa,AF02,Hisa-e-Awal-e-Kohistan,AF0204,DRC,Danish Refugee Council,International NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+South Eastern,Khost,AF14,Shamal,AF1412,OHD,Organization for Humanitarian and Development,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Western,Farah,AF33,Khak-e-Safed,AF3303,CHA,Coordination of Humanitarian Assistance,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Capital,Logar,AF05,Pul-e-Alam,AF0501,CTG,CTG Global,Private,NUTRITION_OC,Operational Capacity: Nutrition
+Western,Farah,AF33,Shibkoh,AF3305,NPO/RRAA,Norwegian Project Office / Rural Rehabilitation Association for Afghanistan,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Central Highland,Daykundi,AF24,Khadir,AF2404,ACF,Action contre la Faim,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Northern,Samangan,AF20,Dara-e-Suf-e-Payin,AF2006,WHO,World Health Organization,United Nations,HEALTH_OC,Opeartional Capacity: Health
+Eastern,Nangarhar,AF06,Bati Kot,AF0609,WAW,Women for Afghan Women,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Hilmand,AF30,Lashkargah,AF3001,ACTD,Afghanistan Center for Training and Development,National NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Eastern,Laghman,AF07,Dawlatshah,AF0705,WAW,Women for Afghan Women,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Western,Hirat,AF32,Ghoryan,AF3211,DRC,Danish Refugee Council,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Western,Hirat,AF32,Kushk,AF3207,WVI,World Vision International,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Capital,Parwan,AF03,Salang,AF0306,DRC,Danish Refugee Council,International NGO,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Eastern,Nangarhar,AF06,Dara-e-Nur,AF0612,UNICEF,United Nations Children's Fund,United Nations,HEALTH_OC,Opeartional Capacity: Health
+Southern,Kandahar,AF27,Khakrez,AF2707,ACTD,Afghanistan Center for Training and Development,National NGO,HEALTH_OC,Opeartional Capacity: Health
+North Eastern,Takhar,AF18,Khwaja Ghar,AF1809,IOM,International Organization for Migration,International Organization,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Southern,Kandahar,AF27,Arghestan,AF2708,ALO,Afghan Literacy Organization,National NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+North Eastern,Badakhshan,AF17,Shuhada,AF1712,DACAAR,Danish Committee for Aid to Afghan Refugees,International NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Eastern,Nangarhar,AF06,Pachir Wa Agam,AF0611,UNICEF,United Nations Children's Fund,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Western,Badghis,AF31,Qala-e-Naw,AF3101,AHDAA,Agency for Humanitarian Development Assistance for Afghanistan,National NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Western,Ghor,AF23,Taywarah,AF2308,NPO/RRAA,Rural Rehabilitation Association for Afghanistan,International NGO,NUTRITION_OC,Operational Capacity: Nutrition
+Southern,Nimroz,AF34,Char Burjak,AF3404,OHW,Organization of Human Welfare,National NGO,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Eastern,Kunar,AF15,Sar Kani,AF1505,UNICEF,United Nations Children's Fund,United Nations,WASH_OC,"Operational Capacity: Water, Sanitation & Hygiene"
+Northern,Faryab,AF29,Khwaja Sabz Posh,AF2903,WHO,World Health Organization,United Nations,HEALTH_OC,Opeartional Capacity: Health
+Capital,Logar,AF05,Pul-e-Alam,AF0501,IOM,International Organization for Migration,United Nations,ESNFI_OC,Operational Capacity: Emergency Shelter & Non-Food Items
+Central Highland,Daykundi,AF24,Nili,AF2401,OHW,Organization of Human Welfare,National NGO,FSAC_OC,Operational Capacity: Food Security & Agriculture
+Capital,Logar,AF05,Pul-e-Alam,AF0501,WHO,World Health Organization,United Nations,HEALTH_OC,Opeartional Capacity: Health

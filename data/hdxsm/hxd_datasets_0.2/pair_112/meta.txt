@@ -1,0 +1,9 @@
+81afa4e3-204e-4ff6-bc86-87615419ffd2,DTM DRC BA Lomami Oct2018 R2
+c387ce97-8f82-4a0d-9cb0-e1009f14a896,DTM DRC Site Assessment North Kivu Jul2019 R37
+---hxl_tags---
+#date+occurred
+#adm1+name
+#adm1+code
+#adm2+name
+#adm2+code
+#affected+idps+ind

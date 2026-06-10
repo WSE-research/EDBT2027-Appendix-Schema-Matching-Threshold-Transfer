@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "ss_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "ss_rgnsm"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "tid",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "td"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "chembl_id",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "chmbl_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "variant_id",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "vrnt_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "src_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "bao_format",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "b_frmt"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "ss_tp"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "assay_tax_id",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "ss_tx_d"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "relationship_type",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "rltnshp_tp"
+        },
+        {
+            "source_table": "assays_both_0_50_ac3_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_0_50_ac3_ev_target",
+            "target_column": "crtd_b"
+        }
+    ]
+}

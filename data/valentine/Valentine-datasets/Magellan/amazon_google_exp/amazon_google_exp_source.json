@@ -1,0 +1,14 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "title": {
+        "type": "text"
+    },
+    "manufacturer": {
+        "type": "text"
+    },
+    "price": {
+        "type": "real"
+    }
+}

@@ -1,0 +1,8 @@
+<"State Pcode", "State_Pcode">
+<"State of Displacement", "State">
+<"LGA Pcode", "LGA Pcode">
+<"LGA", "LGA">
+<"CODs PCODE", "CODs_Ward_Pcode">
+<"WARD", "WARD">
+<"Estimated Household Number", "Number of Households">
+<"Estimated Number of IDP", "Number of Individuals">

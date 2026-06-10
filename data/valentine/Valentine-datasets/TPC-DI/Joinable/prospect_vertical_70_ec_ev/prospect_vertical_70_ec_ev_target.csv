@@ -1,0 +1,101 @@
+AgencyID,CreditRating,Employer,OwnOrRentFlag,AddressLine1,Phone,NetWorth,PostalCode,Income,MaritalStatus,Age,Country,Gender,State,NumberCreditCards,AddressLine2,City,NumberCars,NumberChildren
+PEL0,760.0,Brink's,O,21847 olympia street,1-712-522-6088,1058868.0,T6b 1i1,368776.0,W,20.0,United States of America,f,MA,,,Fairbanks,,3.0
+LED1,555.0,,U,245 congress court,1-626-426-4298,1988185.0,77281,177967.0,U,3.0,United States of America,F,PA,6.0,APT. 624,Quebec,5.0,1.0
+lat2,566.0,,O,6517 frailing west,1-524-787-8784,3673128.0,91355,321772.0,S,,United States of America,,Alberta,6.0,,Henderson,2.0,1.0
+RUD3,,Air Products & Chemicals,O,11449 blalock park,1-741-997-1688,2005895.0,36615,25449.0,W,77.0,Canada,,AR,3.0,,Salem,2.0,1.0
+JAY4,815.0,Oshkosh,O,18354 dodd court,1-002-194-1991,624736.0,t6a 1i3,166567.0,M,21.0,Canada,f,OR,4.0,Apt. 619,Toledo,0.0,3.0
+tod5,333.0,,R,14117 roxboro street,1-441-371-7651,3064615.0,A2b 1v3,43631.0,M,77.0,United States of America,M,VA,10.0,,Corpus Christi,1.0,4.0
+Kan6,528.0,VeraSun Energy,O,24697 FLORENCE WEST,1-957-940-5980,3489129.0,49513,466230.0,,23.0,Canada,m,OH,1.0,,Salt Lake City,4.0,0.0
+Din7,680.0,IDT,U,6488 applewood drive,1-768-633-4096,3430744.0,M5d 1v6,420243.0,M,9.0,United States of America,,Prince Edward Island,7.0,,Brownsville,2.0,2.0
+Thi8,761.0,Adams Resources & Energy,O,17404 gale court,1-107-689-2155,1743614.0,V6c 1q1,141862.0,U,63.0,United States of America,,NV,10.0,,Escondido,3.0,
+May9,416.0,MGIC Investment,O,15913 alexis street,1-173-594-6096,216299.0,99716,402011.0,M,32.0,United States of America,,Ontario,,,Los Angeles,0.0,2.0
+mah10,493.0,Iasis Healthcare,O,18313 5th lane,1-561-520-0611,1528641.0,A2b 1w1,79928.0,M,96.0,Canada,,TX,9.0,,West Covina,2.0,2.0
+Siz11,564.0,AMR,R,13653 collier avenue,1-730-406-9727,3752907.0,M5F 1W1,109496.0,M,46.0,United States of America,,NE,0.0,,San Buenaventura,1.0,0.0
+cra12,817.0,Embarq,U,15306 pike park,,582378.0,95118,267901.0,U,6.0,United States of America,,AR,0.0,,Lexington,1.0,4.0
+dac13,653.0,Advanced Micro Devices,R,1540 crestmere north,1-207-867-4589,3458824.0,H2f 1v7,487273.0,U,39.0,United States of America,m,MI,8.0,,Hay River,3.0,5.0
+HIV14,587.0,Cenveo,O,10790 bonita crescent,1-478-629-9641,469408.0,19217,34013.0,M,73.0,United States of America,,MA,2.0,,Toronto,3.0,4.0
+Pes15,472.0,Kelly Services,O,24679 AIRPORT CRESCENT,1-026-208-8595,1504480.0,21228,473462.0,S,26.0,United States of America,,TN,6.0,Apt. 290,Denver,0.0,2.0
+CHI16,817.0,Viacom,O,7627 douglas road,1-432-681-4853,2763009.0,85097,499493.0,M,54.0,Canada,,TN,4.0,,St. Paul,5.0,4.0
+Din17,441.0,Macy's,R,6106 ashland east,,2787199.0,V6j 1q8,266928.0,M,87.0,United States of America,,OK,0.0,,Bellevue,5.0,4.0
+De 18,848.0,Gardner Denver,O,1111 norden street,1-357-207-6320,2789368.0,43207,72444.0,M,85.0,United States of America,,Ontario,6.0,,Detroit,2.0,3.0
+Mck19,843.0,Family Dollar Stores,R,2798 1st east,1-462-774-1277,2784776.0,V6t 1q8,77290.0,U,86.0,United States of America,m,KY,8.0,,Omaha,3.0,3.0
+WIN20,,,R,11358 elle lee street,1-702-382-2898,288747.0,94467,395066.0,U,59.0,United States of America,M,PA,,,Costa Mesa,2.0,0.0
+BIT21,300.0,Sun Microsystems,O,21074 MALLORY LOWER,1-909-554-7120,876575.0,94321,119283.0,U,94.0,United States of America,,MD,0.0,,Berkeley,5.0,3.0
+luz22,795.0,Costco Wholesale,O,16124 weyland park,1-752-296-7940,2041224.0,C2a 4w7,330991.0,U,,United States of America,f,TX,8.0,,St. Louis,1.0,1.0
+don23,367.0,Illinois Tool Works,U,23822 marvin crescent,1-995-554-5056,2231509.0,35808,,,5.0,United States of America,,IN,5.0,,Colorado Springs,4.0,0.0
+Gia24,507.0,Southern Union,O,2203 valita boulevard,1-090-303-3807,3206409.0,M5f 1v6,252031.0,M,23.0,United States of America,,MD,1.0,,Fontana,1.0,5.0
+SPR25,362.0,Moog,O,11538 COLLINWOOD AVENUE,1-492-968-0932,3850037.0,99539,101800.0,M,61.0,United States of America,M,KY,9.0,,St. Catharines,3.0,1.0
+SKA26,527.0,Old Republic International,O,7818 EAST STREET,1-960-227-2020,528440.0,95055,436977.0,D,,United States of America,F,CA,7.0,,Hayward,0.0,1.0
+Gar27,354.0,,O,10013 shaw road,1-431-122-8597,597140.0,93686,495334.0,S,51.0,United States of America,m,FL,0.0,,Palmdale,0.0,
+Dor28,511.0,Great Plains Energy,O,6802 AMES STREET,1-822-836-7200,146931.0,75218,274685.0,M,97.0,United States of America,,Newfoundland,1.0,,Phoenix,1.0,1.0
+DIO29,412.0,Broadcom,,22501 SUMMIT RUE,1-530-117-0497,353495.0,91174,320820.0,,52.0,United States of America,,TX,7.0,,Gary,2.0,2.0
+Mer30,583.0,Discover Financial Services,O,291 frances rue,1-051-257-2719,295647.0,49515,195835.0,S,98.0,Canada,m,WA,1.0,,Beaumont,4.0,0.0
+Atc31,710.0,UAL,O,16264 sanders east,1-171-989-1363,408941.0,16506,108085.0,U,47.0,United States of America,,MN,5.0,,Nashua,5.0,3.0
+Pla32,380.0,Charles Schwab,O,16068 cantey way,1-042-705-3246,362523.0,94383,260185.0,M,47.0,United States of America,m,WY,9.0,,San Jose,2.0,1.0
+SEL33,796.0,Coach,R,21170 EDLOE BOULEVARD,1-098-328-2026,2102359.0,T6d 1b3,258323.0,M,9.0,United States of America,F,NY,2.0,,Nashua,0.0,0.0
+sha34,818.0,DaVita,U,885 CROSBY LANE,1-209-754-5635,3480265.0,25339,79476.0,M,85.0,United States of America,f,SC,2.0,,Fort Smith,1.0,3.0
+MER35,766.0,Marshall & Ilsley Corp.,U,12235 jay street,1-498-781-3456,3648900.0,V6o 1v4,102156.0,M,81.0,United States of America,,MS,3.0,,Lancaster,5.0,3.0
+con36,359.0,Cablevision Systems,O,20340 LOMBARD CRESCENT,1-615-241-0440,1161790.0,01852,221481.0,M,0.0,United States of America,,UT,2.0,,Colorado Springs,2.0,3.0
+ons37,401.0,Barnes & Noble,R,22074 dexter upper,1-995-449-5200,2050587.0,78230,41836.0,S,28.0,United States of America,M,PA,2.0,,Washington,1.0,5.0
+Sum38,609.0,EMC,O,1540 MURIE RUE,1-295-673-4452,3579198.0,93770,72389.0,U,65.0,Canada,M,OK,0.0,,Lowell,1.0,1.0
+gro39,630.0,Fluor,O,7075 glen loch drive,1-914-675-2986,889494.0,m4l 1n4,66486.0,S,20.0,United States of America,,WY,2.0,,Frederick,3.0,0.0
+dil40,671.0,Dollar General,O,11237 balmoral way,,2205682.0,22335,200185.0,M,55.0,United States of America,,RI,9.0,Apt. 382,Mesa,3.0,1.0
+DOL41,715.0,Lear,O,8316 GARDEN BROOK NORTH,1-825-739-0336,1140117.0,V6C 1T4,289215.0,U,76.0,United States of America,,HI,10.0,,Lakewood,0.0,2.0
+Pos42,707.0,J.P. Morgan Chase & Co.,O,2240 clifton lower,1-956-713-3802,1421319.0,M6t 1h3,322484.0,M,1.0,United States of America,,VA,9.0,,Cleveland,4.0,1.0
+Mac43,329.0,Affinia Group Intermediate,O,20907 NOTINGHAM LOWER,1-814-932-1579,3525204.0,95263,83458.0,M,3.0,United States of America,,OK,0.0,,Grand Rapids,4.0,2.0
+che44,601.0,,R,601 carroll lower,1-135-443-7282,468976.0,v5b 1p5,,D,100.0,United States of America,,Prince Edward Island,8.0,,Peoria,0.0,3.0
+hol45,623.0,Goldman Sachs Group,O,18267 state drive,1-720-975-0667,1685443.0,32318,492407.0,W,81.0,United States of America,,SD,2.0,,Inglewood,5.0,1.0
+pfi46,376.0,E*Trade Financial,O,9270 LEAF SOUTH,1-871-598-3505,337564.0,93872,346630.0,S,76.0,United States of America,f,OH,2.0,,Akron,4.0,4.0
+elk47,560.0,Pfizer,O,18582 PERIMETER BOULEVARD,1-607-222-4809,84777.0,92824,9572.0,W,51.0,Canada,,MA,0.0,,Charlottetown,1.0,3.0
+Lab48,693.0,Safeway,O,9612 park stream upper,1-965-046-0642,3146477.0,e4a 1r2,265369.0,,,United States of America,F,MD,4.0,,Bellevue,1.0,5.0
+laf49,346.0,Simon Property Group,U,2803 clearwater north,1-155-441-3579,495277.0,H7G 1V4,104172.0,S,58.0,United States of America,,Saskatchewan,0.0,,Dover,1.0,2.0
+Nor50,342.0,Trinity Industries,O,11103 BISSONNET WEST,,746904.0,85039,65550.0,M,52.0,United States of America,,WA,0.0,,Fullerton,0.0,3.0
+hag51,563.0,Solutia,R,4652 outervale lane,1-544-132-7237,1219620.0,v6m 1q3,,M,91.0,Canada,,OH,8.0,,Denver,2.0,0.0
+Bet52,391.0,,O,341 dunbar west,1-821-089-2089,1718910.0,X7j 1r1,,M,17.0,United States of America,m,WY,4.0,,Dallas,2.0,3.0
+Van53,381.0,A.O. Smith,O,16176 vernon drive,1-135-391-9787,,B8b 1z5,66244.0,S,6.0,United States of America,m,NJ,8.0,,San Jose,4.0,4.0
+O'L54,539.0,AptarGroup,U,23131 clint way,1-776-182-6215,2636424.0,t5d 1v4,426954.0,S,89.0,United States of America,F,ND,9.0,,Bellevue,0.0,3.0
+and55,497.0,Coca-Cola,O,11640 baltic upper,1-079-780-7761,1326305.0,V6t 1r2,126891.0,M,99.0,United States of America,m,NC,0.0,,San Buenaventura,5.0,4.0
+sta56,661.0,Kimberly-Clark,O,20796 dolores drive,1-504-346-4393,2241997.0,91177,454196.0,M,77.0,Canada,,WV,,,St. Louis,4.0,2.0
+CHA57,558.0,Visteon,R,14359 COMMERCE WEST,1-985-538-4351,1542891.0,T5c 1t1,163940.0,S,,United States of America,,GA,0.0,Apt. 275,Pueblo,5.0,3.0
+ASI58,534.0,TECO Energy,O,21448 hampton boulevard,1-254-097-9398,797918.0,35862,365213.0,W,90.0,Canada,R,Ontario,,,Regina,,1.0
+ask59,373.0,Bemis,U,7637 pershing way,1-545-924-9552,347654.0,96820,428739.0,M,82.0,United States of America,f,MA,6.0,,Saskatoon,0.0,0.0
+Kik60,382.0,Wyeth,O,11529 arcana boulevard,1-984-233-8818,2456397.0,75238,142444.0,M,,United States of America,,CA,8.0,,Jackson,4.0,0.0
+Cha61,475.0,United Technologies,O,2700 windwood north,1-528-691-1642,1284229.0,85769,416168.0,S,15.0,United States of America,F,SD,10.0,,St. Petersburg,3.0,3.0
+KIL62,539.0,Clorox,O,22279 gramercy road,,618787.0,H5i 1o9,291420.0,D,,United States of America,m,Saskatchewan,3.0,,Scottsdale,2.0,0.0
+kin63,711.0,Discovery Communications,O,9828 west east,1-171-807-8213,1171606.0,90849,413501.0,M,96.0,United States of America,f,RI,6.0,,Charlotte,4.0,5.0
+MAL64,606.0,Williams-Sonoma,O,5935 mcafee park,1-056-241-7009,3983261.0,43644,,M,38.0,United States of America,,NC,1.0,,Waterbury,4.0,
+Odu65,494.0,Manitowoc,O,12460 CLAYTON STREET,1-389-414-0570,2328568.0,99213,419143.0,W,10.0,United States of America,,SD,0.0,,Chesapeake,3.0,3.0
+DI 66,309.0,Henry Schein,O,275 3rd drive,1-583-542-1656,2078600.0,72226,155057.0,M,72.0,United States of America,,IL,3.0,,Hialeah,1.0,5.0
+STU67,630.0,Trinity Industries,O,6907 FERNCLIFF CRESCENT,1-269-712-0672,2986155.0,V6Z 1Q9,313859.0,M,97.0,United States of America,,OR,3.0,,Charleston,2.0,5.0
+HAM68,330.0,Pepsi Bottling,O,885 crosby lane,1-670-102-0463,1864039.0,20082,265907.0,S,48.0,United States of America,,Ontario,10.0,,Salem,4.0,1.0
+LIB69,710.0,UGI,O,2344 kalani west,1-699-726-3895,1293721.0,35827,283481.0,S,97.0,Canada,m,FL,9.0,,Sacramento,,0.0
+ohs70,475.0,Greif,R,22870 LA CIENEGA STREET,1-640-666-2876,3850114.0,99692,200635.0,M,73.0,United States of America,M,NM,7.0,,Santa Clarita,4.0,0.0
+HUM71,596.0,Equifax,O,8478 green avenue,1-540-639-1311,1618743.0,V6c 1q5,434519.0,U,71.0,United States of America,,NE,3.0,APT. 143,Sherbrooke,0.0,1.0
+BRA72,670.0,,O,23639 purdue rue,1-285-874-8492,3383487.0,80158,392315.0,W,93.0,United States of America,,MI,9.0,,Colorado Springs,5.0,1.0
+Boa73,722.0,Freescale Semiconductor,O,19202 ansley park,1-121-904-0040,2981876.0,t6d 1b6,493829.0,U,53.0,United States of America,,New Brunswick,,,Berkeley,5.0,3.0
+Mcn74,587.0,Aleris International,O,11319 devonshire rue,1-017-842-3201,2109339.0,33120,97489.0,U,32.0,United States of America,,NJ,7.0,,San Buenaventura,3.0,2.0
+MAR75,609.0,,O,23665 deerwood park,1-215-859-3206,791803.0,99742,,S,1.0,United States of America,F,ND,4.0,,New Haven,4.0,3.0
+Wil76,401.0,World Fuel Services,O,4855 union north,1-764-520-7470,3523678.0,V6N 1T1,383046.0,S,39.0,United States of America,f,Saskatchewan,7.0,,Shreveport,0.0,1.0
+Dea77,335.0,R.R. Donnelley & Sons,,9466 SHADOWBRIAR WEST,1-414-130-0162,1681902.0,44104,1190.0,M,77.0,United States of America,m,KS,0.0,,Lansing,4.0,0.0
+Hou78,569.0,Brinker International,O,3504 regency avenue,1-970-240-9990,3851455.0,14605,85733.0,U,18.0,United States of America,,SD,7.0,,Pembroke Pines,5.0,5.0
+Goy79,,Temple-Inland,R,7281 northland lower,1-408-684-6459,2339382.0,80076,387890.0,M,70.0,Canada,,FL,9.0,,Palmdale,0.0,2.0
+Mok80,679.0,Psychiatric Solutions,O,12481 hayden lower,1-330-353-5908,,V6I 1V6,16808.0,S,26.0,United States of America,f,Saskatchewan,7.0,,Savannah,2.0,0.0
+Run81,356.0,Nash-Finch,,2328 gracie avenue,1-766-726-2675,2065016.0,97307,304589.0,M,,United States of America,,FL,10.0,,Amarillo,,4.0
+BEL82,308.0,AMR,R,4737 campbell street,1-938-425-7509,2454049.0,46237,48506.0,S,58.0,United States of America,o,UT,9.0,,Anchorage,2.0,5.0
+BAE83,412.0,Spartan Stores,O,2401 stratmore lower,1-527-308-8874,2423395.0,V6B 1S6,,M,43.0,United States of America,,WY,4.0,,Louisville,0.0,4.0
+MAU84,618.0,Cigna,O,21477 JUNIPER CRESCENT,1-810-590-0635,1342045.0,H2d 1x1,358862.0,D,65.0,United States of America,f,NH,4.0,,Hilo,2.0,3.0
+Koo85,429.0,General Cable,O,19214 YAUPON BOULEVARD,1-274-548-2512,861756.0,95108,477614.0,S,24.0,United States of America,,AR,5.0,,Sudbury,5.0,3.0
+Lau86,819.0,Dun & Bradstreet,O,7785 rusk boulevard,1-649-754-4601,1215349.0,80050,175414.0,S,79.0,United States of America,,CT,3.0,,Orlando,3.0,1.0
+Man87,552.0,Casey's General Stores,O,18002 cantrell upper,1-905-932-1785,3981554.0,90122,427598.0,M,48.0,Canada,F,VT,7.0,,Missoula,0.0,1.0
+PIE88,587.0,Jack in the Box,O,23341 brookside upper,1-031-004-7697,3865937.0,43614,368207.0,S,69.0,United States of America,,Manitoba,9.0,,Abilene,0.0,4.0
+Bus89,304.0,Assurant,O,20494 ROSS WEST,1-994-812-4796,2804700.0,61110,449944.0,S,91.0,United States of America,M,NJ,6.0,,Saskatoon,3.0,1.0
+BAB90,795.0,Psychiatric Solutions,U,17552 SAVANNAH NORTH,1-176-513-4041,3283558.0,70174,166247.0,,75.0,United States of America,,KY,4.0,,Irvine,5.0,5.0
+Bur91,830.0,Danaher,O,4462 pace crescent,1-072-244-6337,450524.0,90324,391165.0,S,85.0,United States of America,M,GA,2.0,APT. 373,Reno,1.0,3.0
+Kin92,709.0,Clorox,R,7161 tallowood upper,1-924-669-9328,,s7d 1n1,165854.0,M,76.0,United States of America,,NJ,3.0,,Sacramento,5.0,3.0
+POM93,493.0,Boyd Gaming,O,3489 silver sage west,1-598-488-3541,,93829,326181.0,S,68.0,United States of America,,SC,8.0,,Topeka,2.0,1.0
+BOA94,680.0,Eaton,O,12481 hayden lower,1-295-539-3868,633760.0,89116,173387.0,M,95.0,United States of America,M,TN,,,Rancho Cucamonga,3.0,
+Ron95,800.0,Dynegy,R,13210 3RD DRIVE,1-554-020-0267,3634954.0,94315,301127.0,M,15.0,United States of America,,WY,,,Hilo,1.0,5.0
+wei96,614.0,AmeriCredit,R,8899 starling lane,1-793-621-4566,799268.0,T5b 1u9,487230.0,M,17.0,United States of America,,Ontario,4.0,,Saint John,1.0,5.0
+Hel97,763.0,SLM,R,11480 fennel south,1-787-267-4261,39093.0,T6b 1a5,425747.0,,94.0,Canada,M,DC,6.0,,Torrance,4.0,0.0
+mog98,561.0,NV Energy,O,7266 cherry upper,1-668-247-1597,2705353.0,60699,401946.0,S,70.0,United States of America,m,Alberta,3.0,,Santa Clara,4.0,4.0
+boz99,569.0,Landstar System,O,10678 ENGLEWOOD WEST,1-901-346-8890,3565153.0,V6p 1s8,425422.0,S,29.0,United States of America,,ME,4.0,,Torrance,1.0,2.0

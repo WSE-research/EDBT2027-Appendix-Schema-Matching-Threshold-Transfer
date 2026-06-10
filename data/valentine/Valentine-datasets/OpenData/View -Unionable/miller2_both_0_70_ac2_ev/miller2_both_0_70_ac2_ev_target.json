@@ -1,0 +1,131 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "IRTCPe": {
+        "type": "real"
+    },
+    "SectN": {
+        "type": "text"
+    },
+    "BraID": {
+        "type": "text"
+    },
+    "SecPe": {
+        "type": "real"
+    },
+    "GenEq": {
+        "type": "int"
+    },
+    "PartDeveloAGGover": {
+        "type": "int"
+    },
+    "OrganS": {
+        "type": "text"
+    },
+    "RegPro": {
+        "type": "int"
+    },
+    "YouIs": {
+        "type": "int"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "SectID": {
+        "type": "text"
+    },
+    "ClimChaAdap": {
+        "type": "int"
+    },
+    "Biodiv": {
+        "type": "int"
+    },
+    "CoRegNa": {
+        "type": "text"
+    },
+    "FSTCPer": {
+        "type": "real"
+    },
+    "OrganiTy": {
+        "type": "text"
+    },
+    "KnowlFoDevel": {
+        "type": "int"
+    },
+    "St": {
+        "type": "text"
+    },
+    "ClimChMit": {
+        "type": "int"
+    },
+    "OrgaCl": {
+        "type": "text"
+    },
+    "CIDABuDeliMod": {
+        "type": "text"
+    },
+    "IndIs": {
+        "type": "int"
+    },
+    "DisaIss": {
+        "type": "int"
+    },
+    "AmSp": {
+        "type": "real"
+    },
+    "ICTAATFDevel": {
+        "type": "int"
+    },
+    "DiNa": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "ProgrPro": {
+        "type": "text"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "CoRegPerc": {
+        "type": "real"
+    },
+    "ProjNu": {
+        "type": "text"
+    },
+    "Desertif": {
+        "type": "int"
+    },
+    "ChilIs": {
+        "type": "int"
+    },
+    "FCeID": {
+        "type": "int"
+    },
+    "TraDevel": {
+        "type": "int"
+    },
+    "UrbIs": {
+        "type": "int"
+    },
+    "OrganID": {
+        "type": "text"
+    },
+    "OrganiNa": {
+        "type": "text"
+    },
+    "ContiN": {
+        "type": "text"
+    },
+    "ProjBrowCouID": {
+        "type": "text"
+    },
+    "CoRegID": {
+        "type": "text"
+    },
+    "SecNa": {
+        "type": "text"
+    }
+}

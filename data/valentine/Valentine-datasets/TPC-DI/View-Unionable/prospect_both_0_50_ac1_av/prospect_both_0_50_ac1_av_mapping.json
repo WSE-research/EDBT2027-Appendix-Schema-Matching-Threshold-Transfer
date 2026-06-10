@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_AgencyID"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "LastName",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_LastName"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "State",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_State"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "Phone",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_Phone"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_Country"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_OwnOrRentFlag"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "FirstName",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_FirstName"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_PostalCode"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_AddressLine1"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "NumberChildren",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_NumberChildren"
+        },
+        {
+            "source_table": "prospect_both_0_50_ac1_av_source",
+            "source_column": "AddressLine2",
+            "target_table": "prospect_both_0_50_ac1_av_target",
+            "target_column": "prospect_AddressLine2"
+        }
+    ]
+}

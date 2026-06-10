@@ -1,0 +1,80 @@
+{
+    "FiY": {
+        "type": "text"
+    },
+    "TraDevelo": {
+        "type": "int"
+    },
+    "Biodi": {
+        "type": "int"
+    },
+    "UrIs": {
+        "type": "int"
+    },
+    "ChIss": {
+        "type": "int"
+    },
+    "YoIss": {
+        "type": "int"
+    },
+    "IndigIs": {
+        "type": "int"
+    },
+    "DisabIs": {
+        "type": "int"
+    },
+    "ICTAATFDeve": {
+        "type": "int"
+    },
+    "KnowFoDeve": {
+        "type": "int"
+    },
+    "GenEqua": {
+        "type": "int"
+    },
+    "OrganiID": {
+        "type": "text"
+    },
+    "OrgNa": {
+        "type": "text"
+    },
+    "OrgTy": {
+        "type": "text"
+    },
+    "OrganiCl": {
+        "type": "text"
+    },
+    "OrganiSu": {
+        "type": "text"
+    },
+    "ContiID": {
+        "type": "int"
+    },
+    "ConN": {
+        "type": "text"
+    },
+    "ProBroCouID": {
+        "type": "text"
+    },
+    "CoRegID": {
+        "type": "text"
+    },
+    "CoReN": {
+        "type": "text"
+    },
+    "CounRePe": {
+        "type": "real"
+    },
+    "SecID": {
+        "type": "int"
+    },
+    "SeNa": {
+        "type": "text"
+    },
+    "SePer": {
+        "type": "real"
+    },
+    "AmSp": {
+        "type": "real"
+    }
+}

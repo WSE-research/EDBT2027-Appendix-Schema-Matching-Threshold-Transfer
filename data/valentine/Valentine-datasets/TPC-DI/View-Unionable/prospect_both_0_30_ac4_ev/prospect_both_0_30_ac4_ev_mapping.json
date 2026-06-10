@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_AgeID"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "AddressLine1",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_AddrL1"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "City",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_Ci"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "NetWorth",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_NeWor"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "Country",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_Coun"
+        },
+        {
+            "source_table": "prospect_both_0_30_ac4_ev_source",
+            "source_column": "Employer",
+            "target_table": "prospect_both_0_30_ac4_ev_target",
+            "target_column": "prospect_Em"
+        }
+    ]
+}

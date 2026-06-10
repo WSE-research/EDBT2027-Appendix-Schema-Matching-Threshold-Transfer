@@ -1,0 +1,155 @@
+{
+    "miller2_FiY": {
+        "type": "text"
+    },
+    "miller2_PrNum": {
+        "type": "text"
+    },
+    "miller2_St": {
+        "type": "text"
+    },
+    "miller2_MaxCIDAContr": {
+        "type": "real"
+    },
+    "miller2_BrID": {
+        "type": "text"
+    },
+    "miller2_BraN": {
+        "type": "text"
+    },
+    "miller2_DiID": {
+        "type": "text"
+    },
+    "miller2_DiNa": {
+        "type": "text"
+    },
+    "miller2_SecID": {
+        "type": "text"
+    },
+    "miller2_SecNa": {
+        "type": "text"
+    },
+    "miller2_RegPr": {
+        "type": "int"
+    },
+    "miller2_FuCenID": {
+        "type": "int"
+    },
+    "miller2_FuCeNa": {
+        "type": "text"
+    },
+    "miller2_UnAmoPrBu": {
+        "type": "real"
+    },
+    "miller2_FSTCPerc": {
+        "type": "real"
+    },
+    "miller2_IRTCPerc": {
+        "type": "real"
+    },
+    "miller2_CFLI": {
+        "type": "int"
+    },
+    "miller2_CIDABusDelMod": {
+        "type": "text"
+    },
+    "miller2_PrograProc": {
+        "type": "text"
+    },
+    "miller2_BilaAMa": {
+        "type": "int"
+    },
+    "miller2_PBAT": {
+        "type": "text"
+    },
+    "miller2_EnviSust": {
+        "type": "int"
+    },
+    "miller2_CliChaAdapt": {
+        "type": "int"
+    },
+    "miller2_CliChaMit": {
+        "type": "int"
+    },
+    "miller2_Dese": {
+        "type": "int"
+    },
+    "miller2_ParticiDeveAnGoGover": {
+        "type": "int"
+    },
+    "miller2_TrDev": {
+        "type": "int"
+    },
+    "miller2_Biod": {
+        "type": "int"
+    },
+    "miller2_UrbIs": {
+        "type": "int"
+    },
+    "miller2_ChIss": {
+        "type": "int"
+    },
+    "miller2_YoIss": {
+        "type": "int"
+    },
+    "miller2_IndigIs": {
+        "type": "int"
+    },
+    "miller2_DisaIss": {
+        "type": "int"
+    },
+    "miller2_ICTAAToFoDeve": {
+        "type": "int"
+    },
+    "miller2_KnoFoDev": {
+        "type": "int"
+    },
+    "miller2_GenEqua": {
+        "type": "int"
+    },
+    "miller2_OrganiID": {
+        "type": "text"
+    },
+    "miller2_OrganN": {
+        "type": "text"
+    },
+    "miller2_OrgT": {
+        "type": "text"
+    },
+    "miller2_OrganCla": {
+        "type": "text"
+    },
+    "miller2_OrganS": {
+        "type": "text"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_ContNa": {
+        "type": "text"
+    },
+    "miller2_ProjBroCouID": {
+        "type": "text"
+    },
+    "miller2_CoRegID": {
+        "type": "text"
+    },
+    "miller2_CoReN": {
+        "type": "text"
+    },
+    "miller2_CouRePer": {
+        "type": "real"
+    },
+    "Sector ID": {
+        "type": "int"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_SecPerc": {
+        "type": "real"
+    },
+    "miller2_AmoSpe": {
+        "type": "real"
+    }
+}

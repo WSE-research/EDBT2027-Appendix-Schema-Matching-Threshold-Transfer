@@ -1,0 +1,12 @@
+<"ORGANIZATION", "ORGANIZATION">
+<"PARTNER", "PARTNER">
+<"CLUSTER", "CLUSTER">
+<"SUB-CLUSTER", "SUB-CLUSTER">
+<"Region", "REGION">
+<"Province", "PROVINCE">
+<"BARANGAY", "BARANGAY">
+<"ACTIVITY", "ACTIVITY">
+<"STATUS \n(Ongoing, Completed, Planned)", "STATUS \n(ON-GOING, COMPLETED, PLANNED)">
+<"Municipality_City", "CITY/ MUNICIPALITY">
+<" START ", "START">
+<"FINISH", "FINISH">

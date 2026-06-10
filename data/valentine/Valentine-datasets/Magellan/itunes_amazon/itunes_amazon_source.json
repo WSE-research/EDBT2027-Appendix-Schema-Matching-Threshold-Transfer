@@ -1,0 +1,29 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "Song_Name": {
+        "type": "text"
+    },
+    "Artist_Name": {
+        "type": "text"
+    },
+    "Album_Name": {
+        "type": "text"
+    },
+    "Genre": {
+        "type": "text"
+    },
+    "Price": {
+        "type": "real"
+    },
+    "CopyRight": {
+        "type": "text"
+    },
+    "Time": {
+        "type": "text"
+    },
+    "Released": {
+        "type": "text"
+    }
+}

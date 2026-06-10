@@ -1,0 +1,12 @@
+<"Reported_Date", "Reported Date">
+<"Country", "Country Name">
+<"Country_Code", "Country Code">
+<"admin_1_code", "Admin1_Code">
+<"admin_1_label", "Nom Province">
+<"admin_2_code", "Admin2_Code">
+<"admin_2_label", "Nom Territoire">
+<"today_calculate", "Date_R2">
+<"hh_IDP_presents_36_mois", "Menages deplaces">
+<"ind_IDP_presents_36_mois", "Individus deplace">
+<"hh_RETs_presents_36mo", "nbre_menage_retournes">
+<"ind_RETs_presents_36mo", "nbre_individus_retournes">

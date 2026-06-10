@@ -1,0 +1,15 @@
+<"Country", "Country">
+<"Number of health workers killed", "Health Workers Killed">
+<"Number of health workers kidnapped", "Health Workers Kidnapped">
+<"Number of health workers arrested ", "Health Workers Arrested">
+<"Number of health workers injured", "Health Workers Injured">
+<"Total health worker assaulted", "Health Workers Assaulted">
+<"Total number of attacks on facilities which reported destruction", "Number of Attacks on Health Facilities Reporting Destruction">
+<"Total number of attacks on facilities which reported damage", "Number of Attacks on Health Facilities Reporting Damaged">
+<"Forceful entry into health facility", "Forceful Entry into Health Facility">
+<"Occupation of health facility", "Occupation of Health Facility">
+<"Health transportation destroyed", "Health Transportation Destroyed">
+<"Health transportation damaged", "Health Transportation Damaged">
+<"Health transportation stolen/highjacked", "Health Transportation Stolen/Highjacked">
+<"Looting, theft, robbery, burglary of health supplies", "Looting/Theft/Robbery/Burglary of Health Supplies">
+<"Obstruction to health care", "Obstruction to health care">

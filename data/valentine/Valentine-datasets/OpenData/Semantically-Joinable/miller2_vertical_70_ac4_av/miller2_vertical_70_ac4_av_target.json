@@ -1,0 +1,131 @@
+{
+    "miller2_FisY": {
+        "type": "text"
+    },
+    "miller2_ConID": {
+        "type": "int"
+    },
+    "miller2_DisIs": {
+        "type": "int"
+    },
+    "miller2_BraID": {
+        "type": "text"
+    },
+    "miller2_SecN": {
+        "type": "text"
+    },
+    "miller2_Bio": {
+        "type": "int"
+    },
+    "miller2_FCeID": {
+        "type": "int"
+    },
+    "miller2_KnowlFDevel": {
+        "type": "int"
+    },
+    "miller2_IndiIss": {
+        "type": "int"
+    },
+    "miller2_YoIs": {
+        "type": "int"
+    },
+    "miller2_ClChaMit": {
+        "type": "int"
+    },
+    "miller2_FSTCPerc": {
+        "type": "real"
+    },
+    "miller2_CIDABusiDeliMo": {
+        "type": "text"
+    },
+    "miller2_IRTCPe": {
+        "type": "real"
+    },
+    "miller2_DivID": {
+        "type": "text"
+    },
+    "miller2_CouRePe": {
+        "type": "real"
+    },
+    "miller2_CliChAdap": {
+        "type": "int"
+    },
+    "miller2_ChIs": {
+        "type": "int"
+    },
+    "miller2_ContiNa": {
+        "type": "text"
+    },
+    "miller2_Desertif": {
+        "type": "int"
+    },
+    "Sector name": {
+        "type": "text"
+    },
+    "miller2_OrganCla": {
+        "type": "text"
+    },
+    "miller2_OrgID": {
+        "type": "text"
+    },
+    "miller2_TrDevel": {
+        "type": "int"
+    },
+    "miller2_PBATy": {
+        "type": "text"
+    },
+    "miller2_BrN": {
+        "type": "text"
+    },
+    "miller2_SePe": {
+        "type": "real"
+    },
+    "miller2_ProjNum": {
+        "type": "text"
+    },
+    "miller2_OrgaNa": {
+        "type": "text"
+    },
+    "miller2_CouReID": {
+        "type": "text"
+    },
+    "miller2_Sta": {
+        "type": "text"
+    },
+    "miller2_OrgaT": {
+        "type": "text"
+    },
+    "miller2_CouReNa": {
+        "type": "text"
+    },
+    "miller2_AmSpe": {
+        "type": "real"
+    },
+    "miller2_UrIss": {
+        "type": "int"
+    },
+    "miller2_BilaAMa": {
+        "type": "int"
+    },
+    "miller2_EnviSust": {
+        "type": "int"
+    },
+    "miller2_PartDevelAGoGov": {
+        "type": "int"
+    },
+    "miller2_ICTAATFoDeve": {
+        "type": "int"
+    },
+    "miller2_GeEq": {
+        "type": "int"
+    },
+    "miller2_OrganSu": {
+        "type": "text"
+    },
+    "miller2_ProBrowCounID": {
+        "type": "text"
+    },
+    "miller2_SeID": {
+        "type": "int"
+    }
+}

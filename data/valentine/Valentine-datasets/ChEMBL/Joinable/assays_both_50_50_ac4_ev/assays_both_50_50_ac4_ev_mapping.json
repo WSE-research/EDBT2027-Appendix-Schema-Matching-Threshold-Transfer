@@ -1,0 +1,70 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_ASI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "assay_organism",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_ASOR"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_DOI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "assay_cell_type",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_ASSCET"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "src_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_SI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_ASST"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "src_assay_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_SASSI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_ASTI"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "tissue_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_TII"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "curated_by",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_CURB"
+        },
+        {
+            "source_table": "assays_both_50_50_ac4_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_both_50_50_ac4_ev_target",
+            "target_column": "assays_CEI"
+        }
+    ]
+}

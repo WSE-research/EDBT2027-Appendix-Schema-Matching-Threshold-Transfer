@@ -1,0 +1,10 @@
+<"Reported Date", "Snapshot date">
+<"date_enquete", "1#1#a#1 _Site Assessment Date">
+<"Country Name", "1#1#a#3_Admin 0">
+<"Country Code", "Admin 0 Pcode">
+<"admin_1_code", "Admin 1 Pcode">
+<"admin_1_label", "1#1#e#1_Admin 1">
+<"admin_2_code", "Admin 2 Pcode">
+<"admin_2_label", "1#1#e#2_Admin 2">
+<"admin_3_code", "Admin 3 Pcode">
+<"admin_3_label", "1#1#e#3_Admin 3">

@@ -1,0 +1,12 @@
+,ISO3,Name,Year,Start Date,Event Name,Hazard Category,Hazard Type,Internal Displacements
+ISO3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Name,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Year,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Conflict Stock Displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conflict Stock Displacement (Raw),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conflict Internal Displacements,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Conflict Internal Displacements (Raw),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disaster Internal Displacements,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disaster Internal Displacements (Raw),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disaster Stock Displacement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disaster Stock Displacement (Raw),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

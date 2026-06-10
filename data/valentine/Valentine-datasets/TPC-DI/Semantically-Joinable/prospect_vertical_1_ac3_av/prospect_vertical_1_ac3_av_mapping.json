@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_1_ac3_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_1_ac3_av_target",
+            "target_column": "gncd"
+        }
+    ]
+}

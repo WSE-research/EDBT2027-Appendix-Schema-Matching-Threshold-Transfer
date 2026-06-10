@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "AgencyID",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "AgeID"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "NumberCreditCards",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "NuCrCa"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "OwnOrRentFlag",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "OwOReF"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "PostalCode",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "PosCo"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "MiddleInitial",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "MiInit"
+        },
+        {
+            "source_table": "prospect_vertical_30_ac2_av_source",
+            "source_column": "NumberCars",
+            "target_table": "prospect_vertical_30_ac2_av_target",
+            "target_column": "NuC"
+        }
+    ]
+}

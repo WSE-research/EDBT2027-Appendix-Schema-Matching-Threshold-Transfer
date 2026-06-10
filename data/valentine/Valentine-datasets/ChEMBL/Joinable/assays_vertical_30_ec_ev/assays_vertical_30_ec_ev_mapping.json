@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "assay_id",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "assay_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "assay_tissue",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "assay_tissue"
+        },
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "doc_id",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "doc_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "cell_id",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "cell_id"
+        },
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "assay_type",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "assay_type"
+        },
+        {
+            "source_table": "assays_vertical_30_ec_ev_source",
+            "source_column": "assay_strain",
+            "target_table": "assays_vertical_30_ec_ev_target",
+            "target_column": "assay_strain"
+        }
+    ]
+}

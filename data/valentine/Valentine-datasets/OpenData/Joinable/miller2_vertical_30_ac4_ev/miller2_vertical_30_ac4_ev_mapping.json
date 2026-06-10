@@ -1,0 +1,94 @@
+{
+    "matches": [
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Fiscal year",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_FiY"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Section ID",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_SectID"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Regional program (marker)",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_RegiPro"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Untied amount(Project-level budget)",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_UnAmProBu"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Organisation class",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_OrganCl"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Organisation type",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_OrganTy"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Branch name",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_BraNa"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Division name",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_DiNa"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "ICT as a tool for development (marker)",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_ICTAAToFDevel"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "CIDA business delivery model (old)",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_CIDABuDeMod"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "CountryRegion ID",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_CounRegID"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "PBA type",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_PBAT"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Fund centre name",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_FCeN"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "IRTC percent",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_IRTCPe"
+        },
+        {
+            "source_table": "miller2_vertical_30_ac4_ev_source",
+            "source_column": "Organisation name",
+            "target_table": "miller2_vertical_30_ac4_ev_target",
+            "target_column": "miller2_OrgaN"
+        }
+    ]
+}

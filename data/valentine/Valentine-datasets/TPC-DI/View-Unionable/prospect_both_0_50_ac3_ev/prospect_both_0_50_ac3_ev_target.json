@@ -1,0 +1,53 @@
+{
+    "gncd": {
+        "type": "varchar(30)"
+    },
+    "wnrrntflg": {
+        "type": "varchar(1)"
+    },
+    "phn": {
+        "type": "varchar(30)"
+    },
+    "mplr": {
+        "type": "varchar(30)"
+    },
+    "mddlntl": {
+        "type": "varchar(1)"
+    },
+    "pstlcd": {
+        "type": "varchar(12)"
+    },
+    "gndr": {
+        "type": "varchar(1)"
+    },
+    "nmbrcrs": {
+        "type": "numeric(2)"
+    },
+    "stt": {
+        "type": "varchar(20)"
+    },
+    "ncm": {
+        "type": "numeric(9)"
+    },
+    "mrtlstts": {
+        "type": "varchar(1)"
+    },
+    "cntr": {
+        "type": "varchar(24)"
+    },
+    "nmbrchldrn": {
+        "type": "numeric(2)"
+    },
+    "g": {
+        "type": "numeric(3)"
+    },
+    "crdtrtng": {
+        "type": "numeric(4)"
+    },
+    "nmbrcrdtcrds": {
+        "type": "numeric(2)"
+    },
+    "ntwrth": {
+        "type": "numeric(12)"
+    }
+}

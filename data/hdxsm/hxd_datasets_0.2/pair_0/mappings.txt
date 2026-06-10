@@ -1,0 +1,6 @@
+<"Country Name", "Country Name">
+<"Country ISO3", "Country ISO3">
+<"Year", "Year">
+<"Indicator Name", "Indicator Name">
+<"Indicator Code", "Indicator Code">
+<"Value", "Value">

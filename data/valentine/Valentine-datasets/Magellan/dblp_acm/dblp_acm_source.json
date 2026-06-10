@@ -1,0 +1,17 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "title": {
+        "type": "text"
+    },
+    "authors": {
+        "type": "text"
+    },
+    "venue": {
+        "type": "text"
+    },
+    "year": {
+        "type": "int"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "fsclr": {
+        "type": "text"
+    },
+    "cntrrgnnm": {
+        "type": "text"
+    },
+    "ctstlfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstntp": {
+        "type": "text"
+    },
+    "mxmmcdcntrbtn(prjct-lvl)": {
+        "type": "real"
+    },
+    "knwldgfrdvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnsb-clss": {
+        "type": "text"
+    },
+    "brnchnm": {
+        "type": "text"
+    },
+    "dvsnd": {
+        "type": "text"
+    },
+    "ndgnssss(mrkr)": {
+        "type": "int"
+    },
+    "fstcprcnt": {
+        "type": "real"
+    },
+    "prtcptrdvlpmntndgdgvrnnc": {
+        "type": "int"
+    },
+    "rbnsss(mrkr)": {
+        "type": "int"
+    },
+    "rgnlprgrm(mrkr)": {
+        "type": "int"
+    },
+    "rtcprcnt": {
+        "type": "real"
+    },
+    "sctnnm": {
+        "type": "text"
+    },
+    "clmtchngdpttn(mrkr)": {
+        "type": "int"
+    },
+    "fndcntrnm": {
+        "type": "text"
+    },
+    "stts": {
+        "type": "text"
+    },
+    "fndcntrd": {
+        "type": "int"
+    },
+    "dsbltsss(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnnm": {
+        "type": "text"
+    },
+    "cfl(mrkr)": {
+        "type": "int"
+    },
+    "sctnd": {
+        "type": "text"
+    },
+    "sctrd": {
+        "type": "int"
+    },
+    "prgrmmngprcss(nw)": {
+        "type": "text"
+    },
+    "thsss(mrkr)": {
+        "type": "int"
+    },
+    "mntspnt": {
+        "type": "real"
+    },
+    "rgnstnclss": {
+        "type": "text"
+    },
+    "clmtchngmtgtn(mrkr)": {
+        "type": "int"
+    },
+    "ntdmnt(prjct-lvlbdgt)": {
+        "type": "real"
+    },
+    "bdvrst(mrkr)": {
+        "type": "int"
+    },
+    "prjctbrwsrcntrd": {
+        "type": "text"
+    },
+    "dvsnnm": {
+        "type": "text"
+    },
+    "trddvlpmnt(mrkr)": {
+        "type": "int"
+    },
+    "gndrqlt(mrkr)": {
+        "type": "int"
+    },
+    "rgnstnd": {
+        "type": "text"
+    },
+    "cntnntd": {
+        "type": "int"
+    },
+    "cntnntnm": {
+        "type": "text"
+    },
+    "cntrrgnd": {
+        "type": "text"
+    },
+    "cntrrgnprcnt": {
+        "type": "real"
+    },
+    "sctrnm": {
+        "type": "text"
+    },
+    "sctrprcnt": {
+        "type": "real"
+    }
+}

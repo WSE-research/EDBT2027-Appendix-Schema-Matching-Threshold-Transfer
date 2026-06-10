@@ -1,0 +1,7 @@
+ea50b282-1730-41bb-96cc-60c7da808998,Suite of Food Security Indicators for Guinea
+f3a28838-ff6a-4bcd-b0c2-3ed0e4345c83,pblStatsSum
+---hxl_tags---
+#country+name
+#indicator+code
+#indicator+name
+#indicator+value+num

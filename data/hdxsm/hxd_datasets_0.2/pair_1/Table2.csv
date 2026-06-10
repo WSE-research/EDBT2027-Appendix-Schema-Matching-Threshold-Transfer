@@ -1,0 +1,101 @@
+SHCC Event Code,Incident date,ISO3 codes,Perpetrator ,Weapons use,Total health worker killed,Total health worker kidnapped,Total health worker injured,Total health worker assaulted,Total number of attacks on facilities which reported destruction,Total number of attacks on facilities which reported damage,Conflict Event,politicalRelatedViolence,ebolaRelatedViolence,vaccinationRelatedViolence,COVID 19 Event
+2019SHCC1190,2019-01-24 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,1,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32353,2022-05-09 00:00:00,UKR,State military,,,,,,1,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC500,2018-01-09 00:00:00,PSE,State military,Firearms,,,1,,,,ConflictEvent,Politically-related,NotApplicable,NotApplicable,NotApplicable
+31992,2022-04-01 00:00:00,HTI,Criminal,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+21994,2016-01-11 00:00:00,AFG,State military,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+355,2009-06-29 00:00:00,SDN,Opposition group,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2017SHCC40,2017-02-18 00:00:00,CAF,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC903,2018-09-14 00:00:00,SYR,State military,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC446,2019-04-08 00:00:00,SOM,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2017SHCC633,2017-04-26 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,1,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+543,2009-09-21 00:00:00,COL,Opposition group,Firearms,1,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+33144,2022-03-13 00:00:00,UKR,State military,"Aerial bombing, missiles and shelling",,,,,0,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32744,2021-05-19 00:00:00,CAF,No Information,,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32753,2022-05-09 00:00:00,USA,Civilian,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+26477,2020-11-01 00:00:00,NGA,Opposition group,Firearms,,1,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+1383,2010-06-11 00:00:00,CMR,Criminal,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC73,2018-08-14 00:00:00,AFG,,,1,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+33523,2021-05-14 00:00:00,PSE,State military,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC55,2018-07-11 00:00:00,AFG,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+35292,2022-09-28 00:00:00,PSE,No Information,Firearms,,,1,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+26463,2020-01-31 00:00:00,NGA,Opposition group,Arson,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC1113,2019-08-14 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",3,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+34642,2022-09-09 00:00:00,UKR,State military,"Aerial bombing, missiles and shelling",,,,,0,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+35030,2022-03-02 00:00:00,UKR,State military,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+745,2009-08-26 00:00:00,AFG,Opposition group,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2017SHCC588,2017-03-07 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+19237,2013-12-28 00:00:00,PAK,Other,Firearms,1,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC815,2018-03-18 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+34712,2022-03-15 00:00:00,UKR,State military,,,,,,0,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+22837,2011-06-06 00:00:00,COD,Opposition group,Firearms,2,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+19628,2009-01-01 00:00:00,AFG,More than one perpetrator,,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+561,2009-05-12 00:00:00,AFG,More than one perpetrator,Firearms,,,,2,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+31788,2021-07-12 00:00:00,CAF,Opposition group,Firearms,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC506,2018-01-16 00:00:00,PSE,,,,,1,,,,ConflictEvent,Politically-related,NotApplicable,NotApplicable,NotApplicable
+34840,2022-09-10 00:00:00,BFA,Opposition group,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+33147,2022-06-19 00:00:00,COD,More than one perpetrator,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+1976,2011-12-31 00:00:00,PAK,Criminal,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+34681,2022-08-14 00:00:00,HTI,Opposition group,Firearms,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC1090,2019-01-06 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+33663,2021-05-14 00:00:00,PSE,State military,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC969,2018-10-02 00:00:00,CAF,Opposition group,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+26163,2020-04-25 00:00:00,GBR,Civilian,,,,,,,,NotApplicable,NotApplicable,COVIDEvent,NotApplicable,NotApplicable
+2017SHCC481,2017-11-16 00:00:00,YEM,State military,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+23033,2013-08-25 00:00:00,AFG,Opposition group,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+33599,2022-07-09 00:00:00,MMR,Opposition group,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+5475,2009-08-28 00:00:00,SOM,Other,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+34513,2022-08-06 00:00:00,MMR,State military,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+30062,2021-10-24 00:00:00,MMR,Opposition group,IEDs,,,2,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+769,2009-12-22 00:00:00,CAF,Opposition group,Firearms,,3,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+22396,2018-01-08 00:00:00,NGA,Opposition group,Firearms,,1,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+23573,2013-05-18 00:00:00,NGA,Opposition group,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32502,2021-11-12 00:00:00,COD,No Information,Firearms,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+19400,2014-03-09 00:00:00,CAF,Opposition group,Firearms,1,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC665,2019-03-23 00:00:00,COD,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+2018SHCC313,2018-05-14 00:00:00,PSE,State military,Firearms,,,3,,,,ConflictEvent,Politically-related,NotApplicable,NotApplicable,NotApplicable
+2019SHCC405,2019-03-05 00:00:00,PSE,State military,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+30236,2021-12-03 00:00:00,MMR,State military,Firearms,,,,,,,ConflictEvent,Politically-related,NotApplicable,NotApplicable,NotApplicable
+32961,2021-01-30 00:00:00,AFG,No Information,,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+30241,2021-12-07 00:00:00,MMR,No Information,IEDs,,,1,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC610,2018-05-17 00:00:00,UKR,,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+1334,2010-08-30 00:00:00,AFG,More than one perpetrator,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+20461,2016-01-01 00:00:00,ETH,More than one perpetrator,,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2017SHCC313,2017-04-01 00:00:00,PAK,Opposition group,Firearms,1,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC656,2019-03-21 00:00:00,COD,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+2019SHCC199,2019-01-04 00:00:00,PSE,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+26988,2021-01-22 00:00:00,YEM,Opposition group,Firearms,,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32237,2022-03-24 00:00:00,MMR,State military,Firearms,1,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+22766,2012-06-01 00:00:00,COD,Opposition group,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC1027,2019-01-11 00:00:00,YEM,Opposition group,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC802,2018-03-06 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",1,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC183,2018-01-03 00:00:00,LBY,,,,,1,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+24317,2020-03-03 00:00:00,COL,Law enforcement,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+31810,2022-03-04 00:00:00,UKR,State military,"Aerial bombing, missiles and shelling",,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32575,2022-04-02 00:00:00,HTI,No Information,Firearms,1,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+19716,2011-05-22 00:00:00,CAF,Opposition group,Firearms,,,,,0,0,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+31621,2017-09-16 00:00:00,NGA,Opposition group,,,1,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+35032,2022-03-01 00:00:00,UKR,State military,Firearms,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC298,2018-04-28 00:00:00,PSE,,,,,1,,,,ConflictEvent,Politically-related,NotApplicable,NotApplicable,NotApplicable
+1255,2020-06-12 21:25:00,YEM,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC816,2018-03-20 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+29367,2021-08-30 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,0,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+7034,2012-07-18 00:00:00,COD,Opposition group,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC521,2019-02-27 00:00:00,COD,Opposition group,Arson,,,,,,1,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+113,2020-02-07 00:00:00,YEM,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC838,2019-08-06 00:00:00,COD,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+1014,2009-04-21 00:00:00,LKA,No Information,Firearms,1,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC17,2019-04-11 00:00:00,AFG,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+34423,2022-03-08 00:00:00,UKR,State military,"Aerial bombing, missiles and shelling",,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC944,2019-01-11 00:00:00,COD,,Arson,,,,,,,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+2018SHCC788,2018-02-23 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",3,,,,1,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC821,2019-07-20 00:00:00,COD,,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+32980,2021-09-17 00:00:00,MMR,No Information,Firearms,1,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2018SHCC868,2018-06-24 00:00:00,SYR,State military,"Aerial bombing, missiles and shelling",,,,,,1,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2017SHCC393,2017-07-01 00:00:00,ETH,,Arson,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+2019SHCC876,2019-09-04 00:00:00,COD,,Arson,,,,,,1,ConflictEvent,NotApplicable,NotApplicable,Ebola-related,NotApplicable
+35386,2021-03-22 00:00:00,SDN,Opposition group,Firearms,,5,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+21200,2016-06-01 00:00:00,SYR,Opposition group,Firearms,,,,,,,NotApplicable,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+32122,2021-03-08 00:00:00,SYR,No Information,Firearms,,,1,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+35224,2022-10-09 00:00:00,PSE,No Information,,,,,,,,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable
+31352,2021-03-16 00:00:00,CAF,No Information,"Blunt, dagger, knife and machetes",,,,,0,0,ConflictEvent,NotApplicable,NotApplicable,NotApplicable,NotApplicable

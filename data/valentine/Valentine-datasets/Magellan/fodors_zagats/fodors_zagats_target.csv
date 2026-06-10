@@ -1,0 +1,101 @@
+id,name,addr,city,phone,type,class
+0,` apple pan the ',' 10801 w. pico blvd. ',` west la ',310-475-3585,american,534
+1,` asahi ramen ',' 2027 sawtelle blvd. ',` west la ',310-479-2231,` noodle shops ',535
+2,` baja fresh ',' 3345 kimber dr. ',` westlake village ',805-498-4049,mexican,536
+3,` belvedere the ',' 9882 little santa monica blvd. ',` beverly hills ',310-788-2306,` pacific new wave ',537
+4,` benita \ 's frites ',' 1433 third st. promenade ',` santa monica ',310-458-2889,` fast food ',538
+5,` bernard \ 's ',' 515 s. olive st. ',` los angeles ',213-612-1580,continental,539
+6,` bistro 45 ','45 s. mentor ave. ',pasadena,818-795-2478,californian,540
+7,` brent \ 's deli ',' 19565 parthenia ave. ',northridge,818-886-5679,delis,541
+8,` brighton coffee shop ',' 9600 brighton way ',` beverly hills ',310-276-7732,` coffee shops ',542
+9,` bristol farms market cafe ',' 1570 rosecrans ave. s. ',pasadena,310-643-5229,californian,543
+10,` bruno \ 's ',' 3838 centinela ave. ',` mar vista ',310-397-5703,italian,544
+11,` cafe \ '50s ',' 838 lincoln blvd. ',venice,310-399-1955,american,545
+12,` cafe blanc ',' 9777 little santa monica blvd. ',` beverly hills ',310-888-0108,` pacific new wave ',546
+13,` cassell \ 's ',' 3266 w. sixth st. ',la,213-480-8668,hamburgers,547
+14,` chez melange ',' 1716 pch ',` redondo beach ',310-540-1222,eclectic,548
+15,diaghilev,' 1020 n. san vicente blvd. ',` w. hollywood ',310-854-1111,russian,549
+16,` don antonio \ 's ',' 1136 westwood blvd. ',westwood,310-209-1422,italian,550
+17,` duke \ 's ',' 8909 sunset blvd. ',` w. hollywood ',310-652-3100,` coffee shops ',551
+18,` falafel king ',' 1059 broxton ave. ',westwood,310-208-4444,` middle eastern ',552
+19,` feast from the east ',' 1949 westwood blvd. ',` west la ',310-475-0400,chinese,553
+20,` gumbo pot the ',' 6333 w. third st. ',la,213-933-0358,cajun/creole,554
+21,` hollywood hills coffee shop ',' 6145 franklin ave. ',hollywood,213-467-7678,` coffee shops ',555
+22,` indo cafe ',' 10428 1/2 national blvd. ',la,310-815-1290,indonesian,556
+23,` jan \ 's family restaurant ',' 8424 beverly blvd. ',la,213-651-2866,` coffee shops ',557
+24,jiraffe,' 502 santa monica blvd ',` santa monica ',310-917-6671,californian,558
+25,` jody maroni \ 's sausage kingdom ',' 2011 ocean front walk ',venice,310-306-1995,` hot dogs ',559
+26,` joe \ 's ',' 1023 abbot kinney blvd. ',venice,310-399-5811,` american ( new ) ',560
+27,` john o \ ` groats ',' 10516 w. pico blvd. ',` west la ',310-204-0692,` coffee shops ',561
+28,` johnnie \ 's pastrami ',' 4017 s. sepulveda blvd. ',` culver city ',310-397-6654,delis,562
+29,` johnny reb \ 's southern smokehouse ',' 4663 long beach blvd. ',` long beach ',310-423-7327,southern/soul,563
+30,` johnny rockets ( la ) ',' 7507 melrose ave. ',la,213-651-3361,american,564
+31,` killer shrimp ',' 4000 colfax ave. ',` studio city ',818-508-1570,seafood,565
+32,` kokomo cafe ',' 6333 w. third st. ',la,213-933-0773,american,566
+33,` koo koo roo ',' 8393 w. beverly blvd. ',la,213-655-9045,chicken,567
+34,` la cachette ',' 10506 little santa monica blvd. ',` century city ',310-470-4992,` french ( new ) ',568
+35,` la salsa ( la ) ',' 22800 pch ',malibu,310-456-6299,mexican,569
+36,` la serenata de garibaldi ',' 1842 e. first ',` st. boyle hts . ',213-265-2887,mexican/tex-mex,570
+37,` langer \ 's ',' 704 s. alvarado st. ',la,213-483-8050,delis,571
+38,` local nochol ',' 30869 thousand oaks blvd. ',` westlake village ',818-706-7706,` health food ',572
+39,` main course the ',' 10509 w. pico blvd. ',` rancho park ',310-475-7564,american,573
+40,` mani \ 's bakery & espresso bar ',' 519 s. fairfax ave. ',la,213-938-8800,desserts,574
+41,` martha \ 's ',' 22nd street grill 25 22nd ',` st. hermosa beach ',310-376-7786,american,575
+42,` maxwell \ 's cafe ',' 13329 washington blvd. ',` marina del rey ',310-306-7829,american,576
+43,` michael \ 's ( los angeles ) ',' 1147 third st. ',` santa monica ',310-451-0843,californian,577
+44,mishima,' 8474 w. third st. ',la,213-782-0181,` noodle shops ',578
+45,` mo better meatty meat ',' 7261 melrose ave. ',la,213-935-5280,hamburgers,579
+46,` mulberry st. ',' 17040 ventura blvd. ',encino,818-906-8881,pizza,580
+47,` ocean park cafe ',' 3117 ocean park blvd. ',` santa monica ',310-452-5728,american,581
+48,` ocean star ',' 145 n. atlantic blvd. ',` monterey park ',818-308-2128,seafood,582
+49,` original pantry bakery ',' 875 s. figueroa st. downtown ',la,213-627-6879,diners,583
+50,` parkway grill ',' 510 s. arroyo pkwy . ',pasadena,818-795-1001,californian,584
+51,` pho hoa ',' 642 broadway ',chinatown,213-626-5530,vietnamese,585
+52,` pink \ 's famous chili dogs ',' 709 n. la brea ave. ',la,213-931-4223,` hot dogs ',586
+53,` poquito mas ',' 2635 w. olive ave. ',burbank,818-563-2252,mexican,587
+54,r-23,' 923 e. third st. ',` los angeles ',213-687-7178,japanese,588
+55,` rae \ 's ',' 2901 pico blvd. ',` santa monica ',310-828-7937,diners,589
+56,` rubin \ 's red hots ',' 15322 ventura blvd. ',encino,818-905-6515,` hot dogs ',590
+57,` ruby \ 's ( la ) ','45 s. fair oaks ave. ',pasadena,818-796-7829,diners,591
+58,` russell \ 's burgers ',' 1198 pch ',` seal beach ',310-596-9556,hamburgers,592
+59,` ruth \ 's chris steak house ( los angeles ) ',' 224 s. beverly dr. ',` beverly hills ',310-859-8744,steakhouses,593
+60,shiro,' 1505 mission st. s. ',pasadena,818-799-4774,` pacific new wave ',594
+61,` sushi nozawa ',' 11288 ventura blvd. ',` studio city ',818-508-7017,japanese,595
+62,` sweet lady jane ',' 8360 melrose ave. ',la,213-653-7145,desserts,596
+63,taiko,' 11677 san vicente blvd. ',brentwood,310-207-7782,` noodle shops ',597
+64,` tommy \ 's ',' 2575 beverly blvd. ',la,213-389-9060,hamburgers,598
+65,` uncle bill \ 's pancake house ',' 1305 highland ave. ',` manhattan beach ',310-545-5177,diners,599
+66,` water grill ',' 544 s. grand ave. ',` los angeles ',213-891-0900,seafood,600
+67,` zankou chicken ',' 1415 e. colorado st. ',glendale,818-244-1937,` middle eastern ',601
+68,` afghan kebab house ',' 764 ninth ave. ',` new york city ',212-307-1612,afghan,602
+69,arcadia,'21 e. 62nd st. ',` new york city ',212-223-2900,` american ( new ) ',603
+70,` benny \ 's burritos ','93 ave. a ',` new york city ',212-254-2054,mexican,604
+71,` cafe con leche ',' 424 amsterdam ave. ',` new york city ',212-595-7000,cuban,605
+72,` corner bistro ',' 331 w. fourth st. ',` new york city ',212-242-9502,hamburgers,606
+73,` cucina della fontana ',' 368 bleecker st. ',` new york city ',212-242-0636,italian,607
+74,` cucina di pesce ','87 e. fourth st. ',` new york city ',212-260-6800,seafood,608
+75,darbar,'44 w. 56th st. ',` new york city ',212-432-7227,indian,609
+76,` ej \ 's luncheonette ',' 432 sixth ave. ',` new york city ',212-473-5555,diners,610
+77,` edison cafe ',' 228 w. 47th st. ',` new york city ',212-840-5000,diners,611
+78,` elias corner ',' 24-02 31st st. ',queens,718-932-1510,greek,612
+79,` good enough to eat ',' 483 amsterdam ave. ',` new york city ',212-496-0163,american,613
+80,` gray \ 's papaya ',' 2090 broadway ',` new york city ',212-799-0243,` hot dogs ',614
+81,` il mulino ','86 w. third st. ',` new york city ',212-673-3783,italian,615
+82,` jackson diner ',' 37-03 74th st. ',queens,718-672-1232,indian,616
+83,` joe \ 's shanghai ',' 9 pell st. ',queens,718-539-3838,chinese,617
+84,` john \ 's pizzeria ','48 w. 65th st. ',` new york city ',212-721-7001,pizza,618
+85,` kelley & ping ',' 127 greene st. ',` new york city ',212-228-1212,pan-asian,619
+86,kiev,' 117 second ave. ',` new york city ',212-674-4040,ukrainian,620
+87,` kuruma zushi ',' 2nd fl . ',` new york city ',212-317-2802,japanese,621
+88,` la caridad ',' 2199 broadway ',` new york city ',212-874-2780,cuban,622
+89,` la grenouille ',' 3 e. 52nd st. ',` new york city ',212-752-1495,` french ( classic ) ',623
+90,` lemongrass grill ',' 61a seventh ave. ',brooklyn,718-399-7100,thai,624
+91,` lombardi \ 's ','32 spring st. ',` new york city ',212-941-7994,pizza,625
+92,` marnie \ 's noodle shop ',' 466 hudson st. ',` new york city ',212-741-3214,asian,626
+93,menchanko-tei,'39 w. 55th st. ',` new york city ',212-247-1585,japanese,627
+94,` mitali east-west ',' 296 bleecker st. ',` new york city ',212-989-1367,indian,628
+95,` monsoon ( ny ) ',' 435 amsterdam ave. ',` new york city ',212-580-8686,thai,629
+96,moustache,' 405 atlantic ave. ',brooklyn,718-852-5555,` middle eastern ',630
+97,nobu,' 105 hudson st. ',` new york city ',212-219-0500,japanese,631
+98,` one if by land tibs ','17 barrow st. ',` new york city ',212-228-0822,continental,632
+99,` oyster bar ',` lower level ',` new york city ',212-490-6650,seafood,633

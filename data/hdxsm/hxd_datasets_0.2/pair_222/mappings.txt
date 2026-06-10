@@ -1,0 +1,14 @@
+<"date reported", "Date Reported">
+<"Date of Assessment", "1.1.a.1 Date of Current Survey">
+<"Round Number:", "1.1.a.2 Survey Round">
+<"Province (Admin 1)", "1.1.e.2 Site location (Province)">
+<"Province P_Code", "Province PCODE">
+<"District (Admin 2)", "1.1.e.3 Site location (District)">
+<"District P_Code", "District PCODE">
+<"Post (Admin 3)", "1.1.e.4 Site location (Posto)">
+<"Post P_Code", "Posto PCODE">
+<"Latitude", "Latitude">
+<"Longitude", "Longitude">
+<"Total Households Affected", "2.1.a.1 Number of families/households">
+<"Total Individuals Affected", "2.1.b.1 Total number of IDP individuals">
+<"Locality", "Locality:">

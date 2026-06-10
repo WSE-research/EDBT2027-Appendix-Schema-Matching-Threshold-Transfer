@@ -1,0 +1,15 @@
+a01eab82-abd8-4c8e-89d9-a27a58f1e080,DTM DRC BA Ituri Jul2022 R8
+28a7ae5c-8808-4df7-8726-ec8321db3411,DTM DRC BA South Kivu Apr 2021 R6
+---hxl_tags---
+#country+name
+#country+code
+#date+reported
+#adm1+code
+#adm1+name
+#adm2+code
+#adm2+name
+#date+occurred
+#affected+idps+hh
+#affected+idps+ind
+#affected+returnees+hh
+#affected+returnees+ind

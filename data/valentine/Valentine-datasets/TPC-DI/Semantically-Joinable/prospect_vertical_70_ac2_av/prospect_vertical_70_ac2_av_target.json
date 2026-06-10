@@ -1,0 +1,59 @@
+{
+    "AgeID": {
+        "type": "varchar(30)"
+    },
+    "CrRa": {
+        "type": "numeric(4)"
+    },
+    "AddLi1": {
+        "type": "varchar(80)"
+    },
+    "Sta": {
+        "type": "varchar(20)"
+    },
+    "NWo": {
+        "type": "numeric(12)"
+    },
+    "C": {
+        "type": "varchar(25)"
+    },
+    "Ag": {
+        "type": "numeric(3)"
+    },
+    "Coun": {
+        "type": "varchar(24)"
+    },
+    "Ph": {
+        "type": "varchar(30)"
+    },
+    "NumChi": {
+        "type": "numeric(2)"
+    },
+    "FirN": {
+        "type": "varchar(30)"
+    },
+    "OORF": {
+        "type": "varchar(1)"
+    },
+    "NumCrCa": {
+        "type": "numeric(2)"
+    },
+    "In": {
+        "type": "numeric(9)"
+    },
+    "NumC": {
+        "type": "numeric(2)"
+    },
+    "AddL2": {
+        "type": "varchar(80)"
+    },
+    "PoC": {
+        "type": "varchar(12)"
+    },
+    "MaSt": {
+        "type": "varchar(1)"
+    },
+    "Empl": {
+        "type": "varchar(30)"
+    }
+}

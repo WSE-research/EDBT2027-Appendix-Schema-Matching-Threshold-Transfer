@@ -1,0 +1,44 @@
+{
+    "AgencyID": {
+        "type": "varchar(30)"
+    },
+    "Employer": {
+        "type": "varchar(30)"
+    },
+    "City": {
+        "type": "varchar(25)"
+    },
+    "NumberCreditCards": {
+        "type": "numeric(2)"
+    },
+    "Gender": {
+        "type": "varchar(1)"
+    },
+    "MiddleInitial": {
+        "type": "varchar(1)"
+    },
+    "LastName": {
+        "type": "varchar(30)"
+    },
+    "FirstName": {
+        "type": "varchar(30)"
+    },
+    "AddressLine1": {
+        "type": "varchar(80)"
+    },
+    "AddressLine2": {
+        "type": "varchar(80)"
+    },
+    "PostalCode": {
+        "type": "varchar(12)"
+    },
+    "State": {
+        "type": "varchar(20)"
+    },
+    "Country": {
+        "type": "varchar(24)"
+    },
+    "Phone": {
+        "type": "varchar(30)"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "FisYe": {
+        "type": "text"
+    },
+    "IRTCPer": {
+        "type": "real"
+    },
+    "FSTCPerc": {
+        "type": "real"
+    },
+    "IndigIs": {
+        "type": "int"
+    },
+    "CliChMit": {
+        "type": "int"
+    },
+    "YouIss": {
+        "type": "int"
+    },
+    "BraN": {
+        "type": "text"
+    },
+    "ConID": {
+        "type": "int"
+    },
+    "PrograPr": {
+        "type": "text"
+    },
+    "RePr": {
+        "type": "int"
+    },
+    "OrgSu": {
+        "type": "text"
+    },
+    "CIDABuDeliMo": {
+        "type": "text"
+    },
+    "SePer": {
+        "type": "real"
+    },
+    "UnAmoProjBud": {
+        "type": "real"
+    },
+    "ICTAAToFDevelo": {
+        "type": "int"
+    },
+    "SeN": {
+        "type": "text"
+    },
+    "KnoFDeve": {
+        "type": "int"
+    },
+    "Deser": {
+        "type": "int"
+    },
+    "ConNa": {
+        "type": "text"
+    },
+    "DisabIs": {
+        "type": "int"
+    },
+    "ChilIs": {
+        "type": "int"
+    },
+    "CoRegPe": {
+        "type": "real"
+    },
+    "FCenNa": {
+        "type": "text"
+    },
+    "TraDevelo": {
+        "type": "int"
+    },
+    "PBATy": {
+        "type": "text"
+    },
+    "GenEq": {
+        "type": "int"
+    },
+    "ProjBrCoID": {
+        "type": "text"
+    },
+    "DivID": {
+        "type": "text"
+    },
+    "OrganN": {
+        "type": "text"
+    },
+    "CFLI": {
+        "type": "int"
+    },
+    "CouReN": {
+        "type": "text"
+    },
+    "OrgaID": {
+        "type": "text"
+    },
+    "OrgCl": {
+        "type": "text"
+    },
+    "SeNa": {
+        "type": "text"
+    },
+    "AmoSp": {
+        "type": "real"
+    },
+    "EnvSustain": {
+        "type": "int"
+    },
+    "CliChAda": {
+        "type": "int"
+    },
+    "ParticiDeveloAnGoGover": {
+        "type": "int"
+    },
+    "Bio": {
+        "type": "int"
+    },
+    "UrbIss": {
+        "type": "int"
+    },
+    "OrgaT": {
+        "type": "text"
+    },
+    "CouReID": {
+        "type": "text"
+    },
+    "SecID": {
+        "type": "int"
+    }
+}

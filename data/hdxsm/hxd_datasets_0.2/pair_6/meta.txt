@@ -1,0 +1,11 @@
+cf235bb7-33d1-4770-af50-d906c2234b91,2017 SHCC Overview Data.xlsx
+a26a7e59-31a4-4c6b-a3a4-0d290a8fed13,2022 Attacks on Health Care Incident Data.xlsx
+---hxl_tags---
+#country+name
+#affected+healthworker+killed
+#affected+healthworker+injured
+#affected+healthworker+assaulted
+#affected+healthworker+assaulted
+#affected+healthworker+SGBV
+#affected+healthworker+kidnapped
+#affected+healthworker+arrested

@@ -1,0 +1,7 @@
+<"State_Pcode", "State_Pcode">
+<"State of Displacement", "State">
+<"LGA_Pcode", "LGA_Pcode">
+<"LGA", "LGA">
+<"Ward", "Ward">
+<"Estimated Household Number", "Number households">
+<"Location_type", "Type">
