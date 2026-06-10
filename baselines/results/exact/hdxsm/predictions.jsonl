@@ -1,0 +1,78 @@
+{"source_col": "Country Name", "gt_target": "Country Name", "predicted_target": "Country Name", "confidence": 1.0}
+{"source_col": "Country ISO3", "gt_target": "Country ISO3", "predicted_target": "Country ISO3", "confidence": 1.0}
+{"source_col": "Year", "gt_target": "Year", "predicted_target": "Year", "confidence": 1.0}
+{"source_col": "Indicator Name", "gt_target": "Indicator Name", "predicted_target": "Indicator Name", "confidence": 1.0}
+{"source_col": "Indicator Code", "gt_target": "Indicator Code", "predicted_target": "Indicator Code", "confidence": 1.0}
+{"source_col": "Value", "gt_target": "Value", "predicted_target": "Value", "confidence": 1.0}
+{"source_col": "SHCC Event Code", "gt_target": "SHCC Event Code", "predicted_target": "SHCC Event Code", "confidence": 1.0}
+{"source_col": "Incident date", "gt_target": "Incident date", "predicted_target": "Incident date", "confidence": 1.0}
+{"source_col": "Country", "gt_target": null, "predicted_target": "ISO3 codes", "confidence": 0.0}
+{"source_col": "Perpetrator ", "gt_target": "Perpetrator ", "predicted_target": "Perpetrator ", "confidence": 1.0}
+{"source_col": "Weapons use", "gt_target": "Weapons use", "predicted_target": "Weapons use", "confidence": 1.0}
+{"source_col": "Total health worker killed", "gt_target": "Total health worker killed", "predicted_target": "Total health worker killed", "confidence": 1.0}
+{"source_col": "Total health worker kidnapped", "gt_target": "Total health worker kidnapped", "predicted_target": "Total health worker kidnapped", "confidence": 1.0}
+{"source_col": "Total health worker arrested ", "gt_target": null, "predicted_target": "Conflict Event", "confidence": 0.0}
+{"source_col": "Total health worker threatened/intimidated ", "gt_target": null, "predicted_target": "politicalRelatedViolence", "confidence": 0.0}
+{"source_col": "Total health worker injured", "gt_target": "Total health worker injured", "predicted_target": "Total health worker injured", "confidence": 1.0}
+{"source_col": "Total health worker assaulted", "gt_target": "Total health worker assaulted", "predicted_target": "Total health worker assaulted", "confidence": 1.0}
+{"source_col": "Total health worker sexual violence", "gt_target": null, "predicted_target": "ebolaRelatedViolence", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported destruction", "gt_target": "Total number of attacks on facilities which reported destruction", "predicted_target": "Total number of attacks on facilities which reported destruction", "confidence": 1.0}
+{"source_col": "Total number of attacks on facilities which reported damage", "gt_target": "Total number of attacks on facilities which reported damage", "predicted_target": "Total number of attacks on facilities which reported damage", "confidence": 1.0}
+{"source_col": "Health transportation destroyed", "gt_target": null, "predicted_target": "vaccinationRelatedViolence", "confidence": 0.0}
+{"source_col": "Health transportation damaged", "gt_target": null, "predicted_target": "COVID 19 Event", "confidence": 0.0}
+{"source_col": "Health transportation stolen/highjacked", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "SHCC Event Code", "gt_target": null, "predicted_target": "Date", "confidence": 0.0}
+{"source_col": "Incident date", "gt_target": "Date", "predicted_target": "Country ISO", "confidence": 0.0}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 1.0}
+{"source_col": "Perpetrator ", "gt_target": "Reported Perpetrator Name", "predicted_target": "Reported Perpetrator", "confidence": 0.0}
+{"source_col": "Weapons use", "gt_target": "Weapon Carried/Used", "predicted_target": "Reported Perpetrator Name", "confidence": 0.0}
+{"source_col": "Total health worker killed", "gt_target": "Health Workers Killed", "predicted_target": "Weapon Carried/Used", "confidence": 0.0}
+{"source_col": "Total health worker kidnapped", "gt_target": "Health Workers Kidnapped", "predicted_target": "Number of Attacks on Health Facilities Reporting Destruction", "confidence": 0.0}
+{"source_col": "Total health worker arrested ", "gt_target": "Health Workers Arrested", "predicted_target": "Number of Attacks on Health Facilities Reporting Damaged", "confidence": 0.0}
+{"source_col": "Total health worker threatened/intimidated ", "gt_target": "Health Workers Threatened", "predicted_target": "Forceful Entry into Health Facility", "confidence": 0.0}
+{"source_col": "Total health worker injured", "gt_target": "Health Workers Injured", "predicted_target": "Occupation of Health Facility", "confidence": 0.0}
+{"source_col": "Total health worker assaulted", "gt_target": "Health Workers Assaulted", "predicted_target": "Obstruction to health care", "confidence": 0.0}
+{"source_col": "Total health worker sexual violence", "gt_target": "Health Workers Sexually Assaulted", "predicted_target": "Access Denied", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported destruction", "gt_target": "Number of Attacks on Health Facilities Reporting Destruction", "predicted_target": "Health Workers Killed", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported damage", "gt_target": "Number of Attacks on Health Facilities Reporting Damaged", "predicted_target": "Looting/Theft/Robbery/Burglary of Health Supplies", "confidence": 0.0}
+{"source_col": "Health transportation destroyed", "gt_target": "Health Transportation Destroyed", "predicted_target": "Health Transportation Destroyed", "confidence": 1.0}
+{"source_col": "Health transportation damaged", "gt_target": "Health Transportation Damaged", "predicted_target": "Health Transportation Damaged", "confidence": 1.0}
+{"source_col": "Health transportation stolen/highjacked", "gt_target": "Health Transportation Stolen/Highjacked", "predicted_target": "Health Transportation Stolen/Highjacked", "confidence": 1.0}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 1.0}
+{"source_col": "Total SHCC Attacks 2019", "gt_target": null, "predicted_target": "Date", "confidence": 0.0}
+{"source_col": "Total health worker killed", "gt_target": "Health Workers Killed", "predicted_target": "Country ISO", "confidence": 0.0}
+{"source_col": "Total health worker kidnapped", "gt_target": "Health Workers Kidnapped", "predicted_target": "Reported Perpetrator", "confidence": 0.0}
+{"source_col": "Total health worker arrested ", "gt_target": "Health Workers Arrested", "predicted_target": "Reported Perpetrator Name", "confidence": 0.0}
+{"source_col": "Total health worker injured", "gt_target": "Health Workers Injured", "predicted_target": "Weapon Carried/Used", "confidence": 0.0}
+{"source_col": "Total health worker assaulted", "gt_target": "Health Workers Assaulted", "predicted_target": "Number of Attacks on Health Facilities Reporting Destruction", "confidence": 0.0}
+{"source_col": "Total health worker threatened/intimidated ", "gt_target": "Health Workers Threatened", "predicted_target": "Number of Attacks on Health Facilities Reporting Damaged", "confidence": 0.0}
+{"source_col": "Total health worker sexual violence", "gt_target": "Health Workers Sexually Assaulted", "predicted_target": "Forceful Entry into Health Facility", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported destruction", "gt_target": "Number of Attacks on Health Facilities Reporting Destruction", "predicted_target": "Occupation of Health Facility", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported damage", "gt_target": "Number of Attacks on Health Facilities Reporting Damaged", "predicted_target": "Access Denied", "confidence": 0.0}
+{"source_col": "Armed entry into medical facilities", "gt_target": "Forceful Entry into Health Facility", "predicted_target": "Obstruction to health care", "confidence": 0.0}
+{"source_col": "Looting, theft, robbery, burglary of health supplies", "gt_target": "Looting/Theft/Robbery/Burglary of Health Supplies", "predicted_target": "Looting/Theft/Robbery/Burglary of Health Supplies", "confidence": 1.0}
+{"source_col": "Health transportation destroyed", "gt_target": "Health Transportation Destroyed", "predicted_target": "Health Transportation Destroyed", "confidence": 1.0}
+{"source_col": "Health transportation damaged", "gt_target": "Health Transportation Damaged", "predicted_target": "Health Transportation Damaged", "confidence": 1.0}
+{"source_col": "Health transportation stolen/highjacked", "gt_target": "Health Transportation Stolen/Highjacked", "predicted_target": "Health Transportation Stolen/Highjacked", "confidence": 1.0}
+{"source_col": "SHCC Event Code", "gt_target": null, "predicted_target": "Date", "confidence": 0.0}
+{"source_col": "Incident date", "gt_target": "Date", "predicted_target": "Country ISO", "confidence": 0.0}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 1.0}
+{"source_col": "Perpetrator ", "gt_target": "Reported Perpetrator", "predicted_target": "Reported Perpetrator", "confidence": 0.0}
+{"source_col": "Name of perpetrator ", "gt_target": "Reported Perpetrator Name", "predicted_target": "Reported Perpetrator Name", "confidence": 0.0}
+{"source_col": "Weapons use", "gt_target": "Weapon Carried/Used", "predicted_target": "Weapon Carried/Used", "confidence": 0.0}
+{"source_col": "Explosive weapons use", "gt_target": null, "predicted_target": "Number of Attacks on Health Facilities Reporting Destruction", "confidence": 0.0}
+{"source_col": "Other weapon type", "gt_target": null, "predicted_target": "Number of Attacks on Health Facilities Reporting Damaged", "confidence": 0.0}
+{"source_col": "Total health worker killed", "gt_target": "Health Workers Killed", "predicted_target": "Access Denied", "confidence": 0.0}
+{"source_col": "Total health worker kidnapped", "gt_target": "Health Workers Kidnapped", "predicted_target": "Occupation of Health Facility", "confidence": 0.0}
+{"source_col": "Total health worker arrested ", "gt_target": "Health Workers Arrested", "predicted_target": "Health Workers Injured", "confidence": 0.0}
+{"source_col": "Total health worker injured", "gt_target": "Health Workers Injured", "predicted_target": "Health Workers Kidnapped", "confidence": 0.0}
+{"source_col": "Total health worker assaulted", "gt_target": "Health Workers Assaulted", "predicted_target": "Health Workers Arrested", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported destruction", "gt_target": "Number of Attacks on Health Facilities Reporting Destruction", "predicted_target": "Known Kidnapping or Arrest Outcome", "confidence": 0.0}
+{"source_col": "Total number of attacks on facilities which reported damage", "gt_target": "Number of Attacks on Health Facilities Reporting Damaged", "predicted_target": "Health Workers Threatened", "confidence": 0.0}
+{"source_col": "Forceful entry into health facility", "gt_target": "Forceful Entry into Health Facility", "predicted_target": "Forceful Entry into Health Facility", "confidence": 1.0}
+{"source_col": "Occupation of medical facility", "gt_target": "Occupation of Health Facility", "predicted_target": "Health Workers Killed", "confidence": 0.0}
+{"source_col": "Health transportation destroyed", "gt_target": "Health Transportation Destroyed", "predicted_target": "Health Transportation Destroyed", "confidence": 1.0}
+{"source_col": "Health transportation damaged", "gt_target": "Health Transportation Damaged", "predicted_target": "Health Transportation Damaged", "confidence": 1.0}
+{"source_col": "Health transportation stolen/highjacked", "gt_target": "Health Transportation Stolen/Highjacked", "predicted_target": "Health Transportation Stolen/Highjacked", "confidence": 1.0}
+{"source_col": "Looting, theft, robbery, burglary of health supplies", "gt_target": "Looting/Theft/Robbery/Burglary of Health Supplies", "predicted_target": "Looting/Theft/Robbery/Burglary of Health Supplies", "confidence": 1.0}
+{"source_col": "Obstruction to health care", "gt_target": "Obstruction to health care", "predicted_target": "Obstruction to health care", "confidence": 1.0}

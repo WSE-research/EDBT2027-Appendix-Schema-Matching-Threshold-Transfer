@@ -1,0 +1,146 @@
+{"source_col": "Unit name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.0}
+{"source_col": "Fuel type", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 1.0}
+{"source_col": "Commissioning year", "gt_target": "DateIn", "predicted_target": "Technology", "confidence": 0.0}
+{"source_col": "BFF unit ID", "gt_target": "projectID", "predicted_target": "Set", "confidence": 0.0}
+{"source_col": "Capacity", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 1.0}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 1.0}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 1.0}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 1.0}
+{"source_col": "Unit type", "gt_target": "Set", "predicted_target": "Efficiency", "confidence": 0.0}
+{"source_col": "(Announced) Retirement year", "gt_target": "DateOut", "predicted_target": "DateIn", "confidence": 0.0}
+{"source_col": "BFF plant ID", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.0}
+{"source_col": "Covered by country phase-out? [if yes: country phase-out year]", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.0}
+{"source_col": "Date of retirement announcement", "gt_target": null, "predicted_target": "projectID", "confidence": 0.0}
+{"source_col": "Owner", "gt_target": null, "predicted_target": "EIC", "confidence": 0.0}
+{"source_col": "Plant name", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.0}
+{"source_col": "Retirement announced?", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.0}
+{"source_col": "Unit status\n(detailed)", "gt_target": null, "predicted_target": "Grid", "confidence": 0.0}
+{"source_col": "Unit status\n(gross)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "cap", "gt_target": "Capacity", "predicted_target": "Name", "confidence": 0.0}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 1.0}
+{"source_col": "fuel1", "gt_target": "Fueltype", "predicted_target": "Technology", "confidence": 0.0}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 1.0}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 1.0}
+{"source_col": "plant", "gt_target": "Name", "predicted_target": "Capacity", "confidence": 0.0}
+{"source_col": "plant.id", "gt_target": "projectID", "predicted_target": "Efficiency", "confidence": 0.0}
+{"source_col": "address.c", "gt_target": null, "predicted_target": "Set", "confidence": 0.0}
+{"source_col": "address.s1", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.0}
+{"source_col": "address.s2", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.0}
+{"source_col": "bustype", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.0}
+{"source_col": "cdist", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.0}
+{"source_col": "cdist.id", "gt_target": null, "predicted_target": "projectID", "confidence": 0.0}
+{"source_col": "chp", "gt_target": null, "predicted_target": "EIC", "confidence": 0.0}
+{"source_col": "city", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.0}
+{"source_col": "city.id", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.0}
+{"source_col": "city.lat", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.0}
+{"source_col": "city.lon", "gt_target": null, "predicted_target": "Grid", "confidence": 0.0}
+{"source_col": "company", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "company.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "cont.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "continent", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "crd", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ctry.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "elec", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "electype", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "email.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "email.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "email.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel1.shr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel2.shr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "int", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "int.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "int.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "iso2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "iso3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "locationid", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "marea", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "marea.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "mwh", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "mwh.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "mwh.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "name.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "name.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "name.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "orispl", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "pcode", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "reg1.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "reg2.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "region1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "region2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "sb", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "state", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tco2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tco2.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tco2.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "year", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "title", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.0}
+{"source_col": "power", "gt_target": "Capacity", "predicted_target": "Fueltype", "confidence": 0.0}
+{"source_col": "capacity", "gt_target": "StorageCapacity_MWh", "predicted_target": "Capacity", "confidence": 1.0}
+{"source_col": "facility_latitude", "gt_target": "lat", "predicted_target": "Technology", "confidence": 0.0}
+{"source_col": "facility_longitude", "gt_target": "lon", "predicted_target": "Set", "confidence": 0.0}
+{"source_col": "facility_country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.0}
+{"source_col": "id", "gt_target": "projectID", "predicted_target": "Efficiency", "confidence": 0.0}
+{"source_col": "technology_name", "gt_target": "Technology", "predicted_target": "lat", "confidence": 0.0}
+{"source_col": "technology_parentName", "gt_target": "Fueltype", "predicted_target": "lon", "confidence": 0.0}
+{"source_col": "alias", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.0}
+{"source_col": "facility_id", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.0}
+{"source_col": "facility_region", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.0}
+{"source_col": "facility_title", "gt_target": null, "predicted_target": "projectID", "confidence": 0.0}
+{"source_col": "status", "gt_target": null, "predicted_target": "EIC", "confidence": 0.0}
+{"source_col": "technology_id", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.0}
+{"source_col": "Production Type", "gt_target": "Fueltype", "predicted_target": "Technology", "confidence": 0.0}
+{"source_col": "Installed Capacity [MW]", "gt_target": "Capacity", "predicted_target": "Fueltype", "confidence": 0.0}
+{"source_col": "Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 1.0}
+{"source_col": "Bidding Zone", "gt_target": null, "predicted_target": "Set", "confidence": 0.0}
+{"source_col": "Voltage Connection Level [kV]", "gt_target": null, "predicted_target": "Country", "confidence": 0.0}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.0}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Fueltype", "confidence": 0.0}
+{"source_col": "Fuel", "gt_target": "Fueltype", "predicted_target": "Technology", "confidence": 0.0}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Set", "confidence": 0.0}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "Country", "confidence": 0.0}
+{"source_col": "Start Year", "gt_target": "DateIn", "predicted_target": "Capacity", "confidence": 0.0}
+{"source_col": "Retired Year", "gt_target": "DateOut", "predicted_target": "Efficiency", "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "lat", "confidence": 0.0}
+{"source_col": "GEM phase ID", "gt_target": "projectID", "predicted_target": "lon", "confidence": 0.0}
+{"source_col": "City", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.0}
+{"source_col": "Conversion/Replacement?", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.0}
+{"source_col": "Date last researched", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.0}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "projectID", "confidence": 0.0}
+{"source_col": "Hydrogen Capable", "gt_target": null, "predicted_target": "EIC", "confidence": 0.0}
+{"source_col": "Local Area (taluk, county)", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.0}
+{"source_col": "Location Accuracy", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.0}
+{"source_col": "Major Area (prefecture, district)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.0}
+{"source_col": "Operator Name(s) in Local Language / Script", "gt_target": null, "predicted_target": "Grid", "confidence": 0.0}
+{"source_col": "Operator(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator(s) GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name(s) in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner(s) GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Parent(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Parent(s) GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit Conversion Year", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit Name", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unnamed: 35", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}

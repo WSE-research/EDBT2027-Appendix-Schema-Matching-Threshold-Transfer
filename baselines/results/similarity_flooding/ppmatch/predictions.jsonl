@@ -1,0 +1,985 @@
+{"source_col": "Unit name", "gt_target": "Name", "predicted_target": "Volume_Mm3", "confidence": 0.02823512385311895}
+{"source_col": "Fuel type", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 0.04476068625010316}
+{"source_col": "Commissioning year", "gt_target": "DateIn", "predicted_target": "Efficiency", "confidence": 0.01911757218581732}
+{"source_col": "BFF unit ID", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.039632063437246}
+{"source_col": "Capacity", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.1216900284429607}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.1216900284429607}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.1216900284429607}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.1216900284429607}
+{"source_col": "Unit type", "gt_target": "Set", "predicted_target": "DateOut", "confidence": 0.041555296992067434}
+{"source_col": "(Announced) Retirement year", "gt_target": "DateOut", "predicted_target": "EIC", "confidence": 0.01911757218581732}
+{"source_col": "BFF plant ID", "gt_target": null, "predicted_target": "projectID", "confidence": 0.06851981642395169}
+{"source_col": "Covered by country phase-out? [if yes: country phase-out year]", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.024416276877672304}
+{"source_col": "Date of retirement announcement", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.05699340140373285}
+{"source_col": "Owner", "gt_target": null, "predicted_target": "Technology", "confidence": 0.01911757218581732}
+{"source_col": "Plant name", "gt_target": null, "predicted_target": "Name", "confidence": 0.07040380031438902}
+{"source_col": "Region", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Retirement announced?", "gt_target": null, "predicted_target": "Grid", "confidence": 0.022494443173706812}
+{"source_col": "Unit status\n(detailed)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.022916552047192996}
+{"source_col": "Unit status\n(gross)", "gt_target": null, "predicted_target": "Set", "confidence": 0.02873373995992451}
+{"source_col": "cap", "gt_target": "Capacity", "predicted_target": "EIC", "confidence": 0.006577802836279354}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.07731126347982609}
+{"source_col": "fuel1", "gt_target": "Fueltype", "predicted_target": null, "confidence": 0.0}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.08910017358708389}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.08910017358708389}
+{"source_col": "plant", "gt_target": "Name", "predicted_target": "projectID", "confidence": 0.017805336271762964}
+{"source_col": "plant.id", "gt_target": "projectID", "predicted_target": null, "confidence": 0.0}
+{"source_col": "address.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "address.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "address.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "bustype", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "cdist", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "cdist.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "chp", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "city", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.027208395523980487}
+{"source_col": "city.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "city.lat", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "city.lon", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.015746955141924302}
+{"source_col": "company", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.01235436878883567}
+{"source_col": "company.id", "gt_target": null, "predicted_target": "Technology", "confidence": 0.01042884680465023}
+{"source_col": "cont.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "continent", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "crd", "gt_target": null, "predicted_target": "Grid", "confidence": 0.022050747352055203}
+{"source_col": "ctry.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "elec", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "electype", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.04783898821168162}
+{"source_col": "email.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "email.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "email.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel1.shr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "fuel2.shr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "int", "gt_target": null, "predicted_target": "Set", "confidence": 0.03408525975321419}
+{"source_col": "int.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "int.est", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.027208395523980487}
+{"source_col": "iso2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "iso3", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.039586751136601164}
+{"source_col": "locationid", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "marea", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "marea.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "mwh", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.013913124680795311}
+{"source_col": "mwh.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "mwh.est", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.012996209450230818}
+{"source_col": "name.c", "gt_target": null, "predicted_target": "Name", "confidence": 0.04783898821168162}
+{"source_col": "name.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "name.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "orispl", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "party.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "pcode", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone1.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.c", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.s1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "phone2.s2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "reg1.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "reg2.id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "region1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "region2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "sb", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "state", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.03298496147653681}
+{"source_col": "tco2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tco2.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tco2.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj.dis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "tj.est", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "year", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "title", "gt_target": "Name", "predicted_target": "DateIn", "confidence": 0.03480228908888034}
+{"source_col": "power", "gt_target": "Capacity", "predicted_target": "projectID", "confidence": 0.03050795882303802}
+{"source_col": "capacity", "gt_target": "StorageCapacity_MWh", "predicted_target": "Capacity", "confidence": 0.1201936855458452}
+{"source_col": "facility_latitude", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.033366750428269754}
+{"source_col": "facility_longitude", "gt_target": "lon", "predicted_target": "StorageCapacity_MWh", "confidence": 0.040041347745127}
+{"source_col": "facility_country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.09050714296755036}
+{"source_col": "id", "gt_target": "projectID", "predicted_target": "Grid", "confidence": 0.05073213745178484}
+{"source_col": "technology_name", "gt_target": "Technology", "predicted_target": "Name", "confidence": 0.078516756689409}
+{"source_col": "technology_parentName", "gt_target": "Fueltype", "predicted_target": "DateRetrofit", "confidence": 0.038229058794853985}
+{"source_col": "alias", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.022947518214160707}
+{"source_col": "facility_id", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.028874903651520522}
+{"source_col": "facility_region", "gt_target": null, "predicted_target": "lon", "confidence": 0.03529623787532699}
+{"source_col": "facility_title", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.03183859637020043}
+{"source_col": "status", "gt_target": null, "predicted_target": "Set", "confidence": 0.022947518214160707}
+{"source_col": "technology_id", "gt_target": null, "predicted_target": "Technology", "confidence": 0.08963060438445865}
+{"source_col": "Production Type", "gt_target": "Fueltype", "predicted_target": "DateIn", "confidence": 0.06550315568170303}
+{"source_col": "Installed Capacity [MW]", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.12349578217032747}
+{"source_col": "Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.20293773626433353}
+{"source_col": "Bidding Zone", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.06391431659982293}
+{"source_col": "Voltage Connection Level [kV]", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.0640606807442705}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "projectID", "confidence": 0.0500801175966514}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.07142495295366931}
+{"source_col": "Fuel", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 0.03407149107888796}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Start Year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.026003143313935193}
+{"source_col": "Retired Year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.07142495295366931}
+{"source_col": "GEM phase ID", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.03532656739788062}
+{"source_col": "City", "gt_target": null, "predicted_target": "Technology", "confidence": 0.01524534629399816}
+{"source_col": "Conversion/Replacement?", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Date last researched", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.05424236049126989}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.020063942875844957}
+{"source_col": "Hydrogen Capable", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.026867609145894415}
+{"source_col": "Local Area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location Accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.02122190019396318}
+{"source_col": "Major Area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name(s) in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator(s) GEM Entity ID", "gt_target": null, "predicted_target": "EIC", "confidence": 0.014149644745671241}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name(s) in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner(s) GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Parent(s)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.017635967853984167}
+{"source_col": "Parent(s) GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.026600798703931696}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.03457576281419751}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit Conversion Year", "gt_target": null, "predicted_target": "lat", "confidence": 0.020063942875844957}
+{"source_col": "Unit Name", "gt_target": null, "predicted_target": "Name", "confidence": 0.07142495295366931}
+{"source_col": "Unnamed: 35", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.020624244803966678}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.05141410779167426}
+{"source_col": "Combustion technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.059858623053972805}
+{"source_col": "Coal type", "gt_target": "Fueltype", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "StorageCapacity_MWh", "confidence": 0.044377011739758804}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Start year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.022702755899859196}
+{"source_col": "Retired year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.06548829989550517}
+{"source_col": "GEM unit/phase ID", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.027769465057238322}
+{"source_col": "CHP", "gt_target": "Set", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Heat rate (Btu per kWh)", "gt_target": "Efficiency", "predicted_target": "DateOut", "confidence": 0.02898336412619374}
+{"source_col": "Alternate Fuel", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.026045810913164213}
+{"source_col": "Annual CO2 (million tonnes / annum)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capacity factor", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.06548829989550517}
+{"source_col": "Captive", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Captive industry use", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Captive residential use", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "China Capacity Payment Recipient", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Coal source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion to (GEM unit ID)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion to (fuel)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Emission factor (kg of CO2 per TJ)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "projectID", "confidence": 0.04296959252937571}
+{"source_col": "Lifetime CO2 (million tonnes)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.018199014426633305}
+{"source_col": "Major area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner GEM Entity ID", "gt_target": null, "predicted_target": "EIC", "confidence": 0.0120063699009477}
+{"source_col": "Parent", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.016228627532096973}
+{"source_col": "Parent GEM Entity ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.015524917926905427}
+{"source_col": "Permit Date", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.059330840850079135}
+{"source_col": "Permit Parsed", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Permits", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Planned retirement", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant age (years)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant name (local)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.015446727970773034}
+{"source_col": "Plant name (other)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.023265723584012427}
+{"source_col": "Remaining plant lifetime (years)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subnational unit (province, state)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit name", "gt_target": null, "predicted_target": "lat", "confidence": 0.0197471755580547}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEO_Assigned_Identification_Number", "gt_target": "projectID", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.05896281025941547}
+{"source_col": "Type", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 0.012115106244314063}
+{"source_col": "Type_of_Plant_rng1", "gt_target": "Technology", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.05896281025941547}
+{"source_col": "Design_Capacity_MWe_nbr", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.020523668503434827}
+{"source_col": "Year_Project_Commissioned", "gt_target": "DateIn", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Longitude_Start", "gt_target": "lon", "predicted_target": "Set", "confidence": 0.010529491646879862}
+{"source_col": "Latitude_Start", "gt_target": "lat", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng1_yr1", "gt_target": "DateRetrofit", "predicted_target": null, "confidence": 0.0}
+{"source_col": "  Area_Occupied_By_nbr_rng2_Total_Land", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "  At_Full_Reservoir_Level_rng2_Altitude_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Altitude_Above_Sea_Level_Main_Reservoir_m_rng1_at_Maximum_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Altitude_Above_Sea_Level_Main_Reservoir_m_rng2_at_Minimum_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Altitude_Range_m_above_Sea_Level_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Altitude_Range_m_above_Sea_Level_rng2_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Annual_Flow_Into_Reservoir_rng1_nbr_MM_cum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_Field_rng2_Name_of_Field", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_Occupied_By_nbr_rng1_Collectors", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_Occupied_By_rng3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_of_Collectors_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_of_Collectors_rng2_Land Area_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_of_Collectors_rng3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Area_of_Field_Hectares_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "At_Full_Reservoir_Level_FRL_rng1_Surface_Area_sq_km_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Average_Annual_Generation_rng1_nbr_GWh", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Backup_Power_System", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Backup_Power_System_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Backup_Power_System_rng2_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Backup_Power_System_rng2_Short_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Binary_Fluid_Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Binary_Fluid_rng2_nbr_Pressure_MPa", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Binary_Fluid_rng3_nbr_Flow_Rate_T_hr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Brine_rng3_nbr_Flow_Rate_T_hr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "CMR_MM_cum_rng2_Useful_Live_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "COP_rng2_Distance_from_Dam_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capacity_of_Main_Reservoir_MM_cum_rng1_at_FRL_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capital_Cost_Currency_rng3_In_Year_YYYY_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capital_Cost_of_Plant_nbr_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capital_Cost_of_Plant_rng2_and_or_In_US_Dollars_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Catchment_Area_sq_km_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Cogen_Mode_Steam_Supplied_To_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments4", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments5", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments6", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments7", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Comments8", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Configuration_of_Boiler_Turbine_Gen", "gt_target": null, "predicted_target": "lon", "confidence": 0.008051797065843478}
+{"source_col": "Configuration_of_Powerhouses_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Construction_EPC_Contractor", "gt_target": null, "predicted_target": "EIC", "confidence": 0.020523668503434827}
+{"source_col": "Cost_nbr1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Cost_nbr2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Cost_nbr3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country_Assigned_Identification_Number", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country_ID", "gt_target": null, "predicted_target": "projectID", "confidence": 0.030133453942429986}
+{"source_col": "Crest_Length_of_the_Dam_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Currency_enum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "CurrentPage_sys", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "DPPP_rng2_at_Average_Wind_Speed_m_s_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "DPPP_rng3_at_Mast_Height_m_nbr", "gt_target": null, "predicted_target": "lat", "confidence": 0.008733885441704656}
+{"source_col": "Date_of_Scraping", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.02436758267903289}
+{"source_col": "Depth_of_Wells_rng1_nbr_Minimum_m", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Depth_of_Wells_rng2_nbr_Maximum_m", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Description_ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Design_Capacity_MWe_Peak_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Designed_Power_Production_Potential_GWh_year_nbr_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Disposition_of_Spent_Fuel", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EPGC_To_rng2_Name_Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EPGC_To_rng3_PPAyears", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ESS_rng2_Storage_Capacity_hrs_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ESS_rng3_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Electric_Power_Grid_Connected_To_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Energy_Content_at_FRL_GW hours_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Energy_Storage_System_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EnvironmentalIssuesDescription1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EnvironmentalIssuesDescription2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EnvironmentalIssuesType_1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "EnvironmentalIssuesType_2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Environmental_Issues", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Expected_Annual_Generation_GWh_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "FRL_Generation_Duration_rng1_hours_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "FRL_Generation_Duration_rng2_at_Power_MWe_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Firm_Capacity_MWe_ nbr", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.03359820651567314}
+{"source_col": "Firm_Capacity_MWe_Peak_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Firm_Capacity_MWe_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Firm_Capacity_MWe_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Fuel_Type_for_Startup_Backup_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Fuel_Type_rng2_Source_of_Fuel", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Fuel_for_Startup_Backup_", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GFT_rng2_PPA_For_Years_YYYY_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GFT_rng3_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GS_MMSCMD_rng2_Linkage_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Gas_Supply_MMSCMD_rng1_Required_for_90Percent_PLF_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Grid_Feed_In_Tariff_per_MWh", "gt_target": null, "predicted_target": "Grid", "confidence": 0.01752061055374884}
+{"source_col": "Grid_Feed_In_Tariff_per_MWh_in_selected_currency_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "HP_Steam_Input_to_Turbine_rng1_nbr_Pressure_Bars", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "HP_Steam_Input_to_Turbine_rng2_nbr_Rate_T_hr_MW", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Heat_Supply_Capacity_MWth_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Height_of_Water_Head_rng1_at_Maximum_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Height_of_Water_Head_rng2_at_Minimum_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Height_of_the_Dam_m_nbr_rng1", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.03275430451670139}
+{"source_col": "High_Season_Generation_Months_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "High_Season_Generation_rng2_to", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "HoD_rng2_Crest_Altitude_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "IP_Steam_Input_to_Turbine_rng1_nbr_Pressure_Bars", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "IP_Steam_Input_to_Turbine_rng2_nbr_Rate_T_hr_MW", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Inlet_Steam_rng2_nbr_Pressure_MPa", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Inlet_Steam_rng3_nbr_Flow_Rate_T_hr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Kilometers_rng2_Name_of_Major_Mines", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Kilometers_to_Coal_Mines_Average_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "LP_Steam_Input_to_Turbine_rng1_nbr_Pressure_Bars", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "LP_Steam_Input_to_Turbine_rng2_nbr_Rate_T_hr_MW", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location_Accuracy", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location_rng2_On_Off_Shore", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Map_Height", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Map_Width", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Maximum_Inlet_Steam_Brine_rng1_nbr_Temperature_o_C", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Mean_River_Flow_cum_sec_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Mercury_Control_Device", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Minimum_Inlet_Steam_Brine_rng1_nbr_Temperature_o_C", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Mounting_System_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Mounting_System_rng2_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "NOx_Control_Device_Type_enum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "NOx_Control_Device_Type_other", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Name_of_Dam", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Name_of_SubStation_Connected_To", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Name_of_rng1_Main_Reservoir", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "NoMR_rng2_Lower_Reservoir_if_pumped_storage", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operating_Company", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operating_Temperature_of_HTF_rng1_Input_Temp_degC_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operating_Temperature_of_HTF_rng2_Output_Temp_degC_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners10", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners11", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners12", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners13", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners14", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners15", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners16", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners4", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners5", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners6", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners7", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners8", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owners9", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "PPPAD_rng2_GW_Hours_per_year_at_water_head_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ParticulatesPM_Control_Device_Type_enum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ParticulatesPM_Control_Device_Type_other", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr10", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr11", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr12", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr13", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr14", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr15", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr16", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr4", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr5", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr6", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr7", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr8", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Percent_Share_nbr9", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "PerformanceDecade", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant_Efficiency_and_Impact_itf", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.020523668503434827}
+{"source_col": "Plant_Overall_Rating_setfield_itf_Environmentally Responsible", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant_Overall_Rating_setfield_itf_State_of_the_art", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant_Overall_Rating_setfield_itf_Worth Duplicating", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points0", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points4", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points5", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Points6", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Power_Plant_Used_For_", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Power_Production_Potential_At_Design_nbr_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Produced_Water_Management", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Productive_Wind_Speed_m_sec_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Productive_Wind_Speed_rng2_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_City Water", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Fish", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Irrigation", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Navigation", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Power Generation", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Recreation and Sports", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Tourism", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Benefits_setfield_Water _ Flood Management", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project_Financed_By", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Pumping_rng2_Max_Pumping_Power_MWe_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Realized_Cap_rng2_Plant_Load_Factor_Percent_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References10", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References11", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References12", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References13", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References14", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References15", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References16", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References17", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References18", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References4", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References5", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References6", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References7", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References8", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "References9", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Refueling_Cycle_rng1_Months_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Regulatory_Authority", "gt_target": null, "predicted_target": "Technology", "confidence": 0.006877773180061702}
+{"source_col": "River_Lake_Canal_Dammed", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "SOx_Control_Device_Type_enum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "SOx_Control_Device_Type_other", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Safeguards", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Saved_Latitude_Start", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Saved_Longitude_Start", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Sedimentation_Rate_MM_cum_year_rng1_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Sedimentation_Rate_rng2_Impact_on_Project", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ShapesCount", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Size_of_Land_hectares_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Solar_Insolation_rng1_kWh_m2_year", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Solar_Insolence_DNR_rng1_kWh_sq_m_day_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Solar_Insolence_DNR_rng2_Power_Watts_sq_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Solar_Insolence_DNR_rng3_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_Coal_rng2_Onsite_Storage_Capacity_Tonnes_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Coal_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Cooling_Water", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Cooling_Water_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Cooling_Water_rng2_Rate_cum_day_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Fuel", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Fuel_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Fuel_rng2_Name_of_Pipeline", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Makeup_Water_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Makeup_Water_rng2_Rate_cum_day_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Oil", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Waste_as_Fuel_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Source_of_Water", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "State", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.019754885668315215}
+{"source_col": "State_ID", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.029556866816090273}
+{"source_col": "Status_of_Land_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status_of_Land_rng2_Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status_of_Land_rng3_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status_of_Plant_itf", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Steam_Supplied_To_rng2_Tonnes_hour_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Steam_Supplied_To_rng3_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "THCE_rng2_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "THCE_rng3_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "TOHTF_rng2_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Tariff_rng2_For_Number_of_Years_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Thermal_Storage_rng1_Tank_Volume_cum_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Thermal_Storage_rng2_MWh_heat_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ToP_rng2_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ToP_rng3_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Total_Number_of_Turbines_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Total_Number_of_Wells_rng1_nbr_Production", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Total_Number_of_Wells_rng2_nbr_Re_Injection", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Total_Number_of_Wells_rng3_nbr_Monitoring", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Total_Pipe_Network_Length_kms_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_Of_Dam_rng2_Describe", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Cooling_System", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Dam_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Fuel", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Fuel_rng1_Primary", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Fuel_rng2_Secondary", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Generating_Units", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Heat_Collecting_Element_HCE_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Heat_Transfer_Fluid_HTF_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Land_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Land_rng2_Altitude_m", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Land_rng3_Describe", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Ownership", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Panels_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Plant_rng2_Short_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Reactors_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Reactors_rng2_Short_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Turbine_rng1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Type_of_Turbine_rng2_Details", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Upgrade1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Upgrade2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Upgrade3", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.027191682889676362}
+{"source_col": "User_ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "WFRTT_rng2_Max_Velocity_m_sec_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Waste_fuel_rng2_Amount_Incinerated_Daily_Tonnes_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Flow_Rate_Through_Turbines_rng1_cum_sec_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Management_Description", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Storage_Pumping_Rate_rng1_cum_sec_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Storage_Pumping_Time_rng1_hours_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Storage_Pumping_Time_rng2_at_Power_MWe_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_Withdrawal_Rate_at_Full_Power_rng1_nbr_cum_hour", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Water_rng2_Usage_Rate_Liters_kWh_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Width_of_Dam_rng1_at_Crest_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Width_of_Dam_rng2_at_Base_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng1_yr2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng1_yr3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng2_yr1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng2_yr2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Year_rng2_yr3", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEO_Assigned_Identification_Number", "gt_target": "projectID", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capacity_MWe_nbr", "gt_target": "Capacity", "predicted_target": "StorageCapacity_MWh", "confidence": 0.062379948634778914}
+{"source_col": "Date_Commissioned_dt", "gt_target": "DateIn", "predicted_target": "DateOut", "confidence": 0.050379868968531374}
+{"source_col": "Decommission_Date_dt", "gt_target": "DateOut", "predicted_target": "DateIn", "confidence": 0.043534379925682}
+{"source_col": "Unit_Efficiency_Percent", "gt_target": "Efficiency", "predicted_target": "Efficiency", "confidence": 0.05132407435375197}
+{"source_col": "Boiler_HRSG_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Boiler_HRSG_Model_Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Boiler_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Boiler_Model_Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Capacity_Factor_Percent_nbr", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.04282622588676655}
+{"source_col": "Chimney_Height_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Chimney_Height_nbr", "gt_target": null, "predicted_target": "Country", "confidence": 0.02097461554308977}
+{"source_col": "Construction_Start_Date_dt", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.039816571221375885}
+{"source_col": "Control_Hg_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Control_N2O_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Control_NOx_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Control_PM_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Control_SOx_yr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Diesel_Engine_Boiler_Manufacturer", "gt_target": null, "predicted_target": "EIC", "confidence": 0.011667448174486695}
+{"source_col": "Diesel_Engine_Boiler_Model_Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Generator_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Generator_Model_Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Generator_Type_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "HCE_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Hub_Height_m_nbr", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.05975447957893591}
+{"source_col": "Hydraulic_Head_m_nbr", "gt_target": null, "predicted_target": "Grid", "confidence": 0.017332680485810305}
+{"source_col": "IAEA_ID", "gt_target": null, "predicted_target": "projectID", "confidence": 0.053979651999684915}
+{"source_col": "Injection_Wells_nbr", "gt_target": null, "predicted_target": "lon", "confidence": 0.011982183302893561}
+{"source_col": "Invertor_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Invertor_Type_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Max_Production_at_wind_speed_m_sec_nbr", "gt_target": null, "predicted_target": "lat", "confidence": 0.01722776877634135}
+{"source_col": "Number_Of_Panels_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Number_Of_Turbines_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Panel_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Panel_Type_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Peak_MWe_per_Turbine_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Pipe_Network_Length_km_nbr", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.021817656065608166}
+{"source_col": "Production_Wells_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Reactor_Manufacturer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Reactor_Type_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Rotor_Diameter_m_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Solar_to_Electric_Efficiency_Percent_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Speed_RPM_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Storage_Backup_System", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Turbine_Manufacturer", "gt_target": null, "predicted_target": "Technology", "confidence": 0.012800494636751416}
+{"source_col": "Turbine_Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Turbine_Model_Type", "gt_target": null, "predicted_target": "Name", "confidence": 0.021191397391737355}
+{"source_col": "Turbine_Type_Model", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.01912519539681504}
+{"source_col": "Unit_Efficiency_Percent_nbr", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit_Nbr", "gt_target": null, "predicted_target": "Set", "confidence": 0.01945714260255666}
+{"source_col": "Plant name", "gt_target": "Name", "predicted_target": "Volume_Mm3", "confidence": 0.017573952832194945}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.06768425880067637}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Start year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.023741375105238813}
+{"source_col": "Retired year", "gt_target": "DateOut", "predicted_target": "DateRetrofit", "confidence": 0.024093713194079696}
+{"source_col": "CHP", "gt_target": "Set", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Fuel", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 0.03154701891955996}
+{"source_col": "GEM unit ID", "gt_target": "projectID", "predicted_target": "projectID", "confidence": 0.04738840489193507}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.06768425880067637}
+{"source_col": "Turbine/Engine Technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.054747126923236696}
+{"source_col": "CCS attachment?", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Captive industry type", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.02232570136680569}
+{"source_col": "Captive industry use", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Captive non-industry use", "gt_target": null, "predicted_target": "lon", "confidence": 0.03299250851480462}
+{"source_col": "City", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion from/replacement of (GEM unit ID)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion from/replacement of (fuel)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion to (GEM unit ID)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion to (fuel)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Conversion/replacement?", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Equipment Manufacturer/Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Fuel classification?", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.017995553964141302}
+{"source_col": "Hydrogen capable?", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.019115808400455913}
+{"source_col": "Major area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (unit)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.01812461553514529}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": "Name", "confidence": 0.05322936284822981}
+{"source_col": "Owner GEM Entity ID", "gt_target": null, "predicted_target": "EIC", "confidence": 0.012755654181379424}
+{"source_col": "Owner(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Parent GEM Entity ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Parent(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Planned retire", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Plant Name in Local Language / Script", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.026804006185163428}
+{"source_col": "Region", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.03203487165795502}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Unit name", "gt_target": null, "predicted_target": "lat", "confidence": 0.02070584695522503}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.0755516175558689}
+{"source_col": "Unit Capacity (MW)", "gt_target": "Capacity", "predicted_target": "StorageCapacity_MWh", "confidence": 0.046762350598008144}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.02517040037961258}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.013543965646630348}
+{"source_col": "Start Year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.028425802104847603}
+{"source_col": "Retired Year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.07555161755586891}
+{"source_col": "GEM unit ID", "gt_target": "projectID", "predicted_target": "projectID", "confidence": 0.05378566627344231}
+{"source_col": "City", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.03679683511259481}
+{"source_col": "Date Last Researched", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.057863934848758604}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.03272758295605103}
+{"source_col": "Green Hydrogen Producing", "gt_target": null, "predicted_target": "Grid", "confidence": 0.028425802104847606}
+{"source_col": "Local area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location Accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.02346518995210852}
+{"source_col": "Major area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (unit/phase)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.02129492213528517}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.020433704747656857}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.029045878623939987}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.03732002467557901}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Technology", "gt_target": null, "predicted_target": "Technology", "confidence": 0.10655544351048818}
+{"source_col": "Unit Name", "gt_target": null, "predicted_target": "lat", "confidence": 0.02517040037961258}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.07060285883505045}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.07060285883505044}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.02218918334643885}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.011016796695220791}
+{"source_col": "Start Year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.02531745160877991}
+{"source_col": "Retired Year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEM unit ID", "gt_target": "projectID", "predicted_target": "projectID", "confidence": 0.049686934981885755}
+{"source_col": "Country/Area 1", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.05570634330009304}
+{"source_col": "Technology Type", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.07179458007784704}
+{"source_col": "Binational", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "City 1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "City 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Complex", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area 1 Capacity (MW)", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.0380167311023311}
+{"source_col": "Country/Area 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area 2 Capacity (MW)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.02218918334643885}
+{"source_col": "Date Last Researched", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.053605934609664035}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.019396086683634337}
+{"source_col": "Local Area 1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local Area 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location Accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.020550566637593536}
+{"source_col": "Major Area 1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Major Area 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name (local lang/script)", "gt_target": null, "predicted_target": "lon", "confidence": 0.020960220814804864}
+{"source_col": "Other name(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name (local lang/script)", "gt_target": null, "predicted_target": "lat", "confidence": 0.025218141505213527}
+{"source_col": "Project Name (local lang/script)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.016108972924007252}
+{"source_col": "Region 1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "River / Watercourse", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "State/Province 1", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.029294821256613535}
+{"source_col": "State/Province 2", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.029294821256613535}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion 1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion 2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Turbines", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ID", "gt_target": "projectID", "predicted_target": "projectID", "confidence": 0.07585226669954508}
+{"source_col": "name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.08360452923301202}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.09357172391889808}
+{"source_col": "plant_type", "gt_target": "Technology", "predicted_target": "Fueltype", "confidence": 0.029338691498743425}
+{"source_col": "dam_height_m", "gt_target": "DamHeight_m", "predicted_target": "DamHeight_m", "confidence": 0.09135679176647898}
+{"source_col": "year", "gt_target": "DateIn", "predicted_target": "Efficiency", "confidence": 0.013834166431809543}
+{"source_col": "res_vol_km3", "gt_target": "Volume_Mm3", "predicted_target": "Volume_Mm3", "confidence": 0.05370294517535381}
+{"source_col": "capacity_mw", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.06810000416607814}
+{"source_col": "plant_lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.0795733527156092}
+{"source_col": "plant_lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.07585226669954508}
+{"source_col": "dam_height_source", "gt_target": null, "predicted_target": "Technology", "confidence": 0.013834166431809543}
+{"source_col": "dam_name", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.025462560232009955}
+{"source_col": "final_comments", "gt_target": null, "predicted_target": "EIC", "confidence": 0.013834166431809543}
+{"source_col": "head_m", "gt_target": null, "predicted_target": "Grid", "confidence": 0.029338691498743425}
+{"source_col": "head_source", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.01763119297881376}
+{"source_col": "hydrolakes_id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "man_dam_lat", "gt_target": null, "predicted_target": "Set", "confidence": 0.029338691498743425}
+{"source_col": "man_dam_lon", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.02623778648535665}
+{"source_col": "plant_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "plant_source_id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "plant_type_source", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.029669454700171353}
+{"source_col": "res_area_km2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_attr_id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_attr_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_avg_depth_m", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_dam_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_dam_source_id", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "res_name", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "river", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Id", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.05869525541689362}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.03579969298275548}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.022062355522272602}
+{"source_col": "OperationalFrom", "gt_target": "DateIn", "predicted_target": "DamHeight_m", "confidence": 0.03167849174461062}
+{"source_col": "OperationalTo", "gt_target": "DateOut", "predicted_target": "Technology", "confidence": 0.02352767151805744}
+{"source_col": "Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.13196105520613563}
+{"source_col": "Country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.13196105520613563}
+{"source_col": "Capacity", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.13196105520613563}
+{"source_col": "ConstructionStartAt", "gt_target": null, "predicted_target": "Set", "confidence": 0.04135568280010633}
+{"source_col": "CountryCode", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.03579969298275548}
+{"source_col": "IAEAId", "gt_target": null, "predicted_target": "projectID", "confidence": 0.05297136480835908}
+{"source_col": "LastUpdatedAt", "gt_target": null, "predicted_target": "lat", "confidence": 0.03942482370149402}
+{"source_col": "ReactorModel", "gt_target": null, "predicted_target": "lon", "confidence": 0.022062355522272602}
+{"source_col": "ReactorType", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.047819863260678}
+{"source_col": "Source", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.031220580495927852}
+{"source_col": "Status", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.03282794243007959}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.06768315267710825}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.06768315267710825}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.021441994021201224}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.010770957408299597}
+{"source_col": "Start Year", "gt_target": "DateIn", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Retirement Year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.06768315267710825}
+{"source_col": "GEM unit ID", "gt_target": "projectID", "predicted_target": "projectID", "confidence": 0.04770581066438359}
+{"source_col": "Cancellation Year", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "City", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Commercial Operation Date", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.045761418203196784}
+{"source_col": "Construction Start Date", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.025394229803757377}
+{"source_col": "Date Last Researched", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.05132089653732577}
+{"source_col": "Design Net Capacity (MW)", "gt_target": null, "predicted_target": "Set", "confidence": 0.033535835515823065}
+{"source_col": "First Criticality Date", "gt_target": null, "predicted_target": "Technology", "confidence": 0.014298572817523274}
+{"source_col": "First Grid Connection", "gt_target": null, "predicted_target": "Grid", "confidence": 0.0534551038599061}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local Area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location Accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.019876908651308988}
+{"source_col": "Major Area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Model", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Planned Retirement", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Reactor Type", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Reference Net Capacity (MW)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.024773164180784273}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.024999006225501764}
+{"source_col": "Retirement Date", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.0671140307244202}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Thermal Capacity (MWt)", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.06412614047280774}
+{"source_col": "Unit Name", "gt_target": null, "predicted_target": "lat", "confidence": 0.021441994021201224}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "gppd_idnr", "gt_target": "projectID", "predicted_target": "Set", "confidence": 0.012192863573308229}
+{"source_col": "country_long", "gt_target": "Country", "predicted_target": "lon", "confidence": 0.04758613300999119}
+{"source_col": "primary_fuel", "gt_target": "Fueltype", "predicted_target": "projectID", "confidence": 0.02567601383490174}
+{"source_col": "latitude", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.02546533961206434}
+{"source_col": "longitude", "gt_target": "lon", "predicted_target": "Fueltype", "confidence": 0.021514547704780285}
+{"source_col": "capacity_mw", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.06724906047481506}
+{"source_col": "commissioning_year", "gt_target": "DateIn", "predicted_target": "Technology", "confidence": 0.012192863573308229}
+{"source_col": "name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.08297940244667415}
+{"source_col": "country", "gt_target": null, "predicted_target": "Country", "confidence": 0.09309176514286928}
+{"source_col": "estimated_generation_gwh_2013", "gt_target": null, "predicted_target": "EIC", "confidence": 0.012192863573308229}
+{"source_col": "estimated_generation_gwh_2014", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.012192863573308229}
+{"source_col": "estimated_generation_gwh_2015", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.012192863573308229}
+{"source_col": "estimated_generation_gwh_2016", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "estimated_generation_gwh_2017", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "estimated_generation_note_2013", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.02855241922404169}
+{"source_col": "estimated_generation_note_2014", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.027923205545167324}
+{"source_col": "estimated_generation_note_2015", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.027923205545167324}
+{"source_col": "estimated_generation_note_2016", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "estimated_generation_note_2017", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_data_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2013", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2014", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2015", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2016", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2017", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2018", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "generation_gwh_2019", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "geolocation_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "other_fuel1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "other_fuel2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "other_fuel3", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.043653547517026416}
+{"source_col": "owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "url", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "wepp_id", "gt_target": null, "predicted_target": "Grid", "confidence": 0.027923205545167324}
+{"source_col": "year_of_capacity_data", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.03283893741137329}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "projectID", "confidence": 0.051973198035910384}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Volume_Mm3", "confidence": 0.031083705064268597}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.024229340182948637}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.012805398714082034}
+{"source_col": "Start year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.027428043794231284}
+{"source_col": "Retired year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Technology Type", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.07495164030471635}
+{"source_col": "GEM phase ID", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.0369327630963283}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.07373308654803724}
+{"source_col": "Associated Storage", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.04326924263105964}
+{"source_col": "Capacity Rating", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.07373308654803724}
+{"source_col": "City", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Date Last Researched", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.05635346359340152}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.021373354815731986}
+{"source_col": "Hydrogen", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.02255382876751487}
+{"source_col": "Major area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.018608035650649196}
+{"source_col": "Other IDs (unit/phase)", "gt_target": null, "predicted_target": "lat", "confidence": 0.018517369448515335}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Phase Name", "gt_target": null, "predicted_target": "Name", "confidence": 0.07860730157475367}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.028037320672570837}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.036167359017914236}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Project Name", "gt_target": "Name", "predicted_target": "projectID", "confidence": 0.05294561500714936}
+{"source_col": "Capacity (MW)", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.07501192074118147}
+{"source_col": "Latitude", "gt_target": "lat", "predicted_target": "Fueltype", "confidence": 0.024811075196258414}
+{"source_col": "Longitude", "gt_target": "lon", "predicted_target": "EIC", "confidence": 0.01322626468589155}
+{"source_col": "Start year", "gt_target": "DateIn", "predicted_target": "Set", "confidence": 0.028054822139161134}
+{"source_col": "Retired year", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "GEM phase ID", "gt_target": "projectID", "predicted_target": "DateIn", "confidence": 0.03769338448378636}
+{"source_col": "Installation Type", "gt_target": "Technology", "predicted_target": null, "confidence": 0.0}
+{"source_col": "Country/Area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.07501192074118147}
+{"source_col": "Associated Storage", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.04411909271353651}
+{"source_col": "City", "gt_target": null, "predicted_target": "Technology", "confidence": 0.016933404049208945}
+{"source_col": "Date Last Researched", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.05738756235141003}
+{"source_col": "GEM location ID", "gt_target": null, "predicted_target": "Grid", "confidence": 0.021914872568666696}
+{"source_col": "Hydrogen", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Local area (taluk, county)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Location accuracy", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.02311196965473794}
+{"source_col": "Major area (prefecture, district)", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Operator Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Other IDs (location)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.019110612881633446}
+{"source_col": "Other IDs (unit/phase)", "gt_target": null, "predicted_target": "lat", "confidence": 0.01901866994107498}
+{"source_col": "Other Name(s)", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.02009133758092376}
+{"source_col": "Owner", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Owner Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Phase Name", "gt_target": null, "predicted_target": "Name", "confidence": 0.07995477322560468}
+{"source_col": "Project Name in Local Language / Script", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Region", "gt_target": null, "predicted_target": "lon", "confidence": 0.02867267869971403}
+{"source_col": "State/Province", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.036917202179591775}
+{"source_col": "Status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Subregion", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Wiki URL", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Electricity statistics", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.06674139804531676}
+{"source_col": "Country/area", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.14022916098137744}
+{"source_col": "Grid connection", "gt_target": "Grid", "predicted_target": "Grid", "confidence": 0.14022916098137744}
+{"source_col": "Technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.19018432567386814}
+{"source_col": "Data Type", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.1058849852552901}
+{"source_col": "Year", "gt_target": null, "predicted_target": "Name", "confidence": 0.04031883159639605}
+{"source_col": "id", "gt_target": "projectID", "predicted_target": "Grid", "confidence": 0.05022320183924154}
+{"source_col": "name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.10519324348863766}
+{"source_col": "installed_capacity_MW", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.07083696745776509}
+{"source_col": "country_code", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.08556108575671048}
+{"source_col": "type", "gt_target": "Technology", "predicted_target": "Fueltype", "confidence": 0.05022320183924154}
+{"source_col": "dam_height_m", "gt_target": "DamHeight_m", "predicted_target": "DamHeight_m", "confidence": 0.11435491709687036}
+{"source_col": "volume_Mm3", "gt_target": "Volume_Mm3", "predicted_target": "Volume_Mm3", "confidence": 0.12657048190784728}
+{"source_col": "storage_capacity_MWh", "gt_target": "StorageCapacity_MWh", "predicted_target": "StorageCapacity_MWh", "confidence": 0.12531620516386305}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.1326782643133357}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.1326782643133357}
+{"source_col": "GEO", "gt_target": null, "predicted_target": "Technology", "confidence": 0.022738181014543488}
+{"source_col": "WRI", "gt_target": null, "predicted_target": "Set", "confidence": 0.022738181014543488}
+{"source_col": "avg_annual_generation_GWh", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.023366410061965152}
+{"source_col": "pumping_MW", "gt_target": null, "predicted_target": "projectID", "confidence": 0.030591044107314364}
+{"source_col": "pypsa_id", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.022738181014543488}
+{"source_col": "EinheitMastrNummer", "gt_target": "projectID", "predicted_target": "EIC", "confidence": 0.016887048777124398}
+{"source_col": "NameKraftwerk", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.07806206356420572}
+{"source_col": "Land", "gt_target": "Country", "predicted_target": "Grid", "confidence": 0.037987521791919825}
+{"source_col": "Nettonennleistung", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.01394279672854829}
+{"source_col": "Inbetriebnahmedatum", "gt_target": "DateIn", "predicted_target": "Country", "confidence": 0.01394279672854829}
+{"source_col": "DatumEndgueltigeStilllegung", "gt_target": "DateOut", "predicted_target": "DateRetrofit", "confidence": 0.03304503913261258}
+{"source_col": "Laengengrad", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.01394279672854829}
+{"source_col": "Breitengrad", "gt_target": "lat", "predicted_target": null, "confidence": 0.0}
+{"source_col": "StorageCapacity_MWh", "gt_target": "StorageCapacity_MWh", "predicted_target": "StorageCapacity_MWh", "confidence": 0.11012169698203444}
+{"source_col": "Technologie", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.08548082171048015}
+{"source_col": "Energietraeger", "gt_target": "Fueltype", "predicted_target": "Efficiency", "confidence": 0.018849883476175135}
+{"source_col": "ArtDerWasserkraftanlage", "gt_target": null, "predicted_target": "lat", "confidence": 0.029972613437462648}
+{"source_col": "Batterietechnologie", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Biomasseart", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "DatumBeginnVoruebergehendeStilllegung", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.03139748603381059}
+{"source_col": "DatumWiederaufnahmeBetrieb", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.026125457427323202}
+{"source_col": "EinheitBetriebsstatus", "gt_target": null, "predicted_target": "projectID", "confidence": 0.020812718175225873}
+{"source_col": "Filesuffix", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Gemeinde", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.025965159260234058}
+{"source_col": "GeplantesInbetriebnahmedatum", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Hauptbrennstoff", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "KwkMastrNummer", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Lage", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.029972613437462648}
+{"source_col": "Landkreis", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "NameKraftwerksblock", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.022492032306635948}
+{"source_col": "NameStromerzeugungseinheit", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "NameWindpark", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "Ort", "gt_target": null, "predicted_target": "Set", "confidence": 0.046002430146377005}
+{"source_col": "Postleitzahl", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "ThermischeNutzleistung", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.09980403606125736}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.09980403606125736}
+{"source_col": "energy_source", "gt_target": "Fueltype", "predicted_target": "EIC", "confidence": 0.011135254481488326}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.0871370672641475}
+{"source_col": "capacity_net_bnetza", "gt_target": "Capacity", "predicted_target": "Set", "confidence": 0.040691515008078}
+{"source_col": "commissioned", "gt_target": "DateIn", "predicted_target": null, "confidence": 0.0}
+{"source_col": "retrofit", "gt_target": "DateRetrofit", "predicted_target": "DateRetrofit", "confidence": 0.06285871040302027}
+{"source_col": "shutdown", "gt_target": "DateOut", "predicted_target": null, "confidence": 0.0}
+{"source_col": "efficiency_estimate", "gt_target": "Efficiency", "predicted_target": "Efficiency", "confidence": 0.06433652342934974}
+{"source_col": "eic_code_plant", "gt_target": "EIC", "predicted_target": "DateOut", "confidence": 0.024258234155294142}
+{"source_col": "chp", "gt_target": "Set", "predicted_target": null, "confidence": 0.0}
+{"source_col": "id", "gt_target": "projectID", "predicted_target": "Grid", "confidence": 0.033302449876430586}
+{"source_col": "technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.09093715790328046}
+{"source_col": "name_bnetza", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.05546964527137284}
+{"source_col": "block_bnetza", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "capacity_gross_uba", "gt_target": null, "predicted_target": "Capacity", "confidence": 0.04992784642263727}
+{"source_col": "chp_capacity_uba", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.033302449876430586}
+{"source_col": "city", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "comment", "gt_target": null, "predicted_target": "projectID", "confidence": 0.019579900346228234}
+{"source_col": "commissioned_original", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "company", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "eeg", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "efficiency_data", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "efficiency_source", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "eic_code_block", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "energy_source_level_1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "energy_source_level_2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "energy_source_level_3", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.040691515008078}
+{"source_col": "merge_comment", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "name_uba", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "network_node", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "network_operator", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "postcode", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "state", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.03950926458701442}
+{"source_col": "status", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "street", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.018524319613135744}
+{"source_col": "type", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.033302449876430586}
+{"source_col": "voltage", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.11984306531685116}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.11984306531685116}
+{"source_col": "energy_source", "gt_target": "Fueltype", "predicted_target": "DateRetrofit", "confidence": 0.0236797976383308}
+{"source_col": "commissioned", "gt_target": "DateIn", "predicted_target": "Grid", "confidence": 0.020851466236021382}
+{"source_col": "eic_code", "gt_target": "EIC", "predicted_target": "DateOut", "confidence": 0.030750626144104357}
+{"source_col": "chp", "gt_target": "Set", "predicted_target": "EIC", "confidence": 0.01802313483371196}
+{"source_col": "name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.09438808269606634}
+{"source_col": "capacity", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.10711557400645877}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.10529736096211699}
+{"source_col": "technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.10966107226853723}
+{"source_col": "additional_info", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "city", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.02820512788202588}
+{"source_col": "comment", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.024257008128598028}
+{"source_col": "company", "gt_target": null, "predicted_target": "Efficiency", "confidence": 0.0251505299675317}
+{"source_col": "energy_source_level_1", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "energy_source_level_2", "gt_target": null, "predicted_target": null, "confidence": 0.0}
+{"source_col": "energy_source_level_3", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.051963111661425025}
+{"source_col": "postcode", "gt_target": null, "predicted_target": "projectID", "confidence": 0.025447504764774188}
+{"source_col": "source", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.025565351906537078}
+{"source_col": "street", "gt_target": null, "predicted_target": "Set", "confidence": 0.03499312324756849}
+{"source_col": "type", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.043478117454496756}
+{"source_col": "energy_source_level_2", "gt_target": "Fueltype", "predicted_target": "Fueltype", "confidence": 0.026265216766270152}
+{"source_col": "technology", "gt_target": "Technology", "predicted_target": "Technology", "confidence": 0.12139265313483284}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.11666582399850672}
+{"source_col": "electrical_capacity", "gt_target": "Capacity", "predicted_target": "Capacity", "confidence": 0.0864666378497567}
+{"source_col": "municipality", "gt_target": "Name", "predicted_target": "Efficiency", "confidence": 0.029788455150290997}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.13242192111959372}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.13242192111959372}
+{"source_col": "commissioning_date", "gt_target": "DateIn", "predicted_target": "DateRetrofit", "confidence": 0.06348899621483815}
+{"source_col": "as_of_year", "gt_target": null, "predicted_target": "Set", "confidence": 0.02212924127198482}
+{"source_col": "data_source", "gt_target": null, "predicted_target": "Name", "confidence": 0.030299069408844737}
+{"source_col": "energy_source_level_1", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.028090532481860365}
+{"source_col": "energy_source_level_3", "gt_target": null, "predicted_target": "DateOut", "confidence": 0.026214155340414783}
+{"source_col": "geographical_resolution", "gt_target": null, "predicted_target": "EIC", "confidence": 0.02212924127198482}
+{"source_col": "nuts_1_region", "gt_target": null, "predicted_target": "DateIn", "confidence": 0.024580189713042797}
+{"source_col": "nuts_2_region", "gt_target": null, "predicted_target": "projectID", "confidence": 0.02212924127198482}
+{"source_col": "nuts_3_region", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.05889346788785444}
+{"source_col": "Net performance MW", "gt_target": "Capacity", "predicted_target": "Set", "confidence": 0.06305876694467155}
+{"source_col": "country", "gt_target": "Country", "predicted_target": "Country", "confidence": 0.12367590089686234}
+{"source_col": "decommission_year", "gt_target": "DateOut", "predicted_target": "Technology", "confidence": 0.024484227156913785}
+{"source_col": "commission_year", "gt_target": "DateIn", "predicted_target": "DateIn", "confidence": 0.02564146335054651}
+{"source_col": "Name", "gt_target": "Name", "predicted_target": "Name", "confidence": 0.14020784652018708}
+{"source_col": "lat", "gt_target": "lat", "predicted_target": "lat", "confidence": 0.14020784652018708}
+{"source_col": "lon", "gt_target": "lon", "predicted_target": "lon", "confidence": 0.14020784652018708}
+{"source_col": "Block", "gt_target": null, "predicted_target": "Fueltype", "confidence": 0.024484227156913785}
+{"source_col": "Commissioning (planned)", "gt_target": null, "predicted_target": "Grid", "confidence": 0.03078211120389464}
+{"source_col": "Gross performance MW", "gt_target": null, "predicted_target": "Volume_Mm3", "confidence": 0.04568428414770627}
+{"source_col": "Reactor", "gt_target": null, "predicted_target": "DateRetrofit", "confidence": 0.041360588314057804}
+{"source_col": "Shutdown (planned)", "gt_target": null, "predicted_target": "projectID", "confidence": 0.032750199968576164}
+{"source_col": "Sleepment [11] (TWH)", "gt_target": null, "predicted_target": "DamHeight_m", "confidence": 0.027341600474525468}
+{"source_col": "Status", "gt_target": null, "predicted_target": "StorageCapacity_MWh", "confidence": 0.03582041844147933}
