@@ -44,8 +44,7 @@ def main() -> None:
              [f"MCC {C.SHORT[d]}" for d in C.DATASETS]
     md = ["# Table 2 — Baseline matching quality (tau=0, primary condition)",
           "",
-          f"Models: {len(rows)} (phi-4 excluded unless REPRO_INCLUDE_PHI4=1). "
-          "`*` = best per column (before rounding).",
+          f"Models: {len(rows)}. `*` = best per column (before rounding).",
           "",
           "| " + " | ".join(header) + " |",
           "|" + "---|" * len(header)]

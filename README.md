@@ -6,10 +6,10 @@ False-Positive Rejection Thresholds in LLM-Based Schema Matching"*.
 
 It contains **all code, all prompts, and all pre-computed scores** of the
 study: the exact prompt messages, every raw model response, and the
-per-column decisions with their verbalized confidence, for 9 models x
-4 datasets. The paper's primary condition is published complete for all
-36 (model, dataset) pairs; the wider 16-condition prompt grid is published
-as run (323 of 576 cells — complete on OC3-FO, no-CoT conditions elsewhere;
+per-column decisions with their verbalized confidence, for the paper's
+8 models x 4 datasets. The primary condition is published complete for all
+32 (model, dataset) pairs; the wider 16-condition prompt grid is published
+as run (287 of 512 cells — complete on OC3-FO, no-CoT conditions elsewhere;
 exact coverage per cell in `outputs/grid_robustness.md`). Tasks where all
 model calls failed write no per-column decisions by design (≈0.3% of tasks,
 logged in `records.jsonl.gz`).
@@ -191,13 +191,11 @@ stability table reads the per-run scores from `records.jsonl.gz`):
 
 ## Models
 
-Nine open-weight models are bundled in the logs (Gemma-3 4/12/27B,
-Gemma-4-31B, Qwen3 8/14/32B, Llama-3.3-70B, Phi-4), accessed through
-OpenRouter. **The paper analyses M=8: phi-4 is excluded** as a
-calibration/format outlier (worst-calibrated confidence; frequent grounding
-failures on some grid cells). Its logs are published in full so the exclusion
-is auditable — set `REPRO_INCLUDE_PHI4=1` to re-include it in every analysis
-script.
+The paper's eight open-weight models are bundled in the logs — Gemma-3
+4/12/27B, Gemma-4-31B, Qwen3 8/14/32B, and Llama-3.3-70B — accessed through
+OpenRouter (`matcher/config.py` holds the exact model ids and per-MTok
+prices). The analysis discovers the model set from the run directories, so a
+custom re-run with a different model list is analysed the same way.
 
 ## Datasets
 

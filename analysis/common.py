@@ -14,11 +14,8 @@ A wrong kept match on a column that HAS a gt match counts as BOTH fp and fn.
 
 Data source: the published logs in runs/ by default (gzipped); set the env var
 REPRO_RUNS_DIR (or pass --runs-dir where offered) to point at a fresh re-run
-(e.g. the results/ directory produced by matcher.runner).
-
-The paper reports M=8 models; phi-4 is excluded from the analysis as a
-calibration outlier but its logs ship in runs/ — set REPRO_INCLUDE_PHI4=1 to
-include it.
+(e.g. the results/ directory produced by matcher.runner). The model set is
+discovered from the run directories (the paper's M=8).
 """
 from __future__ import annotations
 
@@ -48,8 +45,6 @@ FIG_DIR = REPO_ROOT / "figures"
 DATASETS = ["ppmatch", "valentine", "hdxsm", "oc3-fo"]
 SHORT = {"ppmatch": "ppm", "valentine": "val", "hdxsm": "hdx", "oc3-fo": "oc3"}
 
-EXCLUDE_MODELS = set() if os.environ.get("REPRO_INCLUDE_PHI4") else {"phi-4"}
-
 # The paper's primary prompt condition (zero-shot, no values, no CoT, greedy)
 # and the self-consistency condition used for the stability analysis.
 CELL_PRIMARY = "valsoff__shot0__nocot__t0.0__sc1__scopeoff"
@@ -59,11 +54,10 @@ THRESHOLDS = [round(t, 1) for t in np.arange(0.0, 10.01, 0.5)]
 
 
 def models() -> list[str]:
-    """Model names discovered in the runs dir, minus the excluded set."""
+    """Model names discovered in the runs dir."""
     if not RUNS_DIR.is_dir():
         raise SystemExit(f"runs directory not found: {RUNS_DIR}")
-    return sorted(p.name for p in RUNS_DIR.iterdir()
-                  if p.is_dir() and p.name not in EXCLUDE_MODELS)
+    return sorted(p.name for p in RUNS_DIR.iterdir() if p.is_dir())
 
 
 def _open_maybe_gz(base: Path):

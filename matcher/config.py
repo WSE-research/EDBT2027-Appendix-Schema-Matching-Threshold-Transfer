@@ -33,17 +33,15 @@ RESULTS_DIR = REPO_ROOT / "results"                     # fresh re-runs land her
 LOG_DIR = REPO_ROOT / "logs"
 
 # --------------------------------------------------------------------------
-# Models under test (OpenRouter ids). Nine open-weight, dense models; the
-# paper reports eight (phi-4 is excluded from the analysis as a calibration
-# outlier — its logs are still published in runs/). Cost is read from the API
-# response when available; price_in/price_out are a fallback estimate ($/MTok).
+# Models under test (OpenRouter ids): the paper's eight open-weight, dense
+# models (three families, 4B-70B). Cost is read from the API response when
+# available; price_in/price_out are a fallback estimate ($/MTok).
 # --------------------------------------------------------------------------
 MODELS = [
     {"name": "gemma-3-4b",    "id": "google/gemma-3-4b-it",            "price_in": 0.04, "price_out": 0.08},
     {"name": "gemma-3-12b",   "id": "google/gemma-3-12b-it",           "price_in": 0.04, "price_out": 0.13},
     {"name": "gemma-3-27b",   "id": "google/gemma-3-27b-it",           "price_in": 0.08, "price_out": 0.16},
     {"name": "gemma-4-31b",   "id": "google/gemma-4-31b-it",           "price_in": 0.14, "price_out": 0.40},
-    {"name": "phi-4",         "id": "microsoft/phi-4",                 "price_in": 0.07, "price_out": 0.14},
     {"name": "qwen3-8b",      "id": "qwen/qwen3-8b",                   "price_in": 0.05, "price_out": 0.40},
     {"name": "qwen3-14b",     "id": "qwen/qwen3-14b",                  "price_in": 0.06, "price_out": 0.24},
     {"name": "qwen3-32b",     "id": "qwen/qwen3-32b",                  "price_in": 0.08, "price_out": 0.24},

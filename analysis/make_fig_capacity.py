@@ -29,7 +29,7 @@ def per_model_gain() -> dict:
     """model -> dict(params, fam, dorc = ΔMCC oracle−τ0 per dataset (array/4))."""
     out = {}
     for m in C.models():
-        if m not in FAM:        # e.g. phi-4 when included via env — no family slot
+        if m not in FAM:        # unknown model from a custom re-run — no family slot
             continue
         dorc = []
         for d in C.DATASETS:
