@@ -83,6 +83,25 @@ def main() -> None:
         pts = ", ".join(f"{int(b)}B {g:+.2f}" for b, g in zip(x, y))
         print(f"  ΔMCC(oracle−τ0) {fam}: {pts}")
 
+    # per-model raw values (promised by the Figure-2 caption)
+    md = ["# Capacity trend — per-model raw values (Figure 2)", "",
+          "ΔMCC = MCC at the in-dataset MCC-optimal threshold minus MCC at "
+          "τ=0, per dataset; mean±std over the four datasets is what Figure 2 "
+          "plots.", "",
+          "| Model | Family | Params (B) | " +
+          " | ".join(f"ΔMCC {C.SHORT[d]}" for d in C.DATASETS) +
+          " | mean | std |",
+          "|---|---|---|" + "---|" * (len(C.DATASETS) + 2)]
+    for m in sorted(data, key=lambda m: (data[m]["fam"], data[m]["params"])):
+        d = data[m]
+        md.append(f"| {m} | {d['fam']} | {d['params']} | " +
+                  " | ".join(f"{v:+.3f}" for v in d["dorc"]) +
+                  f" | {d['dorc'].mean():+.3f} | {d['dorc'].std():.3f} |")
+    C.OUT_DIR.mkdir(exist_ok=True)
+    (C.OUT_DIR / "capacity_per_model.md").write_text("\n".join(md) + "\n",
+                                                     encoding="utf-8")
+    print(f"  wrote {C.OUT_DIR / 'capacity_per_model.md'}")
+
 
 if __name__ == "__main__":
     main()

@@ -65,7 +65,7 @@ def per_model_tau() -> None:
     md += ["", f"{degenerate} of the {len(M) * len(C.DATASETS)} (model, dataset) "
               "pairs degenerate to tau*=0."]
     w("per_model_tau.md", md)
-    print("   medians:", {C.SHORT[d]: statistics.median(taus[d]) for d in C.DATASETS})
+    print("   medians:", {C.SHORT[d]: float(statistics.median(taus[d])) for d in C.DATASETS})
 
 
 # ── 2. calibration in-text numbers ──────────────────────────────────────────
@@ -93,14 +93,15 @@ def sc_stability() -> None:
     md = ["# Self-consistency score stability "
           f"(cell {C.CELL_SC}, {len(M)} models)", "",
           "Identical-decision cases = (task, source) pairs where all three "
-          "temp-0.7 runs choose the same target.", "",
+          "temp-0.7 runs choose the same target. The last column reads the "
+          "spread only among confidence-10 cases (mean score ≥ 9.5).", "",
           "| Dataset | N identical-decision | % identical score | mean spread | "
-          "median | P90 |",
-          "|---|---|---|---|---|---|"]
+          "median | P90 | mean spread @conf10 |",
+          "|---|---|---|---|---|---|---|"]
     total_n = total_zero = 0
     pooled = []
     for d in C.DATASETS:
-        ranges = []
+        ranges, means = [], []
         for m in M:
             for r in C.iter_records(m, d, C.CELL_SC):
                 if int(r.get("n_valid_runs", 0)) != 3:
@@ -116,15 +117,19 @@ def sc_stability() -> None:
                         continue   # decision differs -> not an identical-decision case
                     sc = [float(maps[i][s][1]) for i in range(3)]
                     ranges.append(max(sc) - min(sc))
+                    means.append(sum(sc) / 3)
         a = np.array(ranges)
         if len(a) == 0:
-            md.append(f"| {C.SHORT[d]} | (no SC data) | | | | |")
+            md.append(f"| {C.SHORT[d]} | (no SC data) | | | | | |")
             continue
+        mm = np.array(means)
+        hi = a[mm >= 9.5]
         total_n += len(a)
         total_zero += int(np.sum(a == 0))
         pooled.append(a)
         md.append(f"| {C.SHORT[d]} | {len(a)} | {100 * np.mean(a == 0):.1f}% | "
-                  f"{a.mean():.2f} | {np.median(a):.1f} | {np.percentile(a, 90):.1f} |")
+                  f"{a.mean():.2f} | {np.median(a):.1f} | {np.percentile(a, 90):.1f} | "
+                  f"{hi.mean():.3f} (n={len(hi)}) |")
     if total_n:
         allr = np.concatenate(pooled)
         md += ["", f"Pooled: N={total_n}, identical score in all three runs = "
@@ -180,22 +185,24 @@ def oc3_distractor_check() -> None:
 # ── 5. classical (non-LLM) baselines ────────────────────────────────────────
 
 def classical_baselines() -> None:
+    if not BASELINES.is_dir():
+        # keep the committed table instead of overwriting it with an empty stub
+        print("WARNING: baselines/results not found — keeping the committed "
+              "outputs/classical_baselines.md untouched.")
+        return
     md = ["# Non-LLM baselines (schema-name input, bipartite assignment)", "",
           "Each method is granted its own best per-dataset threshold, per metric "
           "(`F1 @ F1-oracle`, `MCC @ MCC-oracle`) — the comparison of §5.1.", "",
           "| Method | Dataset | F1 @ tau0 | F1 @ F1-oracle | MCC @ MCC-oracle |",
           "|---|---|---|---|---|"]
-    if not BASELINES.is_dir():
-        md.append("| (baselines/results not present) | | | | |")
-    else:
-        for method in sorted(p.name for p in BASELINES.iterdir() if p.is_dir()):
-            for d in C.DATASETS:
-                f = BASELINES / method / d / "metrics.json"
-                if not f.exists():
-                    continue
-                j = json.loads(f.read_text(encoding="utf-8"))
-                md.append(f"| {method} | {C.SHORT[d]} | {j['tau0']['F1']:.2f} | "
-                          f"{j['best_f1']['F1']:.2f} | {j['best_mcc']['MCC']:.2f} |")
+    for method in sorted(p.name for p in BASELINES.iterdir() if p.is_dir()):
+        for d in C.DATASETS:
+            f = BASELINES / method / d / "metrics.json"
+            if not f.exists():
+                continue
+            j = json.loads(f.read_text(encoding="utf-8"))
+            md.append(f"| {method} | {C.SHORT[d]} | {j['tau0']['F1']:.2f} | "
+                      f"{j['best_f1']['F1']:.2f} | {j['best_mcc']['MCC']:.2f} |")
     w("classical_baselines.md", md)
 
 

@@ -38,6 +38,7 @@ def main() -> None:
     md.append("|" + "---|" * len(hdr))
 
     tex = ["% Table 3 (tab:operating-point) rows — regenerated with the paper's cell macros",
+           "% (two-decimal cells, matching the manuscript's rendering)",
            "% \\bcell{v}{s} (tau0)  \\ocell{v}{s}{d} (oracle diag)  \\gcell/\\rcell{v}{s}{d}",
            "% (better/worse MCC)  \\zcell{v}{s} (delta rounds to 0)",
            "% \\aeb{v}{s} (tau0 AE)  \\aeo{v}{s}{d} (oracle AE)  \\aed{v}{s}{d} (AE down=better)"]

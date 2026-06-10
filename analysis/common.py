@@ -26,10 +26,19 @@ import gzip
 import json
 import math
 import os
+import sys
 from functools import lru_cache
 from pathlib import Path
 
 import numpy as np
+
+# Console output contains Unicode (Δ, τ, ±). On Windows a redirected stdout
+# defaults to a legacy codepage and would crash — force UTF-8, lossily if needed.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 RUNS_DIR = Path(os.environ.get("REPRO_RUNS_DIR", REPO_ROOT / "runs"))
