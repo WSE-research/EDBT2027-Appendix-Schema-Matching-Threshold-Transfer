@@ -7,13 +7,13 @@ False-Positive Rejection Thresholds in LLM-Based Schema Matching"*.
 It contains **all code, all prompts, and all pre-computed scores** of the
 study: the exact prompt messages, every raw model response, and the
 per-column decisions with their verbalized confidence, for the paper's
-8 models x 4 datasets. The primary condition — the basis of every number in the paper —
-is published complete for all 32 (model, dataset) pairs. The wider
-16-condition prompt grid is a robustness extra and is published as run
-(287 of 512 cells): it was executed in full on OC3-FO (the hardest, decisive
-benchmark) and for the cheaper no-CoT conditions elsewhere; the expensive
-CoT conditions were not extended to the three large datasets after proving
-~neutral on OC3-FO (exact per-cell coverage in `outputs/grid_robustness.md`).
+8 models x 4 datasets. The primary condition — the basis of every number in
+the paper — is published complete for all 32 (model, dataset) pairs. The
+wider 16-condition prompt grid is a robustness extra, published exactly as
+far as it was executed (287 of 512 cells): in full on OC3-FO (the hardest,
+decisive benchmark) and for the cheaper no-CoT conditions elsewhere; the
+expensive CoT conditions were not extended to the three large datasets after
+proving ~neutral on OC3-FO (per-cell coverage in `outputs/grid_robustness.md`).
 Tasks where all model calls failed write no per-column decisions by design
 (≈0.3% of tasks, logged in `records.jsonl.gz`).
 
@@ -21,7 +21,7 @@ There are two independent ways to use it:
 
 | | What you get | Needs |
 |---|---|---|
-| **Path A — reproduce the statistics** | every table & figure of the paper, regenerated from the published logs in `runs/` | Python only — **no API key, no cost, ~1 minute** |
+| **Path A — reproduce the statistics** | every table & figure of the paper, regenerated from the published logs in `runs/` | Python only — **no API key, no cost, ~20 seconds** |
 | **Path B — reproduce the LLM calls** | fresh model responses via OpenRouter, written to `results/` in the same format | an OpenRouter API key (`.env`) |
 
 ## Layout
@@ -53,7 +53,7 @@ Python ≥ 3.10 (tested on 3.11):
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate            # Windows    (Linux/macOS: source .venv/bin/activate)
+source .venv/bin/activate         # Linux/macOS   (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 ```
 
@@ -79,7 +79,7 @@ which is not in requirements.txt). This reads only `runs/` and writes:
 | self-consistency score-stability tables | §5.2 | `outputs/sc_stability.md` |
 | OC3-FO distractor-removal robustness check | §5.2 | `outputs/oc3_distractor_check.md` |
 | classical-matcher comparison (COMA, Sim. Flooding) | §5.1 | `outputs/classical_baselines.md` |
-| robustness across the full 16-condition prompt grid | §4 | `outputs/grid_robustness.md` |
+| robustness across the 16-condition prompt grid (+ coverage) | §4 | `outputs/grid_robustness.md` |
 
 Each script also runs standalone, e.g. `python -m analysis.make_table3_operating_point`.
 
