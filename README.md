@@ -10,10 +10,8 @@ per-column decisions with their verbalized confidence, for the paper's
 8 models x 4 datasets. The primary condition — the basis of every number in
 the paper — is published complete for all 32 (model, dataset) pairs. The
 wider 16-condition prompt grid is a robustness extra, published exactly as
-far as it was executed (287 of 512 cells): in full on OC3-FO (the hardest,
-decisive benchmark) and for the cheaper no-CoT conditions elsewhere; the
-expensive CoT conditions were not extended to the three large datasets after
-proving ~neutral on OC3-FO (per-cell coverage in `outputs/grid_robustness.md`).
+far as it was executed (287 of 512 cells — complete on OC3-FO, the hardest
+benchmark; per-cell coverage and rationale in `outputs/grid_robustness.md`).
 Tasks where all model calls failed write no per-column decisions by design
 (≈0.3% of tasks, logged in `records.jsonl.gz`).
 

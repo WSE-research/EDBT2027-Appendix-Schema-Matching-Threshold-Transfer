@@ -2,7 +2,7 @@
 
 Per cell: coverage (model x dataset units published) and, over the covered units, mean F1 and MCC at tau=0 and the mean oracle-MCC gain.
 
-Coverage rationale: the paper's evidence rests entirely on the primary condition (complete, 32/32). The wider grid is a robustness check — executed in full on OC3-FO, the hardest benchmark, and for the cheaper no-CoT conditions on the three larger datasets; the expensive CoT conditions were not extended beyond OC3-FO after proving ~neutral there (the +0.10 oracle-gain rows below are the OC3-FO-only cells, where threshold gains are largest).
+Coverage rationale: the paper's evidence rests entirely on the primary condition (complete, 32/32). The wider grid is a robustness check, run in full on OC3-FO (the hardest benchmark) and for the lighter half of the grid on the three larger datasets; the chain-of-thought conditions proved ~neutral on OC3-FO and were not extended further. Cells covering only OC3-FO show higher mean oracle gains simply because threshold gains are largest there.
 
 | Cell | Coverage | mean F1@0 | mean MCC@0 | mean ΔMCC(oracle−τ0) |
 |---|---|---|---|---|
