@@ -117,6 +117,7 @@ What `python reproduce.py` regenerates:
 
 | Artifact | Paper | Output |
 |---|---|---|
+| Table 1 — the four measured benchmark properties, plus Valentine's name-corruption stress test and the task-level rank correlations | §4, §5.3 | `results/tables/characterization.json` |
 | Table 2 — baseline F1/MCC at τ=0, per model x dataset | §5.1 | `results/tables/table2_baseline.{md,tex}` |
 | Table 3 — transfer matrix: MCC + accept-error at the source's MCC-optimal cutoff, mean±std, Δ vs τ=0 | §5.3 | `results/tables/table3_operating_point.{md,tex}` |
 | Figure 1 — confidence calibration | §5.2 | `results/plots/fig2_calibration.{pdf,png}` (file name is historical — this is the paper's **Figure 1**) |

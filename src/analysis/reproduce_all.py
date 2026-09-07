@@ -9,11 +9,13 @@ from __future__ import annotations
 
 import time
 
-from . import (make_fig_calibration, make_fig_capacity, make_supplementary,
-               make_table2_baseline, make_table3_operating_point)
+from . import (make_characterization, make_fig_calibration, make_fig_capacity,
+               make_supplementary, make_table2_baseline, make_table3_operating_point)
 from . import common as C
 
 STEPS = [
+    ("Table 1  — benchmark characterization + perturbation stress test",
+     make_characterization.main),
     ("Table 2  — baseline F1/MCC at tau=0", make_table2_baseline.main),
     ("Table 3  — operating-point transfer matrix", make_table3_operating_point.main),
     ("Figure 1 — confidence calibration", make_fig_calibration.main),
