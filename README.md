@@ -148,7 +148,7 @@ See `data/DATASETS.md` for provenance, licenses, the Valentine slim-copy note
 
 **LLMs — open-weight (8):** Gemma-3-4B, Gemma-3-12B, Gemma-3-27B, Gemma-4-31B,
 Qwen3-8B, Qwen3-14B, Qwen3-32B, Llama-3.3-70B — accessed through OpenRouter
-(`src/matcher/config.py` holds the exact model ids and per-MTok prices).
+(`src/matcher/config.py` holds the exact model IDs and per-MTok prices).
 The analysis discovers the model set from the run directories, so a custom
 re-run with a different model list is analysed the same way.
 
@@ -207,7 +207,7 @@ and `best_mcc` operating points over the similarity-threshold sweep.
 ## Evaluation Conventions
 
 - Decisions are per source column: predicted target or abstain; confidence on
-  the native 0–10 scale. At threshold τ a prediction is kept iff
+  the native 0–10 scale. At threshold τ, a prediction is kept iff
   `confidence ≥ τ`. A wrong kept match on a column that has a true match
   counts as both FP and FN. Accept-error = FP / (TP+FP) = 1 − precision.
 - Model output names are grounded to schema columns by strict
@@ -224,7 +224,7 @@ and `best_mcc` operating points over the similarity-threshold sweep.
   per-column decisions by design (≈0.3% of tasks, logged in
   `records.jsonl.gz`).
 - **`run_meta.json` totals** reflect only the last runner invocation of a
-  cell — for runs completed across several resumes they read ≈0; per-call
+  cell — for runs completed across several resumes, they read ≈0; per-call
   usage in `records.jsonl.gz` is complete and authoritative. Two
   self-consistency cells were interrupted before their final metrics pass and
   ship without `metrics.json`/`run_meta.json` (records + predictions are
