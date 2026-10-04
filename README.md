@@ -1,7 +1,7 @@
 # Replication Package: Calibrate Once, Match Everywhere? Cross-Dataset Transfer of False-Positive Rejection Thresholds in LLM-Based Schema Matching
 
 This repository contains the complete replication package for the short paper
-submitted to EDBT 2027. All experiment results are included — every table and
+accepted at EDBT 2027 (Lille, 6-9 April 2027). All experiment results are included — every table and
 figure of the paper can be regenerated **without API access**: the published
 logs hold the exact prompt messages, every raw model response, and the
 per-column decisions with their verbalized confidence, for the paper's
@@ -229,6 +229,25 @@ and `best_mcc` operating points over the similarity-threshold sweep.
   self-consistency cells were interrupted before their final metrics pass and
   ship without `metrics.json`/`run_meta.json` (records + predictions are
   complete there too).
+
+## Citation
+
+If you use this package, please cite the paper:
+
+```bibtex
+@inproceedings{kunze2027calibrate,
+  author    = {Kunze, Jonas and Both, Andreas},
+  title     = {Calibrate Once, Match Everywhere? Cross-Dataset Transfer of
+               False-Positive Rejection Thresholds in LLM-Based Schema Matching},
+  booktitle = {Proceedings of the 30th International Conference on Extending
+               Database Technology (EDBT)},
+  year      = {2027},
+  publisher = {OpenProceedings.org}
+}
+```
+
+Page numbers and the DOI follow with the proceedings. `CITATION.cff` holds
+the same entry for GitHub's "Cite this repository" button.
 
 ## License
 
