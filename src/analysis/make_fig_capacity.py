@@ -51,30 +51,35 @@ def fam_series(data: dict, fam: str):
 
 def main() -> None:
     data = per_model_gain()
-    # slightly smaller fonts than the global style (column-width figure)
-    with plt.rc_context({"axes.labelsize": 8.5, "xtick.labelsize": 7.5,
-                         "ytick.labelsize": 7.5, "legend.fontsize": 7.5}):
-        fig, ax = plt.subplots(figsize=(3.6, 2.15))
+    # Printed size: the paper includes this figure at 0.72 columnwidth of the A4
+    # EDBT template (column 232.75 pt), so it is built at exactly that width
+    # and prints at scale 1.0 with 7-7.5 pt text.
+    width_in = 0.72 * (489.50787 - 24) / 2 / 72.27
+    with plt.rc_context({"font.size": 7.5, "axes.labelsize": 7.5, "xtick.labelsize": 7,
+                         "ytick.labelsize": 7, "legend.fontsize": 7}):
+        fig, ax = plt.subplots(figsize=(width_in, 1.36))
         for fam in MULTI:
             x, y, e = fam_series(data, fam)
             c = FAMCOL[fam]
-            ax.plot(x, y, "-o", color=c, label=fam, lw=1.8, ms=5, zorder=3)
+            ax.plot(x, y, "-o", color=c, label=fam, lw=1.5, ms=3.5, zorder=3)
             ax.fill_between(x, y - e, y + e, color=c, alpha=0.18, zorder=1)
         for fam in SINGLE:
             x, y, e = fam_series(data, fam)
-            ax.errorbar(x, y, yerr=e, fmt="D", color=FAMCOL[fam], ms=6,
-                        capsize=3, label=fam, zorder=3)
+            ax.errorbar(x, y, yerr=e, fmt="D", color=FAMCOL[fam], ms=4,
+                        capsize=2, elinewidth=1, label=fam, zorder=3)
         ax.set_xscale("log")
         ax.set_xticks([4, 8, 12, 27, 70])
         ax.set_xticklabels(["4", "8", "12", "27", "70"])
         ax.minorticks_off()
         ax.grid(True, **ps.GRID_KW)
         ax.axhline(0, color="black", lw=0.8, alpha=0.6)
-        ax.set_xlabel("Model size (B params, log)")
+        ax.set_xlabel("model size (B params, log)")
         ax.set_ylabel(r"$\Delta$MCC (oracle $-$ $\tau{=}0$)")
         for s in ("top", "right"):
             ax.spines[s].set_visible(False)
-        ax.legend(frameon=False, loc="upper right")
+        ax.legend(frameon=False, loc="upper right", handlelength=1.4,
+                  borderaxespad=0.2, labelspacing=0.3)
+        fig.tight_layout(pad=0.3)
         ps.save(fig, C.FIG_DIR, "fig_capacity_trend")
 
     # console digest of the in-text numbers (§5.4 capacity claims)
