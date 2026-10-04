@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper below."
+title: "Replication package: Calibrate Once, Match Everywhere?"
+type: software
+license: MIT
+repository-code: "https://github.com/WSE-research/EDBT2027-Appendix-Schema-Matching-Threshold-Transfer"
+authors:
+  - family-names: Kunze
+    given-names: Jonas
+    orcid: "https://orcid.org/0009-0000-0186-2620"
+    affiliation: "Leipzig University of Applied Sciences (HTWK Leipzig)"
+  - family-names: Both
+    given-names: Andreas
+    orcid: "https://orcid.org/0000-0002-9177-5463"
+    affiliation: "Leipzig University of Applied Sciences (HTWK Leipzig)"
+preferred-citation:
+  type: conference-paper
+  title: "Calibrate Once, Match Everywhere? Cross-Dataset Transfer of False-Positive Rejection Thresholds in LLM-Based Schema Matching"
+  authors:
+    - family-names: Kunze
+      given-names: Jonas
+      orcid: "https://orcid.org/0009-0000-0186-2620"
+    - family-names: Both
+      given-names: Andreas
+      orcid: "https://orcid.org/0000-0002-9177-5463"
+  collection-title: "Proceedings of the 30th International Conference on Extending Database Technology (EDBT)"
+  conference:
+    name: "EDBT 2027"
+    city: Lille
+    country: FR
+  publisher:
+    name: OpenProceedings.org
+  year: 2027
