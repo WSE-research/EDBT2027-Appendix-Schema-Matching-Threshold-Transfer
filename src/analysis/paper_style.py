@@ -45,7 +45,7 @@ DATASET_COLORS = {
 }
 
 NICE = {"ppmatch": "PowerPlantBench", "valentine": "Valentine",
-        "hdxsm": "HDX-SM", "oc3-fo": "OC3-FO"}
+        "hdxsm": "HDXSM", "oc3-fo": "OC3-FO"}
 
 
 def save(fig, out_dir: Path, name: str) -> None:
